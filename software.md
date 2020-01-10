@@ -14,13 +14,14 @@ Copy and paste the following two lines of code into the Console window of R Stud
 
 <!-- -->
 
-    pkgs <- c(  "afex", "aplpack", "aplore3", "arm", "babynames", "bestglm", "boot", "car", "cowplot", 
-                "devtools", "Epi", "ez", "faraway", "fivethirtyeight", "gapminder", "gee", "geepack", 
-                "GGally", "ggrepel", "ggridges", "ggthemes", "glue", "gmodels", "gridExtra", "here", "Hmisc", 
-                "HSAUR", "infer", "knitr", "lars", "lattice", "leaps", "lme4", "lmerTest", "lmtest", 
-                "magrittr", "markdown", "MASS", "mice", "mosaic", "multcomp", "NHANES", "nnet", "pander", 
-                "pROC", "pscl", "psych", "pwr", "qcc", "QuantPsyc", "quantreg", "ResourceSelection", 
-                "rmarkdown", "rms", "robustbase", "ROCR", "rstanarm", "sandwich", "simputation", "skimr", 
+    pkgs <- c(  "afex", "aplpack", "aplore3", "arm", "babynames", "bestglm", "boot", "broom", "car", "cowplot",
+                "DataExplorer", "devtools", "Epi", "exact2x2", "ez", "faraway", "fivethirtyeight", "foreign", 
+                "gapminder", "gee", "geepack", "GGally", "ggforce", "ggrepel", "ggridges", "ggthemes", "glue",
+                "gmodels", "gridExtra", "here", "Hmisc", "HSAUR", "infer", "janitor", "kableExtra", "knitr", 
+                "lars", "lattice", "leaps", "lme4", "lmerTest", "lmtest", "magrittr", "markdown", "MASS", "mice", 
+                "mosaic", "multcomp", "naniar", "NHANES", "nnet", "pander", "patchwork", "pROC", "PropCIs", 
+                "pscl", "psych", "pwr", "qcc", "QuantPsyc", "quantreg", "ResourceSelection", "rmarkdown", 
+                "rmdformats", "rms", "robustbase", "ROCR", "rstanarm", "sandwich", "simputation", "skimr", 
                 "spelling", "styler", "survival", "survminer", "tableone", "tidyverse", "usethis", "vcd", 
                 "VGAM", "viridis")
                 
