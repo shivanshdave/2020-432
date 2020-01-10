@@ -13,7 +13,7 @@ Our first class starts at 1 PM on Tuesday 2020-01-14 in E321-323 in the Robbins 
 
 2. **Install the Software**: Install R (version 3.6.2 or later) and RStudio (version 1.2.5033 or later) and some necessary R packages. [Details here](https://github.com/THOMASELOVE/2020-432/blob/master/software.md).
 
-3. Reach me via via email at thomas dot love at case dot edu if you have questions about the course, especially after you review the materials linked on this page.
+3. Reach me via via email at `thomas dot love at case dot edu` if you have questions about the course, especially after you review the materials linked on this page.
 
 4. Be patient with me. Materials will appear on the web in fits and starts between now and the start of class.
 
