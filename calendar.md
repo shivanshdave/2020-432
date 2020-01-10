@@ -3,11 +3,6 @@
 - All classes meet from 1:00 PM to 2:15 PM in room E321-323 in the Robbins building at the School of Medicine.
 - Information on **TA office hours** will appear on the bottom of this page.
 
-# Calendar for 432 in Spring 2019
-
-- All classes meet from 1:00 PM to 2:15 PM in room E321-323 in the Robbins building at the School of Medicine.
-- Information on **TA office hours** is provided at the bottom of this page.
-
 Session | Date | Materials 
 --------: | :-----: | ----------------------------------------------------------------------
 Class 01 | 01-14 | TBA
