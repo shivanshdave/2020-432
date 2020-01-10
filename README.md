@@ -8,9 +8,8 @@ Our first class starts at 1 PM on Tuesday 2020-01-14 in E321-323 in the Robbins 
 
 1. **Buy The Art of Statistics: How to Learn from Data** by David Spiegelhalter. 
     - We'll read the entire book this Spring, but I encourage you to read Chapters 1-5 soon.
-    - The book is available online for less than $25 in hardcover, and less than $20 as an e-book. 
-    - Here's [the book's website](https://dspiegel29.github.io/ArtofStatistics/). Or, if you prefer, the direct [Amazon link](https://www.amazon.com/Art-Statistics-How-Learn-Data/dp/1541618513).
-2. **Install the Software**: Install R (version 3.6.2 or later) and RStudio (version 1.2.5033 or later) and some necessary R packages. [Details here](https://github.com/THOMASELOVE/2020-432/blob/master/software.md).
+    - The book is available online for less than $25 in hardcover, and less than $20 as an e-book. [Amazon link](https://www.amazon.com/Art-Statistics-How-Learn-Data/dp/1541618513).
+    - Here's [the book's website](https://dspiegel29.github.io/ArtofStatistics/) which contains code, corrections and other materials. 2. **Install the Software**: Install R (version 3.6.2 or later) and RStudio (version 1.2.5033 or later) and some necessary R packages. [Details here](https://github.com/THOMASELOVE/2020-432/blob/master/software.md).
 3. Reach me via via email at thomas dot love at case dot edu if you have questions about the course, especially after you review the materials linked on this page.
 4. Be patient with me. Materials will appear on the web in fits and starts between now and the start of class.
 
