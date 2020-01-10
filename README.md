@@ -6,7 +6,7 @@ This will be the public web site for my 432 course in Spring 2020 at Case Wester
 
 Our first class starts at 1 PM on Tuesday 2020-01-14 in E321-323 in the Robbins building at the School of Medicine. Prior to that time,
 
-1. **Buy a required book and start reading it**. Purchase a copy of **The Art of Statistics: How to Learn from Data** by David Spiegelhalter.
+1. **Buy a required book and start reading it**. You need **The Art of Statistics: How to Learn from Data** by David Spiegelhalter.
     - We'll read the entire book through the Spring semester, but I encourage you particularly to read Chapters 1-5 soon. 
     - The book is available online for between $20 and $25 in hardcover, less as an e-book. Here's [the book's website](https://dspiegel29.github.io/ArtofStatistics/).
 2. **Install the Software**: Install R (version 3.6.2 or later) and RStudio (version 1.2.5033 or later) and some necessary R packages. [Details here](https://github.com/THOMASELOVE/2020-432/blob/master/software.md).
