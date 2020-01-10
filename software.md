@@ -10,7 +10,7 @@ The course uses R, R Studio and R Markdown, as were used in 431. Get your softwa
 
 ## R Packages for 432
 
-Copy and paste the following two lines of code into the Console window of R Studio to install the packages you'll need for this course.
+Copy and paste the following lines of code into the Console window of R Studio to install the packages you'll need for this course.
 
 <!-- -->
 
