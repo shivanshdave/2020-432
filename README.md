@@ -7,12 +7,14 @@ Contact me via email at thomas dot love at case dot edu if you have questions ab
 
 ## Materials for 432
 
-- **When will the syllabus, etc. be posted?** I won't guarantee any time before our first class at 1 PM on 2020-01-14, but I'll do what I can to get something up meaningfully sooner. I'd be surprised if anything substantial was up before the New Year.
+- The first draft of (pieces of) [the Course Syllabus](https://thomaselove.github.io/2020-432-syllabus/) is now available for viewing. I would wait until our first class before downloading it as a PDF or Kindle ePub document, as it's not close to being finished yet.
+- The [Course Calendar](https://github.com/THOMASELOVE/2020-432/blob/master/calendar.md) is just starting to take shape.
+- Other things will appear by the time of our first class, on Tuesday 2020-01-14 at 1 PM.
 
 ## What do I need to purchase?
 
-- I encourage you to read at least Chapters 1-5 of **The Art of Statistics: How to Learn from Data** by David Spiegelhalter over the break. We'll read the entire book through the Spring semester, but there's no reason not to read the whole thing in advance. Available for between $20 and $25 in hardcover, less as an e-book. Here's [the book's website](https://dspiegel29.github.io/ArtofStatistics/). I don't know yet whether this is the only book you'll have to buy for 432, or one of two books, but you do need to buy the Spiegelhalter.
-- The other book you *might* need to buy and read is Jeff Leek's [How to Be a Modern Scientist](https://leanpub.com/modernscientist) which is great but getting a little bit out of date. So I'm not sure yet whether you need to buy this or whether I'll go another way.
+- I encourage you to read at least Chapters 1-5 of **The Art of Statistics: How to Learn from Data** by David Spiegelhalter over the break. We'll read the entire book through the Spring semester, but there's no reason not to read the whole thing in advance. Available for between $20 and $25 in hardcover, less as an e-book. Here's [the book's website](https://dspiegel29.github.io/ArtofStatistics/).
+- No other purchase is required, at least at the start of the semester.
 
 ## What other books will we be using?
 
