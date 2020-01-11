@@ -2,17 +2,18 @@
 
 - All classes meet from 1:00 PM to 2:15 PM in room E321-323 in the Robbins building at the School of Medicine.
 - Information on **TA office hours** will appear on the bottom of this page.
+- **ART** stands for David Spiegelhalter's book "The Art of Statistics".
 
 Session | Date | Materials 
 --------: | :-----: | ----------------------------------------------------------------------
-Class 01 | 01-14 | TBA
-Class 02 | 01-16 | TBA
-Class 03 | 01-21 | TBA
-Class 04 | 01-23 | TBA
+Class 01 | 01-14 | Getting Started, Building Table 1.
+Class 02 | 01-16 | TBA, **ART** Chapters 1-2
+Class 03 | 01-21 | TBA, **ART** Chapter 3
+Class 04 | 01-23 | TBA, **ART** Chapter 5
 Class 05 | 01-28 | TBA
-Class 06 | 01-30 | TBA
-Class 07 | 02-04 | TBA
-Class 08 | 02-06 | TBA
+Class 06 | 01-30 | TBA, **ART** Chapter 4
+Class 07 | 02-04 | TBA, 
+Class 08 | 02-06 | TBA, **ART** Chapter 7
 Class 09 | 02-11 | TBA
 Class 10 | 02-13 | TBA
 Class 11 | 02-18 | TBA
