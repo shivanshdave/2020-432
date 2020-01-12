@@ -25,6 +25,7 @@ Some of these materials are **password-protected**. The password will be reveale
 
 ## Other Useful References
 
+- Jeff Leek's short book "[How to be a Modern Scientist](https://leanpub.com/modernscientist)" (recommended price $10) was a mandatory part of the 432 course for the past few years. It's still worth your time and money, if you're interested.
 - [datamethods](https://discourse.datamethods.org/) "is a place where statisticians, epidemiologists, informaticists, machine learning practitioners, and other research methodologists communicate with themselves and with clinical, translational, and health services researchers to discuss issues related to data: research methods, quantitative methods, study design, measurement, statistical analysis, interpretation of data and statistical results, clinical trials, journal articles, statistical graphics, causal inference, medical decision making, and more." This new (2018-) resource's [rationale is here](http://fharrell.com/post/disc).
 - [RStudio Community](https://community.rstudio.com/) "is a community for all things R and RStudio."
 - [RStudio Cheat Sheets](https://rstudio.com/resources/cheatsheets/) which have expanded enormously in recent years.
