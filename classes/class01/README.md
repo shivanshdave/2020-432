@@ -10,6 +10,10 @@
 
 Welcome to PQHS / CRSP / MPHP 432!
 
+### Upcoming Deliverables - All deadlines are in the [Calendar](https://github.com/THOMASELOVE/2020-432/blob/master/calendar.md).
+
+- [Homework 1](https://github.com/THOMASELOVE/2020-432/tree/master/homework/hw01) is the next assignment. 
+
 ## One Last Thing
 
 Over the course of the semester, we'll look at several of the [Best Data Visualization Projects of 2019](https://flowingdata.com/2019/12/19/best-data-visualization-projects-of-2019/) as identified by Nathan Yau at [flowingdata.com](https://flowingdata.com/). 
