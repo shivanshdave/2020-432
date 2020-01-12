@@ -17,7 +17,7 @@ Over the course of the semester, we'll look at several of the [Best Data Visuali
 
 - Today, we'll focus on [How to Cut U.S. Emissions Faster? Do What These Countries Are Doing](https://www.nytimes.com/interactive/2019/02/13/climate/cut-us-emissions-with-policies-from-other-countries.html) by Brad Plumer and Blacki Migliozzi at The New York Times from 2019-02-13.
 
-![](https://github.com/THOMASELOVE/2020-432/blob/master/classes/class01/images/nyt_emissions_2019-02-13.PNG)
+![https://www.nytimes.com/interactive/2019/02/13/climate/cut-us-emissions-with-policies-from-other-countries.html](https://github.com/THOMASELOVE/2020-432/blob/master/classes/class01/images/nyt_emissions_2019-02-13.PNG)
 
 
 
