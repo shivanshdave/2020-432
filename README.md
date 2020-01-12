@@ -43,7 +43,7 @@ Deadlines for all deliverables are specified exclusively at [the Course Calendar
 ### Getting Help
 
 - Once the class begins, email `431-help at case dot edu` to get in touch with Dr. Love and the teaching assistants. We WANT to hear from you!
-- TA office hours are posted at the bottom of the [Course Calendar](https://github.com/THOMASELOVE/2020-432/blob/master/calendar.md). TA office hours are open to all students - just drop in!
+- TA office hours are posted at the bottom of the [Course Calendar](https://github.com/THOMASELOVE/2020-432/blob/master/calendar.md). TA office hours are open to all - just drop in!
 - Dr. Love holds office hours on Tuesdays and Thursdays, by appointment. To make an appointment, email him directly at `thomas dot love at case dot edu`.
 
 ------
