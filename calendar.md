@@ -6,9 +6,9 @@
 
 Session | Date | Materials 
 --------: | :-----: | ----------------------------------------------------------------------
-Class 01 | 01-14 | Getting Started, Building Table 1.
-Class 02 | 01-16 | TBA, **ART** Chapters 1-2
-Class 03 | 01-21 | TBA, **ART** Chapter 3
+[Class 01](https://github.com/THOMASELOVE/2020-432/tree/master/classes/class01) | 01-14 | Getting Started, Building Table 1.
+[Class 02](https://github.com/THOMASELOVE/2020-432/tree/master/classes/class02) | 01-16 | TBA, **ART** Chapters 1-2
+[Class 03](https://github.com/THOMASELOVE/2020-432/tree/master/classes/class03) | 01-21 | TBA, **ART** Chapter 3
 Class 04 | 01-23 | TBA, **ART** Chapter 5
 Class 05 | 01-28 | TBA
 Class 06 | 01-30 | TBA, **ART** Chapter 4
