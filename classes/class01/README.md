@@ -12,6 +12,7 @@ Welcome to PQHS / CRSP / MPHP 432!
 
 ### Upcoming Deliverables - All deadlines are in the [Calendar](https://github.com/THOMASELOVE/2020-432/blob/master/calendar.md).
 
+- Read David Spiegelhalter's **The Art of Statistics** Chapters 1-2 for our next class.
 - [Homework 1](https://github.com/THOMASELOVE/2020-432/tree/master/homework/hw01) is the next assignment. 
 
 ## One Last Thing
