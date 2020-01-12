@@ -10,19 +10,22 @@ Session | Date | Materials
 [Class 02](https://github.com/THOMASELOVE/2020-432/tree/master/classes/class02) | 01-16 | TBA, **ART** Chapters 1-2
 [Class 03](https://github.com/THOMASELOVE/2020-432/tree/master/classes/class03) | 01-21 | TBA, **ART** Chapter 3
 Class 04 | 01-23 | TBA, **ART** Chapter 5
--- | 01-28 | [Homework 1](https://github.com/THOMASELOVE/2020-432/tree/master/homework/hw01) due at Noon.
+-- | 01-28 | [Homework 1](https://github.com/THOMASELOVE/2020-432/tree/master/homework/hw01) due.
 Class 05 | 01-28 | TBA
 Class 06 | 01-30 | TBA, **ART** Chapter 4
--- | 02-04 | [Homework 2](https://github.com/THOMASELOVE/2020-432/tree/master/homework/hw02) due at Noon.
+-- | 02-01 | Project 1 Proposal due. Details to come.
+-- | 02-04 | [Homework 2](https://github.com/THOMASELOVE/2020-432/tree/master/homework/hw02) due.
 Class 07 | 02-04 | TBA 
 Class 08 | 02-06 | TBA, **ART** Chapter 7
+-- | 02-11 | [Homework 3](https://github.com/THOMASELOVE/2020-432/tree/master/homework/hw03) due.
 Class 09 | 02-11 | TBA
 Class 10 | 02-13 | TBA
 Class 11 | 02-18 | TBA
 Class 12 | 02-20 | TBA
 Class 13 | 02-25 | TBA
--- | 02-27 | Dr. Love will be at AHRQ Study Section.
+-- | 02-27 | No class. Dr. Love will be at AHRQ Study Section.
 Class 14 | 03-03 | TBA
+-- | 03-04 | Project 1 due. Details to come.
 Class 15 | 03-05 | TBA
 -- | 03-10 | No class. CWRU Spring Break (03-09 through 03-13)
 -- | 03-12 | No class. CWRU Spring Break (03-09 through 03-13)
@@ -30,6 +33,7 @@ Class 16 | 03-17 | TBA
 Class 17 | 03-19 | Dr. Love may be out of town.
 Class 18 | 03-24 | TBA
 Class 19 | 03-26 | TBA
+-- | 03-31 | Project 2 Proposal due. Details to come.
 Class 20 | 03-31 | TBA
 Class 21 | 04-02 | TBA
 Class 22 | 04-07 | TBA
@@ -38,6 +42,7 @@ Class 24 | 04-14 | TBA
 Class 25 | 04-16 | TBA
 Class 26 | 04-21 | TBA
 Class 27 | 04-23 | TBA
+-- | 04-28 | Project 2 will be due during this week. Details to come.
 
 ## TA office hours
 
