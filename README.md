@@ -30,6 +30,22 @@ Our first class starts at 1 PM on Tuesday 2020-01-14 in E321-323 in the Robbins 
 - The [References page](https://github.com/THOMASELOVE/2020-432/tree/master/references) links to supplemental readings and related materials, including several online texts. 
 - The website for my [Fall 2019 431 course](https://github.com/THOMASELOVE/2019-431) will stay up through April.
 
+### Deliverables
+
+- The [Homework page](https://github.com/THOMASELOVE/2020-432/tree/master/homework) provides details on the homework assignments.
+- The [Projects page](https://github.com/THOMASELOVE/2020-432/tree/master/projects) provides details on the two course projects you'll complete. 
+- The [Quizzes page](https://github.com/THOMASELOVE/2020-432/tree/master/quizzes) provides details on the quizzes you'll take this term. 
+
+Deadlines for all deliverables are specified exclusively at [the Course Calendar](https://github.com/THOMASELOVE/432-2020/blob/master/calendar.md).
+
+### Getting Help
+
+- Once the class begins, email `431-help at case dot edu` to get in touch with Dr. Love and the teaching assistants. We WANT to hear from you!
+- TA office hours are posted at the bottom of the [Course Calendar](https://github.com/THOMASELOVE/2020-432/blob/master/calendar.md). TA office hours are open to all students - just drop in!
+- Dr. Love holds office hours on Tuesdays and Thursdays, by appointment. To make an appointment, email him directly at `thomas dot love at case dot edu`.
+
+------
+
 ## Staying Sharp over the Break
 
 The best thing to do is analyze some data. I can think of no better place to keep sharp than working on some of the [Tidy Tuesday projects](https://thomasmock.netlify.com/post/tidytuesday-a-weekly-social-data-project-in-r/) and I hope to spend some time on this myself over the break. There's a new data set every week!
@@ -37,6 +53,4 @@ The best thing to do is analyze some data. I can think of no better place to kee
 - For instance, the [data for the week of 2019-12-03 involves parking violations in the city of Philadelphia](https://github.com/rfordatascience/tidytuesday/tree/master/data/2019/2019-12-03).
 - Here's the complete [list of 2019 data sets to date](https://github.com/rfordatascience/tidytuesday#2019).
 - David Robinson's [video series continues on YouTube](https://www.youtube.com/user/safe4democracy/videos).
-
-Contact me via email at thomas dot love at case dot edu if you have questions about the course that are not answered here.
 
