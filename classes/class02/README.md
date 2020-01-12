@@ -12,6 +12,7 @@ Coming soon.
 
 ## One Last Thing
 
-Over the course of the semester, we'll look at several of the [Best Data Visualization Projects of 2019](https://flowingdata.com/2019/12/19/best-data-visualization-projects-of-2019/) as identified by Nathan Yau at [flowingdata.com](https://flowingdata.com/). 
+Today, we'll spend some time reviewing the latest forecast of the 2020 Democratic Presidential Primary from Nate Silver and the folks at [FiveThirtyEight.com](https://fivethirtyeight.com/), at [Who Will Win The 2020 Democratic Nomination?](https://projects.fivethirtyeight.com/2020-primary-forecast/)
 
-- Today, we'll look at another one.
+- You may be interested in [How Our Primary Model Works](https://fivethirtyeight.com/features/how-fivethirtyeight-2020-primary-model-works/) by Nate Silver, posted 2020-01-09.
+
