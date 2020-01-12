@@ -17,11 +17,19 @@ Our first class starts at 1 PM on Tuesday 2020-01-14 in E321-323 in the Robbins 
 
 4. Be patient with me. Materials will appear on the web in fits and starts between now and the start of class.
 
-## Materials for 432
+## Key Links
 
-- The first draft of (pieces of) [the Course Syllabus](https://thomaselove.github.io/2020-432-syllabus/) is now available for viewing. I would wait until our first class before downloading it as a PDF or Kindle ePub document, as it's not close to being finished yet.
-- The [Course Calendar](https://github.com/THOMASELOVE/2020-432/blob/master/calendar.md) is just starting to take shape.
-- Other things will appear by the time of our first class, on Tuesday 2020-01-14 at 1 PM.
+### Available Now
+
+- The [Course Calendar](https://github.com/THOMASELOVE/2020-432/blob/master/calendar.md) serves as the final word for all deadlines and will eventually provide links for all classes and deliverables.
+- The [Course Syllabus](https://thomaselove.github.io/2020-432-syllabus/). 
+- Dr. Love's [Course Notes](https://thomaselove.github.io/2020-432-book/) will be edited and posted as the semester progresses. 
+    - [The Spring 2019 version](https://thomaselove.github.io/2019-432-book/) is still available, but I provide no guarantees.
+- [Data and Code](https://github.com/THOMASELOVE/432-data) for the course.
+- Instructions regarding [Software and R Packages](https://github.com/THOMASELOVE/2020-432/blob/master/software.md).
+- Readings and Links to Supplemental Materials are at the [References page](https://github.com/THOMASELOVE/2020-432/tree/master/references).
+- The website for my [Fall 2019 431 course](https://github.com/THOMASELOVE/2019-431) will stay up through April.
+
 
 ## What other books will we be using?
 
