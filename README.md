@@ -25,7 +25,7 @@ Our first class starts at 1 PM on Tuesday 2020-01-14 in E321-323 in the Robbins 
 
 ## What other books will we be using?
 
-- Dr. Love's Course Notes will be edited and posted as the semester progresses. 
+- Dr. Love's [Course Notes](https://thomaselove.github.io/2020-432-book/) will be edited and posted as the semester progresses. 
     - In the meantime, [here's the Spring 2019 version](https://thomaselove.github.io/2019-432-book/) which is posted here with no guarantees.
 - [Biostatistics for Biomedical Research](http://hbiostat.org/bbr/) (pdf file) by Frank E. Harrell, Jr. and James C. Slaughter is a nice source for a lot of things we'll be using in 432, plus a review and different spin on a lot of things from 431. It is freely available (and regularly updated) [online](http://hbiostat.org/bbr/).
     - Frank's video course on (some of) this material is [ongoing at YouTube](https://www.youtube.com/channel/UC-o_ZZ0tuFUYn8e8rf-QURA/videos).
