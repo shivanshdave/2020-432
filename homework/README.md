@@ -2,7 +2,7 @@
 
 ## How Many Homeworks?
 
-- Students will complete between 6 and 8 homework assignments this semester - the exact number is not yet determined.
+- Students will complete between 6 and 8 homework assignments this semester - the exact number is not yet determined. All homework assignments will be posted to the web a minimum of one week before the due date.
 
 ## Homework 1
 
