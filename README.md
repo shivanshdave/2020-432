@@ -23,7 +23,7 @@ Our first class starts at 1 PM on Tuesday 2020-01-14 in E321-323 in the Robbins 
 
 2. **Install the Software**: Install R (version 3.6.2 or later) and RStudio (version 1.2.5033 or later) and some necessary R packages. [Details here](https://github.com/THOMASELOVE/2020-432/blob/master/software.md).
 
-3. Be patient with me. Materials will appear on the web in fits and starts between now and the start of class. Take a look at what's here now.
+3. Materials will continue to appear on the web in fits and starts all semester. Take a look at what's already up.
 
 ## Key Links
 
