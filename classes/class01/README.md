@@ -1,11 +1,10 @@
 # 432 Spring 2020 Class 01: 2020-01-14
 
-- Get help at any time by emailing **431-help at case dot edu**.
-- The main website for the course is https://github.com/THOMASELOVE/2020-432.
-
-## Today's Slides
+## Key Materials
 
 - Today's slides are available in PDF and R Markdown formats.
+- Get help at any time by emailing **431-help at case dot edu**.
+- The main website for the course is https://github.com/THOMASELOVE/2020-432.
 
 ## Today's Announcements
 
