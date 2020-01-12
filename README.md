@@ -30,7 +30,7 @@ This will be the public web site for my 432 course in Spring 2020 at Case Wester
 - The [Course Calendar](https://github.com/THOMASELOVE/2020-432/blob/master/calendar.md) serves as the final word for all deadlines and provides links for all classes and deliverables.
     - Each Class has an associated README page ([here's Class 1](https://github.com/THOMASELOVE/2020-432/tree/master/classes/class01)) linked from the [Course Calendar](https://github.com/THOMASELOVE/2020-432/blob/master/calendar.md). 
     - The README is where we'll start each session, and where you'll find the slides Dr. Love presents.
-- The [Course Syllabus](https://thomaselove.github.io/2020-432-syllabus/). 
+- The [Course Syllabus](https://thomaselove.github.io/2020-432-syllabus/) includes information on me, and on the teaching assistants.
 - Dr. Love's [Course Notes](https://thomaselove.github.io/2020-432-book/) will be edited and posted as the semester progresses. 
     - [The Spring 2019 version](https://thomaselove.github.io/2019-432-book/) is still available, but I provide no guarantees.
 - [Data and Code](https://github.com/THOMASELOVE/432-data) for the course.
