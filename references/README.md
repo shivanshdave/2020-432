@@ -18,10 +18,6 @@ Some of these materials are **password-protected**. The password will be reveale
 - Karl W. Broman & Kara H. Woo (2018) [Data Organization in Spreadsheets](https://github.com/THOMASELOVE/2020-432/blob/master/references/pdf/Broman_and_Woo_2018_Data_Organization_in_Spreadsheets.pdf), *The American Statistician*, 72:1, 2-10, DOI: [10.1080/00031305.2017.1375989](https://doi.org/10.1080/00031305.2017.1375989) will be discussed early in the semester.
 - Frank Harrell & others (2019-) [Glossary of Statistical Terms](http://hbiostat.org/doc/glossary.pdf) will be discussed throughout the semester.
 
-## Other Useful References
-
-- [datamethods](https://discourse.datamethods.org/) "is a place where statisticians, epidemiologists, informaticists, machine learning practitioners, and other research methodologists communicate with themselves and with clinical, translational, and health services researchers to discuss issues related to data: research methods, quantitative methods, study design, measurement, statistical analysis, interpretation of data and statistical results, clinical trials, journal articles, statistical graphics, causal inference, medical decision making, and more." This new (2018-) resource's [rationale is here](http://fharrell.com/post/disc).
-
 ## Textbooks and Book-Length References
 
 - Julian J. Faraway [Practical Regression and Anova using R](https://github.com/THOMASELOVE/2020-432/blob/master/references/pdf/Faraway_Practical_Regression_and_ANOVA_using_R.pdf), 2002.
@@ -33,6 +29,11 @@ Some of these materials are **password-protected**. The password will be reveale
 - Simon J. Sheather [A Modern Approach to Regression with R](https://github.com/THOMASELOVE/2020-432/blob/master/references/pdf/Sheather_Modern_Approach_to_Regression_with_R_2009_protected.pdf), 2009.
 - Eric Vittinghoff, David V. Glidden, Stephen C. Shiboski and Charles E. McCulloch [Regression Methods in Biostatistics](https://github.com/THOMASELOVE/2020-432/blob/master/references/pdf/Vittinghoff_et_al_Regression_Methods_in_Biostatistics_2e_protected.pdf), 2nd Edition, 2012.
 - Yihui Xie, J.J. Allaire and Garrett Grolemund [R Markdown: The Definitive Guide](https://bookdown.org/yihui/rmarkdown/)
+
+## Other Useful References
+
+- [datamethods](https://discourse.datamethods.org/) "is a place where statisticians, epidemiologists, informaticists, machine learning practitioners, and other research methodologists communicate with themselves and with clinical, translational, and health services researchers to discuss issues related to data: research methods, quantitative methods, study design, measurement, statistical analysis, interpretation of data and statistical results, clinical trials, journal articles, statistical graphics, causal inference, medical decision making, and more." This new (2018-) resource's [rationale is here](http://fharrell.com/post/disc).
+- [RStudio Community](https://community.rstudio.com/) "is a community for all things R and RStudio."
 
 ## Articles of Interest
 
