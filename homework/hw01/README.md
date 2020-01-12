@@ -177,4 +177,14 @@ complete sentences, and examples derived from your modeling) that
 explains how this advice is connected to your thinking about presenting
 your results.
 
+## Please add the session information.
+
+Finally, at the end of this homework and all subsequent assignments
+(including the projects), please add the session information. My
+preferred way for you to do this is…
+
+``` r
+sessioninfo::session_info()
+```
+
 ### End of Homework 1
