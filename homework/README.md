@@ -19,3 +19,7 @@ In grading, we occasionally make errors.
 ## Homework 1
 
 - Instructions for [Homework 1 are now available](https://github.com/THOMASELOVE/2020-432/tree/master/homework/homework1).
+
+## Homework 1
+
+- Instructions for [Homework 2 are now available](https://github.com/THOMASELOVE/2020-432/tree/master/homework/homework2).
