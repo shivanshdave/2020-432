@@ -10,7 +10,7 @@ Session | Date | Materials
 [Class 02](https://github.com/THOMASELOVE/2020-432/tree/master/classes/class02) | 01-16 | TBA, **ART** Chapters 1-2
 [Class 03](https://github.com/THOMASELOVE/2020-432/tree/master/classes/class03) | 01-21 | TBA, **ART** Chapter 3
 Class 04 | 01-23 | TBA, **ART** Chapter 5
-Homework 1 | 01-28 | due at Noon
+-- | 01-28 | [Homework 1] due at Noon
 Class 05 | 01-28 | TBA
 Class 06 | 01-30 | TBA, **ART** Chapter 4
 Class 07 | 02-04 | TBA, 
