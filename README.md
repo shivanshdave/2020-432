@@ -14,8 +14,6 @@ This will be the public web site for my 432 course in Spring 2020 at Case Wester
 
 ## What Should I Do Prior to the First Class?
 
-Our first class starts at 1 PM on Tuesday 2020-01-14 in E321-323 in the Robbins building at the School of Medicine. Prior to that time,
-
 1. **Buy The Art of Statistics: How to Learn from Data** by David Spiegelhalter. 
     - We'll read the entire book this Spring, but I encourage you to read Chapters 1-5 soon.
     - The book is available online for less than $25 in hardcover, and less than $20 as an e-book. [Amazon link](https://www.amazon.com/Art-Statistics-How-Learn-Data/dp/1541618513).
@@ -44,7 +42,7 @@ Our first class starts at 1 PM on Tuesday 2020-01-14 in E321-323 in the Robbins 
 
 - The [Homework page](https://github.com/THOMASELOVE/2020-432/tree/master/homework) provides details on the homework assignments.
 - The [Projects page](https://github.com/THOMASELOVE/2020-432/tree/master/projects) provides details on the two course projects you'll complete. 
-- The [Quizzes page](https://github.com/THOMASELOVE/2020-432/tree/master/quizzes) provides details on the quizzes you'll take this term. 
+- The [Quizzes page](https://github.com/THOMASELOVE/2020-432/tree/master/quizzes) provides details on the quizzes you'll take. 
 
 Deadlines for all deliverables are specified exclusively at [the Course Calendar](https://github.com/THOMASELOVE/432-2020/blob/master/calendar.md).
 
