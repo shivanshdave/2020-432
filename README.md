@@ -2,6 +2,16 @@
 
 This will be the public web site for my 432 course in Spring 2020 at Case Western Reserve University. 
 
+## When and Where?
+
+- Tuesdays and Thursdays from 1 PM to 2:15 PM in Room **E321-323** in the Robbins Building at the School of Medicine.
+- Classes meet as listed on the [Course Calendar](https://github.com/THOMASELOVE/2020-432/blob/master/calendar.md). Our first session will be on Tuesday **2020-01-14**. 
+
+### Contacting Us
+
+- After the first class, most questions and other feedback should be sent to Dr. Love and the Teaching Assistants via email: `431-help at case dot edu`. 
+- Prior to the first class, or to contact Dr. Love individually, email `thomas dot love at case dot edu`.
+
 ## What Should I Do Prior to the First Class?
 
 Our first class starts at 1 PM on Tuesday 2020-01-14 in E321-323 in the Robbins building at the School of Medicine. Prior to that time,
@@ -13,9 +23,7 @@ Our first class starts at 1 PM on Tuesday 2020-01-14 in E321-323 in the Robbins 
 
 2. **Install the Software**: Install R (version 3.6.2 or later) and RStudio (version 1.2.5033 or later) and some necessary R packages. [Details here](https://github.com/THOMASELOVE/2020-432/blob/master/software.md).
 
-3. Reach me via via email at `thomas dot love at case dot edu` if you have questions about the course, especially after you review the materials linked on this page.
-
-4. Be patient with me. Materials will appear on the web in fits and starts between now and the start of class.
+3. Be patient with me. Materials will appear on the web in fits and starts between now and the start of class. Take a look at what's here now.
 
 ## Key Links
 
@@ -40,10 +48,11 @@ Our first class starts at 1 PM on Tuesday 2020-01-14 in E321-323 in the Robbins 
 
 Deadlines for all deliverables are specified exclusively at [the Course Calendar](https://github.com/THOMASELOVE/432-2020/blob/master/calendar.md).
 
-### Getting Help
+## Getting Help
 
 - Once the class begins, email `431-help at case dot edu` to get in touch with Dr. Love and the teaching assistants. We WANT to hear from you!
-- TA office hours are posted at the bottom of the [Course Calendar](https://github.com/THOMASELOVE/2020-432/blob/master/calendar.md). TA office hours are open to all - just drop in!
+- Details on Teaching Assistants and their Office Hours are in the [Syllabus](https://thomaselove.github.io/2020-432-syllabus/teaching-assistants.html) and at the bottom of the [Course Calendar](https://github.com/THOMASELOVE/2020-432/blob/master/calendar.md).
+- TA office hours are open to all - just drop in!
 - Dr. Love holds office hours on Tuesdays and Thursdays, by appointment. To make an appointment, email him directly at `thomas dot love at case dot edu`.
 
 ------
