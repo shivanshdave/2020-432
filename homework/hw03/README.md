@@ -20,9 +20,9 @@ Calendar](https://github.com/THOMASELOVE/2020-432/blob/master/calendar.md).
 
 # Question 1 (30 points)
 
-Again, consider the `hbp432` data used in Homeworks 1 and 2. Build your
-best model for the prediction of body-mass index, considering the
-following 14 predictors: `practice`, `age`, `race`, `eth_hisp`, `sex`,
+Again, consider the `hbp432` data used in Homework 1. Build your best
+model for the prediction of body-mass index, considering the following
+14 predictors: `practice`, `age`, `race`, `eth_hisp`, `sex`,
 `insurance`, `income`, `hsgrad`, `tobacco`, `depdiag`, `sbp`, `dbp`,
 `statin` and `bpmed`. Use an appropriate best subsets procedure to aid
 in your search, and use a cross-validation strategy to assess and
