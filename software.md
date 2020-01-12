@@ -21,8 +21,8 @@ Copy and paste the following lines of code into the Console window of R Studio t
                 "lars", "lattice", "leaps", "lme4", "lmerTest", "lmtest", "magrittr", "markdown", "MASS", "mice", 
                 "mosaic", "multcomp", "naniar", "NHANES", "nnet", "pander", "patchwork", "pROC", "PropCIs", 
                 "pscl", "psych", "pwr", "qcc", "QuantPsyc", "quantreg", "ResourceSelection", "rmarkdown", 
-                "rmdformats", "rms", "robustbase", "ROCR", "rstanarm", "sandwich", "simputation", "skimr", 
-                "spelling", "styler", "survival", "survminer", "tableone", "tidyverse", "usethis", "vcd", 
+                "rmdformats", "rms", "robustbase", "ROCR", "rstanarm", "sandwich", "sessioninfo", "simputation", 
+                "skimr", "spelling", "styler", "survival", "survminer", "tableone", "tidyverse", "usethis", "vcd", 
                 "VGAM", "viridis")
                 
     install.packages(pkgs)
