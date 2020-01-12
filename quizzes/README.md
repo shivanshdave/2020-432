@@ -2,6 +2,6 @@
 
 This is where information on the course quizzes will appear. 
 
-- Students will complete between 2 and 6 quizzes this semester - the exact number is not yet determined. 
+- Students will complete between 2 and 5 quizzes this semester - the exact number is not yet determined. 
 
 More to come.
