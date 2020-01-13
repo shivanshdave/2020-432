@@ -35,6 +35,7 @@ This will be the public web site for Dr. Thomas E. Love's 432 course in Spring 2
     - [The Spring 2019 version](https://thomaselove.github.io/2019-432-book/) is still available, but I provide no guarantees.
 - [Data and Code](https://github.com/THOMASELOVE/432-data) for the course.
 - Instructions regarding [Software and R Packages](https://github.com/THOMASELOVE/2020-432/blob/master/software.md).
+- The [R-Basics](https://github.com/THOMASELOVE/2020-432/tree/master/r-basics) page contains several examples in Cleaning Data and Coding Analyses in R designed to help you with this course's assignments, particularly the first project. The main PDF here is about 60 pages long, so there's a lot of material to review.
 - The [References page](https://github.com/THOMASELOVE/2020-432/tree/master/references) links to supplemental readings and related materials, including several online texts. 
 - The website for my [Fall 2019 431 course](https://github.com/THOMASELOVE/2019-431) will stay up through April.
 
@@ -52,6 +53,7 @@ Deadlines for all deliverables are specified exclusively at [the Course Calendar
 - Details on Teaching Assistants and their Office Hours are in the [Syllabus](https://thomaselove.github.io/2020-432-syllabus/teaching-assistants.html) and at the bottom of the [Course Calendar](https://github.com/THOMASELOVE/2020-432/blob/master/calendar.md).
 - TA office hours are open to all - just drop in!
 - Dr. Love holds office hours on Tuesdays and Thursdays, by appointment. To make an appointment, email him directly at `thomas dot love at case dot edu`.
+- Don't forget that the [R-basics page](https://github.com/THOMASELOVE/2020-432/tree/master/r-basics) provides numerous examples in data cleaning, data management, and coding analyses in R.
 
 ------
 
