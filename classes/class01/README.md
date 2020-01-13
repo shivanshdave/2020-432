@@ -13,6 +13,8 @@ For any questions related to the course, email **431-help at case dot edu**. Our
 
 - TAs this term: Ben Booker BS, Julijana Conic MD, Joseph Hnath BA, Amr Mahran MD MS and Amin Saad MD. Learn more about the [TAs in the Course Syllabus](https://thomaselove.github.io/2020-432-syllabus/teaching-assistants.html).
 - TA office hours start on Friday 2020-01-17. Hours will be posted [at the bottom of the Course Calendar](https://github.com/THOMASELOVE/2020-432/blob/master/calendar.md#ta-office-hours), and are open to anyone.
+- The [R-basics page](https://github.com/THOMASELOVE/2020-432/tree/master/r-basics) provides numerous examples in data cleaning, data management, and coding analyses in R.
+
 
 ### Roster Check
 
