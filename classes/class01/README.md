@@ -34,7 +34,7 @@ If you do not appear on this roster, add your information and email Dr. Love to 
 
 ### Course Password
 
-![](https://github.com/THOMASELOVE/2020-432/blob/master/slides/class01/figures/tukey.png)
+![](https://github.com/THOMASELOVE/2020-432/blob/master/classes/class01/figures/tukey.png)
 
 ### Attendance
 
