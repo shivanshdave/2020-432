@@ -59,6 +59,18 @@ There is also a pair of files showing how I simulated the `bradley.csv` data in 
 
 ![](https://github.com/THOMASELOVE/2020-432/blob/master/classes/class01/figures/branch_tw.png)
 
+---------
+
+## One Last Thing
+
+Over the course of the semester, we'll look at several of the [Best Data Visualization Projects of 2019](https://flowingdata.com/2019/12/19/best-data-visualization-projects-of-2019/) as identified by Nathan Yau at [flowingdata.com](https://flowingdata.com/). 
+
+- Today, we'll focus on [How to Cut U.S. Emissions Faster? Do What These Countries Are Doing](https://www.nytimes.com/interactive/2019/02/13/climate/cut-us-emissions-with-policies-from-other-countries.html) by Brad Plumer and Blacki Migliozzi at The New York Times from 2019-02-13.
+
+![https://www.nytimes.com/interactive/2019/02/13/climate/cut-us-emissions-with-policies-from-other-countries.html](https://github.com/THOMASELOVE/2020-432/blob/master/classes/class01/images/nyt_emissions_2019-02-13.PNG)
+
+----------
+
 ## Other Materials discussed today
 
 ### On Data Organization
@@ -76,6 +88,8 @@ There is also a pair of files showing how I simulated the `bradley.csv` data in 
 - Today's Table 1 example came from Bradley SM, Borgerding JA and Wood GB et al. [Incidence, Risk Factors, and Outcome Associated with In-Hospital Acute Myocardial Infarction](https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2720923), published 2019-01-18 in *JAMA Network Open* doi:10.1001/jamanetworkopen.2018.73
 - [Instructions for Table Creation](https://jama.jamanetwork.com/data/ifora-forms/jama/tablecreationinst.pdf) from JAMA
 
+----------
+
 ## For Next Time
 
 - If you haven't completed the Roster Check yet, please do so now.
@@ -86,16 +100,5 @@ There is also a pair of files showing how I simulated the `bradley.csv` data in 
     - In today's class, we assumed you knew, for example, what the following terms mean: binary variable, case-control study, categorical variable, comparative trial, confidence limits, continuous variable, data science, dummy variable, estimate, goodness of fit, inter-quartile range, mean, median, nonparametric estimator, nonparametric tests, normal distribution, null hypothesis, observational study, one-sided test, *p*-value, parametric test, percentile, predictor, probability, quartiles, random error, random sample, rate, replication, risk, significance level, standard deviation, standard error, two-sided test, Type I error, variance.
     - If any of these terms seem unfamiliar, read up on them. If that's not too overwhelming, then glance through the remainder of the list and find a few more that interest you, and read those closely.
 - If you haven't done so already, get up to date versions of R, R Studio and the necessary R Packages on your computer. Instructions are on our [Software page](https://github.com/THOMASELOVE/2020-432/blob/master/software.md).
-
----------
-
-## One Last Thing
-
-Over the course of the semester, we'll look at several of the [Best Data Visualization Projects of 2019](https://flowingdata.com/2019/12/19/best-data-visualization-projects-of-2019/) as identified by Nathan Yau at [flowingdata.com](https://flowingdata.com/). 
-
-- Today, we'll focus on [How to Cut U.S. Emissions Faster? Do What These Countries Are Doing](https://www.nytimes.com/interactive/2019/02/13/climate/cut-us-emissions-with-policies-from-other-countries.html) by Brad Plumer and Blacki Migliozzi at The New York Times from 2019-02-13.
-
-![https://www.nytimes.com/interactive/2019/02/13/climate/cut-us-emissions-with-policies-from-other-countries.html](https://github.com/THOMASELOVE/2020-432/blob/master/classes/class01/images/nyt_emissions_2019-02-13.PNG)
-
 
 
