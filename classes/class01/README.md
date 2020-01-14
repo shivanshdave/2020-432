@@ -15,21 +15,14 @@ For any questions related to the course, email **431-help at case dot edu**. Our
 - TA office hours start on Friday 2020-01-17. Hours are posted [at the bottom of the Course Calendar](https://github.com/THOMASELOVE/2020-432/blob/master/calendar.md#ta-office-hours), and are open to anyone.
 - The [R-basics page](https://github.com/THOMASELOVE/2020-432/tree/master/r-basics) provides numerous examples in data cleaning, data management, and coding analyses in R.
 
-
 ### Roster Check
 
-An initial course roster is found at [this Google Sheet](http://bit.ly/432-2020-roster-check). You may need to log into Google via CWRU to see the actual link, and then verify the information (editing where needed), especially:
-
-- the name you want us to call you,
-- your preferred pronouns,
-- your preferred email.
-
-If you do not appear on this roster, add your information at the bottom of the sheet and email Dr. Love to tell him.
+An initial course roster is found at [this Google Sheet](http://bit.ly/432-2020-roster-check). You may need to log into Google via CWRU to see the actual link, and then verify the information (editing where needed), especially the **name** you want us to call you, and your preferred **email**. If you do not appear on this roster, add your information at the bottom of the sheet and email Dr. Love to tell him.
 
 ### Upcoming Deliverables - All deadlines are in the [Calendar](https://github.com/THOMASELOVE/2020-432/blob/master/calendar.md).
 
 - Complete [the roster check](http://bit.ly/432-2020-roster-check), described above, as soon as possible.
-- Please complete the Minute Paper after Class 01 at **LINK TO BE PROVIDED** by 2 PM tomorrow (2020-01-15).
+- Please complete the [Minute Paper after Class 01](http://bit.ly/432-2020-minute-01) by 2 PM tomorrow (2020-01-15).
 - Read David Spiegelhalter's **The Art of Statistics** Chapters 1-2 for our next class.
 - [Homework 1](https://github.com/THOMASELOVE/2020-432/tree/master/homework/hw01) is the next assignment. 
 - Your Proposal for Project 1 will be the next big thing to think about.
@@ -95,7 +88,7 @@ Over the course of the semester, we'll look at several of the [Best Data Visuali
 ## For Next Time
 
 - If you haven't [completed the Roster Check](http://bit.ly/432-2020-roster-check) yet, please do so now.
-- The Minute Paper after Class 01 is at **LINK TO COME**. Please complete it by 2 PM tomorrow (2019-01-23).
+- The Minute Paper after Class 01 is at http://bit.ly/432-2020-minute-01. Please complete it by 2 PM tomorrow (2019-01-23).
 - We'll be discussing Chapters 1 and 2 of David Spiegelhalter's *The Art of Statistics*. Please read those chapters before class.
 - We'll be discussing the cleaning of the BRFSS/SMART data shown in [Chapter 2 of the Course Notes](https://thomaselove.github.io/2020-432-book/brfss-smart-data.html).
 - Skim Frank Harrell & others (2019) [Glossary of Statistical Terms](http://hbiostat.org/doc/glossary.pdf). 
