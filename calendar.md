@@ -1,7 +1,7 @@
 # Course Calendar for 432 in Spring 2020
 
 - All classes meet from 1:00 PM to 2:15 PM in room E321-323 in the Robbins building at the School of Medicine.
-- Information on **TA office hours** will appear on the bottom of this page.
+- Information on **TAs and Office Hours** will appear on the bottom of this page.
 - **ART** stands for David Spiegelhalter's book "The Art of Statistics".
 
 Session | Date | Materials 
@@ -44,7 +44,7 @@ Class 26 | 04-21 | TBA
 Class 27 | 04-23 | TBA
 -- | 04-28 | Project 2 will be due during this week. Details to come.
 
-## TA office hours
+## TAs and Office Hours
 
 - To contact the TAs (and Dr. Love) at any time, email `431-help` at `case dot edu`.
 - `431-help` opens immediately after our first class on 2020-01-14, and remains open until the end of April.
@@ -63,3 +63,5 @@ Fridays     | A. Mahran | A. Mahran | -- | -- | --
 TA office hours begin on **Friday 2020-01-17**, and continue through the end of April. TA office hours are not held on University holidays, or during Spring Break. 
 
 Profiles and photographs of each of the teaching assistants are found in the [Course Syllabus](https://thomaselove.github.io/2020-432-syllabus/teaching-assistants.html).
+
+If you need to meet with Dr. Love, send him an email (`thomas dot love at case dot edu`) to arrange an appointment. He is at CWRU on Tuesdays and Thursdays.
