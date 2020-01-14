@@ -64,4 +64,4 @@ TA office hours begin on **Friday 2020-01-17**, and continue through the end of 
 
 Profiles and photographs of each of the teaching assistants are found in the [Course Syllabus](https://thomaselove.github.io/2020-432-syllabus/teaching-assistants.html).
 
-If you need to meet with Dr. Love, send him an email (`thomas dot love at case dot edu`) to arrange an appointment. He is at CWRU on Tuesdays and Thursdays.
+If you need to meet with Dr. Love, send him an email (`thomas dot love` at `case dot edu`) to arrange an appointment. He is at CWRU on Tuesdays and Thursdays.
