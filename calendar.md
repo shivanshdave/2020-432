@@ -56,9 +56,9 @@ Teaching Assistant Office Hours are held in **either** WG-56 (Computing Lab) or 
 Date | 10:15 - 11:30 AM | 11:30 AM - 12:45 PM | 1:00 - 2:15 PM | 2:30 - 3:45 PM | 4:00 - 5:15 PM
 ----------: | :--------: | :--------: | :--------: | :--------: | :--------:  
 Mondays     | -- | J. Conic | J. Conic | -- | -- 
-Tuesdays    | A. Saad | A. Saad | `432 CLASS` | J. Hnath | A. Saad
+Tuesdays    | A. Saad | A. Saad | **432 CLASS** | J. Hnath | A. Saad
 Wednesdays  | -- | J. Zhang | J. Zhang | J. Hnath | -- 
-Thursdays   | B. Booker | B. Booker | `432 CLASS` | J. Hnath | A. Saad
+Thursdays   | B. Booker | B. Booker | **432 CLASS** | J. Hnath | A. Saad
 Fridays     | A. Mahran | A. Mahran | -- | -- | -- 
 
 TA office hours start on **Friday 2020-01-17**, and continue through the end of April. TA office hours are not held on University holidays, or during Spring Break. 
