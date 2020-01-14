@@ -48,7 +48,8 @@ Class 27 | 04-23 | TBA
 
 - To contact the TAs (and Dr. Love) at any time, email `431-help` at `case dot edu`.
 - `431-help` opens immediately after our first class on 2020-01-14, and remains open until the end of April.
-- This semester's TAs are:  [Benjamin (Ben) Booker, BS](https://thomaselove.github.io/2020-432-syllabus/teaching-assistants.html), [Julijana Conic, MD](https://thomaselove.github.io/2020-432-syllabus/teaching-assistants.html), [Joseph Hnath, BA](https://thomaselove.github.io/2020-432-syllabus/teaching-assistants.html), [Amr Mahran, MD MS](https://thomaselove.github.io/2020-432-syllabus/teaching-assistants.html), [Amin Saad, MD](https://thomaselove.github.io/2020-432-syllabus/teaching-assistants.html) and [Jing Zhang, MD MS](https://thomaselove.github.io/2020-432-syllabus/teaching-assistants.html).
+
+This semester's TAs are:  [Benjamin (Ben) Booker, BS](https://thomaselove.github.io/2020-432-syllabus/teaching-assistants.html), [Julijana Conic, MD](https://thomaselove.github.io/2020-432-syllabus/teaching-assistants.html), [Joseph Hnath, BA](https://thomaselove.github.io/2020-432-syllabus/teaching-assistants.html), [Amr Mahran, MD MS](https://thomaselove.github.io/2020-432-syllabus/teaching-assistants.html), [Amin Saad, MD](https://thomaselove.github.io/2020-432-syllabus/teaching-assistants.html) and [Jing Zhang, MD MS](https://thomaselove.github.io/2020-432-syllabus/teaching-assistants.html). Profiles and photographs of each of the teaching assistants are found in the [Course Syllabus](https://thomaselove.github.io/2020-432-syllabus/teaching-assistants.html).
 
 Teaching Assistant Office Hours are held in **either** WG-56 (Computing Lab) or WG-67 (Student Lounge) on the ground floor of the Wood building in the School of Medicine, so be sure to look in both places if you need help. The TAs will do everything they can to cover these time periods, but if for some reason, you can't find someone at the times listed below, email `431-help`, please. 
 
@@ -60,8 +61,6 @@ Wednesdays  | -- | J. Zhang | J. Zhang | J. Hnath | --
 Thursdays   | B. Booker | B. Booker | `432 CLASS` | J. Hnath | A. Saad
 Fridays     | A. Mahran | A. Mahran | -- | -- | -- 
 
-TA office hours begin on **Friday 2020-01-17**, and continue through the end of April. TA office hours are not held on University holidays, or during Spring Break. 
-
-Profiles and photographs of each of the teaching assistants are found in the [Course Syllabus](https://thomaselove.github.io/2020-432-syllabus/teaching-assistants.html).
+TA office hours start on **Friday 2020-01-17**, and continue through the end of April. TA office hours are not held on University holidays, or during Spring Break. 
 
 If you need to meet with Dr. Love, send him an email (`thomas dot love` at `case dot edu`) to arrange an appointment. He is at CWRU on Tuesdays and Thursdays.
