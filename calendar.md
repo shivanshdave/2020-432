@@ -47,20 +47,19 @@ Class 27 | 04-23 | TBA
 ## TA office hours
 
 - To contact the TAs (and Dr. Love) at any time, email `431-help` at `case dot edu`.
+- `431-help` opens immediately after our first class on 2020-01-14, and remains open until the end of April.
+- This semester's TAs are:  [Benjamin (Ben) Booker, BS](https://thomaselove.github.io/2020-432-syllabus/teaching-assistants.html), [Julijana Conic, MD](https://thomaselove.github.io/2020-432-syllabus/teaching-assistants.html), [Joseph Hnath, BA](https://thomaselove.github.io/2020-432-syllabus/teaching-assistants.html), [Amr Mahran, MD MS](https://thomaselove.github.io/2020-432-syllabus/teaching-assistants.html), [Amin Saad, MD](https://thomaselove.github.io/2020-432-syllabus/teaching-assistants.html) and [Jing Zhang, MD MS](https://thomaselove.github.io/2020-432-syllabus/teaching-assistants.html).
 
-Teaching Assistant Office Hours are held in either WG-56 (Computing Lab) or WG-67 (Student Lounge) on the ground floor of the Wood building in the School of Medicine, so be sure to look in both places if you need help. The weekly schedule will be posted soon. 
+Teaching Assistant Office Hours are held in **either** WG-56 (Computing Lab) or WG-67 (Student Lounge) on the ground floor of the Wood building in the School of Medicine, so be sure to look in both places if you need help. The weekly schedule is...
 
-Date | Office Hours are available from ...
-------------: | -----------------------------------------
-Mondays     | 11:30 AM to 12:45 PM and 1:00 to 2:15 PM
-Tuesdays    | 10:15 AM to 12:45 PM, 2:30 to 3:45 PM, and 4:00 to 5:15 PM
-Wednesdays  | 11:30 AM to 12:45 PM and 1:00 to 2:15 PM and 2:30 to 3:45 PM
-Thursdays   | 10:15 AM to 12:45 PM, 2:30 to 3:45 PM, and 4:00 to 5:15 PM
-Fridays     | 10:15 AM to 12:45 PM
+Date | 10:15 - 11:30 AM | 11:30 AM - 12:45 PM | 1:00 - 2:15 PM | 2:30 - 3:45 PM | 4:00 - 5:15 PM
+----------: | -------- | -------- | -------- | -------- | --------  
+Mondays     | -- | J. Conic | J. Conic | -- | -- 
+Tuesdays    | A. Saad | A. Saad | 432 CLASS | J. Hnath | A. Saad
+Wednesdays  | -- | J. Zhang | J. Zhang | J. Hnath | -- 
+Thursdays   | B. Booker | B. Booker | 432 CLASS | J. Hnath | A. Saad
+Fridays     | A. Mahran | A. Mahran | -- | -- | -- 
 
-TA office hours begin on Friday 2020-01-17, and end at the end of April.
+TA office hours begin on **Friday 2020-01-17**, and continue through the end of April. TA office hours are not held on University holidays, or during Spring Break. 
 
-- TA office hours are not held on University holidays, or during Spring Break. 
-- 431-help opens immediately after our first class on 2020-01-14, and remains open until the end of April.
-
-Profiles and photographs of each of the teaching assistants are found in the [Course Syllabus](https://thomaselove.github.io/2020-432-syllabus/).
+Profiles and photographs of each of the teaching assistants are found in the [Course Syllabus](https://thomaselove.github.io/2020-432-syllabus/teaching-assistants.html).
