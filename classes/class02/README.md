@@ -3,7 +3,7 @@
 ## Key Materials
 
 - Today's slides are available in PDF and R Markdown formats.
-- When available, the audio recording for today's class will be posted to http://bit.ly/432-2020-audio.
+- When available, we'll post [today's audio recording to this Shared Drive](http://bit.ly/432-2020-audio).
 
 ## Getting Help
 
