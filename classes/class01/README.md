@@ -5,7 +5,7 @@
 Welcome to PQHS / CRSP / MPHP 432!
 
 - The main website for the course is https://github.com/THOMASELOVE/2020-432.
-- This class will be audio-recorded, and the recordings will be posted to a Google Drive and linked at each day's README as soon as possible. If you're willing to help with that work, please email us to let us know.
+- This class will be audio-recorded, and the recordings will be posted to a Google Drive and a link will appear here.
 
 ### Getting Help
 
