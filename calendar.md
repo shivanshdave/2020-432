@@ -52,10 +52,10 @@ Teaching Assistant Office Hours are held in either WG-56 (Computing Lab) or WG-6
 
 Date | Office Hours are available from ...
 ------------: | -----------------------------------------
-Mondays     | 11:30 AM to 2:15 PM
-Tuesdays    | 10:15 AM to 12:45 PM, 2:30 PM to 5:15 PM
-Wednesdays  | 11:30 AM to 2:15 PM, 2:30 to 3:45 PM
-Thursdays   | 10:15 AM to 12:45 PM, 2:30 PM to 5:15 PM
+Mondays     | 11:30 AM to 12:45 PM and 1:00 to 2:15 PM
+Tuesdays    | 10:15 AM to 12:45 PM, 2:30 to 3:45 PM, and 4:00 to 5:15 PM
+Wednesdays  | 11:30 AM to 12:45 PM and 1:00 to 2:15 PM and 2:30 to 3:45 PM
+Thursdays   | 10:15 AM to 12:45 PM, 2:30 to 3:45 PM, and 4:00 to 5:15 PM
 Fridays     | 10:15 AM to 12:45 PM
 
 TA office hours begin on Friday 2020-01-17, and end at the end of April.
