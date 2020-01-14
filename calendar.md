@@ -13,7 +13,7 @@ Class 04 | 01-23 | TBA, **ART** Chapter 5
 -- | 01-28 | [Homework 1](https://github.com/THOMASELOVE/2020-432/tree/master/homework/hw01) due.
 Class 05 | 01-28 | TBA
 Class 06 | 01-30 | TBA, **ART** Chapter 4
--- | 02-01 | Project 1 Proposal due. Details to come.
+-- | 01-31 | Project 1 Proposal due. Details to come.
 -- | 02-04 | [Homework 2](https://github.com/THOMASELOVE/2020-432/tree/master/homework/hw02) due.
 Class 07 | 02-04 | TBA 
 Class 08 | 02-06 | TBA, **ART** Chapter 7
