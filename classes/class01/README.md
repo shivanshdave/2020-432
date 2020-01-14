@@ -24,8 +24,8 @@ An initial course roster is found at [this Google Sheet](http://bit.ly/432-2020-
 - Complete [the roster check](http://bit.ly/432-2020-roster-check), described above, as soon as possible.
 - Please complete the [Minute Paper after Class 01](http://bit.ly/432-2020-minute-01) by 2 PM tomorrow (2020-01-15).
 - Read David Spiegelhalter's **The Art of Statistics** Chapters 1-2 for our next class.
-- [Homework 1](https://github.com/THOMASELOVE/2020-432/tree/master/homework/hw01) is the next assignment. 
-- Your Proposal for Project 1 will be the next big thing to think about.
+- [Homework 1](https://github.com/THOMASELOVE/2020-432/tree/master/homework/hw01) is the next assignment.
+- Your Proposal for Project 1 will be the next big thing to think about. You'll have all of the details by one week from now.
 
 ### Course Password
 
