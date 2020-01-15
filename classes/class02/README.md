@@ -15,6 +15,13 @@
 
 Coming soon.
 
+## The PPDAC Cycle, From Inking to Plan and other Statistical Thinking Diagrams
+
+Chris Wild provides [some outstanding diagrams here](https://www.stat.auckland.ac.nz/~wild/StatThink/) that help describe the thought process very effectively. Of course, the key one that Spiegelhalter highlights is a version of this...
+
+![](https://github.com/THOMASELOVE/2020-432/blob/master/classes/class02/figures/PPDAC_tweet_2018-12-06.png)
+
+
 ## One Last Thing
 
 Today, we'll spend some time reviewing the latest forecast of the 2020 Democratic Presidential Primary from Nate Silver and the folks at [FiveThirtyEight.com](https://fivethirtyeight.com/), at [Who Will Win The 2020 Democratic Nomination?](https://projects.fivethirtyeight.com/2020-primary-forecast/)
