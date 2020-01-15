@@ -5,7 +5,7 @@
 Welcome to PQHS / CRSP / MPHP 432!
 
 - The main website for the course is https://github.com/THOMASELOVE/2020-432.
-- When available, we'll post [today's audio recording to this Shared Drive](http://bit.ly/432-2020-audio).
+- Today's [audio recording will be found (in 3 parts) on this Shared Drive](http://bit.ly/432-2020-audio).
 - Today's slides are [available in PDF](https://github.com/THOMASELOVE/2020-432/blob/master/classes/class01/432_2020_slides01.pdf) and [also in R Markdown](https://github.com/THOMASELOVE/2020-432/blob/master/classes/class01/432_2020_slides01.Rmd) formats. I used the R Markdown to generate the PDF.
 - Karl W. Broman & Kara H. Woo (2018) [Data Organization in Spreadsheets](https://github.com/THOMASELOVE/2019-432/blob/master/references/pdf/Broman_and_Woo_2018_Data_Organization_in_Spreadsheets.pdf), *The American Statistician*, 72:1, 2-10, DOI: [10.1080/00031305.2017.1375989](https://doi.org/10.1080/00031305.2017.1375989) will be discussed today, and is well worth your time, as you start to think about your course project.
 - The material we discuss today about building a Table 1 in R is introduced in [Chapter 1 of the Course Notes](https://thomaselove.github.io/2020-432-book/building-table-1.html).
