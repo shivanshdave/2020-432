@@ -2,7 +2,7 @@
 
 ## Key Materials
 
-- Today's slides are available in PDF and R Markdown formats.
+- Today's slides are [available in PDF](https://github.com/THOMASELOVE/2020-432/blob/master/classes/class02/432_2020_slides02.pdf) and [R Markdown](https://github.com/THOMASELOVE/2020-432/blob/master/classes/class02/432_2020_slides02.Rmd) formats.
 - When available, we'll post [today's audio recording to this Shared Drive](http://bit.ly/432-2020-audio).
     - Note that the Class 1 recordings (these are generally split into three parts) have been posted. Usually, we post the recordings within six hours of the end of class.
 
