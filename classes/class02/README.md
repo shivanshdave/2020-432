@@ -42,5 +42,8 @@ Today, we'll spend some time reviewing the latest forecast of the 2020 Democrati
 
 ## What's Coming Up?
 
-Details to come.
+- Read *The Art of Statistics* through Chapter 3. (I'd read through Chapter 5 were I you.)
+- Get started on [Homework 1](https://github.com/THOMASELOVE/2020-432/tree/master/homework/hw01) which is due 2020-01-28. In fact, you should be able to make a credible effort on Questions 1 and 2, certainly, by the end of today's class, and Question 3 (there are only 3) is a reaction essay to Spiegelhalter, especially his Chapter 5, so that's all that's stopping you there.
+- Anticipate that there will be a lot of new information appearing between now and Tuesday's class on the site, including project details.
+
 
