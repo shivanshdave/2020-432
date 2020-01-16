@@ -34,6 +34,8 @@ Today, we'll spend some time reviewing the latest forecast of the 2020 Democrati
 - You may be interested in [How Our Primary Model Works](https://fivethirtyeight.com/features/how-fivethirtyeight-2020-primary-model-works/) by Nate Silver, posted 2020-01-09.
 - The Ohio primary isn't until 2020-03-17 (which is two weeks after "Super Tuesday" so we'll happens before then. I expect that not all of the current candidates will still be candidates.
 
+-----------
+
 ## What's Coming Up?
 
 1. Read *The Art of Statistics* through Chapter 3. (I'd read through Chapter 5 were I you.)
