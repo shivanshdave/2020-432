@@ -33,7 +33,7 @@ Chris Wild provides [some outstanding diagrams here](https://www.stat.auckland.a
 - David Spiegelhalter appeared on a [recent episode of *The Guardian's* Science Weekly podcast](https://www.theguardian.com/science/audio/2019/apr/05/cross-section-david-spiegelhalter-science-weekly-podcast) to discuss statistics and its importance to medical scientist.
 - [FiveThirtyEight](https://fivethirtyeight.com/tag/fivethirtyeight-podcasts/) runs both a sports and a political podcast. The "Model Talk" episodes are particularly great for me.
 
-## One Last Thing
+## Visualization of the Day
 
 Today, we'll spend some time reviewing the latest forecast of the 2020 Democratic Presidential Primary from Nate Silver and the folks at [FiveThirtyEight.com](https://fivethirtyeight.com/), at [Who Will Win The 2020 Democratic Nomination?](https://projects.fivethirtyeight.com/2020-primary-forecast/)
 
@@ -42,8 +42,23 @@ Today, we'll spend some time reviewing the latest forecast of the 2020 Democrati
 
 ## What's Coming Up?
 
-- Read *The Art of Statistics* through Chapter 3. (I'd read through Chapter 5 were I you.)
-- Get started on [Homework 1](https://github.com/THOMASELOVE/2020-432/tree/master/homework/hw01) which is due 2020-01-28. In fact, you should be able to make a credible effort on Questions 1 and 2, certainly, by the end of today's class, and Question 3 (there are only 3) is a reaction essay to Spiegelhalter, especially his Chapter 5, so that's all that's stopping you there.
-- Anticipate that there will be a lot of new information appearing between now and Tuesday's class on the site, including project details.
+1. Read *The Art of Statistics* through Chapter 3. (I'd read through Chapter 5 were I you.)
+2. Get started on [Homework 1](https://github.com/THOMASELOVE/2020-432/tree/master/homework/hw01) which is due 2020-01-28. In fact, you should be able to make a credible effort on Questions 1 and 2, certainly, by the end of today's class, and Question 3 (there are only 3) is a reaction essay to Spiegelhalter, especially his Chapter 5, so that's all that's stopping you there.
+3. Anticipate that there will be a lot of new information appearing between now and Tuesday's class on the site, including project details.
+4. Remember to **ASK US FOR HELP** at `431-help at case dot edu` or stop by [TA office hours](https://github.com/THOMASELOVE/2020-432/blob/master/calendar.md#tas-and-office-hours), which start tomorrow and then resume Tuesday.
 
+![](https://github.com/THOMASELOVE/2020-432/blob/master/classes/class02/figures/phd_staring.PNG) http://phdcomics.com/comics/archive.php?comicid=1479
 
+## One Last Thing
+
+Remember that in honor of the late Dr. King, the following Cleveland institutions will be offering free admission Monday...
+
+- The [Cleveland Botanical Garden](https://cbgarden.org/) (10am-5pm)
+- [Cleveland History Center](https://www.wrhs.org/cleveland-starts-here/) (10am-5pm)
+- [Cleveland Metroparks Zoo](https://www.clevelandmetroparks.com/zoo) (10am-5pm)
+- [Cleveland Museum of Natural History](https://www.cmnh.org/) (10am-5pm)
+- [Great Lakes Science Center](https://greatscience.com/) (10am-5pm)
+- [Maltz Museum of Jewish Heritage](https://www.maltzmuseum.org/) (11am-5pm)
+- [Rock & Roll Hall of Fame](https://www.rockhall.com/) (10am-5:30pm).
+
+to say nothing of the [Cleveland Museum of Art](https://www.clevelandart.org/), which is closed Mondays but is free to the public, and just around the corner...
