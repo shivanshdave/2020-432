@@ -25,6 +25,14 @@ Chris Wild provides [some outstanding diagrams here](https://www.stat.auckland.a
 2. I updated Chapter 2 of the [Course Notes](https://thomaselove.github.io/2020-432-book/) and an update to Chapter 3 is coming soon. This also affected the [Data and Code](https://github.com/THOMASELOVE/432-data) page. Considerable additional material is coming soon.
 3. I'll open Canvas up for this course before our next class, but I haven't done that yet, if you're wondering.
 
+## Podcast Recommendations
+
+- Roger Peng and Hilary Parker's [Not So Standard Deviations](http://nssdeviations.com/) is also about statistical issues, and is relevant to both academics and people working (or looking to work) in industry.
+- Roger Peng and Elizabeth Matsui produce [The Effort Report](http://effortreport.libsyn.com/) which is about academic life in medicine, as much as anything else, framed through the lenses of a statistician and a clinician who do research together.
+- The [Casual Inference](https://casualinfer.libsyn.com/) podcast, with Lucy D'Agostino McGown (Wake Forest) and Ellie Murray (Boston U) has been recommended to me by several people and they have some great guests to talk about core concepts in epidemiology and biostatistics. I've only listened to one episode, but it was great.
+- David Spiegelhalter appeared on a [recent episode of *The Guardian's* Science Weekly podcast](https://www.theguardian.com/science/audio/2019/apr/05/cross-section-david-spiegelhalter-science-weekly-podcast) to discuss statistics and its importance to medical scientist.
+- [FiveThirtyEight](https://fivethirtyeight.com/tag/fivethirtyeight-podcasts/) runs both a sports and a political podcast. The "Model Talk" episodes are particularly great for me.
+
 ## One Last Thing
 
 Today, we'll spend some time reviewing the latest forecast of the 2020 Democratic Presidential Primary from Nate Silver and the folks at [FiveThirtyEight.com](https://fivethirtyeight.com/), at [Who Will Win The 2020 Democratic Nomination?](https://projects.fivethirtyeight.com/2020-primary-forecast/)
