@@ -10,6 +10,12 @@
 
 Coming soon.
 
+## The PPDAC Cycle, From Inking to Plan and other Statistical Thinking Diagrams
+
+Chris Wild provides [some outstanding diagrams here](https://www.stat.auckland.ac.nz/~wild/StatThink/) that help describe the thought process very effectively. We'll look at a couple today. The key one that Spiegelhalter highlights is a version of this...
+
+![](https://github.com/THOMASELOVE/2020-432/blob/master/classes/class02/figures/PPDAC_tweet_2018-12-06.png)
+
 ## One Last Thing
 
 Over the course of the semester, we'll look at several of the [Best Data Visualization Projects of 2019](https://flowingdata.com/2019/12/19/best-data-visualization-projects-of-2019/) as identified by Nathan Yau at [flowingdata.com](https://flowingdata.com/). 
