@@ -12,12 +12,6 @@
 - TA office hours start Friday 2020-01-17. The schedule and other details are posted at the [bottom of the Calendar](https://github.com/THOMASELOVE/2020-432/blob/master/calendar.md#tas-and-office-hours).
 - The main website for the course is https://github.com/THOMASELOVE/2020-432.
 
-## The PPDAC Cycle, From Inking to Plan and other Statistical Thinking Diagrams
-
-Chris Wild provides [some outstanding diagrams here](https://www.stat.auckland.ac.nz/~wild/StatThink/) that help describe the thought process very effectively. We'll look at a couple today. The key one that Spiegelhalter highlights is a version of this...
-
-![](https://github.com/THOMASELOVE/2020-432/blob/master/classes/class02/figures/PPDAC_tweet_2018-12-06.png)
-
 ## Today's Announcements
 
 1. Thanks for completing the Roster Check, and thanks especially to those who completed the Minute Paper after Class 1 in a timely way. I really appreciate it.
