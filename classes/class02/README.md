@@ -43,7 +43,11 @@ Today, we'll spend some time reviewing the latest forecast of the 2020 Democrati
 ## What's Coming Up?
 
 1. Read *The Art of Statistics* through Chapter 3. (I'd read through Chapter 5 were I you.)
-2. Get started on [Homework 1](https://github.com/THOMASELOVE/2020-432/tree/master/homework/hw01) which is due 2020-01-28. In fact, you should be able to make a credible effort on Questions 1 and 2, certainly, by the end of today's class, and Question 3 (there are only 3) is a reaction essay to Spiegelhalter, especially his Chapter 5, so that's all that's stopping you there.
+2. Get started on [Homework 1](https://github.com/THOMASELOVE/2020-432/tree/master/homework/hw01) which is due 2020-01-28. 
+    - There are three questions.
+    - Question 1 is about building a Table 1. You can do that now.
+    - Question 2 is mostly about building some graphs to think about an ANOVA model. You can certainly do that part, even if you're not totally comfortable thinking yet about the interaction term when you actually build the model.
+    - Question 3 is an essay reacting to Spiegelhalter, especially his Chapter 5, so reading that Chapter is necessary.
 3. Anticipate that there will be a lot of new information appearing between now and Tuesday's class on the site, including project details.
 4. Remember to **ASK US FOR HELP** at `431-help at case dot edu` or stop by [TA office hours](https://github.com/THOMASELOVE/2020-432/blob/master/calendar.md#tas-and-office-hours), which start tomorrow and then resume Tuesday.
 
