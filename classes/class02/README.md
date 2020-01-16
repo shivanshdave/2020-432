@@ -23,6 +23,7 @@ Chris Wild provides [some outstanding diagrams here](https://www.stat.auckland.a
 1. Thanks for completing the Roster Check, and thanks especially to those who completed the Minute Paper after Class 1 in a timely way. I really appreciate it.
     - [Minute Paper after Class 1 Feedback is here](http://bit.ly/432-2020-minute-01-feedback).
 2. I updated Chapter 2 of the [Course Notes](https://thomaselove.github.io/2020-432-book/) and an update to Chapter 3 is coming soon. This also affected the [Data and Code](https://github.com/THOMASELOVE/432-data) page. Considerable additional material is coming soon.
+3. I'll open Canvas up for this course before our next class, but I haven't done that yet, if you're wondering.
 
 ## One Last Thing
 
