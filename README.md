@@ -45,7 +45,7 @@ This will be the public web site for Dr. Thomas E. Love's 432 course in Spring 2
 - The [Projects page](https://github.com/THOMASELOVE/2020-432/tree/master/projects) provides details on the two course projects you'll complete. 
 - The [Quizzes page](https://github.com/THOMASELOVE/2020-432/tree/master/quizzes) provides details on the quizzes you'll take. 
 
-Deadlines for all deliverables are specified exclusively at [the Course Calendar](https://github.com/THOMASELOVE/432-2020/blob/master/calendar.md).
+Deadlines for all deliverables are specified exclusively at [the Course Calendar](https://github.com/THOMASELOVE/2020-432/blob/master/calendar.md).
 
 ## Getting Help
 
