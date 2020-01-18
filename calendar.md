@@ -10,14 +10,14 @@ Session | Date | Materials
 [Class 02](https://github.com/THOMASELOVE/2020-432/tree/master/classes/class02) | 01-16 | Developing the BRFSS/SMART data, **ART** Introduction and Chapters 1-2
 [Class 03](https://github.com/THOMASELOVE/2020-432/tree/master/classes/class03) | 01-21 | TBA, **ART** Chapter 3
 Class 04 | 01-23 | TBA, **ART** Chapter 5
--- | 01-28 | [Homework 1](https://github.com/THOMASELOVE/2020-432/tree/master/homework/hw01) due.
+-- | 01-28 | [Homework 1](https://github.com/THOMASELOVE/2020-432/tree/master/homework/hw01) due at 5 PM.
 Class 05 | 01-28 | TBA
 Class 06 | 01-30 | TBA, **ART** Chapter 4
 -- | 01-31 | Project 1 Proposal due. Details to come.
--- | 02-04 | [Homework 2](https://github.com/THOMASELOVE/2020-432/tree/master/homework/hw02) due.
+-- | 02-04 | [Homework 2](https://github.com/THOMASELOVE/2020-432/tree/master/homework/hw02) due at 5 PM.
 Class 07 | 02-04 | TBA 
 Class 08 | 02-06 | TBA, **ART** Chapter 7
--- | 02-11 | [Homework 3](https://github.com/THOMASELOVE/2020-432/tree/master/homework/hw03) due.
+-- | 02-11 | [Homework 3](https://github.com/THOMASELOVE/2020-432/tree/master/homework/hw03) due at 5 PM.
 Class 09 | 02-11 | TBA
 Class 10 | 02-13 | TBA
 Class 11 | 02-18 | TBA
