@@ -1,6 +1,6 @@
 # 2020-432
 
-This will be the public web site for Dr. Thomas E. Love's 432 course in Spring 2020 at Case Western Reserve University. 
+Welcome to Dr. Thomas E. Love's 432 course in Spring 2020 at Case Western Reserve University. 
 
 ## When and Where?
 
