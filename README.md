@@ -7,25 +7,7 @@ This will be the public web site for Dr. Thomas E. Love's 432 course in Spring 2
 - Tuesdays and Thursdays from 1 PM to 2:15 PM in Room **E321-323** in the Robbins Building at the School of Medicine.
 - Classes meet as listed on the [Course Calendar](https://github.com/THOMASELOVE/2020-432/blob/master/calendar.md). Our first session will be on Tuesday **2020-01-14**. 
 
-### Contacting Us
-
-- After the first class, most questions and other feedback should be sent to Dr. Love and the Teaching Assistants via email: `431-help at case dot edu`. 
-- Prior to the first class, or to contact Dr. Love individually, email `thomas dot love at case dot edu`.
-
-## What Should I Do Prior to the First Class?
-
-1. **Buy The Art of Statistics: How to Learn from Data** by David Spiegelhalter. 
-    - We'll read the entire book this Spring, but I encourage you to read Chapters 1-5 soon.
-    - The book is available online for less than $25 in hardcover, and less than $20 as an e-book. [Amazon link](https://www.amazon.com/Art-Statistics-How-Learn-Data/dp/1541618513).
-    - Here's [the book's website](https://dspiegel29.github.io/ArtofStatistics/) which contains code, corrections and other materials.
-
-2. **Install the Software**: Install R (version 3.6.2 or later) and RStudio (version 1.2.5033 or later) and some necessary R packages. [Details here](https://github.com/THOMASELOVE/2020-432/blob/master/software.md).
-
-3. Materials will continue to appear on the web in fits and starts all semester. Take a look at what's already up.
-
 ## Key Links
-
-### Available Now
 
 - The [Course Calendar](https://github.com/THOMASELOVE/2020-432/blob/master/calendar.md) serves as the final word for all deadlines and provides links for all classes and deliverables.
     - Each Class has an associated README page ([here's Class 1](https://github.com/THOMASELOVE/2020-432/tree/master/classes/class01)) linked from the [Course Calendar](https://github.com/THOMASELOVE/2020-432/blob/master/calendar.md). 
@@ -55,7 +37,23 @@ Deadlines for all deliverables are specified exclusively at [the Course Calendar
 - Dr. Love holds office hours on Tuesdays and Thursdays, by appointment. To make an appointment, email him directly at `thomas dot love at case dot edu`.
 - Don't forget that the [R-basics page](https://github.com/THOMASELOVE/2020-432/tree/master/r-basics) provides numerous examples in data cleaning, data management, and coding analyses in R.
 
-------
+-----------
+
+## Stuff from before the class started
+
+- After the first class, most questions and other feedback should be sent to Dr. Love and the Teaching Assistants via email: `431-help at case dot edu`. 
+- Prior to the first class, or to contact Dr. Love individually, email `thomas dot love at case dot edu`.
+
+## What Should I Do Prior to the First Class?
+
+1. **Buy The Art of Statistics: How to Learn from Data** by David Spiegelhalter. 
+    - We'll read the entire book this Spring, but I encourage you to read Chapters 1-5 soon.
+    - The book is available online for less than $25 in hardcover, and less than $20 as an e-book. [Amazon link](https://www.amazon.com/Art-Statistics-How-Learn-Data/dp/1541618513).
+    - Here's [the book's website](https://dspiegel29.github.io/ArtofStatistics/) which contains code, corrections and other materials.
+
+2. **Install the Software**: Install R (version 3.6.2 or later) and RStudio (version 1.2.5033 or later) and some necessary R packages. [Details here](https://github.com/THOMASELOVE/2020-432/blob/master/software.md).
+
+3. Materials will continue to appear on the web in fits and starts all semester. Take a look at what's already up.
 
 ## Staying Sharp over the Break
 
