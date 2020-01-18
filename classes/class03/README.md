@@ -8,7 +8,8 @@
 
 ## Today's Announcements
 
-Coming soon.
+1. Canvas is now open. 
+    - For all 432 Homework assignments, the deadline posted in [the Course Calendar](https://github.com/THOMASELOVE/2020-432/blob/master/calendar.md) is one hour earlier than the cutoff for "late" assignments posted on Canvas. There will be no penalty for Homework received before the Canvas deadline. This "one extra hour" policy applies only to Homework and not to other types of 432 assignments.
 
 ## The PPDAC Cycle, From Inking to Plan and other Statistical Thinking Diagrams
 
