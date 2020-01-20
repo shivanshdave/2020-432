@@ -11,12 +11,6 @@
 1. Canvas is now open. 
     - For all 432 Homework assignments, the deadline posted in [the Course Calendar](https://github.com/THOMASELOVE/2020-432/blob/master/calendar.md) is one hour earlier than the cutoff for "late" assignments posted on Canvas. There will be no penalty for Homework received before the Canvas deadline. This "one extra hour" policy applies only to Homework and not to other types of 432 assignments.
 
-## The PPDAC Cycle, From Inking to Plan and other Statistical Thinking Diagrams
-
- We'll look at a couple today. The key one that Spiegelhalter highlights is a version of this...
-
-![](https://github.com/THOMASELOVE/2020-432/blob/master/classes/class02/figures/PPDAC_tweet_2018-12-06.png)
-
 ## References from Today's Slides
 
 - [Getting Started with `naniar` vignette](https://cran.r-project.org/web/packages/naniar/vignettes/getting-started-w-naniar.html)
