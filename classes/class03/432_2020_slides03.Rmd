@@ -324,6 +324,34 @@ saveRDS(smart1_sh, "data/smart1_sh.Rds")
 2. Does whether you have health insurance affect how we think about the BMI-diabetes association?
 3. Does adjusting for physical health (as measured by the number of poor physical health days in the past 30) affect our Question 2 assessment?
 
+## Distribution of BMI? (code)
+
+```{r, eval = FALSE}
+p1 <- ggplot(smart1_sh, aes(x = bmi)) +
+  geom_histogram(binwidth = 2) +
+  labs(title = "Histogram of BMI")
+
+p2 <- ggplot(smart1_sh, aes(sample = bmi)) +
+  geom_qq() + geom_qq_line(col = "red") +
+  labs(title = "Normal Q-Q plot of BMI")
+
+p1 + p2
+```
+
+## Distribution of BMI? (results)
+
+```{r, echo = FALSE}
+p1 <- ggplot(smart1_sh, aes(x = bmi)) +
+  geom_histogram(binwidth = 2) +
+  labs(title = "Histogram of BMI")
+
+p2 <- ggplot(smart1_sh, aes(sample = bmi)) +
+  geom_qq() + geom_qq_line(col = "red") +
+  labs(title = "Normal Q-Q plot of BMI")
+
+p1 + p2
+```
+
 ## Answering Questions
 
 1. What is the effect of having a diagnosis of diabetes on body mass index?
@@ -599,24 +627,56 @@ ggplot(summaries1, aes(x = dm_status, y = mean,
        subtitle = "by Diabetes Status and Insurance")
 ```
 
+## Interlude: A more substantial interaction?
+
+We'll plot the means of the `bmi` in the four combinations:
+
+- two levels of `dm_status` combined with
+- two levels of `landline`
+
+```{r}
+summaries0 <- smart1_sh %>% 
+  group_by(dm_status, landline) %>%
+  summarize(n = n(), mean = mean(bmi), stdev = sd(bmi))
+
+summaries0 %>% knitr::kable(digits = 2)
+```
+
+## Interlude: A more substantial interaction?
+
+```{r, echo = FALSE}
+pd <- position_dodge(0.2)
+ggplot(summaries0, aes(x = dm_status, y = mean,
+                       col = factor(landline))) +
+  geom_errorbar(aes(ymin = mean - stdev,
+                    ymax = mean + stdev),
+                width = 0.2, position = pd) +
+  geom_point(size = 2, position = pd) +
+  geom_line(aes(group = landline), position = pd) +
+  labs(y = "Body-Mass Index",
+       x = "Diabetes?",
+       title = "Observed Means (+/- SD) for BMI", 
+       subtitle = "by Diabetes Status and Contact Type")
+```
+
 ## Evaluation in our Two-Way ANOVA of Interaction
 
 1. Does the interaction plot display important non-parallelism?
-    - I don't think so. 
+    - No, I don't think so. 
 2. Does the interaction term account for a substantial fraction of the variation in our outcome?
 
 ```{r}
 anova(a2) %>% knitr::kable(digits = 0)
 ```
 
-- SS(total) = 288338 + 30 + 3 + 14775 = `r 288338 + 30 + 3 + 14775`
+- SS(total) = 288,338 + 30 + 3 + 14,775 = 303,146.
 - SS(interaction) = 30
 - $\eta^2$(interaction) = $\frac{30}{303146} = .000099$, or about 0.01% of `bmi` variation.
 
 ## Is the interaction term important here?
 
 1. Does the interaction plot display important non-parallelism?
-    - I've repeated it on the next slide.
+    - No.
 2. Does the interaction term account for a substantial fraction of the variation in our outcome?
     - It accounts for just under 0.01% of variation, so no.
 3. Does the interaction term's estimate/standard error/uncertainty interval meet usual standards for statistical significance?
@@ -706,6 +766,24 @@ We have the usual strategies applicable in any linear model:
 - evaluate the R^2^ and other summary statistics, especially in comparison to alternative specifications of models for the same outcome.
 - evaluate the fit of the model to regression assumptions, mostly through diagnostics based on residuals
 - cross-validate our model selection process, perhaps by partitioning the sample into a training sample (where candidate models are developed) and a holdout / test sample (where we choose between the candidates)
+
+## Summary Statistics (Whole Sample)
+
+```{r}
+bind_rows(glance(a1), glance(a2_noint), glance(a3_noint)) %>%
+  mutate(model = 
+           c("dm_status", "+ healthplan", "+ physhealth")) %>%
+  select(model, r.squared, sigma, AIC, BIC, adj.r.squared) %>% 
+  knitr::kable(digits = 3)
+```
+
+## `plot(a3_noint)`
+
+```{r, echo = FALSE}
+par(mfrow=c(2,2))
+  plot(a3_noint)
+par(mfrow = c(1,1))
+```
 
 ## What's next?
 
