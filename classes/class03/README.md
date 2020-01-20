@@ -13,9 +13,14 @@
 
 ## The PPDAC Cycle, From Inking to Plan and other Statistical Thinking Diagrams
 
-Chris Wild provides [some outstanding diagrams here](https://www.stat.auckland.ac.nz/~wild/StatThink/) that help describe the thought process very effectively. We'll look at a couple today. The key one that Spiegelhalter highlights is a version of this...
+ We'll look at a couple today. The key one that Spiegelhalter highlights is a version of this...
 
 ![](https://github.com/THOMASELOVE/2020-432/blob/master/classes/class02/figures/PPDAC_tweet_2018-12-06.png)
+
+## References from Today's Slides
+
+- [Getting Started with `naniar` vignette](https://cran.r-project.org/web/packages/naniar/vignettes/getting-started-w-naniar.html)
+- Chris Wild provides [some outstanding diagrams here](https://www.stat.auckland.ac.nz/~wild/StatThink/) that help describe the thought process very effectively. We looked at the [PPDAC Investigative Cycle](https://www.stat.auckland.ac.nz/~wild/StatThink/images/99.Investigative.png), and at "[From inkling to plan](https://www.stat.auckland.ac.nz/~wild/StatThink/images/99.Inkling.png)".
 
 ## One Last Thing
 
