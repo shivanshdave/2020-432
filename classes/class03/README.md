@@ -4,7 +4,7 @@
 
 - Today's slides are [available in PDF](https://github.com/THOMASELOVE/2020-432/blob/master/classes/class03/432_2020_slides03.pdf) and [R Markdown](https://github.com/THOMASELOVE/2020-432/blob/master/classes/class03/432_2020_slides03.Rmd) formats.
     - We got through slide 54, as is not indicated in the edited slides I posted. We will resume with slide 55 on Thursday.
-- When available, an [audio recording of this class will appear on this Shared Drive](http://bit.ly/432-2020-audio).
+- Today's audio recording has been posted to [our shared drive](http://bit.ly/432-2020-audio) at http://bit.ly/432-2020-audio.
 - Get help at any time by emailing **431-help at case dot edu**.
 - The main website for the course is https://github.com/THOMASELOVE/2020-432.
 
