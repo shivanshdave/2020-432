@@ -10,5 +10,6 @@
 ## Today's Announcements
 
 1. There will be a Minute Paper after Class 4. Details to come.
+2. We'll actually start today's class with Slide 55 from Class 3.
 
 More later.
