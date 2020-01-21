@@ -19,8 +19,9 @@
 3. Canvas is now open. 
     - For all 432 Homework assignments, the deadline posted in [the Course Calendar](https://github.com/THOMASELOVE/2020-432/blob/master/calendar.md) is one hour earlier than the cutoff for "late" assignments posted on Canvas. There will be no penalty for Homework received before the Canvas deadline. This "one extra hour" policy applies only to Homework and not to other types of 432 assignments.
 4. The [Course Calendar](https://github.com/THOMASELOVE/2020-432/blob/master/calendar.md) now lists the date for [Quiz 1](https://github.com/THOMASELOVE/2020-432/tree/master/quizzes) in late February, and the deadlines for the two major Project 1 tasks: the Proposal in mid-February and the Poster/Portfolio in early March.
-5. James Densmore curated a nice list of [Free Data Science Books](https://www.dataliftoff.com/free-data-science-books/) at DataLiftoff, if you're interested.
-6. [Alex Cookson built a great resource](https://twitter.com/alexcookson/status/1216798492183670784?s=11). 
+5. There is no Minute Paper today. We will do one after Thursday's class.
+6. James Densmore curated a nice list of [Free Data Science Books](https://www.dataliftoff.com/free-data-science-books/) at DataLiftoff, if you're interested.
+7. [Alex Cookson built a great resource](https://twitter.com/alexcookson/status/1216798492183670784?s=11). 
 
 ![](https://github.com/THOMASELOVE/2020-432/blob/master/classes/class03/figures/cookson_2020-01-13.PNG)
 
