@@ -8,33 +8,36 @@ Session | Date | Materials
 --------: | :-----: | ----------------------------------------------------------------------
 [Class 01](https://github.com/THOMASELOVE/2020-432/tree/master/classes/class01) | 01-14 | Getting Started, Building Table 1.
 [Class 02](https://github.com/THOMASELOVE/2020-432/tree/master/classes/class02) | 01-16 | Developing the BRFSS/SMART data, **ART** Introduction and Chapters 1-2
-[Class 03](https://github.com/THOMASELOVE/2020-432/tree/master/classes/class03) | 01-21 | TBA, **ART** Chapter 3
-Class 04 | 01-23 | TBA, **ART** Chapter 5
+[Class 03](https://github.com/THOMASELOVE/2020-432/tree/master/classes/class03) | 01-21 | Imputation, Interaction, ANOVA and ANCOVA models, **ART** Chapter 3
+Class 04 | 01-23 | Interaction: Multi-categorical predictors, Predicting Binary Outcomes **ART** Chapter 5
 -- | 01-28 | [Homework 1](https://github.com/THOMASELOVE/2020-432/tree/master/homework/hw01) due at 5 PM.
 Class 05 | 01-28 | TBA
 Class 06 | 01-30 | TBA, **ART** Chapter 4
--- | 01-31 | Project 1 Proposal due. Details to come.
 -- | 02-04 | [Homework 2](https://github.com/THOMASELOVE/2020-432/tree/master/homework/hw02) due at 5 PM.
 Class 07 | 02-04 | TBA 
+-- | 02-05 | You should have your data for Project 1 by this date.
 Class 08 | 02-06 | TBA, **ART** Chapter 7
 -- | 02-11 | [Homework 3](https://github.com/THOMASELOVE/2020-432/tree/master/homework/hw03) due at 5 PM.
 Class 09 | 02-11 | TBA
 Class 10 | 02-13 | TBA
+-- | 02-14 | Project 1 Proposal due at 2 PM. Details to come.
 Class 11 | 02-18 | TBA
 Class 12 | 02-20 | TBA
 Class 13 | 02-25 | TBA
+-- | 02-26 | Quiz 1 will be made available.
 -- | 02-27 | No class. Dr. Love will be at AHRQ Study Section.
+-- | 03-02 | Quiz 1 is due at 9 AM.
 Class 14 | 03-03 | TBA
--- | 03-04 | Project 1 due. Details to come.
 Class 15 | 03-05 | TBA
+-- | 03-09 | Project 1 Posters are due at 2 PM.
 -- | 03-10 | No class. CWRU Spring Break (03-09 through 03-13)
 -- | 03-12 | No class. CWRU Spring Break (03-09 through 03-13)
 Class 16 | 03-17 | TBA
 Class 17 | 03-19 | Dr. Love may be out of town.
 Class 18 | 03-24 | TBA
 Class 19 | 03-26 | TBA
--- | 03-31 | Project 2 Proposal due. Details to come.
 Class 20 | 03-31 | TBA
+-- | 04-01 | Project 2 Proposal due at 2 PM. Details to come.
 Class 21 | 04-02 | TBA
 Class 22 | 04-07 | TBA
 Class 23 | 04-09 | TBA
