@@ -25,7 +25,7 @@ Class 11 | 02-18 | TBA
 Class 12 | 02-20 | TBA
 Class 13 | 02-25 | TBA
 -- | 02-26 | Quiz 1 will be made available.
--- | 02-27 | No class. Dr. Love will be at AHRQ Study Section.
+-- | 02-27 | Project Group Meetings, run by the TAs. Dr. Love will be at AHRQ Study Section.
 -- | 03-02 | Quiz 1 is due at 9 AM.
 Class 14 | 03-03 | TBA
 Class 15 | 03-05 | TBA
