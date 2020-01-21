@@ -11,6 +11,14 @@
 
 1. Canvas is now open. 
     - For all 432 Homework assignments, the deadline posted in [the Course Calendar](https://github.com/THOMASELOVE/2020-432/blob/master/calendar.md) is one hour earlier than the cutoff for "late" assignments posted on Canvas. There will be no penalty for Homework received before the Canvas deadline. This "one extra hour" policy applies only to Homework and not to other types of 432 assignments.
+2. [Project 1 instructions](https://github.com/THOMASELOVE/2020-432/tree/master/projects/project1) are now available.
+    - You'll find a [README](https://github.com/THOMASELOVE/2020-432/tree/master/projects/project1) which describes the proposal, which is [due in mid-February (the calendar has the details)](https://github.com/THOMASELOVE/2020-432/blob/master/calendar.md).
+    - You'll also find a [rubric](https://github.com/THOMASELOVE/2020-432/blob/master/projects/project1/project1_proposal_rubric.md) showing how the teaching assistants will evaluate your proposal.
+    - Additional instructions will appear by the end of January describing the Project 1 portfolio and poster, which are due in March.
+    - Instructions regarding Project 2 will appear later this semester.
+    - There will be a special class in late February where you'll meet in small groups to share ideas about your project 1 work, with the TAs and each other. That's now [on the Calendar](https://github.com/THOMASELOVE/2020-432/blob/master/calendar.md).
+3. The [Course Calendar](https://github.com/THOMASELOVE/2020-432/blob/master/calendar.md) now lists the date for Quiz 1.
+
 
 ## References from Today's Slides
 
