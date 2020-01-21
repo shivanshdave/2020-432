@@ -11,5 +11,6 @@
 
 1. There will be a Minute Paper after Class 4. Details to come.
 2. We'll actually start today's class with Slide 55 from Class 3.
+3. Our department (PQHS) is working through the process of ensuring that all students in 432 have ID access to the Robbins and Wood buildings on weekdays. Further bulletins as events warrant.
 
 More later.
