@@ -23,6 +23,8 @@ Thomas E. Love
   - [Evaluating Proposal Task 9](#evaluating-proposal-task-9)
   - [Evaluating The Proposal: Part 10](#evaluating-the-proposal-part-10)
   - [Reporting the Results](#reporting-the-results)
+      - [When Will Dr. Love see the
+        proposals?](#when-will-dr.-love-see-the-proposals)
   - [Special Notes for Project Groups (rather than
     Individuals)](#special-notes-for-project-groups-rather-than-individuals)
 
@@ -39,9 +41,11 @@ Thomas E. Love
     problematic aspects of their proposal until they reach 10.
   - Students will have 48 hours after the posting to Canvas of each redo
     request to resubmit their work addressing the stated concerns.
-  - The TAs will grade each proposal initially. Dr. Love will handle the
-    redos personally, and will also review all proposals that receive a
-    score of 10 initially.
+  - The TAs will grade each proposal initially, and will also review the
+    first revision of any proposal.
+  - Dr. Love will handle any subsequent revisions (after the first)
+    personally, and will also review all proposals that receive a score
+    of 10 from the TAs after the initial review or first revision.
 
 # What is the Purpose of this Document?
 
@@ -325,23 +329,38 @@ of the explanation of the data source in Task 1.
 # Reporting the Results
 
 Once the grading for a initial draft of a proposal is completed, the
-teaching assistants will:
+teaching assistants will do two things:
 
-  - place the project title, and the student’s grade regarding each of
-    the ten points of the proposal (1 or 0) should be placed on the
-    Google Sheet Dr. Love has made available to you, as well as
-    providing any additional comments regarding specific issues that the
-    student needs to address regarding any area where the student failed
-    to get the point.
-
-Once that has happened, Dr. Love will then:
-
-  - place the student’s total score (0-10) on Canvas, and provide a
+1.  place the student’s total score (0-10) on Canvas, and provide a
     comment in Canvas specifying either “Congratulations\! Proposal
     Accepted.” (for a score of 10) or “Redo requested on Parts X, Y, Z.”
     (for a score of 0-9 - specifying as X, Y, and Z the Parts of the
     proposal need to be redone.)
-  - handle the grading of all revisions.
+2.  place the project title, and the student’s grade regarding each of
+    the ten points of the proposal (1 or 0) on the Google Sheet Dr. Love
+    has made available to the TAs, as well as providing any additional
+    comments regarding specific issues that the student needs to address
+    regarding any area where the student failed to get the point.
+
+The TAs will also handle the first revision of each of the proposals,
+which will be graded on the same scale. Revisions are due 48 hours after
+the “Redo requested” notice is posted to Canvas. Should a student be
+unable to resolve the TA’s concerns in a first revision, Dr. Love will
+review any additional revisions.
+
+## When Will Dr. Love see the proposals?
+
+Dr. Love will review each proposal, either:
+
+  - once the TAs have awarded it a score of 10, either in the first
+    submission or after one revision
+  - or when the student has submitted a second revision, having failed
+    to score a 10 previously.
+
+Should Dr. Love feel the need for additional clarification, or wish to
+caution the student regarding any part of the project in anticipation of
+the final portfolio, he will produce additional comments for the student
+at that time. If he is satisfied, then he won’t.
 
 # Special Notes for Project Groups (rather than Individuals)
 
