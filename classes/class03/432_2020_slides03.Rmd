@@ -118,9 +118,9 @@ miss_var_summary(smart1)
 
 ## Visualizing Missingness in Variables
 
-```{r}
+```{r, fig.height = 4}
 gg_miss_var(smart1) + 
-  labs(title = "Lots of NAs in smart1 (n = 7412")
+  labs(title = "Lots of NAs in smart1 (n = 7412)")
 ```
 
 ## `prop_miss_case` and `pct_miss_case`
@@ -598,6 +598,8 @@ tidy(a2, conf.int = TRUE, conf.level = 0.90) %>%
 
 - Our interpretation here would involve specifying that the interaction between `dm_status` and `healthplan` is important, and focusing on what that means, perhaps by specifying what happens to the four types of people we could see (Yes/Yes, Yes/No, No/Yes and No/No) in terms of our two factors.
 - Do we need the interaction term here, or could we simplify the model?
+
+# This is where we got in Class 3. We'll start with the next slide in Class 4.
 
 ## Is the interaction term important here?
 
