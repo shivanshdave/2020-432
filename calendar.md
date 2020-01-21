@@ -15,21 +15,21 @@ Class 05 | 01-28 | TBA
 Class 06 | 01-30 | TBA, **ART** Chapter 4
 -- | 02-04 | [Homework 2](https://github.com/THOMASELOVE/2020-432/tree/master/homework/hw02) due at 5 PM.
 Class 07 | 02-04 | TBA 
--- | 02-05 | You should have your data for Project 1 by this date.
+-- | 02-05 | You should have your data for [Project 1](https://github.com/THOMASELOVE/2020-432/tree/master/projects/project1) by this date.
 Class 08 | 02-06 | TBA, **ART** Chapter 7
 -- | 02-11 | [Homework 3](https://github.com/THOMASELOVE/2020-432/tree/master/homework/hw03) due at 5 PM.
 Class 09 | 02-11 | TBA
 Class 10 | 02-13 | TBA
--- | 02-14 | Project 1 Proposal due at 2 PM. Details to come.
+-- | 02-14 | [Project 1 Proposal](https://github.com/THOMASELOVE/2020-432/tree/master/projects/project1) due at 2 PM. 
 Class 11 | 02-18 | TBA
 Class 12 | 02-20 | TBA
 Class 13 | 02-25 | TBA
--- | 02-26 | Quiz 1 will be made available.
--- | 02-27 | Project Group Meetings, run by the TAs. Dr. Love will be at AHRQ Study Section.
--- | 03-02 | Quiz 1 is due at 9 AM.
+-- | 02-26 | [Quiz 1](https://github.com/THOMASELOVE/2020-432/tree/master/quizzes) will be made available.
+-- | 02-27 | [Project 1](https://github.com/THOMASELOVE/2020-432/tree/master/projects/project1) Group Meetings, run by the TAs. Dr. Love will be at AHRQ Study Section.
+-- | 03-02 | [Quiz 1](https://github.com/THOMASELOVE/2020-432/tree/master/quizzes) is due at 9 AM.
 Class 14 | 03-03 | TBA
 Class 15 | 03-05 | TBA
--- | 03-09 | Project 1 Posters are due at 2 PM.
+-- | 03-09 | [Project 1 Posters/Portfolios](https://github.com/THOMASELOVE/2020-432/tree/master/projects/project1) are due at 2 PM.
 -- | 03-10 | No class. CWRU Spring Break (03-09 through 03-13)
 -- | 03-12 | No class. CWRU Spring Break (03-09 through 03-13)
 Class 16 | 03-17 | TBA
