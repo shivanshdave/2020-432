@@ -9,4 +9,6 @@
 
 ## Today's Announcements
 
-1. To come.
+1. There will be a Minute Paper after Class 4. Details to come.
+
+More later.
