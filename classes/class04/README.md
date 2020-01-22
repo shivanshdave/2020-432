@@ -10,7 +10,7 @@
 
 ## Today's Announcements
 
-1. Our department (PQHS) is working through the process of ensuring that all students in 432 have ID access to the Robbins and Wood buildings on weekdays. I've provided the relevant information to the right people. Further bulletins as events warrant.
+1. Our department (PQHS) worked through the process of ensuring that all students in 432 have ID access to the Robbins and Wood buildings on weekdays. My understanding is that this is now done for all students except those who didn't have an ID (or had an expired one) with Security. I sent those folks an email yesterday. So I hope you now have weekday building access for the rest of the semester.
 2. There is a Minute Paper after Class 4. **Details to come.**
 
 More to come.
