@@ -1,0 +1,933 @@
+---
+title: "432 Class 4 Slides"
+author: "github.com/THOMASELOVE/2020-432"
+date: "2020-01-23"
+output:
+  beamer_presentation:
+    theme: "Madrid"
+    colortheme: "lily"
+    fonttheme: "structurebold"
+    fig_caption: FALSE
+---
+
+```{r set-options, echo=FALSE, cache=FALSE}
+knitr::opts_chunk$set(comment=NA)
+options(width = 60)
+```
+
+## Today's Agenda
+
+1. Building a two-factor ANOVA model with multi-categorical factors
+    - again, focus on interpreting the interaction
+    - add covariates, as desired
+2. Building similar models for a binary outcome using linear probability models.
+3. Building similar models for a binary outcome with generalized linear models (specifically logistic regression).
+
+## Setup
+
+```{r, warning = FALSE, message = FALSE}
+library(here); library(magrittr); library(janitor)
+library(broom); library(simputation); library(patchwork)
+library(naniar); library(visdat)
+library(tidyverse)
+
+theme_set(theme_bw())
+
+smart1 <- readRDS(here("data/smart1.Rds"))
+smart1_sh <- readRDS(here("data/smart1_sh.Rds"))
+```
+
+## `smart1_sh` Variables, by Type
+
+Variable | Type | Description
+--------- | :----: | --------------------------------
+`landline` | Binary (1/0) | survey conducted by landline? (vs. cell)
+`healthplan` | Binary (1/0) | subject has health insurance?
+`age_imp` | Quantitative | age (imputed from groups - see Notes)
+`fruit_day` | Quantitative | mean servings of fruit / day
+`drinks_wk` | Quantitative | mean alcoholic drinks / week
+`bmi` | Quantitative | body-mass index (in kg/m^2^)
+`physhealth` | Count (0-30) | of last 30 days, # in poor physical health
+`dm_status` | Categorical | diabetes status (now 2 levels)
+`activity` | Categorical | physical activity level (4 levels)
+`smoker` | Categorical | tobacco use status (now 3 levels)
+`genhealth` | Categorical | self-reported overall health (5 levels)
+
+# ANOVA and ANCOVA with Multi-Categorical Predictors in Linear Models
+
+## New Questions
+
+1. How does a subject's self-reported general health and their tobacco status combine when predicting their body mass index?
+2. Does adjusting for the number of alcoholic drinks consumed per week affect our assessment?
+
+## Addressing Question 1: Simple Summary
+
+1. How does a subject's `genhealth` and `smoker` status combine when predicting their body mass index?
+
+```{r, message = FALSE}
+smart1_sh %$% 
+  mosaic::favstats(bmi ~ smoker + genhealth) %>%
+  rename(smoke.health = smoker.genhealth) %>%
+  knitr::kable(digits = 1)
+```
+
+## Visualize Three Variables (Code)
+
+```{r, eval = FALSE}
+ggplot(smart1_sh, aes(x = genhealth, y = bmi, 
+                      fill = smoker)) +
+  geom_violin(alpha = 0.3) +
+  geom_boxplot(width = 0.3, notch = TRUE) +
+  facet_wrap(~ smoker, labeller = label_both) +
+  coord_flip() +
+  guides(fill = FALSE)
+```
+
+## Visualize Three Variables
+
+```{r, echo = FALSE}
+ggplot(smart1_sh, aes(x = genhealth, y = bmi, 
+                      fill = smoker)) +
+  geom_violin(alpha = 0.3) +
+  geom_boxplot(width = 0.3, notch = TRUE) +
+  facet_wrap(~ smoker, labeller = label_both) +
+  coord_flip() +
+  guides(fill = FALSE)
+```
+
+## Interaction Plot 
+
+We'll plot the means of the `bmi` in the fifteen combinations:
+
+- three levels of `smoker` combined with
+- five levels of `genhealth`
+
+```{r}
+summaries4 <- smart1_sh %>% 
+  group_by(genhealth, smoker) %>%
+  summarize(n = n(), mean = mean(bmi), stdev = sd(bmi))
+
+summaries4 %>% knitr::kable(digits = 2)
+```
+
+## Interaction Plot for Two-Way ANOVA (code)
+
+```{r, eval = FALSE}
+pd <- position_dodge(0.2)
+ggplot(summaries4, aes(x = genhealth, y = mean,
+                       col = smoker)) +
+  geom_errorbar(aes(ymin = mean - stdev,
+                    ymax = mean + stdev),
+                width = 0.2, position = pd) +
+  geom_point(size = 2, position = pd) +
+  geom_line(aes(group = smoker), position = pd) +
+  labs(y = "Body-Mass Index",
+       x = "Self-Reported General Health",
+       title = "Observed Means (+/- SD) for BMI", 
+       subtitle = "by General Health and Tobacco Status")
+```
+
+## Interaction Plot for Two-Way ANOVA
+
+```{r, echo = FALSE}
+pd <- position_dodge(0.2)
+ggplot(summaries4, aes(x = genhealth, y = mean,
+                       col = smoker)) +
+  geom_errorbar(aes(ymin = mean - stdev,
+                    ymax = mean + stdev),
+                width = 0.2, position = pd) +
+  geom_point(size = 2, position = pd) +
+  geom_line(aes(group = smoker), position = pd) +
+  labs(y = "Body-Mass Index",
+       x = "Self-Reported General Health",
+       title = "Observed Means (+/- SD) for BMI", 
+       subtitle = "by General Health and Tobacco Status")
+```
+
+## Two-Way Analysis of Variance
+
+```{r}
+a4 <- smart1_sh %$% lm(bmi ~ genhealth * smoker)
+
+anova(a4) %>% knitr::kable(digits = 3)
+```
+
+## Model `a4` tidied coefficients
+
+```{r}
+tidy(a4, conf.int = TRUE, conf.level = 0.90) %>%
+  select(term, estimate, std.error, conf.low, conf.high, p.value) %>%
+  knitr::kable(digits = 2)
+```
+
+## The Equations
+
+The model with the interaction term is
+
+```
+BMI = 26.25 + 0.74 (genhealth = Very Good)  
+            + 1.88 (genhealth = Good) 
+            + ...
+            + 2.48 (genhealth = Poor)
+            + 0.40 (smoker = Former) 
+            - 0.29 (smoker = Never) 
+            + 0.66 (genhealth = Very Good)(smoker = Former)
+            + ...
+            + 1.09 (genhealth = Very Good)(smoker = Never)
+            + ...
+            + 3.88 (genhealth = Poor)(smoker = Never)
+```
+
+- Predict Harry, who's in Excellent health but a Current smoker
+- Predict Sally, who's in Very Good Health and a Former smoker
+
+## Is the interaction term important here?
+
+1. Does the interaction plot display important non-parallelism?
+2. Does the interaction term account for a substantial fraction of the variation in our outcome?
+3. Does the interaction term's estimate/standard error/uncertainty interval meet usual standards for statistical significance?
+
+- See the next 3 slides for the answers...
+
+## Interaction Plot, again...
+
+```{r, echo = FALSE}
+pd <- position_dodge(0.2)
+ggplot(summaries4, aes(x = genhealth, y = mean,
+                       col = smoker)) +
+  geom_errorbar(aes(ymin = mean - stdev,
+                    ymax = mean + stdev),
+                width = 0.2, position = pd) +
+  geom_point(size = 2, position = pd) +
+  geom_line(aes(group = smoker), position = pd) +
+  labs(y = "Body-Mass Index",
+       x = "Self-Reported General Health",
+       title = "Observed Means (+/- SD) for BMI", 
+       subtitle = "by General Health and Tobacco Status")
+```
+
+## Fraction of Variation accounted for by Interaction
+
+```{r}
+anova(a4) %>% knitr::kable(digits = 0)
+```
+
+- SS(total) = 14,912 + 2,198 + 943 + 285,094 = 303,147.
+- SS(interaction) = 943
+- $\eta^2$(interaction) = $\frac{943}{303147} = .0031$, or about 0.31% of `bmi` variation.
+
+## Are the interaction terms statistically significant?
+
+```{r}
+a4 <- smart1_sh %$% lm(bmi ~ genhealth * smoker)
+a4_noint <- smart1_sh %$% lm(bmi ~ genhealth + smoker)
+
+anova(a4_noint, a4)
+```
+
+So which model should we use? (Interaction or No Interaction)
+
+## Equation for the Interaction Model (`a4`)
+
+```
+bmi = 26.248 
+  + 0.741 (genhealth = Very Good) 
+  + 1.875 (genhealth = Good)
+  + 2.637 (genhealth = Fair) 
+  + 2.481 (genhealth = Poor) 
+  + 0.397 (smoker = Former) 
+  - 0.293 (smoker = Never) 
+  + 0.658 (Very Good)(Former) 
+  + 1.493 (Good)(Former)
+  + 1.475 (Fair)(Former) 
+  + 1.560 (Poor)(Former)
+  + 1.093 (Very Good)(Never) 
+  + 1.610 (Good)(Never)
+  + 2.452 (Fair)(Never) 
+  + 3.878 (Poor)(Never)
+```  
+
+## Comparing Harry and Sally (interaction model)
+
+Scenario | Subject | `genhealth` | `smoker` 
+-------: | ------: | --------: | -------:
+1 | Harry | Very Good | Current
+1 | Sally | Very Good | Never
+
+- Harry's predicted BMI is 26.248 + 0.741 = 26.989
+- Sally's predicted BMI is 26.248 + 0.741 - 0.293 + 0.658 = 27.354
+- If genhealth Very Good, effect of Never vs. Current is 0.365
+
+Scenario | Subject | `genhealth` | `smoker` 
+-------: | ------: | --------: | -------:
+2 | Harry | Poor | Current
+2 | Sally | Poor | Never
+
+- Harry's predicted BMI is 26.248 + 2.481 = 28.729
+- Sally's predicted BMI is 26.248 + 2.481 - 0.293 + 3.878 = 32.314
+- If genhealth Poor, effect of Never vs. Current is 3.585
+
+## Comparing Harry and Sally (interaction model)
+
+Scenario | Subject | `genhealth` | `smoker` 
+-------: | ------: | --------: | -------:
+3 | Harry | Very Good | Current
+3 | Sally | Poor | Current
+
+- Harry's predicted BMI is 26.248 + 0.741 = 26.989
+- Sally's predicted BMI is 26.248 + 2.481 = 28.729
+- If Current smoker, effect of Poor vs. Very Good is 1.740
+
+Scenario | Subject | `genhealth` | `smoker` 
+-------: | ------: | --------: | -------:
+4 | Harry | Very Good | Never
+4 | Sally | Poor | Never
+
+- Harry's predicted BMI is 26.248 + 0.741 - 0.293 + 1.093 = 27.789
+- Sally's predicted BMI is 26.248 + 2.481 - 0.293 + 3.878 = 32.314
+- If Never smoker, effect of Poor vs. Very Good is 4.525
+
+## Residual Plots for model `a4`
+
+```{r, echo = FALSE}
+par(mfrow=c(2,2))
+plot(a4)
+par(mfrow = c(1,1))
+```
+
+## Would using `log(BMI)` make the difference?
+
+```{r}
+a4_log <- smart1_sh %$% lm(log(bmi) ~ genhealth * smoker)
+
+anova(a4_log) %>% knitr::kable(digits = 3)
+```
+
+## Residual Plots for model `a4_log`
+
+```{r, echo = FALSE}
+par(mfrow=c(2,2))
+plot(a4_log)
+par(mfrow = c(1,1))
+```
+
+## What if we add a covariate?
+
+```{r}
+smart1_sh <- smart1_sh %>%
+  mutate(drinks_c = drinks_wk - mean(drinks_wk))
+
+a5_log <- smart1_sh %$% 
+  lm(log(bmi) ~ drinks_c + genhealth * smoker)
+
+anova(a5_log) %>% knitr::kable(digits = 3)
+```
+
+1. Can we make predictions? 
+2. Why center the `drinks_wk`?
+
+## Equation for model `a5_log`
+
+```
+log(BMI) = = 3.248 
+  - 0.0014 drinks_c
+  + 0.033 (genhealth = Very Good) 
+  + 0.063 (genhealth = Good)
+  + 0.087 (genhealth = Fair) 
+  + 0.067 (genhealth = Poor) 
+  + 0.025 (smoker = Former) 
+  - 0.005 (smoker = Never) 
+  + 0.013 (Very Good)(Former) 
+  + 0.045 (Good)(Former)
+  + 0.041 (Fair)(Former) 
+  + 0.052 (Poor)(Former)
+  + 0.031 (Very Good)(Never) 
+  + 0.053 (Good)(Never)
+  + 0.074 (Fair)(Never) 
+  + 0.125 (Poor)(Never)
+```  
+
+## Comparing Models
+
+- Does the addition of the covariate add statistically detectable predictive value?
+
+```{r}
+anova(a4_log, a5_log)
+```
+
+## Comparing Models
+
+```{r}
+bind_rows(glance(a4_log), glance(a5_log)) %>%
+  mutate(model = c("ANOVA", "+ drinks_c")) %>%
+  select(model, r2 = r.squared, sigma, AIC, BIC, 
+         adjr2 = adj.r.squared) %>%
+  knitr::kable(digits = c(0, 3, 3, 0, 0, 3))
+```
+
+## Residual Plots for model `a5_log`
+
+```{r, echo = FALSE}
+par(mfrow=c(2,2))
+plot(a5_log)
+par(mfrow = c(1,1))
+```
+
+# What if we have a binary outcome?
+
+## Let's predict the probability that BMI < 30
+
+```{r}
+smart1_sh <- smart1_sh %>%
+  mutate(bmilt30 = as.numeric(bmi < 30),
+         dm_status = fct_relevel(dm_status, "No"))
+
+smart1_sh %>% tabyl(bmilt30) %>% adorn_pct_formatting()
+```
+
+## Linear Probability Model
+
+- Create a binary (1/0) outcome.
+- Run a linear regression model to predict the 1/0 value.
+- Interpret the result as Prob(outcome = 1).
+
+Any clear problems with this?
+
+## Two-Factor Linear Probability model for `bmilt30`
+
+```{r}
+a6 <- smart1_sh %$% 
+  lm(bmilt30 ~ dm_status * genhealth)
+
+anova(a6) %>% knitr::kable(digits = 3)
+```
+
+## Equation for model `a6`
+
+```{r}
+tidy(a6) %>% 
+  select(term, estimate) %>% knitr::kable(digits = 3)
+```
+
+- Prediction for a subject without diabetes who is in Excellent Health?
+
+## Get predictions for all subjects in our data
+
+```{r}
+a6_aug <- augment(a6)
+
+a6_aug %>% count(.fitted, dm_status, genhealth)
+```
+
+## Plot observed vs. predicted values
+
+```{r, fig.height = 4}
+ggplot(a6_aug, aes(x = .fitted, y = bmilt30)) +
+  geom_count() 
+```
+
+## Logistic Regression Model
+
+- Create a binary (1/0) outcome.
+- Run a logistic regression model to predict the logarithm of the odds that the outcome is 1.
+- Exponentiate to describe the result in terms of odds(outcome = 1).
+
+Remember that $odds(Y = 1) = \frac{Pr(Y = 1)}{1 + Pr(Y = 1)}$.
+
+Why is this helpful?
+
+- log(odds(Y = 1)) or logit(Y = 1) covers all real numbers.
+- Prob(Y = 1) is restricted to [0, 1].
+
+## How do we fit a simple logistic regression model?
+
+```{r}
+a7 <- smart1_sh %$% 
+  glm(bmilt30 ~ dm_status, family = binomial(link = logit))
+```
+
+## How do we interpret the coefficients?
+
+```{r}
+tidy(a7) %>% select(term, estimate) %>% 
+  knitr::kable(digits = 3)
+```
+
+Equation: `logit(BMI < 30) = 0.946 - 1.044 (dm_status = Yes)`
+
+How can we interpret this result?
+
+## Interpreting our Logistic Regression Equation
+
+`logit(BMI < 30) = 0.946 - 1.044 (dm_status = Yes)`
+
+- Harry has diabetes.
+  - His predicted `logit(BMI < 30)` is 0.946 - 1.044 (1) = -0.098
+- Sally does not have diabetes.
+  - Her predicted `logit(BMI < 30)` is 0.946 - 1.044 (0) = 0.946
+
+Now, `logit(BMI < 30)` = `log(odds(BMI < 30))`, so exponentiate to get the odds...
+
+- Harry has predicted `odds(BMI < 30)` = exp(-0.098) = 0.9066
+- Sally has predicted `odds(BMI < 30)` = exp(0.946) = 2.575
+
+Can we convert these `odds` into something more intuitive?
+
+## Converting Odds to Probabilities
+
+- Harry has predicted `odds(BMI < 30)` = exp(-0.098) = 0.9066
+- Sally has predicted `odds(BMI < 30)` = exp(0.946) = 2.575
+
+$$
+odds(BMI < 30) = \frac{Pr(BMI < 30)}{1 - Pr(BMI < 30)}
+$$
+
+so, a little algebra tells us that:
+
+$$
+Pr(BMI < 30) = \frac{odds(BMI < 30)}{odds(BMI < 30) + 1}
+$$
+
+- So Harry's predicted `Pr(BMI < 30)` = 0.9066 / 1.9066 = 0.48
+- Sally's predicted `Pr(BMI < 30)` = 2.575 / 3.575 = 0.72
+- odds range from 0 to $\infty$, and log(odds) range from $-\infty$ to $\infty$.
+- odds > 1 if probability > 0.5. If odds = 1, then probability = 0.5.
+
+## What about the odds ratio?
+
+`logit(BMI < 30) = 0.946 - 1.044 (dm_status = Yes)`
+
+- Harry, with diabetes, has odds(BMI < 30) = 0.9066
+- Sally, without diabetes, has odds(BMI < 30) = 2.575
+
+Odds Ratio for BMI < 30 associated with having diabetes (vs. not) = 
+
+$$
+\frac{0.9066}{2.575} = 0.352
+$$
+
+- Our model estimates that a subject with diabetes has 35.2% of the odds of a subject without diabetes of having BMI < 30.
+
+Can we calculate the odds ratio from the equation's coefficients?
+
+- Yes, `exp(-1.044)` = 0.352.
+
+## Tidy with exponentiation
+
+```{r}
+tidy(a7, exponentiate = TRUE, 
+     conf.int = TRUE, conf.level = 0.9) %>% 
+  select(term, estimate, conf.low, conf.high) %>% 
+  knitr::kable(digits = 3)
+```
+
+- The odds ratio for BMI < 30 among subjects with diabetes as compared to those without diabetes is 0.352
+- The odds of BMI < 30 are 35.2% as large for subjects with diabetes as they are for subjects without diabetes, according to this model.
+- A 90% uncertainty interval for the odds ratio estimate includes (0.316, 0.393).
+
+## Interpreting these summaries
+
+Connecting the Odds Ratio and Log Odds Ratio to probability statements...
+
+- If the probabilities were the same (for diabetes and non-diabetes subjects) of having BMI < 30, then the odds would also be the same, and so the odds ratio would be 1.
+- If the probabilities of BMI < 30 were the same and thus the odds were the same, then the log odds ratio would be `log(1)` = 0.
+
+`logit(BMI < 30) = 0.946 - 1.044 (dm_status = Yes)`
+
+1. If the log odds of a coefficient (like `diabetes = Yes`) are negative, then what does that imply?
+
+2. What if we flipped the order of the levels for diabetes so our model was about `diabetes = No`?
+
+New model: `logit(BMI < 30) = -0.098 + 1.044 (dm_status = No)`
+
+## A Two-Factor Logistic Regression
+
+First, let's try a model without interaction.
+
+```{r}
+a8_without <- smart1_sh %$% 
+      glm(bmilt30 ~ dm_status + genhealth, 
+          family = binomial()) # logit is default link
+
+tidy(a8_without) %>% select(term, estimate) %>% 
+  knitr::kable(digits = 3)
+```
+
+## Our model `a8_without`
+
+```
+logit(BMI < 30) = log(odds(BMI < 30)) 
+   = 1.72 - 0.81 (dm_status = Yes) 
+          - 0.60 (genhealth = Very Good)
+          - 1.05 (genhealth = Good)
+          - 1.12 (genhealth = Fair) 
+          - 1.24 (genhealth = Poor)
+```
+
+1. How do we interpret the meaning of the -0.81 coefficient for `dm_status = Yes` in this model?
+2. How do we interpret the meaning of the -1.05 coefficient for `genhealth = Good`?
+
+## Our model `a8_without`
+
+```
+logit(BMI < 30) = 
+   = 1.72 - 0.81 (dm = Yes) - 0.60 (Very Good) - 1.05 (Good)
+      - 1.12 (Fair) - 1.24 (Poor)
+```
+
+1. How do we interpret the meaning of the -0.81 coefficient for `dm_status = Yes` in this model?
+
+If Harry and Sally have the **same `genhealth` status**, but Harry has diabetes and Sally does not, the model predicts that Harry's `log(odds(BMI < 30))` will be 0.81 lower than Sally's.
+
+- Harry: `logit(BMI < 30) = (1.72 - 0.81) - 0.60 (Very Good) - 1.05 (Good) - 1.12 (Fair) - 1.24 (Poor)`
+- Sally: `logit(BMI < 30) = 1.72 - 0.60 (VG) - 1.05 (G) - 1.12 (F) - 1.24 (P)`
+
+Suppose that, for example, Harry and Sally each had Excellent `genhealth`...
+
+## Question 1 (continued)
+
+```
+logit(BMI < 30) = 
+   = 1.72 - 0.81 (dm = Yes) - 0.60 (Very Good) - 1.05 (Good)
+      - 1.12 (Fair) - 1.24 (Poor)
+```
+
+1. How do we interpret the meaning of the -0.81 coefficient for `dm_status = Yes` in this model?
+
+Subject | Harry | Sally
+--------: | :------------------: | :------------------:
+`genhealth` | Excellent | Excellent
+`dm_status` | Yes | No
+`log(odds(BMI < 30))` | 1.72 - 0.81 = 0.91 | 1.72
+`odds(BMI < 30)` | exp(0.91) = 2.484 | exp(1.72) = 5.585
+`Pr(BMI < 30)` | 2.484/3.484 = 0.71 | 5.585/6.585 = 0.85
+
+## Our model `a8_without`
+
+```
+logit(BMI < 30) = 
+   = 1.72 - 0.81 (dm = Yes) - 0.60 (Very Good) - 1.05 (Good)
+      - 1.12 (Fair) - 1.24 (Poor)
+```
+
+2. How do we interpret the meaning of the -1.05 coefficient for `genhealth = Good`?
+
+If Harry and Sally have the **same `dm_status`**, but Harry has Good `genhealth` and Sally has Excellent `genhealth`, the model predicts that Harry's `log(odds(BMI < 30))` will be 1.05 lower than Sally's.
+
+- Harry: `logit(BMI < 30) = 1.72 - 0.81 (dm = Yes) - 1.05`
+- Sally: `logit(BMI < 30) = 1.72 - 0.81 (dm = Yes)`
+
+Why are we comparing Harry at Good to Sally at Excellent here?
+
+## Question 2 (continued)
+
+```
+logit(BMI < 30) = 
+   = 1.72 - 0.81 (dm = Yes) - 0.60 (Very Good) - 1.05 (Good)
+      - 1.12 (Fair) - 1.24 (Poor)
+```
+
+2. How do we interpret the meaning of the -1.05 coefficient for `genhealth = Good`?
+
+Subject | Harry | Sally
+--------: | :------------------: | :------------------:
+`genhealth` | Good | Excellent
+`dm_status` | No | No
+`log(odds(BMI < 30))` | 1.72 - 1.05 = 0.67 | 1.72
+`odds(BMI < 30)` | exp(0.67) = 1.954 | exp(1.72) = 5.585
+`Pr(BMI < 30)` | 1.954/2.954 = 0.66 | 5.585/6.585 = 0.85
+
+- What is the odds ratio for BMI < 30 comparing Harry to Sally? 1.954/5.585 = 0.350
+- Now, what if Harry and Sally each had diabetes?
+
+## Question 2 (continued)
+
+```
+logit(BMI < 30) = 
+   = 1.72 - 0.81 (dm = Yes) - 0.60 (Very Good) - 1.05 (Good)
+      - 1.12 (Fair) - 1.24 (Poor)
+```
+
+2. How do we interpret the meaning of the -1.05 coefficient for `genhealth = Good`?
+
+Subject | Harry | Sally
+--------: | :------------------: | :------------------:
+`genhealth` | Good | Excellent
+`dm_status` | Yes | Yes
+`log(odds(BMI < 30))` | 1.72 - 1.05 - 0.81 = -0.14 | 1.72 - 0.81 = 0.91
+`odds(BMI < 30)` | exp(-0.14) = 0.869 | exp(0.91) = 2.484
+`Pr(BMI < 30)` | 0.869/1.869 = 0.46 | 2.484/3.484 = 0.71
+
+Now what is the odds ratio for BMI < 30 comparing Harry to Sally? 0.869/2.484 = 0.350
+
+## Tidying our `a8_without` model
+
+```{r}
+tidy(a8_without, exponentiate = TRUE, 
+     conf.int = TRUE, conf.level = 0.90) %>% 
+  select(term, estimate, conf.low, conf.high) %>% 
+  knitr::kable(digits = 3)
+```
+
+How do we interpret the odds ratios here?
+
+## What about including an interaction term?
+
+```{r, eval = FALSE}
+a8_with <- smart1_sh %$% 
+  glm(bmilt30 ~ dm_status * genhealth, family = binomial())
+
+tidy(a8_with) %>% 
+  select(term, estimate, std.error, p.value) %>% 
+  knitr::kable(digits = 3)
+```
+
+Results on next slide...
+
+## Coefficients of model `a8_with`
+
+```{r}
+a8_with <- smart1_sh %$% 
+  glm(bmilt30 ~ dm_status * genhealth, family = binomial())
+```
+
+```{r, echo = FALSE}
+tidy(a8_with) %>% 
+  select(term, estimate, std.error, p.value) %>% 
+  knitr::kable(digits = 3)
+```
+
+## Interpreting `a8_with` Coefficients
+
+Equation for log(odds(BMI < 30)) =
+
+```
+1.71 - 0.73 (dm = Yes) 
+- 0.57 (Very Good) - 1.07 (Good) - 1.16 (Fair) - 1.06 (Poor) 
+- 0.26 (dm = Yes)(Very Good) + 0.07 (dm = Yes)(Good)
++ 0.05 (dm = Yes)(Fair) - 0.59 (dm = Yes)(Poor)
+```
+
+How do we understand the -0.59 coefficient here? 
+
+Suppose Cersei has Excellent and Jaime has Poor `genhealth`. What are their model equations for `log(odds(BMI < 30))`?
+
+- Cersei: 1.71 - 0.73 `dm_status`
+- Jaime: (1.71 - 1.06) + ((-0.73) + (-0.59)) `dm_status`,
+- so Jaime: 0.65 - 1.32 `dm_status`.
+
+## Making Predictions with `a8_with` (1)
+
+Equation for log(odds(BMI < 30)) =
+
+```
+1.71 - 0.73 (dm = Yes) 
+- 0.57 (Very Good) - 1.07 (Good) - 1.16 (Fair) - 1.06 (Poor) 
+- 0.26 (dm = Yes)(Very Good) + 0.07 (dm = Yes)(Good)
++ 0.05 (dm = Yes)(Fair) - 0.59 (dm = Yes)(Poor)
+```
+
+Subject | dm_status | genhealth | log(odds(BMI < 30))
+------- | --------- | --------- | -----------------------:
+Harry | No | Excellent | 1.71
+Sally | No | Poor | 1.71 - 1.06 = 0.65
+Cersei | Yes | Excellent | 1.71 - 0.73 = 0.98
+Jaime | Yes | Poor | 1.71 - 0.73 - 1.06 - 0.59 = -0.67
+
+## Getting R to make the predictions
+
+(Reducing rounding errors)
+
+```{r}
+new4 <- tibble(
+  subject = c("Harry", "Sally", "Cersei", "Jaime"),
+  dm_status = c("No", "No", "Yes", "Yes"),
+  genhealth = c("1_Excellent", "5_Poor", 
+                "1_Excellent", "5_Poor"))
+
+predict(a8_with, newdata = new4, type = "link")
+```
+
+## Making Predictions with `a8_with` (2)
+
+```
+1.71 - 0.73 (dm = Yes) 
+- 0.57 (Very Good) - 1.07 (Good) - 1.16 (Fair) - 1.06 (Poor) 
+- 0.26 (dm = Yes)(Very Good) + 0.07 (dm = Yes)(Good)
++ 0.05 (dm = Yes)(Fair) - 0.59 (dm = Yes)(Poor)
+```
+Subject | dm | genhealth | odds(BMI < 30) 
+------- | --- | --------- | -------------:
+Harry | No | Excellent | exp(1.71) = 5.53
+Sally | No | Poor | exp(0.65) = 1.92
+Cersei | Yes | Excellent | exp(0.98) = 2.66
+Jaime | Yes | Poor | exp(-0.67) = 0.51
+
+## Getting R to make the predictions
+
+(Reducing rounding errors)
+
+```{r}
+new4 <- tibble(
+  subject = c("Harry", "Sally", "Cersei", "Jaime"),
+  dm_status = c("No", "No", "Yes", "Yes"),
+  genhealth = c("1_Excellent", "5_Poor", 
+                "1_Excellent", "5_Poor"))
+
+predict(a8_with, newdata = new4, type = "link") # logit
+exp(predict(a8_with, newdata = new4, type = "link")) # odds
+```
+
+## Making Predictions with `a8_with` (3)
+
+```
+1.71 - 0.73 (dm = Yes) 
+- 0.57 (Very Good) - 1.07 (Good) - 1.16 (Fair) - 1.06 (Poor) 
+- 0.26 (dm = Yes)(Very Good) + 0.07 (dm = Yes)(Good)
++ 0.05 (dm = Yes)(Fair) - 0.59 (dm = Yes)(Poor)
+```
+How do we understand the -0.59 coefficient here?
+
+Subject | dm | genhealth | Pr(BMI < 30) 
+------- | --- | --------- | -------------:
+Harry | No | Excellent | 5.53/6.53 = 0.85
+Sally | No | Poor | 1.92/2.92 = 0.66
+Cersei | Yes | Excellent | 2.66/3.66 = 0.73
+Jaime | Yes | Poor | 0.51/1.51 = 0.34
+
+## Getting R to make the predictions
+
+(Reducing rounding errors)
+
+```{r}
+new4 <- tibble(
+  subject = c("Harry", "Sally", "Cersei", "Jaime"),
+  dm_status = c("No", "No", "Yes", "Yes"),
+  genhealth = c("1_Excellent", "5_Poor", 
+                "1_Excellent", "5_Poor"))
+
+predict(a8_with, newdata = new4, type = "response") # probs
+```
+
+## Model `a8_with` Results (from R's `predict`)
+
+Subject | dm | genhealth | logit | odds | Pr(BMI < 30)
+------- | --- | --------- | ----: | ----: | :----:
+Harry | No | Excellent | 1.714 | 5.551 | 0.847
+Sally | No | Poor | 0.655 | 1.926 | 0.658
+Cersei | Yes | Excellent | 0.981 | 2.667 | 0.727
+Jaime | Yes | Poor | -0.664 | 0.515 | 0.340
+
+### Calculating Odds Ratios
+
+- Comparing DM to No DM (if GenHealth = Excellent) = 2.667/5.551 = 0.480
+- Comparing Poor to Excellent (if no DM) = 1.926 / 5.551 = 0.347
+- Comparing DM to No DM (if GenHealth = Poor) = 0.515/1.926 = 0.267
+- Comparing Poor to Excellent (if DM) = 0.515 / 2.667 = 0.193
+
+## Exponentiating the `a8_with` Coefficients 
+
+```{r, eval = FALSE}
+tidy(a8_with, exponentiate = TRUE, conf.int = TRUE,
+     conf.level = 0.90) %>% 
+  select(term, estimate, conf.low, conf.high) %>% 
+  knitr::kable(digits = 3)
+```
+
+Results on the next slide...
+
+
+## Exponentiating the `a8_with` Coefficients 
+
+```{r, echo = FALSE}
+tidy(a8_with, exponentiate = TRUE, conf.int = TRUE,
+     conf.level = 0.90) %>% 
+  select(term, estimate, conf.low, conf.high) %>% 
+  knitr::kable(digits = 3)
+```
+
+
+1. Interpret the `dm_statusYes` coefficient (0.480).
+2. Interpret the `genhealth5_Poor` coefficient (0.347).
+
+## Model `a8_with` Predictions, Again
+
+1. Interpret the `dm_statusYes` coefficient (0.480).
+2. Interpret the `genhealth5_Poor` coefficient (0.347).
+
+Subject | dm | genhealth | odds(BMI < 30) 
+------- | --- | --------- | :--------:
+Harry | No | Excellent | 5.551 
+Sally | No | Poor | 1.926 
+Cersei | Yes | Excellent | 2.667 
+Jaime | Yes | Poor | 0.515 
+
+### Odds Ratios we calculated earlier...
+
+1. Comparing DM to No DM (if GenHealth = Excellent) = 2.667/5.551 = 0.480
+2. Comparing Poor to Excellent (if no DM) = 1.926 / 5.551 = 0.347
+
+## Exponentiating the `a8_with` Coefficients 
+
+```{r, echo = FALSE}
+tidy(a8_with, exponentiate = TRUE, conf.int = TRUE,
+     conf.level = 0.90) %>% 
+  select(term, estimate, conf.low, conf.high) %>% 
+  knitr::kable(digits = 3)
+```
+
+3. How do we interpret the interaction coefficients, like 0.557 for (DM = Yes)(GenHealth = Poor)?
+
+## Interpreting `a8_with` Interaction Odds Ratios
+
+3. How do we interpret the interaction coefficients, like 0.557 for (DM = Yes)(GenHealth = Poor)?
+
+Odds Ratios we calculated earlier...
+
+- Comparing DM to No DM (if GenHealth = Poor) $\approx$  0.267
+- Comparing DM to No DM (if GenHealth = Excellent) $\approx$ 0.480
+- Comparing Poor to Excellent (if DM) $\approx$ 0.193
+- Comparing Poor to Excellent (if no DM) $\approx$  0.347
+
+Within rounding error,
+
+$$
+\frac{0.267}{0.480} \approx \frac{0.193}{0.347} \approx 0.557
+$$
+
+## Using `glance` on these models
+
+```{r}
+bind_rows(glance(a8_with), glance(a8_without)) %>%
+  mutate(model = c("With Interaction", "No Interaction"),
+         deviance_diff = null.deviance - deviance,
+         df_diff = df.null - df.residual) %>%
+  select(model, AIC, BIC, deviance_diff, df_diff) %>% 
+  knitr::kable(digits = 1)
+```
+
+## Logistic Regression Comparisons via `anova`
+
+Based on Likelihood Ratio Test
+
+```{r}
+anova(a8_without, a8_with, test = "LRT")
+```
+
+Other options include Rao's efficient score test (`test = "Rao"`) and Pearson's chi-square test (`test = "Chisq"`)
+
+## Logistic Regression Comparisons via `anova`
+
+Another potentially attractive option compares the models based on Mallows' $C_p$ statistic, which is closely related to the AIC, in general, and identical to what `glance` provides for AIC, at least in this implementation of logistic regression analysis of deviance.
+
+```{r}
+anova(a8_without, a8_with, test = "Cp")
+```
+
+## Next Step...
+
+- Adding in continuous predictors / covariates in the logistic regression setting
+
+
+
+
