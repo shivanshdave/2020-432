@@ -15,4 +15,9 @@
 3. I added `posterdown` to the recommended packages list.
     - Learn more about `posterdown` [at its repository](https://github.com/brentthorne/posterdown), and with this [installation and usage guide](https://github.com/brentthorne/posterdown/wiki/Installation-&-Usage-Guide). You'll be using this tool to build your e-poster for Project 1.
 
-More to come.
+## One Last Thing
+
+When we read graphs, we use a variety of cognitive shortcuts, leading to either better or biased interpretations. Steven Franconeri has an interesting post at Medium about what cognitive science tells us about these ideas, and how we can improve our decision-making. The post is "[Multiple views on how to choose a visualization](https://medium.com/multiple-views-visualization-research-explained/multiple-views-on-how-to-choose-a-visualization-b3ffc99fcddc)" and it is definitely worth your time.
+
+- There is a related "[Quick Reference Guide](http://experception.net/)" downloadable pdf which I recommend heartily.
+- Don't forget about the [RStudio Cheat Sheets](https://rstudio.com/resources/cheatsheets/), in particular the one for Data Visualization, and the [associated set of references for the ggplot2 package](https://ggplot2.tidyverse.org/reference/).
