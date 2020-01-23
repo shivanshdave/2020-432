@@ -202,4 +202,5 @@ submission will meet all requirements and score a 10 on the first try.
 # Deliverable 2. The Poster
 
 You'll be using the [posterdown package](https://github.com/brentthorne/posterdown) to build your poster for Project 1.
-    - Learn more about `posterdown` [at its repository](https://github.com/brentthorne/posterdown), and with this [installation and usage guide](https://github.com/brentthorne/posterdown/wiki/Installation-&-Usage-Guide).
+    
+- Learn more about `posterdown` [at its repository](https://github.com/brentthorne/posterdown), and with this [installation and usage guide](https://github.com/brentthorne/posterdown/wiki/Installation-&-Usage-Guide).
