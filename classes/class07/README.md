@@ -12,6 +12,8 @@ Date | Deliverable
 ---------: | -----------------------------------------------------------------------
 Today | [Homework 2](https://github.com/THOMASELOVE/2020-432/tree/master/homework/hw02) due at 5 PM.
 Tomorrow | You should have your data for [Project 1](https://github.com/THOMASELOVE/2020-432/tree/master/projects/project1) in hand.
+Thursday | Read *The Art of Statistics* Chapter 7 (How Sure Can We Be About What's Going On? Estimates and Intervals)
+Friday | There will be a Minute Paper after Class 8 due at 2 PM. **Link to come.**
 2020-02-11 | [Homework 3](https://github.com/THOMASELOVE/2020-432/tree/master/homework/hw03) due at 5 PM.
 2020-02-14 | [Project 1 Proposal](https://github.com/THOMASELOVE/2020-432/tree/master/projects/project1) due at 2 PM.
 
