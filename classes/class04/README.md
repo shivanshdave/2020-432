@@ -3,7 +3,7 @@
 ## Key Materials
 
 - Today's slides are [available in PDF](https://github.com/THOMASELOVE/2020-432/blob/master/classes/class04/432_2020_slides04.pdf) and [R Markdown](https://github.com/THOMASELOVE/2020-432/blob/master/classes/class04/432_2020_slides04.Rmd) formats.
-    - We'll actually start today's class with Slide 55 from Class 3, and I'm certain we won't get through all of the slides contained in Slide Set 4 today, so we'll pick up wherever we leave off next Tuesday in Class 5.
+    - The slides have now been edited to describe only the materials we actually covered in class 4.
 - Today's audio recording will be found on [our shared drive](http://bit.ly/432-2020-audio) at http://bit.ly/432-2020-audio.
 - Get help at any time by emailing **431-help at case dot edu**.
 - The main website for the course is https://github.com/THOMASELOVE/2020-432.
