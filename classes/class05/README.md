@@ -3,8 +3,8 @@
 ## Key Materials
 
 Slides in PDF | Slides in R Markdown | Audio Recording | Need Help?
-------------: | -------------------: | ---------------: | --------------------
-[Class 05 Slides](https://github.com/THOMASELOVE/2020-432/blob/master/classes/class05/432_2020_slides05.pdf) | [Class 05 Code](https://github.com/THOMASELOVE/2020-432/blob/master/classes/class05/432_2020_slides05.Rmd) | [Our Shared Drive](http://bit.ly/432-2020-audio) | Email **431-help at case dot edu** or visit [TA Office Hours](https://github.com/THOMASELOVE/2020-432/blob/master/calendar.md#tas-and-office-hours)
+------------: | :------------------: | ---------------: | --------------------
+[Class 05 Slides](https://github.com/THOMASELOVE/2020-432/blob/master/classes/class05/432_2020_slides05.pdf) | [.Rmd code for Slides](https://github.com/THOMASELOVE/2020-432/blob/master/classes/class05/432_2020_slides05.Rmd) | [Our Shared Drive](http://bit.ly/432-2020-audio) | Email **431-help at case dot edu** or visit [TA Office Hours](https://github.com/THOMASELOVE/2020-432/blob/master/calendar.md#tas-and-office-hours)
 
 ## Next Few Deliverables (from [the Course Calendar](https://github.com/THOMASELOVE/2020-432/blob/master/calendar.md))
 
@@ -21,5 +21,5 @@ Today | [Homework 1](https://github.com/THOMASELOVE/2020-432/tree/master/homewor
 
 1. The [Class 03](https://github.com/THOMASELOVE/2020-432/tree/master/classes/class03) and [Class 04](https://github.com/THOMASELOVE/2020-432/tree/master/classes/class04) Slides have been edited to reflect what we actually discussed each day, and reposted accordingly.
 2. Thank you for completing the [Minute Paper after Class 4](http://bit.ly/432-2020-minute-04). By now, I hope you've had the chance to [review the feedback I posted Friday](http://bit.ly/432-2020-minute-04-feedback). Our next Minute Paper will be after Class 6.
-3. **On jittering in an interaction plot**. A student pointed out to me that the jittering in one of our plots was a bit confusing. Here's an example of what I mean.
+3. **On jittering in an interaction plot**. A student pointed out to me that the jittering in one of our plots was a bit confusing. [Here's a quick example displaying the problem and a possible solution](https://github.com/THOMASELOVE/2020-432/blob/master/classes/class05/quick_example.md).
 
