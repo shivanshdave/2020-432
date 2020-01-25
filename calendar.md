@@ -7,16 +7,20 @@
 Session | Date | Materials 
 --------: | :-----: | ----------------------------------------------------------------------
 [Class 01](https://github.com/THOMASELOVE/2020-432/tree/master/classes/class01) | 01-14 | Getting Started, Building Table 1.
+-- | 01-15 | Minute Paper after Class 1 due (Feedback is here)
 [Class 02](https://github.com/THOMASELOVE/2020-432/tree/master/classes/class02) | 01-16 | Developing the BRFSS/SMART data, **ART** Introduction and Chapters 1-2
 [Class 03](https://github.com/THOMASELOVE/2020-432/tree/master/classes/class03) | 01-21 | Imputation, Interaction, ANOVA and ANCOVA models, **ART** Chapter 3
 [Class 04](https://github.com/THOMASELOVE/2020-432/tree/master/classes/class04) | 01-23 | Interaction: Multi-categorical predictors, Predicting Binary Outcomes **ART** Chapter 5
+-- | 01-24 | Minute Paper after Class 4 due (Feedback is here)
 -- | 01-28 | [Homework 1](https://github.com/THOMASELOVE/2020-432/tree/master/homework/hw01) due at 5 PM.
 [Class 05](https://github.com/THOMASELOVE/2020-432/tree/master/classes/class05) | 01-28 | Predicting Binary Outcomes (Linear Probability Model, Logistic Regression)
 [Class 06](https://github.com/THOMASELOVE/2020-432/tree/master/classes/class06) | 01-30 | TBA, **ART** Chapter 4
+-- | 01-31 | Minute Paper after Class 6 (**link to come**) due at 2 PM.
 -- | 02-04 | [Homework 2](https://github.com/THOMASELOVE/2020-432/tree/master/homework/hw02) due at 5 PM.
 [Class 07](https://github.com/THOMASELOVE/2020-432/tree/master/classes/class07) | 02-04 | TBA 
 -- | 02-05 | You should have your data for [Project 1](https://github.com/THOMASELOVE/2020-432/tree/master/projects/project1) by this date.
 [Class 08](https://github.com/THOMASELOVE/2020-432/tree/master/classes/class08) | 02-06 | TBA, **ART** Chapter 7
+-- | 02-07 | Minute Paper after Class 8 (**link to come**) due at 2 PM.
 -- | 02-11 | [Homework 3](https://github.com/THOMASELOVE/2020-432/tree/master/homework/hw03) due at 5 PM.
 Class 09 | 02-11 | TBA
 Class 10 | 02-13 | TBA
