@@ -4,7 +4,7 @@
 
 Slides in PDF | Slides in R Markdown | Audio Recording | Need Help?
 ------------: | :------------------: | ---------------: | --------------------
-[Class 05 Slides](https://github.com/THOMASELOVE/2020-432/blob/master/classes/class05/432_2020_slides05.pdf) | [.Rmd code for Slides](https://github.com/THOMASELOVE/2020-432/blob/master/classes/class05/432_2020_slides05.Rmd) | [Our Shared Drive](http://bit.ly/432-2020-audio) | Email **431-help at case dot edu** or visit [TA Office Hours](https://github.com/THOMASELOVE/2020-432/blob/master/calendar.md#tas-and-office-hours)
+[Class 05 Slides](https://github.com/THOMASELOVE/2020-432/blob/master/classes/class05/432_2020_slides05.pdf) | [.Rmd code](https://github.com/THOMASELOVE/2020-432/blob/master/classes/class05/432_2020_slides05.Rmd) | [Our Shared Drive](http://bit.ly/432-2020-audio) | Email **431-help at case dot edu** or visit [TA Office Hours](https://github.com/THOMASELOVE/2020-432/blob/master/calendar.md#tas-and-office-hours)
 
 ## Next Few Deliverables (from [the Course Calendar](https://github.com/THOMASELOVE/2020-432/blob/master/calendar.md))
 
