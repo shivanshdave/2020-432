@@ -482,15 +482,41 @@ summaries1 <- smart1_sh %>%
 summaries1 %>% knitr::kable(digits = 2)
 ```
 
+## Simplest Interaction Plot (code)
+
+```{r, eval = FALSE}
+ggplot(summaries1, aes(x = dm_status, y = mean,
+                       col = factor(healthplan))) +
+  geom_point(size = 2) +
+  geom_line(aes(group = healthplan)) +
+  labs(y = "Body-Mass Index",
+       x = "Diabetes?",
+       title = "Observed Means for BMI", 
+       subtitle = "by Diabetes Status and Insurance")
+```
+
+## Simplest Interaction Plot (Results)
+
+```{r, echo = FALSE}
+ggplot(summaries1, aes(x = dm_status, y = mean,
+                       col = factor(healthplan))) +
+  geom_point(size = 2) +
+  geom_line(aes(group = healthplan)) +
+  labs(y = "Body-Mass Index",
+       x = "Diabetes?",
+       title = "Observed Means for BMI", 
+       subtitle = "by Diabetes Status and Insurance")
+```
+
 ## Interaction Plot for Two-Way ANOVA (code)
 
 ```{r, eval = FALSE}
-pd <- position_dodge(0.2)
+pd <- position_dodge(0.1)
 ggplot(summaries1, aes(x = dm_status, y = mean,
                        col = factor(healthplan))) +
   geom_errorbar(aes(ymin = mean - stdev,
                     ymax = mean + stdev),
-                width = 0.2, position = pd) +
+                width = 0.1, position = pd) +
   geom_point(size = 2, position = pd) +
   geom_line(aes(group = healthplan), position = pd) +
   labs(y = "Body-Mass Index",
@@ -502,12 +528,12 @@ ggplot(summaries1, aes(x = dm_status, y = mean,
 ## Interaction Plot for Two-Way ANOVA
 
 ```{r, echo = FALSE}
-pd <- position_dodge(0.2)
+pd <- position_dodge(0.1)
 ggplot(summaries1, aes(x = dm_status, y = mean,
                        col = factor(healthplan))) +
   geom_errorbar(aes(ymin = mean - stdev,
                     ymax = mean + stdev),
-                width = 0.2, position = pd) +
+                width = 0.1, position = pd) +
   geom_point(size = 2, position = pd) +
   geom_line(aes(group = healthplan), position = pd) +
   labs(y = "Body-Mass Index",
@@ -599,197 +625,13 @@ tidy(a2, conf.int = TRUE, conf.level = 0.90) %>%
 - Our interpretation here would involve specifying that the interaction between `dm_status` and `healthplan` is important, and focusing on what that means, perhaps by specifying what happens to the four types of people we could see (Yes/Yes, Yes/No, No/Yes and No/No) in terms of our two factors.
 - Do we need the interaction term here, or could we simplify the model?
 
-# This is where we got in Class 3. We'll start with the next slide in Class 4.
-
-## Is the interaction term important here?
-
-1. Does the interaction plot display important non-parallelism?
-2. Does the interaction term account for a substantial fraction of the variation in our outcome?
-3. Does the interaction term's estimate/standard error/uncertainty interval meet usual standards for statistical significance?
-
-If **all** of these things are true, then it's easy to conclude that the interaction is important, and we cannot interpret the main effects of `dm_status` and `healthplan` without thinking first about the interaction of those two factors.
-
-- So let's walk through the decision. I've repeated the interaction plot on the next slide.
-
-
-## Interaction Plot (Substantial Non-Parallelism?)
-
-```{r, echo = FALSE}
-pd <- position_dodge(0.2)
-ggplot(summaries1, aes(x = dm_status, y = mean,
-                       col = factor(healthplan))) +
-  geom_errorbar(aes(ymin = mean - stdev,
-                    ymax = mean + stdev),
-                width = 0.2, position = pd) +
-  geom_point(size = 2, position = pd) +
-  geom_line(aes(group = healthplan), position = pd) +
-  labs(y = "Body-Mass Index",
-       x = "Diabetes?",
-       title = "Observed Means (+/- SD) for BMI", 
-       subtitle = "by Diabetes Status and Insurance")
-```
-
-## Interlude: A more substantial interaction?
-
-We'll plot the means of the `bmi` in the four combinations:
-
-- two levels of `dm_status` combined with
-- two levels of `landline`
-
-```{r}
-summaries0 <- smart1_sh %>% 
-  group_by(dm_status, landline) %>%
-  summarize(n = n(), mean = mean(bmi), stdev = sd(bmi))
-
-summaries0 %>% knitr::kable(digits = 2)
-```
-
-## Interlude: A more substantial interaction?
-
-```{r, echo = FALSE}
-pd <- position_dodge(0.2)
-ggplot(summaries0, aes(x = dm_status, y = mean,
-                       col = factor(landline))) +
-  geom_errorbar(aes(ymin = mean - stdev,
-                    ymax = mean + stdev),
-                width = 0.2, position = pd) +
-  geom_point(size = 2, position = pd) +
-  geom_line(aes(group = landline), position = pd) +
-  labs(y = "Body-Mass Index",
-       x = "Diabetes?",
-       title = "Observed Means (+/- SD) for BMI", 
-       subtitle = "by Diabetes Status and Contact Type")
-```
-
-## Evaluation in our Two-Way ANOVA of Interaction
-
-1. Does the interaction plot display important non-parallelism?
-    - No, I don't think so. 
-2. Does the interaction term account for a substantial fraction of the variation in our outcome?
-
-```{r}
-anova(a2) %>% knitr::kable(digits = 0)
-```
-
-- SS(total) = 288,338 + 30 + 3 + 14,775 = 303,146.
-- SS(interaction) = 30
-- $\eta^2$(interaction) = $\frac{30}{303146} = .000099$, or about 0.01% of `bmi` variation.
-
-## Is the interaction term important here?
-
-1. Does the interaction plot display important non-parallelism?
-    - No.
-2. Does the interaction term account for a substantial fraction of the variation in our outcome?
-    - It accounts for just under 0.01% of variation, so no.
-3. Does the interaction term's estimate/standard error/uncertainty interval meet usual standards for statistical significance?
-
-```{r}
-tidy(a2, conf.int = TRUE, conf.level = 0.90) %>%
-  select(term, estimate, std.error, conf.low, conf.high) %>%
-  knitr::kable(digits = 3)
-```
-
-## Is the interaction term important here?
-
-1. Does the interaction plot display important non-parallelism?
-  - No.
-2. Does the interaction term account for a substantial fraction of the variation in our outcome?
-  - No.
-3. Does the interaction term's estimate/standard error/uncertainty interval meet usual standards for statistical significance?
-  - No.
-
-It's clearly easier to ignore the interaction term (and fit the no-interaction model) if none of these three things are true.
-
-## Interpreting the "No Interaction" Model
-
-```{r}
-tidy(a2_noint, conf.int = TRUE, conf.level = 0.90) %>%
-  select(term, estimate, std.error, conf.low, conf.high) %>%
-  knitr::kable(digits = 3)
-```
-
-- If Harry and Sally have the same `healthplan` status, but only Harry has diabetes, then Harry's BMI is estimated to be 3.97 kg/m^2^ higher than Sally's. (90% uncertainty interval: 3.63, 4.30).
-- If Harry and Sally have the same `dm_status` but Harry has a health plan and Sally doesn't, our model will estimate Harry's BMI as 0.09 kg/m^2^ higher than Sally's (90% interval: -0.44, 0.62).
-
-## Adding a covariate
-
-We saw that the no-interaction model might well be sufficient for BMI as a function of `dm_status` and `healthplan`. Would this still be true if we first adjusted for the impact of a continuous covariate, like `physhealth`, that is meaningfully correlated with BMI?
-
-```{r}
-a3 <- smart1_sh %$% 
-  lm(bmi ~ physhealth + dm_status * healthplan)
-
-anova(a3) %>% knitr::kable(digits = 1)
-```
-
-## Model without the Covariate
-
-Compare that ANOVA table to this one for our interaction model without the covariate. What changes?
-
-```{r}
-anova(a2) %>% knitr::kable(digits = 1)
-```
-
-## `a3` covariate model without interaction term
-
-```{r}
-a3_noint <- smart1_sh %$% 
-  lm(bmi ~ physhealth + dm_status + healthplan)
-
-anova(a3_noint) %>% knitr::kable(digits = 1)
-```
-
-## Interpreting "No Interaction" Model + Covariate
-
-```{r}
-tidy(a3_noint, conf.int = TRUE, conf.level = 0.90) %>%
-  select(term, estimate, std.error, conf.low, conf.high) %>%
-  knitr::kable(digits = 2)
-```
-
-- If Harry and Sally have the same `healthplan` status and the same `physhealth`, but only Harry has diabetes, then Harry's BMI is estimated to be 3.67 kg/m^2^ higher than Sally's. (90% uncertainty interval: 3.33, 4.01).
-- See next slide, too.
-
-## Interpreting "No Interaction" Model + Covariate
-
-```{r}
-tidy(a3_noint, conf.int = TRUE, conf.level = 0.90) %>%
-  select(term, estimate, std.error, conf.low, conf.high) %>%
-  knitr::kable(digits = 2)
-```
-
-- If Harry and Sally have the same `dm_status` and the same `physhealth`, but Harry has a health plan and Sally doesn't, our model will estimate Harry's BMI as 0.03 kg/m^2^ higher than Sally's (90% uncertainty interval: -0.50, 0.56).
-- Why aren't I talking here about the covariate's effect?
-
-## Does the model fit the data well?
-
-We have the usual strategies applicable in any linear model:
-
-- evaluate the R^2^ and other summary statistics, especially in comparison to alternative specifications of models for the same outcome.
-- evaluate the fit of the model to regression assumptions, mostly through diagnostics based on residuals
-- cross-validate our model selection process, perhaps by partitioning the sample into a training sample (where candidate models are developed) and a holdout / test sample (where we choose between the candidates)
-
-## Summary Statistics (Whole Sample)
-
-```{r}
-bind_rows(glance(a1), glance(a2_noint), glance(a3_noint)) %>%
-  mutate(model = 
-           c("dm_status", "+ healthplan", "+ physhealth")) %>%
-  select(model, r.squared, sigma, AIC, BIC, adj.r.squared) %>% 
-  knitr::kable(digits = 3)
-```
-
-## `plot(a3_noint)`
-
-```{r, echo = FALSE}
-par(mfrow=c(2,2))
-  plot(a3_noint)
-par(mfrow = c(1,1))
-```
-
 ## What's next?
 
-1. Building a two-factor ANOVA model with multi-categorical factors
+1. Determining the importance of an interaction term
+    - through an interaction plot
+    - using sums of squares
+    - using statistical significance testing
+2. Building a two-factor ANOVA model with multi-categorical factors
     - again, focus on interpreting the interaction
     - add covariates, as desired
-2. Building similar models for a binary outcome using linear probability models and then generalized linear models (specifically logistic regression).
+3. Building similar models for a binary outcome using linear probability models and then generalized linear models (specifically logistic regression).
