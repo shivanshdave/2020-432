@@ -25,7 +25,7 @@ options(width = 60)
 ```{r, warning = FALSE, message = FALSE}
 library(here); library(magrittr); library(janitor)
 library(broom); library(simputation); library(patchwork)
-library(naniar); library(visdat)
+library(naniar); library(visdat); library(caret)
 library(tidyverse)
 
 theme_set(theme_bw())
@@ -420,6 +420,127 @@ ggplot(m3_aug, aes(x = .fitted, y = bmilt30)) +
   geom_count() 
 ```
 
+## Making Classification Decisions (0.5 as cutoff)
+
+- Our outcome is `bmilt30`, where `bmilt30` = 1 if BMI < 30, and otherwise `bmilt30` = 0.
+- We establish a classification rule based on our model's predicted probabilities of BMI < 30.
+  - If .fitted is below 0.5, we classify that as a prediction that `bmilt30` = 0.
+  - If .fitted is 0.5 or larger, we classify that as a prediction that `bmilt30` = 1.
+- 0.5 is a natural cutpoint here but not the only possible one.
+
+```{r}
+m3_aug %$% table(.fitted >= 0.5, bmilt30)
+```
+
+## Standard Epidemiological Format
+
+```{r}
+confuse3_small <- m3_aug %>%
+  mutate(bmilt30_act = factor(bmilt30 == "1"),
+     bmilt30_pre = factor(.fitted >= 0.5),
+     bmilt30_act = fct_relevel(bmilt30_act, "TRUE"),
+     bmilt30_pre = fct_relevel(bmilt30_pre, "TRUE")) %$%
+  table(bmilt30_pre, bmilt30_act)
+
+confuse3_small
+```
+
+
+## (Mis-)Classification Table / Confusion Matrix
+
+```{r}
+confuse3_small
+```
+
+- Total Observations: 483 + 1860 + 405 + 4664 = 7412
+- Correct Predictions: 483 + 4664 = 5147, or 69.4% **accuracy**
+- Incorrect Predictions: 405 + 1860 = 2265 (30.6%)
+- Actual TRUE: 4664 + 405 = 5069, or 68.4% **prevalence**
+- Predicted TRUE: 4664 + 1860 = 6524, or 88.0% **detection prevalence**
+
+## Other Summaries from a Confusion Matrix
+
+```{r}
+confuse3_small
+```
+
+- **Sensitivity** = 4664 / (4664 + 405) = 92.01% (also called Recall)
+  - if the subject actually has BMI < 30 our model predicts that 92.01% of the time.
+- **Specificity** = 483 / (1860 + 403) = 20.61%
+  - if the subject actually has BMI >= 30 our model predicts that 20.61% of the time.
+- **Positive Predictive Value** or *Precision* = 4664 / (4664 + 1860) = 71.49%
+  - our predictions of BMI < 30 were correct 71.49% of the time.
+- **Negative Predictive Value** = 483 / (483 + 405) = 54.39%
+  - our predictions that BMI >= 30 were correct 54.39% of the time.
+
+## Big Summary of Confusion Matrix (from `caret`)
+
+```{r, eval = FALSE}
+m3_aug %$% confusionMatrix(
+  data = factor(.fitted >= 0.5),
+  reference = factor(bmilt30 == 1), 
+  positive = "TRUE") 
+```
+
+Results on next two slides...
+
+## Confusion Matrix statistics for `m3`
+
+```
+          Reference
+Prediction FALSE TRUE
+     FALSE   483  405
+     TRUE   1860 4664
+     
+               Accuracy : 0.6944          
+                 95% CI : (0.6838, 0.7049)
+    No Information Rate : 0.6839          
+    P-Value [Acc > NIR] : 0.02617         
+                  Kappa : 0.1516          
+ McNemar's Test P-Value : < 2e-16         
+```
+
+- Kappa is a correlation statistic ranging from -1 to +1. It measures the interrater reliability of our predictions and the true classifications, in this context. Complete agreement would be +1, and complete disagreement would be -1.
+
+
+## Confusion Matrix statistics for `m3`
+
+```
+       'Positive' Class : TRUE            
+            Sensitivity : 0.9201          
+            Specificity : 0.2061          
+         Pos Pred Value : 0.7149          
+         Neg Pred Value : 0.5439          
+             Prevalence : 0.6839          
+         Detection Rate : 0.6292          
+   Detection Prevalence : 0.8802          
+      Balanced Accuracy : 0.5631          
+```
+
+## Tidying a Confusion Matrix
+
+```{r, eval = FALSE}
+confuse3 <- m3_aug %$% confusionMatrix(
+  data = factor(.fitted >= 0.5),
+  reference = factor(bmilt30 == 1), 
+  positive = "TRUE") 
+
+tidy(confuse3) %>% knitr::kable(digits = 3)
+```
+
+Results next slide.
+
+---
+
+```{r, echo = FALSE}
+confuse3 <- m3_aug %$% confusionMatrix(
+  data = factor(.fitted >= 0.5),
+  reference = factor(bmilt30 == 1), 
+  positive = "TRUE") 
+
+tidy(confuse3) %>% knitr::kable(digits = 3)
+```
+
 ## How do we fit a simple logistic regression model?
 
 ```{r}
@@ -652,6 +773,41 @@ tidy(m5_without, exponentiate = TRUE,
 
 How do we interpret the odds ratios here?
 
+## How well does our model predict the outcome?
+
+We can build a table of predicted outcomes.
+
+```{r}
+augment(m5_without, type.predict = "response") %>% 
+  count(.fitted, dm_status, genhealth)
+```
+
+## Making Classification Decisions (0.5 as cutoff)
+
+- Our outcome is `bmilt30`, where `bmilt30` = 1 if BMI < 30, and otherwise `bmilt30` = 0.
+- We establish a classification rule based on our model's predicted probabilities of BMI < 30.
+  - If .fitted is below 0.5, we classify that as a prediction that `bmilt30` = 0.
+  - If .fitted is 0.5 or larger, we classify that as a prediction that `bmilt30` = 1.
+- 0.5 is a natural cutpoint here but not the only possible one.
+
+## (Mis-)Classification Table / Confusion Matrix
+
+```{r}
+m5_without_aug <- augment(m5_without, data = smart1_sh, 
+                         type.predict = "response")
+
+confuse5_without <- m5_without_aug %>%
+  mutate(bmilt30_act = factor(bmilt30 == "1"),
+     bmilt30_pre = factor(.fitted >= 0.5),
+     bmilt30_act = fct_relevel(bmilt30_act, "TRUE"),
+     bmilt30_pre = fct_relevel(bmilt30_pre, "TRUE")) %$%
+  table(bmilt30_pre, bmilt30_act)
+
+confuse5_without
+```
+
+- Same results as linear probability model `m3`!
+
 ## `m5_with`: Adding an interaction term?
 
 ```{r, eval = FALSE}
@@ -874,6 +1030,24 @@ bind_rows(glance(m5_with), glance(m5_without)) %>%
   knitr::kable(digits = 1)
 ```
 
+## Confusion Matrix for `m5_with`
+
+```{r}
+m5_with_aug <- augment(m5_with, data = smart1_sh, 
+                         type.predict = "response")
+
+confuse5_with <- m5_with_aug %>%
+  mutate(bmilt30_act = factor(bmilt30 == "1"),
+     bmilt30_pre = factor(.fitted >= 0.5),
+     bmilt30_act = fct_relevel(bmilt30_act, "TRUE"),
+     bmilt30_pre = fct_relevel(bmilt30_pre, "TRUE")) %$%
+  table(bmilt30_pre, bmilt30_act)
+
+confuse5_with
+```
+
+- Still 4664 + 483 = 5147 accurate predictions (69.4%)
+
 ## Logistic Regression Comparisons via `anova`
 
 Based on Likelihood Ratio Test
@@ -937,6 +1111,23 @@ log(odds(BMI < 30)) =
 
 Does the impact of `fruit_day` change depending on `dm_status` and `genhealth`?
 
+## Confusion Matrix for `m6`
+
+```{r}
+m6_aug <- augment(m6, data = smart1_sh, 
+                         type.predict = "response")
+confuse6 <- m6_aug %>%
+  mutate(bmilt30_act = factor(bmilt30 == "1"),
+     bmilt30_pre = factor(.fitted >= 0.5),
+     bmilt30_act = fct_relevel(bmilt30_act, "TRUE"),
+     bmilt30_pre = fct_relevel(bmilt30_pre, "TRUE")) %$%
+  table(bmilt30_pre, bmilt30_act)
+confuse6
+```
+
+- 4731 + 418 = 5149 accurate predictions (69.5%)
+- Sensitivity 93.3%, and Specificity 17.8%
+
 ## The `m7` model with factor-covariate interactions
 
 ```{r, eval = FALSE}
@@ -967,6 +1158,23 @@ tidy(m7) %>%
   knitr::kable(digits = 3)
 ```
 
+## Confusion Matrix for `m7`
+
+```{r}
+m7_aug <- augment(m7, data = smart1_sh, 
+                         type.predict = "response")
+confuse7 <- m7_aug %>%
+  mutate(bmilt30_act = factor(bmilt30 == "1"),
+     bmilt30_pre = factor(.fitted >= 0.5),
+     bmilt30_act = fct_relevel(bmilt30_act, "TRUE"),
+     bmilt30_pre = fct_relevel(bmilt30_pre, "TRUE")) %$%
+  table(bmilt30_pre, bmilt30_act)
+confuse7
+```
+
+- 4724 + 428 = 5152 accurate predictions (69.5%)
+- Sensitivity 93.1%, and Specificity 18.3%
+
 ## Could we do a three-way interaction?
 
 ```{r}
@@ -981,6 +1189,24 @@ tidy(m8) %>% select(term, estimate) %>%
 ```
 
 These are just 9 of the 20 coefficients fit in total.
+
+## Confusion Matrix for `m8`
+
+```{r}
+m8_aug <- augment(m8, data = smart1_sh, 
+                         type.predict = "response")
+confuse8 <- m8_aug %>%
+  mutate(bmilt30_act = factor(bmilt30 == "1"),
+     bmilt30_pre = factor(.fitted >= 0.5),
+     bmilt30_act = fct_relevel(bmilt30_act, "TRUE"),
+     bmilt30_pre = fct_relevel(bmilt30_pre, "TRUE")) %$%
+  table(bmilt30_pre, bmilt30_act)
+confuse8
+```
+
+- 4729 + 424 = 5153 accurate predictions (69.5%)
+- Sensitivity 93.2%, and Specificity 18.1%
+
 
 ## Comparison of Models with Deviance Tests
 
@@ -998,17 +1224,28 @@ bind_rows(glance(m5_without), glance(m5_with), glance(m6),
   select(model, AIC, BIC)
 ```
 
-## What's Still To Come?
+## Comparison of Models by Confusion Matrix
+
+Model | Correct Preds. | Accuracy | Sensitivity | Specificity
+--------: | ------------: | -------: | -----: | -----:
+`m5_without` | 5,147 | 69.44% | 92.0% | 20.6%
+`m5_with` | 5,147 | 69.44% | 92.0% | 20.6%
+`m6` | 5 149 | 69.47% | 93.3% | 17.8%
+`m7` | 5,152 | 69.51% | 93.1% | 18.3%
+`m8` | 5,153 | 69.52% | 93.2% | 18.1%
+
+## What's Coming Up?
 
 Building on what we know about Linear & Logistic Regression
 
 - Model Selection and Cross-Validation Strategies
 - Incorporating the Survey Weights into our Analyses
 - Checking Assumptions (in Logistic Regression)
+- ROC Curve Analysis (in Logistiic Regression)
 - Multiple Imputation (rather than Simple Imputation) to deal with missing data
 
 At which point, we'll move on to ...
 
-- Other methods for predicting 1/0 and quantitative outcomes
+- Other methods for predicting 1/0 and quantitative outcomes (via the `rms` package)
 - Using regression-style approaches to predict other kinds of outcomes (counts, multiple categories, times to event with censoring)
 
