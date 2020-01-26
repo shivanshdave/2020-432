@@ -27,4 +27,5 @@ Today | [Homework 1](https://github.com/THOMASELOVE/2020-432/tree/master/homewor
 5. **On jittering in an interaction plot**. A student pointed out to me that the jittering in one of our plots was a bit confusing. [Here's a quick example displaying the problem and a possible solution](https://github.com/THOMASELOVE/2020-432/blob/master/classes/class05/quick_example.md).
 6. **[Course Notes](https://thomaselove.github.io/2020-432-book/) Updated**. I made some meaningful progress revising and updating [the 2020 Course Notes](https://thomaselove.github.io/2020-432-book/). 
     - You'll find some small revisions before Chapter 3, substantial revisions to Chapter 3, and new Chapters 4-9, which should provide ample material to supplement the slides through this week.
+7. If you're looking to find a data set for Project 1, [Google Dataset Search](https://datasetsearch.research.google.com/) just [came out of beta](https://blog.google/products/search/discovering-millions-datasets-web/).
 
