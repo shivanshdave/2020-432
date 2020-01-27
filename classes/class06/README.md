@@ -20,4 +20,6 @@ Tomorrow | Minute Paper after Class 06 (**link to come**) will be due at 2 PM.
 
 ## Today's Announcements
 
-1. Coming soon.
+1. A reminder that I've added some new packages, including `caret` and `tidymodels` to the [software packages list](https://github.com/THOMASELOVE/2020-432/blob/master/software.md). Please update your packages in RStudio, and add these new ones.
+2. More to come.
+
