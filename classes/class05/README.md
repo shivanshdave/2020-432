@@ -32,3 +32,11 @@ Today | [Homework 1](https://github.com/THOMASELOVE/2020-432/tree/master/homewor
     - **Google Dataset Search** If you're looking to find a data set for Project 1, [Google Dataset Search](https://datasetsearch.research.google.com/) just [came out of beta](https://blog.google/products/search/discovering-millions-datasets-web/).
 8. There's a new R package called `wikitablr` which has tools to help you [simply webscrape tables from Wikipedia](https://github.com/jkeast/wikitablr), and clean them up. It looks like it could be useful.
 
+## One Last Thing
+
+You might be interested in [Guessing Names Based on What They Start With](https://flowingdata.com/2020/01/21/name-guess/) from Nathan Yau at flowingdata.com (2020-01-21).
+
+![](https://github.com/THOMASELOVE/2020-432/blob/master/classes/class05/figures/flowingdata_nameguessing.png)
+
+
+
