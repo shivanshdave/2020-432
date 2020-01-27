@@ -27,10 +27,14 @@ Today | [Homework 1](https://github.com/THOMASELOVE/2020-432/tree/master/homewor
 5. **On jittering in an interaction plot**. A student pointed out to me that the jittering in one of our plots was a bit confusing. [Here's a quick example displaying the problem and a possible solution](https://github.com/THOMASELOVE/2020-432/blob/master/classes/class05/quick_example.md).
 6. **[Course Notes](https://thomaselove.github.io/2020-432-book/) Updated**. I made some meaningful progress revising and updating [the 2020 Course Notes](https://thomaselove.github.io/2020-432-book/). 
     - You'll find some small revisions before Chapter 3, substantial revisions to Chapter 3, and new Chapters 4-9, which should provide ample material to supplement the slides through this week.
-7. About Your [Project 1](https://github.com/THOMASELOVE/2020-432/tree/master/projects/project1) Data.
-    - **No multi-level data in Project 1**. As in 431, we don't want you working with multi-level data in 432 Project 1. An example of multi-level data (for which a multi-level model would be necessary) would be a setting where you study measures on individual patients as well as measures on health systems in which the individual patients are grouped. Hierarchical or multi-level models are extensions of the linear and generalized linear models we want you to use in Project 1. So, avoid nested data, where data for participants are organized at more than one level, please.
-    - **Google Dataset Search** If you're looking to find a data set for Project 1, [Google Dataset Search](https://datasetsearch.research.google.com/) just [came out of beta](https://blog.google/products/search/discovering-millions-datasets-web/).
-8. There's a new R package called `wikitablr` which has tools to help you [simply webscrape tables from Wikipedia](https://github.com/jkeast/wikitablr), and clean them up. It looks like it could be useful.
+7. I've added some new packages, including `caret` and `tidymodels` to the [software packages list](https://github.com/THOMASELOVE/2020-432/blob/master/software.md). Please get up to date for Homework 2.
+
+## Data for [Project 1](https://github.com/THOMASELOVE/2020-432/tree/master/projects/project1)
+
+1. **We can help you decide if the data you want to use will work.** You really want to have your data decided upon and in R by 2020-02-05. If you have data but are not sure if it will work from reading the Project 1 proposal instructions, then please email us at **431-help** with any questions. The more specific the question, and the more information you provide, the better an answer we'll give.
+2. **No multi-level data in Project 1**. As in 431, we don't want you working with multi-level data in 432 Project 1. An example of multi-level data (for which a multi-level model would be necessary) would be a setting where you study measures on individual patients as well as measures on health systems in which the individual patients are grouped. Hierarchical or multi-level models are extensions of the linear and generalized linear models we want you to use in Project 1. So, avoid nested data, where data for participants are organized at more than one level, please.
+3. **Google Dataset Search** If you're looking to find a data set for Project 1, [Google Dataset Search](https://datasetsearch.research.google.com/) just [came out of beta](https://blog.google/products/search/discovering-millions-datasets-web/).
+4. **Data from Wikipedia Tables** There's a new R package called `wikitablr` which has tools to help you [simply webscrape tables from Wikipedia](https://github.com/jkeast/wikitablr), and clean them up. It looks like it could be useful.
 
 ## One Last Thing
 
