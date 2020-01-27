@@ -14,12 +14,12 @@ Session | Date | Materials
 -- | 01-24 | [Minute Paper after Class 4](http://bit.ly/432-2020-minute-04) due at 2 PM. ([Feedback is here](http://bit.ly/432-2020-minute-04-feedback))
 -- | 01-28 | [Homework 1](https://github.com/THOMASELOVE/2020-432/tree/master/homework/hw01) due at 5 PM.
 [Class 05](https://github.com/THOMASELOVE/2020-432/tree/master/classes/class05) | 01-28 | Predicting Binary Outcomes (Linear Probability Model, Logistic Regression)
-[Class 06](https://github.com/THOMASELOVE/2020-432/tree/master/classes/class06) | 01-30 | TBA, **ART** Chapter 4
+[Class 06](https://github.com/THOMASELOVE/2020-432/tree/master/classes/class06) | 01-30 | redicting Binary Outcomes (Logistic Regression), **ART** Chapter 4
 -- | 01-31 | Minute Paper after Class 6 (**link to come**) due at 2 PM.
 -- | 02-04 | [Homework 2](https://github.com/THOMASELOVE/2020-432/tree/master/homework/hw02) due at 5 PM.
-[Class 07](https://github.com/THOMASELOVE/2020-432/tree/master/classes/class07) | 02-04 | TBA 
+[Class 07](https://github.com/THOMASELOVE/2020-432/tree/master/classes/class07) | 02-04 | Model Section and Cross-Validation in Linear Models 
 -- | 02-05 | You should have your data for [Project 1](https://github.com/THOMASELOVE/2020-432/tree/master/projects/project1) by this date.
-[Class 08](https://github.com/THOMASELOVE/2020-432/tree/master/classes/class08) | 02-06 | TBA, **ART** Chapter 7
+[Class 08](https://github.com/THOMASELOVE/2020-432/tree/master/classes/class08) | 02-06 | Model Section and Cross-Validation in Linear Models, **ART** Chapter 7
 -- | 02-07 | Minute Paper after Class 8 (**link to come**) due at 2 PM.
 -- | 02-11 | [Homework 3](https://github.com/THOMASELOVE/2020-432/tree/master/homework/hw03) due at 5 PM.
 Class 09 | 02-11 | TBA
