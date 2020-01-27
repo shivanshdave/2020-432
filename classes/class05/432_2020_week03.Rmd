@@ -426,7 +426,7 @@ ggplot(m3_aug, aes(x = .fitted, y = bmilt30)) +
 - We establish a classification rule based on our model's predicted probabilities of BMI < 30.
   - If .fitted is below 0.5, we classify that as a prediction that `bmilt30` = 0.
   - If .fitted is 0.5 or larger, we classify that as a prediction that `bmilt30` = 1.
-- 0.5 is a natural cutpoint here but not the only possible one.
+- 0.5 is a natural cut point here but not the only possible one.
 
 ```{r}
 m3_aug %$% table(.fitted >= 0.5, bmilt30)
@@ -500,7 +500,7 @@ Prediction FALSE TRUE
  McNemar's Test P-Value : < 2e-16         
 ```
 
-- Kappa is a correlation statistic ranging from -1 to +1. It measures the interrater reliability of our predictions and the true classifications, in this context. Complete agreement would be +1, and complete disagreement would be -1.
+- Kappa is a correlation statistic ranging from -1 to +1. It measures the inter-rater reliability of our predictions and the true classifications, in this context. Complete agreement would be +1, and complete disagreement would be -1.
 
 
 ## Confusion Matrix statistics for `m3`
@@ -788,7 +788,7 @@ augment(m5_without, type.predict = "response") %>%
 - We establish a classification rule based on our model's predicted probabilities of BMI < 30.
   - If .fitted is below 0.5, we classify that as a prediction that `bmilt30` = 0.
   - If .fitted is 0.5 or larger, we classify that as a prediction that `bmilt30` = 1.
-- 0.5 is a natural cutpoint here but not the only possible one.
+- 0.5 is a natural cut point here but not the only possible one.
 
 ## (Mis-)Classification Table / Confusion Matrix
 
@@ -1241,7 +1241,7 @@ Building on what we know about Linear & Logistic Regression
 - Model Selection and Cross-Validation Strategies
 - Incorporating the Survey Weights into our Analyses
 - Checking Assumptions (in Logistic Regression)
-- ROC Curve Analysis (in Logistiic Regression)
+- ROC Curve Analysis (in Logistic Regression)
 - Multiple Imputation (rather than Simple Imputation) to deal with missing data
 
 At which point, we'll move on to ...
