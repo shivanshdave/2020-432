@@ -1,6 +1,8 @@
 432 Homework 3
 ================
 
+This assignment was revised 2020-01-27.
+
 # General Instructions
 
 Submit your work via [Canvas](https://canvas.case.edu/). The deadline is
@@ -45,41 +47,39 @@ compare potential models.
 Be sure to provide a written explanation of your conclusions and specify
 the variables in your final model, in complete sentences.
 
-# Question 2 (20 points)
+# Question 2-5 (40 points, total)
 
-Refer to the modeling task you accomplished in Question 1. Now, your job
-is to fit a Spearman rho-squared plot to identify the candidate
-variables (out of the 14 you studied) on which you might most reasonably
-try to address non-linearity in a model predicting body-mass index, now
-making use of as much of the data set that missing data allow (without
-imputation).
+Using the `hbp432` data, you will build models to predict whether or not
+the subject has a statin prescription based on the subject’s current LDL
+cholesterol and which of the four practices they receive care from. Fit
+logistic regression models both with and without an interaction term
+between the two practice (factor) and LDL level.
 
-Show the plot, and provide a written explanation of your conclusions
-about it, and specify the variables that are most appealing for
-non-linear augmentations, all in complete sentences. Which variables are
-most appealing candidates to add non-linear evaluations to a linear fit
-to the complete set of 14 predictors, and why?
+## Question 2 (10 points)
 
-Note that you do not need to perform any analyses of potential models
-here, simply build and interpret a single plot.
+Use a likelihood ratio test to compare the models, and describe its
+conclusions.
 
-# Question 3 (20 points)
+## Question 3 (10 points)
 
-Again using the `hbp432` data, build a logistic regression model to
-predict whether or not the subject has a statin prescription based on
-the subject’s current LDL cholesterol and which of the four practices
-they receive care from. Having fit your model, interpret the
-coefficients associated with the two predictors of interest (LDL and
-practice) carefully, including a 90% uncertainty interval and
-explanation of what we can conclude from the results.
+Compare the confusion matrix produced by the two models (using a 0.5 cut
+point). Produce an attractively formatted table comparing the models in
+terms of prediction accuracy, sensitivity, specificity, as well as PPV
+and NPV.
 
-# Question 4 (10 points)
+## Question 4 (10 points)
 
-Provide (and interpret in complete sentences) an appropriate assessment
-of the quality of predictions (perhaps with a confusion matrix) for the
-predictions made by your Question 3 model.
+Based on your general assessment of each model’s quality of fit, select
+the model (interaction or no interaction) that seems more appropriate,
+and justify that selection.
 
-# Question 5 (20 points)
+## Question 5 (10 points)
+
+For the model you selected in Question 5, interpret the odds ratios
+associated with the predictors carefully, including 90% uncertainty
+intervals and what we can conclude from the results.
+
+# Question 6 (30 points)
 
   - First, in 2-4 complete English sentences, please specify, using your
     own words and complete English sentences, the most useful and
