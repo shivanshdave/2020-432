@@ -29,7 +29,50 @@ Today | [Homework 1](https://github.com/THOMASELOVE/2020-432/tree/master/homewor
 6. **[Course Notes](https://thomaselove.github.io/2020-432-book/) Updated**. I made some meaningful progress revising and updating [the 2020 Course Notes](https://thomaselove.github.io/2020-432-book/). 
     - You'll find some small revisions before Chapter 3, substantial revisions to Chapter 3, and new Chapters 4-9, which should provide ample material to supplement the slides through this week.
 7. I've added some new packages, including `caret` and `tidymodels` to the [software packages list](https://github.com/THOMASELOVE/2020-432/blob/master/software.md). Please get up to date for Homework 2.
-8. **Homework 1 Hint** was sent yesterday via email. Suppose you use a `filter()` to (in Question 1) reduce the data set to just the two practices we want to study. How, then, might you eliminate the now-unused levels of the factor for purposes of, say, building a table? We recommend [the fct_drop() function in the forcats package](https://forcats.tidyverse.org/reference/fct_drop.html).
+
+## Homework 1 Hint
+
+We sent this yesterday via email. Suppose you use a `filter()` to (in Question 1) reduce the data set to just the two practices we want to study. How, then, might you eliminate the now-unused levels of the factor for purposes of, say, building a table? We recommend [the fct_drop() function in the forcats package](https://forcats.tidyverse.org/reference/fct_drop.html).
+
+Someone was still confused, so I wrote this:
+
+Suppose you have...
+```
+hbp432_1 <- hbp432 %>%
+  filter(practice == "A" | practice == "C")
+```
+
+and then try
+```
+hbp432_1 %>% tabyl(practice)
+```
+
+You'll get 
+```
+practice   n   percent
+       A 116 0.5742574
+       B   0 0.0000000
+       C  86 0.4257426
+       D   0 0.0000000
+```
+
+But if instead you try ...
+
+```
+hbp432_1 <- hbp432 %>%
+  filter(practice == "A" | practice == "C") %>%
+  mutate(practice = fct_drop(practice))
+
+hbp432_1 %>% tabyl(practice)
+```
+
+you get
+```
+practice   n   percent
+        A 116 0.5742574
+        C  86 0.4257426
+```
+
 
 ## Data for [Project 1](https://github.com/THOMASELOVE/2020-432/tree/master/projects/project1)
 
