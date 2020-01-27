@@ -12,6 +12,7 @@ Date | Deliverable
 ---------: | -----------------------------------------------------------------------
 Tomorrow | There will be a Minute Paper after Class 8, due at 2 PM. **Link to come**.
 2020-02-11 | [Homework 3](https://github.com/THOMASELOVE/2020-432/tree/master/homework/hw03) due at 5 PM.
+2020-02-13 | Read *The Art of Statistics* Chapter 8 (Probability)
 2020-02-14 | [Project 1 Proposal](https://github.com/THOMASELOVE/2020-432/tree/master/projects/project1) due at 2 PM.
 
 ## Today's Announcements
