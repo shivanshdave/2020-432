@@ -451,8 +451,8 @@ Scenario | Subject | `genhealth` | `smoker`
 1 | Sally | Very Good | Never
 
 - Harry's predicted BMI is 26.248 + 0.741 = 26.989
-- Sally's predicted BMI is 26.248 + 0.741 - 0.293 + 0.658 = 27.354
-- If genhealth Very Good, effect of Never vs. Current is 0.365
+- Sally's predicted BMI is 26.248 + 0.741 - 0.293 + 1.093 = 27.789
+- If genhealth Very Good, effect of Never vs. Current is 0.800
 
 Scenario | Subject | `genhealth` | `smoker` 
 -------: | ------: | --------: | -------:
