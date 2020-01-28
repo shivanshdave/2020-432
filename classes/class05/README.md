@@ -22,6 +22,7 @@ Today | [Homework 1](https://github.com/THOMASELOVE/2020-432/tree/master/homewor
 ## Today's Announcements
 
 1. The [Class 03](https://github.com/THOMASELOVE/2020-432/tree/master/classes/class03) and [Class 04](https://github.com/THOMASELOVE/2020-432/tree/master/classes/class04) Slides have been edited to reflect what we actually discussed each day, and reposted accordingly.
+    - In slide 39 of Class 04, there was an error, now corrected, in the estimation of Sally's BMI at the top of the slide.
 2. Thank you for completing the [Minute Paper after Class 4](http://bit.ly/432-2020-minute-04). By now, I hope you've had the chance to [review the feedback I posted Friday](http://bit.ly/432-2020-minute-04-feedback). Our next Minute Paper will be after Class 6.
 3. When sending us a request for help at **431-help** it's extremely helpful for you to send your entire R Markdown file, in addition to pointing out whatever specific issue is concerning you. This will help us respond faster and more accurately.
 4. If you're having trouble figuring out how to do something in R, consider looking at [the r-basics document](https://github.com/THOMASELOVE/2020-432/tree/master/r-basics). It's not perfect, but it does cover a lot of common issues. Section 8.3, for instance, shows a method for creating a multi-categorical factor from a quantitative variable.
