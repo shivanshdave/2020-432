@@ -75,7 +75,7 @@ practice   n   percent
 Date | Deliverable
 ---------: | -----------------------------------------------------------------------
 Today | [Homework 1](https://github.com/THOMASELOVE/2020-432/tree/master/homework/hw01) due at 5 PM.
-2020-01-31 | Minute Paper after Class 06 (**link to come**) will be due at 2 PM.
+2020-01-31 | [Minute Paper after Class 06](http://bit.ly/432-2020-minute-06) due at 2 PM.
 2020-02-04 | [Homework 2](https://github.com/THOMASELOVE/2020-432/tree/master/homework/hw02) due at 5 PM.
 2020-02-05 | You should have your data for [Project 1](https://github.com/THOMASELOVE/2020-432/tree/master/projects/project1) in hand.
 2020-02-06 | Read *The Art of Statistics* Chapter 7 (Estimates and Intervals)
