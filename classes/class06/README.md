@@ -35,6 +35,10 @@ By *data in hand*, I mean:
 
 If you are unsure whether your raw data or analytic tibble meets one or more of these standards, then please email us at 431-help as soon as possible with specific questions, and we'll try to provide confirmation.
 
+## What is Wrong with This Picture?
+
+![](https://github.com/THOMASELOVE/2020-432/blob/master/classes/class06/Futier_2020_FLASH_JAMA_visual_abstract.png)
+
 ## Next Few Deliverables (from [the Course Calendar](https://github.com/THOMASELOVE/2020-432/blob/master/calendar.md))
 
 Date | Deliverable
