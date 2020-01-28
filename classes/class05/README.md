@@ -6,19 +6,6 @@ Slides in PDF | Slides in R Markdown | Audio Recording | Need Help?
 ------------: | :------------------: | :--------------: | ---------------------------
 [Week 03 Slides](https://github.com/THOMASELOVE/2020-432/blob/master/classes/class05/432_2020_week03.pdf) | [Week 03 .Rmd](https://github.com/THOMASELOVE/2020-432/blob/master/classes/class05/432_2020_week03.Rmd) | [Shared Drive](http://bit.ly/432-2020-audio) | Email **431-help at case dot edu** or visit [Office Hours](https://github.com/THOMASELOVE/2020-432/blob/master/calendar.md#tas-and-office-hours)
 
-## Next Few Deliverables (from [the Course Calendar](https://github.com/THOMASELOVE/2020-432/blob/master/calendar.md))
-
-Date | Deliverable
----------: | -----------------------------------------------------------------------
-Today | [Homework 1](https://github.com/THOMASELOVE/2020-432/tree/master/homework/hw01) due at 5 PM.
-2020-01-31 | Minute Paper after Class 06 (**link to come**) will be due at 2 PM.
-2020-02-04 | [Homework 2](https://github.com/THOMASELOVE/2020-432/tree/master/homework/hw02) due at 5 PM.
-2020-02-05 | You should have your data for [Project 1](https://github.com/THOMASELOVE/2020-432/tree/master/projects/project1) in hand.
-2020-02-06 | Read *The Art of Statistics* Chapter 7 (Estimates and Intervals)
-2020-02-11 | [Homework 3](https://github.com/THOMASELOVE/2020-432/tree/master/homework/hw03) due at 5 PM. (Note that HW 3 was revised 2020-01-27)
-2020-02-13 | Read *The Art of Statistics* Chapter 8 (Probability)
-2020-02-14 | [Project 1 Proposal](https://github.com/THOMASELOVE/2020-432/tree/master/projects/project1) due at 2 PM.
-
 ## Today's Announcements
 
 1. The [Class 03](https://github.com/THOMASELOVE/2020-432/tree/master/classes/class03) and [Class 04](https://github.com/THOMASELOVE/2020-432/tree/master/classes/class04) Slides have been edited to reflect what we actually discussed each day, and reposted accordingly.
@@ -78,9 +65,23 @@ practice   n   percent
 ## Data for [Project 1](https://github.com/THOMASELOVE/2020-432/tree/master/projects/project1)
 
 1. **We can help you decide if the data you want to use will work.** You really want to have your data decided upon and in R by 2020-02-05. If you have data but are not sure if it will work from reading the Project 1 proposal instructions, then please email us at **431-help** with any questions. The more specific the question, and the more information you provide, the better an answer we'll give.
+    - In the Class 06 README, I've written a little bit about [what I mean by having your data in hand](https://github.com/THOMASELOVE/2020-432/blob/master/classes/class06/README.md#what-does-it-mean-to-have-your-data-for-project-1-in-hand) and we'll discuss those details in class Thursday.
 2. **No multi-level data in Project 1**. As in 431, we don't want you working with multi-level data in 432 Project 1. An example of multi-level data (for which a multi-level model would be necessary) would be a setting where you study measures on individual patients as well as measures on health systems in which the individual patients are grouped. Hierarchical or multi-level models are extensions of the linear and generalized linear models we want you to use in Project 1. So, avoid nested data, where data for participants are organized at more than one level, please.
 3. **Google Dataset Search** If you're looking to find a data set for Project 1, [Google Dataset Search](https://datasetsearch.research.google.com/) just [came out of beta](https://blog.google/products/search/discovering-millions-datasets-web/).
 4. **Data from Wikipedia Tables** There's a new R package called `wikitablr` which has tools to help you [simply webscrape tables from Wikipedia](https://github.com/jkeast/wikitablr), and clean them up. It looks like it could be useful.
+
+## Next Few Deliverables (from [the Course Calendar](https://github.com/THOMASELOVE/2020-432/blob/master/calendar.md))
+
+Date | Deliverable
+---------: | -----------------------------------------------------------------------
+Today | [Homework 1](https://github.com/THOMASELOVE/2020-432/tree/master/homework/hw01) due at 5 PM.
+2020-01-31 | Minute Paper after Class 06 (**link to come**) will be due at 2 PM.
+2020-02-04 | [Homework 2](https://github.com/THOMASELOVE/2020-432/tree/master/homework/hw02) due at 5 PM.
+2020-02-05 | You should have your data for [Project 1](https://github.com/THOMASELOVE/2020-432/tree/master/projects/project1) in hand.
+2020-02-06 | Read *The Art of Statistics* Chapter 7 (Estimates and Intervals)
+2020-02-11 | [Homework 3](https://github.com/THOMASELOVE/2020-432/tree/master/homework/hw03) due at 5 PM. (Note that HW 3 was revised 2020-01-27)
+2020-02-13 | Read *The Art of Statistics* Chapter 8 (Probability)
+2020-02-14 | [Project 1 Proposal](https://github.com/THOMASELOVE/2020-432/tree/master/projects/project1) due at 2 PM.
 
 ## One Last Thing
 
