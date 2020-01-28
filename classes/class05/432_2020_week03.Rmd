@@ -377,14 +377,14 @@ glance(m2) %>% select(4:5)
 
 - AIC and BIC still useful for comparing models using the same outcome.
 
-## Can we predict `BMI < 30` using `dm_status`?
+## Can we predict `BMI < 30` using `dm_status` and `genhealth`?
 
 ```{r}
 smart1_sh <- smart1_sh %>%
   mutate(bmilt30 = as.numeric(bmi < 30),
          dm_status = fct_relevel(dm_status, "No"))
 
-smart1_sh %>% tabyl(bmilt30) %>% adorn_pct_formatting()
+smart1_sh %>% tabyl(genhealth, dm_status)
 ```
 
 ## Two-Factor Linear Probability model for `bmilt30`
