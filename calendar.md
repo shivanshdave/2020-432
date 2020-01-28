@@ -15,7 +15,7 @@ Session | Date | Materials
 -- | 01-28 | [Homework 1](https://github.com/THOMASELOVE/2020-432/tree/master/homework/hw01) due at 5 PM.
 [Class 05](https://github.com/THOMASELOVE/2020-432/tree/master/classes/class05) | 01-28 | Predicting Binary Outcomes (Linear Probability Model, Logistic Regression)
 [Class 06](https://github.com/THOMASELOVE/2020-432/tree/master/classes/class06) | 01-30 | Predicting Binary Outcomes (Logistic Regression), **ART** Chapter 4
--- | 01-31 | Minute Paper after Class 6 (**link to come**) due at 2 PM.
+-- | 01-31 | [Minute Paper after Class 06](http://bit.ly/432-2020-minute-06) due at 2 PM.
 -- | 02-04 | [Homework 2](https://github.com/THOMASELOVE/2020-432/tree/master/homework/hw02) due at 5 PM.
 [Class 07](https://github.com/THOMASELOVE/2020-432/tree/master/classes/class07) | 02-04 | Model Section and Cross-Validation in Linear Models 
 -- | 02-05 | You should have your data for [Project 1](https://github.com/THOMASELOVE/2020-432/tree/master/projects/project1) by this date.
