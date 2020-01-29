@@ -60,9 +60,9 @@ Date | Deliverable
 
 ## One Last Thing
 
-The Modern Dive textbook has a really nice [chapter introducing ideas in Multiple Regression](https://moderndive.com/6-multiple-regression.html), so if you're feeling the need for some more introductory explanations, that might be a good place to go. 
+The [Modern Dive](https://moderndive.com/) textbook has a really nice [chapter introducing ideas in Multiple Regression](https://moderndive.com/6-multiple-regression.html), so if you're feeling the need for some more introductory explanations, that might be a good place to go. 
 
-The `moderndive` package in R has a couple of appealing tools for dealing with linear regression models which I would like to highlight, specifically `get_regression_table()` and `geom_parallel_slopes`.
+The `moderndive` package in R has a couple of appealing tools for dealing with linear regression models which I would like to highlight, specifically `get_regression_table()` and `geom_parallel_slopes`. I'll do so [in this little example](https://github.com/THOMASELOVE/2020-432/blob/master/classes/class06/modern_dive_example.md), which is also available [in R Markdown](https://github.com/THOMASELOVE/2020-432/blob/master/classes/class06/modern_dive_example.Rmd).
 
 
 
