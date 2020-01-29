@@ -10,7 +10,7 @@ Slides in PDF | Slides in R Markdown | Audio Recording | Need Help?
 
 1. A reminder that I've added some new packages, including `caret` and `tidymodels` to the [software packages list](https://github.com/THOMASELOVE/2020-432/blob/master/software.md). Please update your packages in RStudio, and add these new ones.
 2. The [Minute Paper after Class 06](http://bit.ly/432-2020-minute-06) is due at 2 PM tomorrow.
-3. More to come.
+3. Answer Sketch for Homework 1 is now available, in [PDF](https://github.com/THOMASELOVE/2020-432/blob/master/homework/hw01/sketch/sketch_hw1.pdf) and [R Markdown](https://github.com/THOMASELOVE/2020-432/blob/master/homework/hw01/sketch/sketch_hw1.Rmd). We'll post the grading rubric when we post the grades, probably on Tuesday 2020-02-04.
 
 ## What does it mean to have your data for Project 1 in hand?
 
