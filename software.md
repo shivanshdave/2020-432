@@ -17,13 +17,13 @@ Copy and paste the following lines of code into the Console window of R Studio t
     pkgs <- c(  "afex", "aplpack", "aplore3", "arm", "babynames", "bestglm", "boot", "broom", "car", "caret",
                 "cowplot", "DataExplorer", "devtools", "Epi", "exact2x2", "ez", "faraway", "fivethirtyeight", 
                 "foreign", "gapminder", "gee", "geepack", "GGally", "ggforce", "ggrepel", "ggridges", "ggthemes", 
-                "glue", "gmodels", "gridExtra", "here", "Hmisc", "HSAUR", "infer", "janitor", "kableExtra", "knitr", 
-                "lars", "lattice", "leaps", "lme4", "lmerTest", "lmtest", "magrittr", "markdown", "MASS", "mice", 
-                "moderndive". "mosaic", "multcomp", "naniar", "NHANES", "nnet", "pander", "patchwork", "posterdown", 
-                "pROC", "PropCIs", "pscl", "psych", "pwr", "qcc", "QuantPsyc", "quantreg", "ResourceSelection", 
-                "rmarkdown", "rmdformats", "rms", "robustbase", "ROCR", "rstanarm", "sandwich", "sessioninfo", 
-                "simputation", "skimr", "spelling", "styler", "survival", "survminer", "tableone", "tidymodels", 
-                "tidyverse", "usethis", "vcd", "VGAM", "viridis")
+                "glue", "gmodels", "gridExtra", "here", "Hmisc", "HSAUR", "infer", "janitor", "kableExtra", 
+                "knitr", "lars", "lattice", "leaps", "lme4", "lmerTest", "lmtest", "magrittr", "markdown", 
+                "MASS", "mice", "moderndive". "mosaic", "multcomp", "naniar", "NHANES", "nnet", "pander", 
+                "patchwork", "posterdown", "pROC", "PropCIs", "pscl", "psych", "pwr", "qcc", "QuantPsyc", 
+                "quantreg", "ResourceSelection", "rmarkdown", "rmdformats", "rms", "robustbase", "ROCR", 
+                "rstanarm", "sandwich", "sessioninfo", "simputation", "skimr", "spelling", "styler", "survival", 
+                "survminer", "tableone", "tidymodels", "tidyverse", "usethis", "vcd", "VGAM", "viridis")
                 
     install.packages(pkgs)
     
