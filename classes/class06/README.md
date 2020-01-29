@@ -8,9 +8,10 @@ Slides in PDF | Slides in R Markdown | Audio Recording | Need Help?
 
 ## Today's Announcements
 
-1. A reminder that I've added some new packages, including `caret` and `tidymodels` to the [software packages list](https://github.com/THOMASELOVE/2020-432/blob/master/software.md). Please update your packages in RStudio, and add these new ones.
-2. The [Minute Paper after Class 06](http://bit.ly/432-2020-minute-06) is due at 2 PM tomorrow.
-3. Answer Sketch for Homework 1 is now available, in [PDF](https://github.com/THOMASELOVE/2020-432/blob/master/homework/hw01/sketch/sketch_hw1.pdf) and [R Markdown](https://github.com/THOMASELOVE/2020-432/blob/master/homework/hw01/sketch/sketch_hw1.Rmd). We'll post the grading rubric when we post the grades, probably on Tuesday 2020-02-04.
+1. I revised the week 3 slides here (and in Class 5) to indicate that our model m2 includes both `dm_status` and `genhealth` at the start.
+2. A reminder that I've added some new packages, including `caret` and `tidymodels` to the [software packages list](https://github.com/THOMASELOVE/2020-432/blob/master/software.md). Please update your packages in RStudio, and add these new ones. We'll be using `caret` today and next week, definitely, and will get to some `tidymodels` pieces soon.
+3. The [Minute Paper after Class 06](http://bit.ly/432-2020-minute-06) is due at 2 PM tomorrow.
+4. Answer Sketch for Homework 1 is now available, in [PDF](https://github.com/THOMASELOVE/2020-432/blob/master/homework/hw01/sketch/sketch_hw1.pdf) and [R Markdown](https://github.com/THOMASELOVE/2020-432/blob/master/homework/hw01/sketch/sketch_hw1.Rmd). We'll post the grading rubric when we post the grades, probably on Tuesday 2020-02-04.
 
 ## What does it mean to have your data for Project 1 in hand?
 
