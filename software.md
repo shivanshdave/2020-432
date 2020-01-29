@@ -19,7 +19,7 @@ Copy and paste the following lines of code into the Console window of R Studio t
                 "foreign", "gapminder", "gee", "geepack", "GGally", "ggforce", "ggrepel", "ggridges", "ggthemes", 
                 "glue", "gmodels", "gridExtra", "here", "Hmisc", "HSAUR", "infer", "janitor", "kableExtra", 
                 "knitr", "lars", "lattice", "leaps", "lme4", "lmerTest", "lmtest", "magrittr", "markdown", 
-                "MASS", "mice", "moderndive". "mosaic", "multcomp", "naniar", "NHANES", "nnet", "pander", 
+                "MASS", "mice", "moderndive", "mosaic", "multcomp", "naniar", "NHANES", "nnet", "pander", 
                 "patchwork", "posterdown", "pROC", "PropCIs", "pscl", "psych", "pwr", "qcc", "QuantPsyc", 
                 "quantreg", "ResourceSelection", "rmarkdown", "rmdformats", "rms", "robustbase", "ROCR", 
                 "rstanarm", "sandwich", "sessioninfo", "simputation", "skimr", "spelling", "styler", "survival", 
