@@ -1,6 +1,12 @@
 432 Homework 1
 ================
 
+# Answer Sketch for Homework 1 is now available.
+
+- [PDF](https://github.com/THOMASELOVE/2020-432/blob/master/homework/hw01/sketch/sketch_hw1.pdf)
+- [R Markdown](https://github.com/THOMASELOVE/2020-432/blob/master/homework/hw01/sketch/sketch_hw1.Rmd)
+- We'll post the grading rubric when we post the grades, probably on Tuesday 2020-02-04.
+
 # General Instructions
 
 Submit your work via [Canvas](https://canvas.case.edu/). The deadline is
