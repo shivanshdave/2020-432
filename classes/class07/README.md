@@ -27,7 +27,7 @@ Friday | There will be a Minute Paper after Class 8 due at 2 PM. **Link to come.
 
 ![](https://github.com/THOMASELOVE/2020-432/blob/master/classes/class07/Futier_2020_FLASH_JAMA_visual_abstract.png)
 
-![](https://github.com/THOMASELOVE/2020-432/blob/master/classes/class07/Futier_2020_conclusions.png)
+![](https://github.com/THOMASELOVE/2020-432/blob/master/classes/class07/Futier_2020_conclusions.PNG)
 
 - See [Frank Harrell's Tweet 2020-01-24 and the follow-up comments](https://twitter.com/f2harrell/status/1220683246507307014).
 - See [DataMethods](https://discourse.datamethods.org/t/language-for-communicating-frequentist-results-about-treatment-effects/934), too.
