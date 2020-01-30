@@ -20,10 +20,10 @@ I think you will be much happier if you have data for Project 1 by 2020-02-05 th
 By *data in hand*, I mean:
 
 1. Your data meets all the standards posted in the [What Makes an Acceptable Data Set](https://github.com/THOMASELOVE/2020-432/tree/master/projects/project1#what-makes-an-acceptable-data-set) section of the Project 1 instructions.
-    a. Availability to All
-    b. Size (n = 100 to 1000)
-    c. Outcomes (one quantitative and one binary) for your planned models
-    d. Inputs (somewhere between 4 and 4 + (n-100)/100 inputs are required) for your planned models
+    - Availability to All
+    - Size (n = 100 to 1000)
+    - Outcomes (one quantitative and one binary) for your planned models
+    - Inputs (somewhere between 4 and 4 + (n-100)/100 inputs are required) for your planned models. You can use the same predictors in both models.
 2. The original source of the data (files, hyperlinks, etc.) and the raw data you used to create the analytic data are in your possession.
     a. The raw data should be in one or more .csv files.
     b. You should have a recipe for how you went from the raw data to the analytic tibble.
