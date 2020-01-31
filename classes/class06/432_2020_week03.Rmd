@@ -466,7 +466,7 @@ confuse3_small
 
 - **Sensitivity** = 4664 / (4664 + 405) = 92.01% (also called Recall)
   - if the subject actually has BMI < 30 our model predicts that 92.01% of the time.
-- **Specificity** = 483 / (1860 + 403) = 20.61%
+- **Specificity** = 483 / (1860 + 483) = 20.61%
   - if the subject actually has BMI >= 30 our model predicts that 20.61% of the time.
 - **Positive Predictive Value** or *Precision* = 4664 / (4664 + 1860) = 71.49%
   - our predictions of BMI < 30 were correct 71.49% of the time.
