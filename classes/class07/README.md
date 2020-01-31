@@ -9,7 +9,7 @@ Slides in PDF | Slides in R Markdown | Audio Recording | Need Help?
 ## Today's Announcements
 
 1. I revised the Week 3 Slides ([PDF](https://github.com/THOMASELOVE/2020-432/blob/master/classes/class06/432_2020_week03.pdf), [RMarkdown](https://github.com/THOMASELOVE/2020-432/blob/master/classes/class06/432_2020_week03.Rmd)) to fix a typo in the denominator of Specificity in slide 39.
-2. I added the [ModernDive example with interaction and parallel slope plots](https://github.com/THOMASELOVE/2020-432/blob/master/classes/class06/modern_dive_example.md) that were missing when we discussed them in Class 6.
+2. I added the [ModernDive example with interaction and parallel slope plots](https://github.com/THOMASELOVE/2020-432/blob/master/classes/class06/modern_dive_example.md) that were missing in Class 6.
 3. More to come.
 
 ## On Sample Size and Logistic Regression Models
