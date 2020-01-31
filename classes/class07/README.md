@@ -42,10 +42,17 @@ Friday | There will be a Minute Paper after Class 8 due at 2 PM. **Link to come.
 
 ## One Last Thing: The Iowa Caucuses are Tonight.
 
-So we'll check in on:
+Caucuses are especially hard to predict, and the Iowa Caucus is going to be especially hard to predict this year:
 
-- [FiveThirtyEight's Forecast for Iowa](https://projects.fivethirtyeight.com/2020-primary-forecast/iowa/)
+- [The Iowa Caucuses Are In 4 Days. Almost Anything Could Still Happen](https://fivethirtyeight.com/features/the-iowa-caucuses-are-in-4-days-almost-anything-could-still-happen/) by Nate Silver (2020-01-30)
+- [Bernie Sanders is the Iowa favorite, but he is far from a sure thing](https://www.cnn.com/2020/01/30/politics/bernie-sanders-polls-analysis/index.html) by Harry Enten (2020-01-30)
+- [Election Update: A New Batch Of Iowa Polls Still Shows A Tight Race Between Sanders And Biden](https://fivethirtyeight.com/features/election-update-a-new-batch-of-iowa-polls-still-shows-a-tight-race-between-sanders-and-biden/) by Geoffrey Skelly (2020-01-29)
+- [Where Are All The Iowa Polls This Year?](https://fivethirtyeight.com/features/where-are-all-the-iowa-polls-this-year/) by Geoffrey Skelly (2020-01-31)
+- [What You Should Know about Primaries and Caucuses](https://fivethirtyeight.com/features/what-you-should-know-about-primaries-and-caucuses/) by Anna Rothschild and Galen Druke
+
+We'll take a moment this afternoon to check in on:
+
 - [RealClearPolitics' Poll Average for Iowa](https://www.realclearpolitics.com/epolls/2020/president/ia/iowa_democratic_presidential_caucus-6731.html)
-- and [the PredictIt Prediction Market for the Iowa Caucuses](https://www.predictit.org/markets/detail/5241/Who-will-win-the-2020-Iowa-Democratic-caucuses)
-
+- [The PredictIt Prediction Market for the Iowa Caucuses](https://www.predictit.org/markets/detail/5241/Who-will-win-the-2020-Iowa-Democratic-caucuses) and, of course,
+- [FiveThirtyEight's Forecast for Iowa](https://projects.fivethirtyeight.com/2020-primary-forecast/iowa/)
 
