@@ -19,9 +19,18 @@ Slides in PDF | Slides in R Markdown | Audio Recording | Need Help?
 
 When fitting regression models, a common question is "how big a sample do I need?"
 
-This depends on a lot of things, including what you want to use to determine whether a regression model is strong enough. For linear regression, most people who want to build a simple rule base it on the number of predictors, P, that you intend to consider in your modeling. As a starting point, I would recommend that if N (your sample size) is 100P or larger, then you'll likely be able to distinguish R-squared values pretty meaningfully down to the second decimal place, so that an R-squared of 0.32 really does mean something different from 0.31. Some of my motivation from this comes from this [old post by Frank Harrell on StackExchange](https://stats.stackexchange.com/posts/59128/revisions).
+If I have to give a quick answer it would be as follows. Let P be the number of predictors you are considering including in the model.
 
-To fit a logistic regression model, we need a larger sample size, given the same number of predictors. [This tweet](https://twitter.com/f2harrell/status/936230071219707913?lang=en) links to some details. One set of "rules" I use is:
+- In linear regression, use a sample size (number of complete observations) that is 50P to be safe, although there's a plausible argument for something like 20P in exploratory work, where you're not really expecting as much precision in your estimates.
+- In logistic regression, the key sample size is the smaller of the two groups defined by your binary outcome. Suppose you have fewer YES than NO in your outcome. The number of YES observations should then be at least 96 + 8P.
+
+This depends on a lot of things, including what you define as a regression model that is "strong enough." 
+
+For linear regression, most people who want to build a simple rule base it on the number of predictors, P, that you intend to consider in your modeling. As a starting point, I would recommend that if N (your sample size) is 50P or larger, then you'll likely be able to distinguish R-squared values of, for example, 0.12 and 0.14 pretty meaningfully. Some motivation comes from this [post by Frank Harrell on StackExchange](https://stats.stackexchange.com/posts/59128/revisions).
+
+- Since I've set the minimum sample size for Project 1 at 100, not everyone will meet this standard.
+
+To fit a logistic regression model, [this tweet](https://twitter.com/f2harrell/status/936230071219707913?lang=en) links to some details. One set of "rules" I use is:
 
 1. Select the number of predictors you want to study in your logistic regression (includes everything you plan to consider, regardless of whether it makes it into your final model) and call that P.
 2. Denote the sample size as follows - if you have an outcome where you have N1 people with "1" and N0 people with "0" then let N = min(N0, N1).
@@ -30,7 +39,19 @@ To fit a logistic regression model, we need a larger sample size, given the same
 - So if you have a rare event that occurs less than 96 times, your logistic regression model will be so weak that even an intercept won't be reliably estimated.
 - For the project, I'd operationalize this to say that if both "1" and "0" occur 200 times, they should be fine for our purposes for any sample size up to 1000.
 - For people with fewer than 256 observations overall, their logistic regression models will be very weak, since even with just 4 predictors, you'd really want 128 "1" and 128 "0" results. 
-- Since I've set the minimum sample size for Project 1 at 100, there will be some people in that setting. The rule I'll apply in future versions of the course will require at least 400 observations on all data, and at least 200 "1" and 200 "0" in their binary outcome. If you can meet that standard with the data set you plan to use, great. If not, prepare for your logistic regression model to be a little disappointing.
+- Since I've set the minimum sample size for Project 1 at 100, not everyone will meet this standard.
+
+### How does this apply to the course project?
+
+- For your linear regression, I've suggested that you use at least 4 predictors. To do so, you really ought to have at least 200 observations, and ideally more than that.
+- For your logistic regression, the minimum of 4 predictors should lead to a requirement of at least 128 observations in each of the two groups (YES and NO) for your binary outcome.
+- So I probably should have specified those requirements, and made the minimum sample size something like 400 complete cases, rather than just 100, but I won't change the requirements now.
+- I've also set a rule that you can use up to 4 + (N-100)/100 predictors in your models. 
+    - For linear regression, this would imply that you could run a model with up to 10 predictors if you had 1000 complete observations, which should be fine, and in fact the plan we have is fine so long as N is at least 400.
+    - For logistic regression, this really should depend on the smaller of the two groups created by your binary outcome. To look at 10 predictors in your logistic regression model, you might get away with as little as 176 in the smaller group, and in our case, you'd then have 824 in the larger group, so that might be pretty reasonable.
+- The rule I'll apply in future versions of the course will require *at least* 400 observations on all data, *and* at least 200 "1" and 200 "0" in their binary outcome. So long as they meet those standards, I'll require students to consider exactly 4 predictors with 400 observations, and up to one additional predictor for each additional 100 observations, up to a possible maximum of 10 predictors and 1000 observations.
+- If you can meet that standard with the data set you plan to use, great. If not, prepare for your logistic regression model (at least) to be a little disappointing.
+
 
 ## Next Few Deliverables (from [the Course Calendar](https://github.com/THOMASELOVE/2020-432/blob/master/calendar.md))
 
