@@ -10,7 +10,10 @@ Slides in PDF | Slides in R Markdown | Audio Recording | Need Help?
 
 1. I revised the Week 3 Slides ([PDF](https://github.com/THOMASELOVE/2020-432/blob/master/classes/class06/432_2020_week03.pdf), [RMarkdown](https://github.com/THOMASELOVE/2020-432/blob/master/classes/class06/432_2020_week03.Rmd)) to fix a typo in the denominator of Specificity in slide 39.
 2. I added the [ModernDive example with interaction and parallel slope plots](https://github.com/THOMASELOVE/2020-432/blob/master/classes/class06/modern_dive_example.md) that were missing in Class 6.
-3. More to come.
+3. rstudio::conf2020 was last week. 
+    - [RStudio, Inc. is now RStudio, PBC](https://blog.rstudio.com/2020/01/29/rstudio-pbc/). PBC stands for Public Benefit Corporation. The first of their Public Benefit Reports is [now available](https://rstudio.com/about/pbc-report/).
+    - Check out [Emily's ggplot2 nails](https://twitter.com/AmeliaMN/status/1223033747030757376?s=20).
+    
 
 ## On Your Project, Sample Size and Logistic Regression Models
 
@@ -36,5 +39,13 @@ Friday | There will be a Minute Paper after Class 8 due at 2 PM. **Link to come.
 2020-02-11 | [Homework 3](https://github.com/THOMASELOVE/2020-432/tree/master/homework/hw03) due at 5 PM. 
 2020-02-13 | Read *The Art of Statistics* Chapter 8 (Probability)
 2020-02-14 | [Project 1 Proposal](https://github.com/THOMASELOVE/2020-432/tree/master/projects/project1) due at 2 PM.
+
+## One Last Thing: The Iowa Caucuses are Tonight.
+
+So we'll check in on:
+
+- [FiveThirtyEight's Forecast for Iowa](https://projects.fivethirtyeight.com/2020-primary-forecast/iowa/)
+- [RealClearPolitics' Poll Average for Iowa](https://www.realclearpolitics.com/epolls/2020/president/ia/iowa_democratic_presidential_caucus-6731.html)
+- and [the PredictIt Prediction Market for the Iowa Caucuses](https://www.predictit.org/markets/detail/5241/Who-will-win-the-2020-Iowa-Democratic-caucuses)
 
 
