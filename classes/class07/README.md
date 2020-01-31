@@ -14,9 +14,7 @@ Slides in PDF | Slides in R Markdown | Audio Recording | Need Help?
 
 ## On Your Project, Sample Size and Logistic Regression Models
 
-To fit a logistic regression model, we need a fairly considerable sample size. [This tweet](https://twitter.com/f2harrell/status/936230071219707913?lang=en) links to some details.
-
-One set of "rules" that I like to use is as follows:
+To fit a logistic regression model, we need a fairly considerable sample size. [This tweet](https://twitter.com/f2harrell/status/936230071219707913?lang=en) links to some details. One set of "rules" I use is:
 
 1. Select the number of predictors you want to study in your logistic regression (includes everything you plan to consider, regardless of whether it makes it into your final model) and call that P.
 2. Denote the sample size as follows - if you have an outcome where you have N1 people with "1" and N0 people with "0" then let N = min(N0, N1).
