@@ -67,7 +67,7 @@ Friday | There will be a Minute Paper after Class 8 due at 2 PM. **Link to come.
 
 ## One Last Thing: The Iowa Caucuses were last night...
 
-Caucuses are especially hard to predict, and the Iowa Caucus were going to be especially hard to predict this year:
+Caucuses are especially hard to predict, and the Iowa Caucus was hard to predict this year:
 
 - [The Iowa Caucuses Are In 4 Days. Almost Anything Could Still Happen](https://fivethirtyeight.com/features/the-iowa-caucuses-are-in-4-days-almost-anything-could-still-happen/) by Nate Silver (2020-01-30)
 - [Bernie Sanders is the Iowa favorite, but he is far from a sure thing](https://www.cnn.com/2020/01/30/politics/bernie-sanders-polls-analysis/index.html) by Harry Enten (2020-01-30)
