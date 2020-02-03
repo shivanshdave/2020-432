@@ -65,9 +65,9 @@ Friday | There will be a Minute Paper after Class 8 due at 2 PM. **Link to come.
 2020-02-13 | Read *The Art of Statistics* Chapter 8 (Probability)
 2020-02-14 | [Project 1 Proposal](https://github.com/THOMASELOVE/2020-432/tree/master/projects/project1) due at 2 PM.
 
-## One Last Thing: The Iowa Caucuses are Tonight.
+## One Last Thing: The Iowa Caucuses were last night...
 
-Caucuses are especially hard to predict, and the Iowa Caucus is going to be especially hard to predict this year:
+Caucuses are especially hard to predict, and the Iowa Caucus were going to be especially hard to predict this year:
 
 - [The Iowa Caucuses Are In 4 Days. Almost Anything Could Still Happen](https://fivethirtyeight.com/features/the-iowa-caucuses-are-in-4-days-almost-anything-could-still-happen/) by Nate Silver (2020-01-30)
 - [Bernie Sanders is the Iowa favorite, but he is far from a sure thing](https://www.cnn.com/2020/01/30/politics/bernie-sanders-polls-analysis/index.html) by Harry Enten (2020-01-30)
@@ -75,9 +75,18 @@ Caucuses are especially hard to predict, and the Iowa Caucus is going to be espe
 - [Where Are All The Iowa Polls This Year?](https://fivethirtyeight.com/features/where-are-all-the-iowa-polls-this-year/) by Geoffrey Skelly (2020-01-31)
 - [What You Should Know about Primaries and Caucuses](https://fivethirtyeight.com/features/what-you-should-know-about-primaries-and-caucuses/) by Anna Rothschild and Galen Druke
 
-We'll take a moment this afternoon to check in on:
+We'll take a moment this afternoon to check in on (to the extent possible) what these sources were saying yesterday...
 
 - [RealClearPolitics' Poll Average for Iowa](https://www.realclearpolitics.com/epolls/2020/president/ia/iowa_democratic_presidential_caucus-6731.html)
 - [The PredictIt Prediction Market for the Iowa Caucuses](https://www.predictit.org/markets/detail/5241/Who-will-win-the-2020-Iowa-Democratic-caucuses) and, of course,
 - [FiveThirtyEight's Forecast for Iowa](https://projects.fivethirtyeight.com/2020-primary-forecast/iowa/)
 
+Candidate | 538 Point Estimate for % of Iowa Vote | 80% of simulations | Chance of Winning The Most Votes
+---------: | ------------------------------------ | ------------------ | ------------------------------
+Sanders | 28 | (14%, 43%) (2 - 22 delegates) | 41
+Biden | 26 | (11%, 40%) (1 - 20 delegates)| 32
+Buttigieg | 19 | 5, 33 | 14
+Warren | 16 | 3, 30 | 10
+Klobuchar | 9 | 1, 20 | 2
+Yang | 1 | 0, 4 | < 1
+Steyer | 1 | 0, 3 | < 1
