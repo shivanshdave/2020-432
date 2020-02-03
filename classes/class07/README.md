@@ -81,7 +81,16 @@ We'll take a moment this afternoon to check in on (to the extent possible) what 
 - [The PredictIt Prediction Market for the Iowa Caucuses](https://www.predictit.org/markets/detail/5241/Who-will-win-the-2020-Iowa-Democratic-caucuses) and, of course,
 - [FiveThirtyEight's Forecast for Iowa](https://projects.fivethirtyeight.com/2020-primary-forecast/iowa/)
 
-538 Forecasts at 5 PM on 2020-02-03 (with 80% of simulations intervals) were...
+### RealClearPolitics at 5 PM on 2020-02-03
+
+![]()
+
+### PredictIt at 5 PM on 2020-02-03
+
+![]()
+
+
+### 538 Forecasts at 5 PM on 2020-02-03 (with 80% of simulations intervals) were...
 
 Candidate | Percentage of Vote | Pledged Delegates (of 41) | Pr(Most Votes) | Pr(Most Delegates)
 ---------: | ------------- | -------------- | -------- | -------
