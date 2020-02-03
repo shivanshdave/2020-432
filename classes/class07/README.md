@@ -89,8 +89,9 @@ We'll take a moment this afternoon to check in on (to the extent possible) what 
 
 ![](https://github.com/THOMASELOVE/2020-432/blob/master/classes/class07/predictit_2020-02-03_5PM.PNG)
 
-
 ### 538 Forecasts at 5 PM on 2020-02-03 (with 80% of simulations intervals) were...
+
+![](https://github.com/THOMASELOVE/2020-432/blob/master/classes/class07/538_2020-02-03_5PM.PNG)
 
 Candidate | Percentage of Vote | Pledged Delegates (of 41) | Pr(Most Votes) 
 ---------: | ------------- | -------------- | -------- 
@@ -100,6 +101,8 @@ Buttigieg | 19% (5%-33%) |  8 (0-16) | 14%
 Warren | 16% (3%-30%) | 6 (0 - 15) | 10% 
 Klobuchar | 9% (1%-20%) | 2 (0 - 9) | 2% 
 Yang | 1% (0%-4%) | 0 (0) | <1% 
+
+![](https://github.com/THOMASELOVE/2020-432/blob/master/classes/class07/538_pre_iowa_national_forecast.PNG)
 
 Candidate | Pr(wins more than half of pledged delegates in 2020 across US)
 ---------: | ----------------
