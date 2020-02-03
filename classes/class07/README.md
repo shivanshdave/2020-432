@@ -104,11 +104,3 @@ Yang | 1% (0%-4%) | 0 (0) | <1%
 
 ![](https://github.com/THOMASELOVE/2020-432/blob/master/classes/class07/538_pre_iowa_national_forecast.PNG)
 
-Candidate | Pr(wins more than half of pledged delegates in 2020 across US)
----------: | ----------------
-Biden | 43%
-Sanders | 31%
-No One | 17%
-Warren | 5%
-Buttigieg | 3%
-All Others | 0.4%
