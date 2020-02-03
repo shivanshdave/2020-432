@@ -81,12 +81,13 @@ We'll take a moment this afternoon to check in on (to the extent possible) what 
 - [The PredictIt Prediction Market for the Iowa Caucuses](https://www.predictit.org/markets/detail/5241/Who-will-win-the-2020-Iowa-Democratic-caucuses) and, of course,
 - [FiveThirtyEight's Forecast for Iowa](https://projects.fivethirtyeight.com/2020-primary-forecast/iowa/)
 
-Candidate | 538 Point Estimate | 80% of simulations | Chance of Winning The Most Votes
----------: | ------------------------------------ | ------------------ | ------------------------------
-Sanders | 28% of vote (14 delegates) | (14%, 43%) (2 - 22 delegates) | 41
-Biden | 26% (12 delegates) | (11%, 40%) (1 - 20 delegates)| 32
-Buttigieg | 19 | 5, 33 | 14
-Warren | 16 | 3, 30 | 10
-Klobuchar | 9 | 1, 20 | 2
-Yang | 1 | 0, 4 | < 1
-Steyer | 1 | 0, 3 | < 1
+538 Forecasts at 5 PM on 2020-02-03 (with 80% of simulations intervals) were...
+
+Candidate | Percentage of Vote | Pledged Delegates (of 41) | Pr(Most Votes) | Pr(Most Delegates)
+---------: | ------------- | -------------- | -------- | -------
+Sanders | 28% (14%-43%) | 14 (2-22) | 41% | 43%
+Biden | 26% (11%-40%) | 12 (1-20) | 32% | 34%
+Buttigieg | 19% (5%-33%) |  8 (0-16) | 14% | 15%
+Warren | 16% (3%-30%) | 6 (0 - 15) | 10% | 10%
+Klobuchar | 9% (1%-20%) | 2 (0 - 9) | 2% | 3%
+Yang | 1% (0%-4%) | 0 (0) | <1% | <1%
