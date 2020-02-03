@@ -87,7 +87,7 @@ We'll take a moment this afternoon to check in on (to the extent possible) what 
 
 ### PredictIt at 5 PM on 2020-02-03
 
-![]()
+![](https://github.com/THOMASELOVE/2020-432/blob/master/classes/class07/predictit_2020-02-03_5PM.PNG)
 
 
 ### 538 Forecasts at 5 PM on 2020-02-03 (with 80% of simulations intervals) were...
