@@ -8,7 +8,7 @@ Slides in PDF | Slides in R Markdown | Audio Recording | Need Help?
 
 ## Today's Announcements
 
-1. Coming soon.
+1. I moved Homework 3 to be due one week later than originally planned. It's now due 2020-02-18 at 5 PM.
 
 ## What is Wrong with This Picture?
 
