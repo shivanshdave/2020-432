@@ -8,11 +8,13 @@ Slides in PDF | Slides in R Markdown | Audio Recording | Need Help?
 
 ## First Announcement
 
-1. Dr. Love will discuss his status, and in particular,
+Dr. Love will discuss his status, and in particular, where he is with regard to...
 
-- Minute Paper after Class 6
 - Homework 1 grades
 - Answer Sketch and Rubric for Homework 2
+- Minute Paper after Class 6
+- Course Notes
+- Project 1 post-proposal instructions
 
 ## Today's Announcements
 
