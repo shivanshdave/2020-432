@@ -10,8 +10,7 @@ Slides in PDF | Slides in R Markdown | Audio Recording | Need Help?
 
 Dr. Love will discuss his status, and in particular, where he is with regard to...
 
-- Homework 1 grades, now posted to http://bit.ly/432-2020-grades
-- Homework codes to identify which grade is yours.
+- Homework 1 grades are posted to http://bit.ly/432-2020-grades, and you should have an emailed code to identify which grade is yours.
 - Answer Sketch and Rubric for Homework 2
 - Minute Paper after Class 6
 - Course Notes
