@@ -5,7 +5,8 @@
 
 - [PDF](https://github.com/THOMASELOVE/2020-432/blob/master/homework/hw01/sketch/sketch_hw1.pdf)
 - [R Markdown](https://github.com/THOMASELOVE/2020-432/blob/master/homework/hw01/sketch/sketch_hw1.Rmd)
-- We'll post the grading rubric when we post the grades, probably on Tuesday 2020-02-04.
+- Homework 1 grades, now posted to http://bit.ly/432-2020-grades. Check your email for your HW-Code.
+- We'll post the grading rubric as soon as we can.
 
 # General Instructions
 
