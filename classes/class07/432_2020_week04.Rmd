@@ -210,7 +210,9 @@ ourbatch %>% tabyl(rural_cat, race_cat)
 ```{r}
 ourbatch <- ourbatch %>%
     mutate(race_cat = fct_relevel(race_cat, 
-                                  "High", "Middle", "Low"))
+                                  "High", "Middle", "Low"),
+           rural_cat = fct_relevel(rural_cat,
+                                   "Urban", "Suburban"))
 
 ourbatch %>% tabyl(rural_cat, race_cat)
 ```
@@ -309,7 +311,7 @@ ourbatch %$% Hmisc::describe(log_pop)
 
 ## Our "Model Selection" Problem
 
-We want to build a model to effectively predict our outcome `yrs_lost_rate` using the 10 quantitative candidate predictors we've identified. (We'll tackle the categorical predictors separately, later.)
+We want to build a model to effectively predict our outcome `yrs_lost_rate` using the 10 quantitative candidate predictors we've identified. (We'll add the categorical predictors in later.)
 
 1. `log_pop`
 2. `not_english`
@@ -386,7 +388,7 @@ ourbatch %$% Hmisc::describe(yrs_lost_rate)
 
 ## A "Kitchen Sink" Model?
 
-Predict `yrs_lost_rate` using the 12 candidate predictors.
+Predict `yrs_lost_rate` using all 12 candidate predictors.
 
 ```{r}
 transformation_check <- 
@@ -454,6 +456,24 @@ plot(ks_log, which = 1)
 plot(ks_log, which = 2)
 ```
 
+## All Four Diagnostic Plots (code)
+
+```{r, eval = FALSE}
+par(mfrow = c(2,2))
+plot(ks_log)
+par(mfrow=c(1,1))
+```
+
+Resulting Plots on next slide...
+
+## Regression Diagnostics for `ks_log`
+
+```{r, echo = FALSE}
+par(mfrow = c(2,2))
+plot(ks_log)
+par(mfrow=c(1,1))
+```
+
 ## How about a Square Root instead?
 
 ```{r, echo = FALSE}
@@ -495,7 +515,15 @@ plot(ks_sqrt, which = 1)
 plot(ks_sqrt, which = 2)
 ```
 
-## I'm going to go with the logarithm
+## All 4 Regression Diagnostic Plots for `ks_sqrt`
+
+```{r, echo = FALSE}
+par(mfrow = c(2,2))
+plot(ks_sqrt)
+par(mfrow=c(1,1))
+```
+
+## I'm going to go with the logarithmic transformation
 
 ```{r}
 ourbatch <- ourbatch %>%
@@ -508,9 +536,9 @@ ourbatch %$% Hmisc::describe(log_yrslost)
 rm(ks_log, ks_sqrt)
 ```
 
-## Our "Model Selection" Problem
+## Our NEW "Model Selection" Problem
 
-Let's focus for the moment on building a model to effectively predict our outcome `log_yrslost` using the 10 quantitative candidate predictors we've identified. (We'll tackle the categorical predictors separately, later.)
+Let's focus for the moment on building a model to effectively predict our transformed outcome `log_yrslost` using the 10 quantitative candidate predictors we've identified. (We'll add in the categorical predictors later.)
 
 1. `log_pop`
 2. `not_english`
@@ -523,7 +551,7 @@ Let's focus for the moment on building a model to effectively predict our outcom
 9. `housing_prob`
 10. `drive_alone`
 
-We have `r nrow(ourbatch)` counties (observations) to use here.
+We still have `r nrow(ourbatch)` counties (observations).
 
 ## Scatterplot Matrix?
 
@@ -591,7 +619,7 @@ In addition, there are many more substantial problems (see Harrell 2001.) Models
 
 A somewhat more plausible strategy is to consider all possible subsets of predictors, and search in a smart way for models which are good candidates because they optimize some combination of model fit summaries. 
 
-- The `leaps` package in R has a function called `regsubsets` to help us with this approach.
+- The `leaps` package in R has a function called `regsubsets` to help us with this approach, although we'll see that there are some problems with it, especially if we have correlated predictors.
 
 First, we specify a "full model" to `regsubsets` and list the maximum number of predictors we are willing to include in our models, with the `nvmax` parameter.
 
@@ -665,6 +693,35 @@ rs_winners <- tbl_df(rs_summary$which) %>%
 rs_winners %>% slice(1:4)
 ```
 
+## Suppose we plot summary statistics for each model.
+
+Start with $R^2$ and residual sum of squares for the models.
+
+```{r}
+rs_winners %>% select(inputs, r2, rss) %>% kable(digits = 4)
+```
+
+- Which model will look best, by $R^2$? By `rss`?
+- How should we plot these results?
+
+## Plotting Raw $R^2$ values (code)
+
+```{r, eval = FALSE}
+ggplot(rs_winners, aes(x = inputs, y = r2, 
+                       label = round(r2,3))) +
+    geom_line() +
+    geom_label() +
+    geom_label(data = subset(rs_winners, 
+                             r2 == max(r2)),
+               aes(x = inputs, y = r2, 
+                   label = round(r2,3)), 
+               fill = "black", col = "white") +
+    labs(x = "# of regression inputs",
+         y = "R-squared")
+```
+
+What will this do?
+
 ## Plotting Raw $R^2$ and Residual SS values
 
 ```{r, echo = FALSE, fig.height = 5}
@@ -674,10 +731,9 @@ p1 <- ggplot(rs_winners, aes(x = inputs, y = r2,
     geom_label() +
     geom_label(data = subset(rs_winners, 
                              r2 == max(r2)),
-               aes(x = inputs, y = r2, label = round(r2,3)), 
+               aes(x = inputs, y = r2, 
+                   label = round(r2,3)), 
                fill = "black", col = "white") +
-    theme_bw() +
-    scale_x_continuous() +
     labs(x = "# of regression inputs",
          y = "R-squared")
 
@@ -687,10 +743,9 @@ p2 <- ggplot(rs_winners, aes(x = inputs, y = rss,
     geom_label() +
     geom_label(data = subset(rs_winners, 
                              rss == min(rss)),
-               aes(x = inputs, y = rss, label = round(rss,2)), 
+               aes(x = inputs, y = rss, 
+                   label = round(rss,2)), 
                fill = "black", col = "white") +
-    theme_bw() +
-    scale_x_continuous() +
     labs(x = "# of regression inputs",
          y = "Residual Sum of Squares")
 
@@ -1050,6 +1105,22 @@ model4_cv <- train(log_yrslost ~ hh_income + health_costs +
 model4_cv
 ```
 
+## Model Fit by `model4_cv` summary
+
+```{r}
+tidy(summary(model4_cv)) %>% kable(digits = 3)
+```
+
+## Model Fit by `model4_cv` summary
+
+```{r}
+glance(summary(model4_cv)) %>% kable(digits = 3)
+```
+
+But, of course, these summaries are on the log scale again. 
+
+
+
 ## 10-fold cross validation for model `m5`
 
 ```{r}
@@ -1092,6 +1163,8 @@ model7_cv
 
 ## Comparing 10-fold Cross-Validation Results
 
+Cross-validation results, predicting `log_yrs_lost`.
+
 ```{r}
 res_cv10 <- bind_rows(
     model4_cv$results,
@@ -1103,12 +1176,426 @@ res_cv10 <- bind_rows(
 res_cv10 %>% kable(digits = c(0, 4, 3, 4))
 ```
 
-## Still to Come
+- Which model looks best?
 
-1. What happens when you include categorical variables into best subsets?
-2. The Spearman $\rho^2$ plot as a way to identify potential variables to consider non-linear terms.
-3. Regression Diagnostics for Linear Models
-4. What if we want to predict a binary outcome? Can we use `bestglm`?
-5. What if we want to include sampling weights?
-6. What about multiple imputation?
+## Fitted `model4` on full data
+
+Let's look at diagnostic plots, on the full sample...
+
+```{r, eval = FALSE}
+m4_full <- lm(log_yrslost ~ hh_income + health_costs +
+                pct_smokers + drive_alone,
+              data = ourbatch)
+
+par(mfrow=c(2,2))
+plot(m4_full)
+par(mfrow = c(1,1))
+```
+
+See next slide for results...
+
+## Diagnostics: `model4` on full data
+
+```{r, echo = FALSE}
+m4_full <- lm(log_yrslost ~ hh_income + health_costs +
+                pct_smokers + drive_alone,
+              data = ourbatch)
+
+par(mfrow=c(2,2))
+plot(m4_full)
+par(mfrow = c(1,1))
+```
+
+
+## Back-Transformed In-Sample Predictions
+
+If we want to make predictions on the original `yrs_lost_rate` scale, then we could back-transform the predicted values manually, just to describe results in the full sample. So this isn't a validated summary - just an in-sample comparison.
+
+```{r}
+m4_cv_pred_yrs_lost <- exp(predict(model4_cv))
+m4_cv_bt_summs <- tibble(
+  model = "m4_cv",
+  R2 = R2(m4_cv_pred_yrs_lost, ourbatch$yrs_lost_rate),
+  RMSE = RMSE(m4_cv_pred_yrs_lost, ourbatch$yrs_lost_rate),
+  MAE = MAE(m4_cv_pred_yrs_lost, ourbatch$yrs_lost_rate))
+m4_cv_bt_summs
+```
+
+## Back-Transformed In-Sample Predictions for `model5_cv`
+
+```{r}
+m5_cv_pred_yrs_lost <- exp(predict(model5_cv))
+
+m5_cv_bt_summs <- tibble(
+  model = "m5_cv",
+  R2 = R2(m5_cv_pred_yrs_lost, ourbatch$yrs_lost_rate),
+  RMSE = RMSE(m5_cv_pred_yrs_lost, ourbatch$yrs_lost_rate),
+  MAE = MAE(m5_cv_pred_yrs_lost, ourbatch$yrs_lost_rate)
+)
+
+m5_cv_bt_summs
+```
+
+## Back-Transformed In-Sample Predictions for `model7_cv`
+
+```{r}
+m7_cv_pred_yrs_lost <- exp(predict(model7_cv))
+
+m7_cv_bt_summs <- tibble(
+  model = "m7_cv",
+  R2 = R2(m7_cv_pred_yrs_lost, ourbatch$yrs_lost_rate),
+  RMSE = RMSE(m7_cv_pred_yrs_lost, ourbatch$yrs_lost_rate),
+  MAE = MAE(m7_cv_pred_yrs_lost, ourbatch$yrs_lost_rate)
+)
+
+m7_cv_bt_summs
+```
+
+## Prediction Quality of Cross-Validated Models on the Full Sample (back-transformed)
+
+Which of the three models displays has the strongest in-sample predictions?
+
+```{r}
+res_cv10_bt <- bind_rows(
+    m4_cv_bt_summs,
+    m5_cv_bt_summs,
+    m7_cv_bt_summs) %>%
+    select(model, R2, RMSE, MAE)
+
+res_cv10_bt %>% kable(digits = c(0, 3, 1, 1))
+```
+
+## Variable Importance
+
+For a linear regression, the absolute value of the *t* statistic for each model parameter is used to specify the importance of each variable, scaled to have a maximum value of 100.
+
+```{r}
+tidy(summary(model4_cv)) %>% kable(digits = c(0,6,6,2,2))
+```
+
+## Variable Importance for `model4_cv`
+
+```{r}
+varImp(model4_cv)
+```
+
+## Plotting Variable Importance for `model4_cv`
+
+```{r, fig.height = 5}
+plot(varImp(model4_cv))
+```
+
+## Plotting Variable Importance for `model5_cv`
+
+```{r, fig.height = 5}
+plot(varImp(model5_cv))
+```
+
+## Plotting Variable Importance for `model7_cv`
+
+```{r, fig.height = 5}
+plot(varImp(model7_cv))
+```
+
+# Incorporating Categorical Variables in Best Subsets
+
+## Let's start again with `regsubsets`.
+
+1. First, we'll split into a training sample and a test sample.
+2. Then, we'll look at models that can include the categorical predictors as well as the quantitative ones we looked at previously.
+3. We'll use best subsets to identify 2 models for each predictor count.
+4. But we'll restrict the number of predictors more.
+
+## Partitioning into Training and Test Samples
+
+```{r}
+set.seed(4322020)
+training_samples2 <- ourbatch$log_yrslost %>%
+    createDataPartition(p = 0.7, list = FALSE)
+
+our_train2 <- ourbatch[training.samples,]
+our_test2 <- ourbatch[-training.samples,]
+```
+
+70% in `training`, 30% in `test` here.
+
+```{r}
+dim(our_train2)
+```
+
+## Setting up `regsubsets` in `our_train2`
+
+```{r}
+rs2_models <-
+    regsubsets(log_yrslost ~ health_costs + pct_smokers +
+                 food_envir + race_cat + rural_cat +
+                 log_pop + income_ratio,
+               data = our_train2, nvmax = 7)
+```
+
+- Best models for 1:7 predictors (what do we expect to see?)
+- Including the two factors (`race_cat` and `rural_cat`)
+
+## Resulting Subsets (any surprises?)
+
+```{r}
+rs2_summary <- summary(rs2_models)
+t(rs2_summary$which)
+```
+
+## Which Subsets Look Best?
+
+```{r}
+tibble(AdjR2 = which.max(rs2_summary$adjr2),
+       Cp = which.min(rs2_summary$cp),
+       BIC = which.min(rs2_summary$bic))
+```
+
+## Obtaining Fit Quality Statistics
+
+```{r}
+rs2_winners <- tbl_df(rs2_summary$which) %>%
+    mutate(inputs = 1:(rs2_models$nvmax - 1),
+           r2 = rs2_summary$rsq,
+           adjr2 = rs2_summary$adjr2,
+           cp = rs2_summary$cp,
+           bic = rs2_summary$bic,
+           rss = rs2_summary$rss) %>%
+    select(inputs, adjr2, cp, bic, everything())
+```
+
+## Plots from `rs2_winners`
+
+```{r, echo = FALSE}
+p1 <- ggplot(rs2_winners, aes(x = inputs, y = adjr2, 
+                       label = round(adjr2,3))) +
+    geom_line() +
+    geom_label() +
+    geom_label(data = subset(rs2_winners, 
+                             adjr2 == max(adjr2)),
+               aes(x = inputs, y = adjr2, 
+                   label = round(adjr2,3)), 
+               fill = "yellow", col = "blue", size = 6) +
+    scale_y_continuous(expand = expand_scale(mult = .1)) +
+    labs(x = "# of regression inputs",
+         y = "Adjusted R-squared")
+
+p2 <- ggplot(rs2_winners, aes(x = inputs, y = cp, 
+                       label = round(cp,1))) +
+    geom_line() +
+    geom_label() +
+    geom_label(data = subset(rs2_winners, 
+                             cp == min(cp)),
+               aes(x = inputs, y = cp, 
+                   label = round(cp,1)), 
+               fill = "navy", col = "white", size = 6) +
+    scale_y_continuous(expand = expand_scale(mult = .1)) +
+    labs(x = "# of regression inputs",
+         y = "Mallows' Cp")
+
+p3 <- ggplot(rs2_winners, aes(x = inputs, y = bic, 
+                       label = round(bic, 0))) +
+    geom_line() +
+    geom_label() +
+    geom_label(data = subset(rs2_winners, 
+                             bic == min(bic)),
+               aes(x = inputs, y = bic, label = round(bic,0)), 
+               fill = "red", col = "white", size = 6) +
+    scale_y_continuous(expand = expand_scale(mult = .1)) +
+    labs(x = "# of regression inputs",
+         y = "Bayes Information Criterion")
+
+p1 / p2 / p3
+```
+
+## Candidate Models are 5, 6 and 7 (from plots)
+
+```{r}
+t(rs2_summary$which)
+```
+
+- Let's get the coefficients
+
+## rs2: models 5 and 6
+
+```{r}
+coef(rs2_models, id = 5)
+```
+
+```{r}
+coef(rs2_models, id = 6)
+```
+
+## rs2: model 7
+
+```{r}
+coef(rs2_models, id = 7)
+```
+
+## So we have three candidate models. Cross-validate?
+
+1. Run `rs2` model 5 in the training sample (`our_train2`).
+2. Obtain predicted (log(yrs_lost_rate)) in the test sample (`our_test2`).
+3. Exponentiate to get predicted `yrs_lost_rate` in test sample.
+4. Then repeat steps 1-3 for models 6 and 7.
+
+## Cross-Validating `rs2` model 5
+
+```{r}
+rs2_m5_train <- 
+  lm(log_yrslost ~ pct_smokers + health_costs +
+       food_envir + rural_cat, 
+     data = our_train2)
+
+rs2_m5_pred_logs <- rs2_m5_train %>% predict(our_test2)
+rs2_m5_pred_yrslost <- exp(rs2_m5_pred_logs)
+```
+
+### Can use `postResample` to obtain key summaries
+
+```{r}
+postResample(rs2_m5_pred_yrslost, our_test2$yrs_lost_rate)
+```
+
+## Cross-Validating `rs2` model 6
+
+```{r}
+rs2_m6_train <- 
+  lm(log_yrslost ~ pct_smokers + health_costs +
+       food_envir + rural_cat + income_ratio, 
+     data = our_train2)
+
+rs2_m6_pred_logs <- rs2_m6_train %>% predict(our_test2)
+rs2_m6_pred_yrslost <- exp(rs2_m6_pred_logs)
+```
+
+```{r}
+postResample(rs2_m6_pred_yrslost, our_test2$yrs_lost_rate)
+```
+
+## Cross-Validating `rs2` model 7
+
+Notice the need for trickiness here...
+
+```{r}
+rs2_m7_train <- 
+  lm(log_yrslost ~ pct_smokers + health_costs +
+       food_envir + rural_cat + income_ratio + 
+       (race_cat == "Middle"), 
+     data = our_train2)
+
+rs2_m7_pred_logs <- rs2_m7_train %>% predict(our_test2)
+rs2_m7_pred_yrslost <- exp(rs2_m7_pred_logs)
+```
+
+```{r}
+postResample(rs2_m7_pred_yrslost, our_test2$yrs_lost_rate)
+```
+
+## Did I fit the right `rs2_m7_train`?
+
+```{r}
+coef(rs2_m7_train)
+```
+
+```{r}
+coef(rs2_models, id = 7)
+```
+
+## Key Summaries for `rs2` model 5
+
+```{r}
+rs2_m5_summaries <- tibble(
+  model = "rs2_m5",
+  R2 = R2(rs2_m5_pred_yrslost, our_test2$yrs_lost_rate),
+  RMSE = RMSE(rs2_m5_pred_yrslost, our_test2$yrs_lost_rate),
+  MAE = MAE(rs2_m5_pred_yrslost, our_test2$yrs_lost_rate),
+)
+```
+
+Then calculate 6 and 7 summaries in the same way (hidden here)
+
+```{r, echo = FALSE}
+rs2_m6_summaries <- tibble(
+  model = "rs2_m6",
+  R2 = R2(rs2_m6_pred_yrslost, our_test2$yrs_lost_rate),
+  RMSE = RMSE(rs2_m6_pred_yrslost, our_test2$yrs_lost_rate),
+  MAE = MAE(rs2_m6_pred_yrslost, our_test2$yrs_lost_rate),
+)
+```
+
+```{r, echo = FALSE}
+rs2_m7_summaries <- tibble(
+  model = "rs2_m7",
+  R2 = R2(rs2_m7_pred_yrslost, our_test2$yrs_lost_rate),
+  RMSE = RMSE(rs2_m7_pred_yrslost, our_test2$yrs_lost_rate),
+  MAE = MAE(rs2_m7_pred_yrslost, our_test2$yrs_lost_rate),
+)
+```
+
+## Cross-Validation Model Comparison
+
+```{r}
+bind_rows(rs2_m5_summaries, rs2_m6_summaries, 
+          rs2_m7_summaries) %>%
+  kable(digits = c(0, 4, 1, 1))
+```
+
+- Which model shows the strongest performance?
+
+## Obtaining Regression Diagnostics in the Full Sample
+
+We'll look at Model 6...
+
+```{r, eval = FALSE}
+rs2_m6 <- lm(log_yrslost ~ pct_smokers + health_costs +
+       food_envir + rural_cat + income_ratio, 
+     data = ourbatch)
+
+par(mfrow = c(2,2))
+plot(rs2_m6)
+par(mfrow=c(1,1))
+```
+
+Resulting Plots on next slide...
+
+## Regression Diagnostics for `rs2_m6` (Full Sample)
+
+```{r, echo = FALSE}
+rs2_m6 <- lm(log_yrslost ~ pct_smokers + health_costs +
+       food_envir + rural_cat + income_ratio, 
+     data = ourbatch)
+
+par(mfrow = c(2,2))
+plot(rs2_m6)
+par(mfrow=c(1,1))
+```
+
+## Still to Come 
+
+### Other Model Selection Strategies
+
+- Ridge Regression
+- The Lasso
+- Elastic Net
+
+### Considering Non-Linearity in the Predictor Set
+
+- The Spearman $\rho^2$ plot as a way to identify potential variables to consider non-linear terms.
+- Using Polynomials, Interaction Terms and Restricted Cubic Splines
+- Using `ols` from `rms` to fit linear models
+
+### Predicting a Binary Outcome
+
+- `bestglm` for best subsets?
+- Classification Strategies
+
+## Also still to come
+
+- Using `tidymodels` approaches
+- Regression models for other types of outcomes
+- Using sampling weights
+- Predictor pre-processing
+- Multiple Imputation as pre-processing
+
 
