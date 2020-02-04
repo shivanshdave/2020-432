@@ -6,6 +6,14 @@ Slides in PDF | Slides in R Markdown | Audio Recording | Need Help?
 ------------: | :------------------: | :--------------: | ---------------------------
 [Week 4 Slides](https://github.com/THOMASELOVE/2020-432/blob/master/classes/class07/432_2020_week04.pdf) | [Week 4 .Rmd](https://github.com/THOMASELOVE/2020-432/blob/master/classes/class07/432_2020_week04.Rmd) | [Shared Drive](http://bit.ly/432-2020-audio) | Email **431-help at case dot edu** or visit [Office Hours](https://github.com/THOMASELOVE/2020-432/blob/master/calendar.md#tas-and-office-hours)
 
+## First Announcement
+
+1. Dr. Love will discuss his status, and in particular,
+
+- Minute Paper after Class 6
+- Homework 1 grades
+- Answer Sketch and Rubric for Homework 2
+
 ## Today's Announcements
 
 1. I revised the Week 3 Slides ([PDF](https://github.com/THOMASELOVE/2020-432/blob/master/classes/class06/432_2020_week03.pdf), [RMarkdown](https://github.com/THOMASELOVE/2020-432/blob/master/classes/class06/432_2020_week03.Rmd)) to fix a typo in the denominator of Specificity in slide 39.
@@ -15,7 +23,7 @@ Slides in PDF | Slides in R Markdown | Audio Recording | Need Help?
     - Check out [Emily's ggplot2 nails](https://twitter.com/AmeliaMN/status/1223033747030757376?s=20).
 4. The [Stats and Stories podcast](https://statsandstories.net/health1/the-philosophy-of-biostatistics) episode for last Thursday was Frank Harrell, on his recent efforts to write down a Philosophy of Biostatistics. It's brief, and [there's a transcript](https://statsandstories.net/health1/the-philosophy-of-biostatistics). A lot of Frank's work is now at [DataMethods](https://discourse.datamethods.org/).
 5. A key link for the discussion of [cross-validation is here](http://www.sthda.com/english/articles/38-regression-model-validation/157-cross-validation-essentials-in-r/).
-6. The [caret package book is available here](https://topepo.github.io/caret/index.html)
+6. The [caret package book is available here](https://topepo.github.io/caret/index.html).
 
 ## On Your Project, Sample Size and Logistic Regression Models
 
