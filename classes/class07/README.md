@@ -15,6 +15,7 @@ Slides in PDF | Slides in R Markdown | Audio Recording | Need Help?
     - Check out [Emily's ggplot2 nails](https://twitter.com/AmeliaMN/status/1223033747030757376?s=20).
 4. The [Stats and Stories podcast](https://statsandstories.net/health1/the-philosophy-of-biostatistics) episode for last Thursday was Frank Harrell, on his recent efforts to write down a Philosophy of Biostatistics. It's brief, and [there's a transcript](https://statsandstories.net/health1/the-philosophy-of-biostatistics). A lot of Frank's work is now at [DataMethods](https://discourse.datamethods.org/).
 5. A key link for the discussion of [cross-validation is here](http://www.sthda.com/english/articles/38-regression-model-validation/157-cross-validation-essentials-in-r/).
+6. The [caret package book is available here](https://topepo.github.io/caret/index.html)
 
 ## On Your Project, Sample Size and Logistic Regression Models
 
