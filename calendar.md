@@ -24,30 +24,30 @@ Session | Date | Materials
 Class 09 | 02-13 | TBA, **ART** Chapter 8
 -- | 02-14 | [Project 1 Proposal](https://github.com/THOMASELOVE/2020-432/tree/master/projects/project1) due at 2 PM. 
 -- | 02-18 | [Homework 3](https://github.com/THOMASELOVE/2020-432/tree/master/homework/hw03) due at 5 PM.
-Class 11 | 02-18 | TBA
-Class 12 | 02-20 | TBA, **ART** Chapter 9
-Class 13 | 02-25 | TBA
+Class 10 | 02-18 | TBA
+Class 11 | 02-20 | TBA, **ART** Chapter 9
+Class 12 | 02-25 | TBA
 -- | 02-26 | [Quiz 1](https://github.com/THOMASELOVE/2020-432/tree/master/quizzes) will be made available.
 -- | 02-27 | [Project 1](https://github.com/THOMASELOVE/2020-432/tree/master/projects/project1) Group Meetings, run by the TAs. Dr. Love will be at AHRQ Study Section.
 -- | 03-02 | [Quiz 1](https://github.com/THOMASELOVE/2020-432/tree/master/quizzes) is due at 9 AM.
-Class 14 | 03-03 | TBA
-Class 15 | 03-05 | TBA, **ART** Chapters 10 and 11
+Class 13 | 03-03 | TBA
+Class 14 | 03-05 | TBA, **ART** Chapters 10 and 11
 -- | 03-09 | [Project 1 Posters/Portfolios](https://github.com/THOMASELOVE/2020-432/tree/master/projects/project1) are due at 2 PM.
 -- | 03-10 | No class. CWRU Spring Break (03-09 through 03-13)
 -- | 03-12 | No class. CWRU Spring Break (03-09 through 03-13)
-Class 16 | 03-17 | TBA, **ART** Chapter 6
-Class 17 | 03-19 | Dr. Love may be out of town.
-Class 18 | 03-24 | TBA
-Class 19 | 03-26 | TBA, **ART** Chapter 12
-Class 20 | 03-31 | TBA
+Class 15 | 03-17 | TBA, **ART** Chapter 6
+Class 16 | 03-19 | Dr. Love may be out of town.
+Class 17 | 03-24 | TBA
+Class 18 | 03-26 | TBA, **ART** Chapter 12
+Class 19 | 03-31 | TBA
 -- | 04-01 | Project 2 Proposal due at 2 PM. Details to come.
-Class 21 | 04-02 | TBA
-Class 22 | 04-07 | TBA
-Class 23 | 04-09 | TBA, **ART** Chapter 13
-Class 24 | 04-14 | TBA
-Class 25 | 04-16 | TBA, **ART** Chapter 14
-Class 26 | 04-21 | TBA
-Class 27 | 04-23 | TBA
+Class 20 | 04-02 | TBA
+Class 21 | 04-07 | TBA
+Class 22 | 04-09 | TBA, **ART** Chapter 13
+Class 23 | 04-14 | TBA
+Class 24 | 04-16 | TBA, **ART** Chapter 14
+Class 25 | 04-21 | TBA
+Class 26 | 04-23 | TBA
 -- | 04-28 | Project 2 will be due during this week. Details to come.
 
 ## TAs and Office Hours
