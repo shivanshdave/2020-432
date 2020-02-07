@@ -92,7 +92,7 @@ Variable        | Description
 `state`         | State Name
 `county`        | County Name 
 `yrs_lost_rate` | Years of potential life lost before age 75 per 100,000 population (age-adjusted, 2012-14)
-`population`    | County population in 1000s, Census Population Estimates, 2015
+`population`    | County population, Census Population Estimates, 2015
 `not_english`   | % of county residents preferring language besides English (ACS 2010)
 `hh_income`     | Median Household Income in \$1000s (Small Area Income \& Poverty Estimates 2015)
 `income_ratio`  | Ratio of household income at the 80th percentile to income at the 20th percentile (ACS 2011-15)
