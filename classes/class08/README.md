@@ -8,10 +8,12 @@ Slides in PDF | Slides in R Markdown | Audio Recording | Need Help?
 
 ## Today's Announcements
 
-1. I moved Homework 3 to be due one week later than originally planned. It's now due 2020-02-18 at 5 PM.
-2. I'm updating the [Course Notes](https://thomaselove.github.io/2020-432-book/). So far,
-    - I've added a new Chapter 8, and moved back the old Chapters 8 and 9.
-3. I've posted [slides for Classes 9 and 10](https://github.com/THOMASELOVE/2020-432/tree/master/classes), if you want to see where we're going next.
+1. Your Project 1 proposal is due Friday 2020-02-14 at 2 PM.
+2. I moved Homework 3 to be due next Tuesday 2020-02-18 at 5 PM, instead of today. You should have everything you need to do that after today's class.
+3. I'm updating the [Course Notes](https://thomaselove.github.io/2020-432-book/). So far,
+    - I've added a new Chapter 8, and moved back the old chapters on logistic regression and called them Chapters 9 and 10.
+    - I've added a new Chapter 11, focused on some prostate cancer data and cross-validation methods, so that's directly relevant today. I also threw in a little bit of robust linear modeling.
+4. I've posted [slides for Classes 9 and 10](https://github.com/THOMASELOVE/2020-432/tree/master/classes), if you want to see where we're going next in class.
 
 ## What is Wrong with This Picture?
 
