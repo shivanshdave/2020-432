@@ -9,6 +9,9 @@ Slides in PDF | Slides in R Markdown | Audio Recording | Need Help?
 ## Today's Announcements
 
 1. I moved Homework 3 to be due one week later than originally planned. It's now due 2020-02-18 at 5 PM.
+2. I'm updating the [Course Notes](https://thomaselove.github.io/2020-432-book/). So far,
+    - I've added a new Chapter 8, and moved back the old Chapters 8 and 9.
+3. I've posted slides for Classes 9 and 10, if you want to see where we're going next.
 
 ## What is Wrong with This Picture?
 
