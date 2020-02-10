@@ -14,6 +14,7 @@ Slides in PDF | Slides in R Markdown | Audio Recording | Need Help?
     - I've added a new Chapter 8, and moved back the old chapters on logistic regression and called them Chapters 9 and 10.
     - I've added a new Chapter 11, focused on some prostate cancer data and cross-validation methods, so that's directly relevant today. I also threw in a little bit of robust linear modeling.
 4. I've posted [slides for Classes 9 and 10](https://github.com/THOMASELOVE/2020-432/tree/master/classes), if you want to see where we're going next in class.
+5. No Minute Paper today. Sorry.
 
 ## What is Wrong with This Picture?
 
@@ -31,7 +32,6 @@ Slides in PDF | Slides in R Markdown | Audio Recording | Need Help?
 
 Date | Deliverable
 ---------: | -----------------------------------------------------------------------
-Tomorrow | There will be a Minute Paper after Class 8, due at 2 PM. **Link to come**.
 2020-02-13 | Read *The Art of Statistics* Chapter 8 (Probability)
 2020-02-14 | [Project 1 Proposal](https://github.com/THOMASELOVE/2020-432/tree/master/projects/project1) due at 2 PM.
 2020-02-18 | [Homework 3](https://github.com/THOMASELOVE/2020-432/tree/master/homework/hw03) due at 5 PM.
