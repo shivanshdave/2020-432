@@ -14,6 +14,7 @@ Slides in PDF | Slides in R Markdown | Audio Recording | Need Help?
     - I've added a new Chapter 8, and moved back the old chapters on logistic regression and called them Chapters 9 and 10.
     - I've added a new Chapter 11, focused on some prostate cancer data and cross-validation methods, so that's directly relevant today. I also threw in a little bit of robust linear modeling.
     - I've added a new Chapter 12, which uses the best subsets approach we used in Class 07.
+    - I've added a new Chapter 13, which covers some of the material on non-linearity we'll discuss in Class 09.
 4. I've posted [slides for Classes 9 and 10](https://github.com/THOMASELOVE/2020-432/tree/master/classes), if you want to see where we're going next in class.
 5. No Minute Paper today. Sorry.
 
