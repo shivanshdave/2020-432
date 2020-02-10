@@ -8,7 +8,7 @@ Slides in PDF | Slides in R Markdown | Audio Recording | Need Help?
 
 ## Today's Announcements
 
-1. Your Project 1 proposal is due Friday 2020-02-14 at 2 PM.
+1. Your [Project 1 Proposal](https://github.com/THOMASELOVE/2020-432/tree/master/projects/project1) is due Friday 2020-02-14 at 2 PM.
 2. I moved Homework 3 to be due next Tuesday 2020-02-18 at 5 PM, instead of today. You should have everything you need to do that after today's class.
 3. I'm updating the [Course Notes](https://thomaselove.github.io/2020-432-book/). So far,
     - I've added a new Chapter 8, and moved back the old chapters on logistic regression and called them Chapters 9 and 10.
