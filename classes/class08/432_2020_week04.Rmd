@@ -1543,6 +1543,19 @@ bind_rows(rs2_m5_summaries, rs2_m6_summaries,
 
 - Which model shows the strongest performance?
 
+## Limitations of "Best Subsets"
+
+- Works only with quantitative outcomes (linear regression)
+- Useful only for variable selection of main effects
+- Generates a useful pool of candidate models, but doesn't usually center all of its energy on the same model
+- Doesn't take into account potential product terms
+
+Possible Solutions for the last issue: 
+
+1. Consider interactions beforehand, force them in.
+2. Consider interaction terms only after selection of main effects.
+3. Do something else entirely.
+
 ## Obtaining Regression Diagnostics in the Full Sample
 
 We'll look at Model 6...
@@ -1571,31 +1584,13 @@ plot(rs2_m6)
 par(mfrow=c(1,1))
 ```
 
-## Still to Come 
-
-### Other Model Selection Strategies
-
-- Ridge Regression
-- The Lasso
-- Elastic Net
-
-### Considering Non-Linearity in the Predictor Set
+## Next Time: Considering Non-Linearity in the Predictor Set
 
 - The Spearman $\rho^2$ plot as a way to identify potential variables to consider non-linear terms.
-- Using Polynomials, Interaction Terms and Restricted Cubic Splines
+- Using Polynomials, Interaction Terms and Restricted Cubic Splines to capture non-linearity
 - Using `ols` from `rms` to fit linear models
 
-### Predicting a Binary Outcome
+at which point we should be ready to fit more complex linear regression models.
 
-- `bestglm` for best subsets?
-- Classification Strategies
-
-## Also still to come
-
-- Using `tidymodels` approaches
-- Regression models for other types of outcomes
-- Using sampling weights
-- Predictor pre-processing
-- Multiple Imputation as pre-processing
 
 
