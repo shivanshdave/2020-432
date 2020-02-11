@@ -1,7 +1,7 @@
 432 Homework 3
 ================
 
-This assignment was revised 2020-01-27.
+This assignment was revised 2020-02-11 to correct a typo in Question 5.
 
 # General Instructions
 
