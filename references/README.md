@@ -45,7 +45,7 @@ Some of these materials are **password-protected**. The password will be reveale
 ## Articles of Interest
 
 - Janine Krivokapich, John S. Child, Donald O. Walter and Alan Garfinkel (1999) "[Prognostic Value of Dobutamine
-Stress Echocardiography in Predicting Cardiac Events in Patients With Known or Suspected Coronary Artery Disease](https://github.com/THOMASELOVE/2019-432/blob/master/references/pdf/Dobutamine_Stress_Echocardiography_1999_project1_demo.pdf)" *J Amer Coll Cardiology*, 33 (3: 1999 Mar 01): 708-716. Also available at http://www.onlinejacc.org/content/33/3/708.
+Stress Echocardiography in Predicting Cardiac Events in Patients With Known or Suspected Coronary Artery Disease](https://github.com/THOMASELOVE/2020-432/blob/master/references/pdf/Dobutamine_Stress_Echocardiography_1999_project1_demo.pdf)" *J Amer Coll Cardiology*, 33 (3: 1999 Mar 01): 708-716. Also available at http://www.onlinejacc.org/content/33/3/708.
 - [Project-oriented workflow](https://www.tidyverse.org/articles/2017/12/workflow-vs-script/) at tidyverse.org from Jenny Bryan.
 - From the Ten Simple Rules series at PLOS Computational Biology:
     + [Ten Simple Rules for Effective Statistical Practice](http://journals.plos.org/ploscompbiol/article?id=10.1371%2Fjournal.pcbi.1004961) by Kass RE et al. 2016
