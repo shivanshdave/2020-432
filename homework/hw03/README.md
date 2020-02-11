@@ -75,7 +75,7 @@ and justify that selection.
 
 ## Question 5 (10 points)
 
-For the model you selected in Question 5, interpret the odds ratios
+For the model you selected in Question 4, interpret the odds ratios
 associated with the predictors carefully, including 90% uncertainty
 intervals and what we can conclude from the results.
 
