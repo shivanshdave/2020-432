@@ -21,10 +21,10 @@ Session | Date | Materials
 -- | 02-05 | You should have your data for [Project 1](https://github.com/THOMASELOVE/2020-432/tree/master/projects/project1) by this date.
 -- | 02-07 | Class is cancelled due to Dr. Love's illness.
 [Class 08](https://github.com/THOMASELOVE/2020-432/tree/master/classes/class08) | 02-11 | Model Section and Cross-Validation in Linear Models, **ART** Chapter 7
-Class 09 | 02-13 | TBA, **ART** Chapter 8
+[Class 09](https://github.com/THOMASELOVE/2020-432/tree/master/classes/class09) | 02-13 | Non-linearity in regression, **ART** Chapter 8
 -- | 02-14 | [Project 1 Proposal](https://github.com/THOMASELOVE/2020-432/tree/master/projects/project1) due at 2 PM. 
 -- | 02-18 | [Homework 3](https://github.com/THOMASELOVE/2020-432/tree/master/homework/hw03) due at 5 PM.
-Class 10 | 02-18 | TBA
+[Class 10](https://github.com/THOMASELOVE/2020-432/tree/master/classes/class10) | 02-18 | Using `ols` to fit flexible linear models
 Class 11 | 02-20 | TBA, **ART** Chapter 9
 Class 12 | 02-25 | TBA
 -- | 02-26 | [Quiz 1](https://github.com/THOMASELOVE/2020-432/tree/master/quizzes) will be made available.
