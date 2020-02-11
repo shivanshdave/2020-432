@@ -10,7 +10,7 @@ Slides in PDF | Slides in R Markdown | Audio Recording | Need Help?
 
 1. Your [Project 1 Proposal](https://github.com/THOMASELOVE/2020-432/tree/master/projects/project1) is due Friday 2020-02-14 at 2 PM.
     - It may (or may not) be helpful to you to look at my [old Project 1 demonstration](https://github.com/THOMASELOVE/2020-432/tree/master/projects/2019-project-1-demo) since your rules are a bit different, and the demo hasn't been updated for 2020. 
-2. I moved Homework 3 to be due next Tuesday 2020-02-18 at 5 PM, instead of today. You should have everything you need to do that after today's class.
+2. I moved Homework 3 to be due next Tuesday 2020-02-18 at 5 PM, instead of today, and I've now fixed that on Canvas. You should have everything you need to complete that homework after today's class.
     - Homework 2's [Answer Sketch and Grading Rubric](https://github.com/THOMASELOVE/2020-432/tree/master/homework/hw02) and also the [Homework 2 Grades](http://bit.ly/432-2020-grades) are now posted.
 3. I'm updating the [Course Notes](https://thomaselove.github.io/2020-432-book/). So far,
     - I've added a new Chapter 8, and moved back the old chapters on logistic regression and called them Chapters 9 and 10.
