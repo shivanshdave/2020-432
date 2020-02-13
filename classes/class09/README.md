@@ -8,7 +8,8 @@ Slides in PDF | Slides in R Markdown | Audio Recording | Need Help?
 
 ## Today's Announcements
 
-To come.
+1. Don't forget about the [old Project 1 Demonstration](https://github.com/THOMASELOVE/2020-432/tree/master/projects/2019-project-1-demo).
+2. No minute paper today.
 
 ## Next Few Deliverables (from [the Course Calendar](https://github.com/THOMASELOVE/2020-432/blob/master/calendar.md))
 
