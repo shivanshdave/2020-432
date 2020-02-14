@@ -1,7 +1,7 @@
 432 Homework 3
 ================
 
-This assignment was revised 2020-02-11 to correct a typo in Question 5.
+This assignment was revised 2020-02-11 to correct a typo in Question 5 and 2020-02-14 to correct a typo in the setup for Question 2.
 
 # General Instructions
 
@@ -53,7 +53,7 @@ Using the `hbp432` data, you will build models to predict whether or not
 the subject has a statin prescription based on the subject’s current LDL
 cholesterol and which of the four practices they receive care from. Fit
 logistic regression models both with and without an interaction term
-between the two practice (factor) and LDL level.
+between the practice and the LDL level.
 
 ## Question 2 (10 points)
 
