@@ -18,105 +18,66 @@ options(width = 60)
 ## Setup
 
 ```{r, warning = FALSE, message = FALSE}
-library(skimr); library(janitor)
-library(simputation); library(broom)
+library(magrittr); library(janitor); library(here)
+
+library(skimr)
+library(naniar)
+library(simputation)
+library(broom)
 library(rms) # note: also loads Hmisc
 library(tidyverse)
 ```
 
-## Today's Materials
+## Today's Data
 
-- Hormone Therapy and Baseline Cholesterol Levels in the `HERS` clinical trial 
+Heart and Estrogen/Progestin Study (HERS)
 
-The HERS trial is described in Vittinghoff et al., especially Chapter 4.
-
-## Hormone Therapy and Baseline ldl in the HERS Trial
-
-HERS clinical trial of hormone therapy (`ht`). We're excluding the women with diabetes here.
+- Clinical trial of hormone therapy for the prevention of recurrent heart attacks and deaths among 2763 post-menopausal women with existing coroneary heart disease (see Hulley et al 1998 and many subsequent references.)
+- We're exluding the women in the trial with a diabetes diagnosis.
 
 ```{r, message = FALSE}
-hers <- read_csv("data/hersdata.csv") %>% clean_names()
+hers_raw <- read_csv(here("data/hersdata.csv")) %>% 
+    clean_names()
 
-hers1 <- hers %>%
+hers1 <- hers_raw %>%
     filter(diabetes == "no") %>%
     select(subject, ldl, ht, age, smoking, drinkany, sbp,
            physact, bmi, diabetes)
 ```
 
-## Data describe `r nrow(hers1)` women without diabetes
-
-```{r}
-head(hers1)
-```
 
 ## The Codebook (n = `r nrow(hers1)`)
 
-Variable   | Description | Missing?
----------: | --------------------------------- | ---
-`subject`  | subject code | 0
-`ldl`      | LDL cholesterol in mg/dl | 7
-`HT`       | factor: hormone therapy or placebo | 0
-`age`      | age in years | 0 
-`smoking`  | yes or no | 0
-`drinkany` | yes or no | 2
-`sbp`      | systolic BP in mm Hg | 0
-`physact`  | 5-level factor | 0
-`bmi`      | body-mass index in kg/m^2^ | 2
-`diabetes` | yes or no (all of these are no) | 0
+Variable   | Description 
+---------: | --------------------------------- 
+`subject`  | subject code 
+`HT`       | factor: hormone therapy or placebo 
+`diabetes` | yes or no (all are no in our sample)
+`ldl`      | LDL cholesterol in mg/dl 
+`age`      | age in years 
+`smoking`  | yes or no
+`drinkany` | yes or no
+`sbp`      | systolic BP in mm Hg
+`physact`  | 5-level factor, details next slide
+`bmi`      | body-mass index in kg/m^2^
 
-## Our Modeling Goal
+**Goal** Predict `ldl` using `age`, `smoking`, `drinkany`, `sbp`, `physact` and `bmi`, across both HT levels but restricted to women without `diabetes`.
 
-Predict `ldl` using 
-
-- `age`
-- `smoking`
-- `drinkany`
-- `sbp`
-- `physact`
-- `bmi`
-- the interaction of `smoking` and `bmi`
-
-## Details on `physact` variable
+## The `physact` variable
 
 ```{r}
 hers1 %>% count(physact)
 ```
 
-## Skim?
+Comparison is to activity levels for these women just before menopause.
 
-```{r, eval = FALSE}
-hers1 %>% select(-subject) %>% skim()
-```
-
-![](figures/fig01.png)
-
-## Missingness pattern?
+## Any missing data?
 
 ```{r}
-na.pattern(hers1) # from Hmisc
-names(hers1)
+miss_var_summary(hers1)
 ```
 
-### Next slide
-
-```{r, eval = FALSE}
-par(mfrow = c(2,2))
-naplot(naclus(hers1))
-par(mfrow = c(1,1))
-```
-
-## `naplot(naclus(hers1))`
-
-```{r, echo = FALSE}
-par(mfrow = c(2,2))
-naplot(naclus(hers1))
-par(mfrow = c(1,1))
-```
-
-
-# Simple Imputation into `hers2`
-
-## Simple Imputation for `drinkany`, `bmi` and `ldl`
+## Single Imputation for `drinkany`, `bmi` and `ldl`
 
 Since `drinkany` is a factor, we have to do some extra work to impute.
 
@@ -136,11 +97,8 @@ hers2 <- hers1 %>%
 ## Now, check missingness...
 
 ```{r}
-na.pattern(hers2) 
-names(hers2)
+miss_var_summary(hers2)
 ```
-
-# Multiple Imputation with `aregImpute`
 
 ## Multiple Imputation using `aregImpute` from `Hmisc`
 
@@ -177,21 +135,78 @@ fit3 <- aregImpute(~ ldl + age + smoking + drinkany +
 - `data` specifies the source of the variables
 
 
-## `aregImpute` Imputation Results (1 of 3)
+## `aregImpute` Imputation Results (1 of 4)
 
 ```{r, eval = FALSE}
 fit3
 ```
 
-![](figures/fig02.png)
+```
+Multiple Imputation using Bootstrap and PMM
 
-## `aregImpute` Imputation Results (2 of 3)
+aregImpute(formula = ~ldl + age + smoking + drinkany + sbp + 
+ physact + bmi, data = hers1, n.impute = 20, nk = c(0, 3:5), 
+ tlinear = FALSE, B = 10)
 
-![](figures/fig03.png)
+n: 2032 	p: 7 	Imputations: 20  	nk: 0 
 
-## `aregImpute` Imputation Results (3 of 3)
+Number of NAs:
+ ldl  age  smoking drinkany  sbp  physact    bmi 
+   7    0        0        2    0        0      2
+```
+## `fit3` Imputation Results (2 of 4)
 
-![](figures/fig04.png)
+```
+R-squares for Predicting Non-Missing Values for Each 
+Variable Using Last Imputations of Predictors
+     ldl drinkany      bmi 
+   0.041    0.014    0.109 
+```
+
+## `fit3` Imputation Results (3 of 4)
+
+Resampling results for determining the complexity of imputation models
+
+Variable being imputed: ldl
+
+Bootstrap bias-corrrected summaries:
+
+Statistic | nk = 0 | nk = 3 | nk = 4 | nk = 5
+-----------------: | -----: | -----: | -----: | -----: 
+R^2 | 0.0139 |  0.0149  | 0.00776  | 0.0124
+mean absolute error | 28.3594 | 42.9139 |  44.09937 | 39.8266
+median abs. error | 22.8301 | 35.5441 | 38.85302 | 32.6386
+
+10-fold cross-validated:
+
+Statistic | nk = 0 | nk = 3 | nk = 4 | nk = 5
+-----------------: | -----: | -----: | -----: | -----: 
+R^2 | 0.0214 |  0.0180  | 0.01517  | 0.0191
+mean absolute error | 145.7176 | 43.5007 | 45.02428 | 44.2456
+median abs. error | 141.4238 | 36.4102 |  38.88053 | 37.3141
+
+
+## `fit3` Imputation Results (4 of 4)
+
+```
+Variable being imputed: drinkany 
+                            nk=0   nk=3   nk=4    nk=5
+Bootstrap  R^2            0.0163 0.0113 0.0102 0.00986
+10-fold cv R^2            0.0205 0.0249 0.0163 0.01358
+Bootstrap  mean |error|   0.4470 0.4568 0.4558 0.46624
+10-fold cv mean |error|   0.4450 0.4454 0.4476 0.44676
+Bootstrap median |error|  0.0000 0.0000 0.0000 0.00000
+10-fold cv median |error| 0.0000 0.0500 0.1000 0.00000
+
+Variable being imputed: bmi 
+                             nk=0   nk=3   nk=4   nk=5
+Bootstrap  R^2             0.0845 0.0932 0.0946 0.0847
+10-fold cv R^2             0.0864 0.0903 0.0968 0.0899
+Bootstrap  mean |error|    3.7829 4.8119 4.9226 5.1775
+10-fold cv mean |error|   27.6776 4.8359 4.9390 5.1136
+Bootstrap median |error|   2.9955 3.9704 3.9371 4.2634
+10-fold cv median |error| 27.0143 3.9894 3.9431 4.1876
+```
 
 ## A plot of the imputed values... (results)
 
@@ -215,14 +230,26 @@ par(mfrow = c(1,1))
 - For `bmi`, we imputed values ranging from about 23 to 27 in many cases, and up near 40 in other cases. 
 - This method never imputes a value for a variable that doesn't already exist in the data.
 
+## Kitchen Sink Model (Main Effects only)
+
+```{r}
+mod_ks <- ols(ldl ~ age + smoking + drinkany + sbp + 
+                physact + bmi, data = hers2)
+anova(mod_ks)
+```
+
 ## Spearman $\rho^2$ Plot
 
-We've already decided to include a `bmi`*`smoking` product term, but how should we prioritize the degrees of freedom we spend on non-linearity otherwise?
+How should we prioritize the degrees of freedom we spend on non-linearity?
 
 ```{r, eval = F}
 plot(spearman2(ldl ~ age + smoking + drinkany + sbp + 
                    physact + bmi, data = hers2))
 ```
+
+Plot's on the next page.
+
+- Note the use of the simple imputation `hers2` data here. Why?
 
 ## Spearman $\rho^2$ Plot Result
 
@@ -231,9 +258,50 @@ plot(spearman2(ldl ~ age + smoking + drinkany + sbp +
                    physact + bmi, data = hers2))
 ```
 
-# Fitting a Linear Regression with `ols`
+## Spending Degrees of Freedom
 
-## Model we'll fit
+We're spending 9 degrees of freedom in our kitchen sink model. (We can verify this with `anova` or the plot.)
+
+- Each quantitative main effect costs 1 df to estimate
+- Each binary categorical variable also costs 1 df
+- Multi-categorical variables with L levels cost L-1 df to estimate
+
+Suppose we're willing to spend up to a total of **14** degrees of freedom (i.e. a combined 5 more on interaction terms and other ways to capture non-linearity.)
+
+What should we choose?
+
+## What did we see in the Spearman $\rho^2$ Plot?
+
+Group 1 (largest adjusted $\rho^2$)
+
+- `bmi`, a quantitative predictor, is furthest to the right
+
+Group 2 (next largest)
+
+- `smoking`, a binary predictor, is next, followed closely by 
+- `age`, a quantitative predictor
+
+Other predictors (rest of the group)
+
+- `sbp`, quantitative
+- `drinkany`, binary
+- `physact`, multi-categorical (5 levels)
+
+## Impact of Adding Non-Linearity on Degrees of Freedom Spent
+
+What happens when we add a non-linear term?
+
+- Adding a polynomial of degree D costs D degrees of freedom.
+  - So a polynomial of degree 2 (quadratic) costs 2 df, or 1 more than the main effect alone.
+- Adding a restricted cubic spline with K knots costs K-1 df.
+  - So adding a rcs with 4 knots uses 3 df, or 2 more than the main effect alone.
+  - We restrict ourselves to considering splines with 3, 4, or 5 knots.
+- Adding an interaction (product term) depends on the main effects of the predictors we are interacting
+  - If the product term's predictors have df1 and df2 degrees of freedom, the product term adds df1 $\times$ df2 degrees of freedom to the main effects model.
+  - An interaction of a binary and quantitative variable adds 1 $\times$ 1 = 1 additional degree of freedom to the main effects model.
+  - When we use a quantitative variable in a spline and interaction, we'll do the interaction on the main effect, not the spline.
+
+## Model we'll fit with `ols`
 
 Fitting a model to predict `ldl` using
 
@@ -242,13 +310,80 @@ Fitting a model to predict `ldl` using
 - `sbp` as a linear term
 - `drinkany` indicator
 - `physact` factor
-- `smoking` indicator and its interaction with `bmi`
+- `smoking` indicator and its interaction with the main effect of `bmi`
 
-We could fit this to the data
+We can fit this to the data
 
 - restricted to complete cases (hers1, effectively)
 - after simple imputation (hers2)
 - after our multiple imputation (fit3)
+
+## Fitting the model to the complete cases
+
+```{r}
+d <- datadist(hers1)
+options(datadist = "d")
+
+m1 <- ols(ldl ~ rcs(bmi, 5) + pol(age, 2) + sbp + 
+              drinkany + physact + smoking + 
+              smoking %ia% bmi, data = hers1,
+          x = TRUE, y = TRUE)
+```
+
+where `%ia%` identifies the linear interaction alone.
+
+## `m1` results (slide 1 of 3)
+
+```
+> m1
+
+Frequencies of Missing Values Due to Each Variable
+ ldl    bmi    age      sbp drinkany  physact  smoking 
+   7      2      0        0        2        0        0 
+
+Linear Regression Model
+ 
+ols(formula = ldl ~ rcs(bmi, 5) + pol(age, 2) + sbp + 
+     drinkany + physact + smoking + smoking %ia% bmi, 
+     data = hers1, x = TRUE, y = TRUE)
+ 
+                 Model Likelihood     Discrimination    
+                    Ratio Test           Indexes        
+ Obs     2021    LR chi2     52.61    R2       0.026    
+ sigma36.7430    d.f.           14    R2 adj   0.019    
+ d.f.    2006    Pr(> chi2) 0.0000    g        6.629  
+```
+
+## `m1` results (slide 2 of 3)
+
+```
+                               Coef    S.E.     t  Pr(>|t|)
+Intercept                    121.6057 68.2000  1.78  0.0747  
+bmi                            1.5687  1.0107  1.55  0.1208  
+bmi'                          -8.6685  9.1577 -0.95  0.3440  
+bmi''                         40.5712 37.4468  1.08  0.2787  
+bmi'''                       -55.8872 44.5946 -1.25  0.2103  
+age                           -0.5791  1.9657 -0.29  0.7683  
+age^2                          0.0018  0.0149  0.12  0.9024  
+sbp                            0.1221  0.0453  2.69  0.0072  
+drinkany=yes                  -3.7427  1.6629 -2.25  0.0245  
+physact=much less active      -4.5660  3.8904 -1.17  0.2407  
+physact=much more active      -0.3291  2.7521 -0.12  0.9048  
+physact=somewhat less active  -0.0160  2.5270 -0.01  0.9950  
+physact=somewhat more active   3.7731  2.0293  1.86  0.0631  
+smoking=yes                   -7.0832 12.0586 -0.59  0.5570  
+smoking=yes * bmi              0.4961  0.4391  1.13  0.2587  
+```
+
+
+## `m1` results (slide 3 of 3)
+
+```
+ Residuals
+ 
+      Min       1Q   Median       3Q      Max 
+ -113.440  -24.519   -3.778   20.940  197.087 
+```
 
 ## Fitting the model after simple imputation
 
@@ -262,7 +397,7 @@ m2 <- ols(ldl ~ rcs(bmi, 5) + pol(age, 2) + sbp +
           x = TRUE, y = TRUE)
 ```
 
-where `%ia%` identifies the linear interaction alone.
+where, again, `%ia%` identifies the linear interaction alone.
 
 ## `m2` results (slide 1 of 2)
 
@@ -272,15 +407,15 @@ where `%ia%` identifies the linear interaction alone.
 
 ![](figures/fig06.png)
 
+## `anova(m2)` results
+
+![](figures/fig07.png)
+
 ## Validation of summary statistics
 
 ```{r}
 validate(m2)
 ```
-
-## `anova(m2)` results
-
-![](figures/fig07.png)
 
 ## `summary(m2)` results
 
@@ -338,23 +473,9 @@ Of course, the confidence interval will always be narrower than the prediction i
 which.influence(m2, cutoff = 0.4)
 ```
 
-## Fitting the model to the complete cases
+## Fitting the Model using Multiple Imputation
 
-```{r}
-d <- datadist(hers1)
-options(datadist = "d")
-
-m1 <- ols(ldl ~ rcs(bmi, 5) + pol(age, 2) + sbp + 
-              drinkany + physact + smoking + 
-              smoking %ia% bmi, data = hers1,
-          x = TRUE, y = TRUE)
-```
-
-where `%ia%` identifies the linear interaction alone.
-
-# Putting it Together
-
-## What have we got?
+What do we have now?
 
 - An imputation model `fit3`
 
@@ -372,7 +493,7 @@ m1 <- ols(ldl ~ rcs(bmi, 5) + pol(age, 2) + sbp +
             x = TRUE, y = TRUE)
 ```
 
-Now we put them together
+Now we put them together with the `fit.mult.impute` function...
 
 ## Linear Regression & Imputation Model
 
@@ -436,3 +557,9 @@ plot(resid(m3imp) ~ fitted(m3imp))
 ```{r, echo = FALSE}
 plot(nomogram(m3imp))
 ```
+
+## Next Step
+
+Can we do all of this for a logistic regression model?
+
+
