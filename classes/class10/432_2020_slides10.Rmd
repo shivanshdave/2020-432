@@ -32,7 +32,7 @@ library(tidyverse)
 
 Heart and Estrogen/Progestin Study (HERS)
 
-- Clinical trial of hormone therapy for the prevention of recurrent heart attacks and deaths among 2763 post-menopausal women with existing coroneary heart disease (see Hulley et al 1998 and many subsequent references.)
+- Clinical trial of hormone therapy for the prevention of recurrent heart attacks and deaths among 2763 post-menopausal women with existing coronary heart disease (see Hulley et al 1998 and many subsequent references, including Vittinghoff, Chapter 4.)
 - We're exluding the women in the trial with a diabetes diagnosis.
 
 ```{r, message = FALSE}
