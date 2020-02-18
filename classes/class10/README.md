@@ -8,7 +8,10 @@ Slides in PDF | Slides in R Markdown | Audio Recording | Need Help?
 
 ## Today's Announcements
 
-1. In Homework 3 Question 5, I changed the question this morning. It now reads: For the model you selected in Question 4, interpret the odds ratio associated with the ldl main effect carefully, specifying a 90% uncertainty interval and what we can conclude from the results. 
+1. In [Homework 3](https://github.com/THOMASELOVE/2020-432/tree/master/homework/hw03) Question 5, I changed the question this morning. It now reads: 
+
+> For the model you selected in Question 4, interpret the odds ratio associated with the ldl main effect carefully, specifying a 90% uncertainty interval and what we can conclude from the results. 
+
 This should shorten the needed response considerably. If you've already turned in the homework with a more complete assessment, OK, but in reviewing the answer sketch, I feel the need to shorten the interpretation requirement.
 
 ## Next Few Deliverables (from [the Course Calendar](https://github.com/THOMASELOVE/2020-432/blob/master/calendar.md))
