@@ -17,31 +17,31 @@ This should shorten the needed response considerably. If you've already turned i
 2. The TAs have completed an initial review of your Project Proposals. Now, it's up to me to look them over and release next steps. That should happen before class on Thursday.
 
 - The students listed below submitted proposals that were initially graded as 8, 9 or 10 by the TAs, so they might be pretty close after Dr. Love's review...
-    - Logan Harper
-    - Shiying Liu & Yiheng Pan
     - Hussam Alqahtani & Kimberly Noriega
-    - Noah Lorincz-Comi
-    - Jason Huang & Yufei Li
-    - Abby Roche
-    - Emily Tyszka
-    - Vineet Punia
-    - Farrah Gao
-    - Anastasia Vassiliou
-    - Yuxuan Luo
-    - Ryan Moore & Khaled Shorbaji
-    - Abigail Rippin
-    - Siyu Wang
-    - Lauren Cruz & Kara Hageman
     - Ebtesam Alshehri & Carolyn Goldschmidt
-    - Sofija Conic
-    - Vanessa Ho
-    - Stephanie Merlino Barr
-    - Troy Neptune
-    - Gi-Ming Wang
-    - Matt Siuba
-    - Alena Sorensen
     - Rebeka Bordi & Sangeetha Raghupathy
-- The remaining project proposals had larger problems identified by the TAs and should anticipate the need for a more complete revision.
+    - Sofija Conic
+    - Lauren Cruz & Kara Hageman
+    - Farrah Gao
+    - Logan Harper
+    - Vanessa Ho
+    - Jason Huang & Yufei Li
+    - Shiying Liu & Yiheng Pan
+    - Noah Lorincz-Comi
+    - Yuxuan Luo
+    - Stephanie Merlino Barr
+    - Ryan Moore & Khaled Shorbaji
+    - Troy Neptune
+    - Vineet Punia
+    - Abby Roche
+    - Abigail Rippin
+    - Alena Sorensen
+    - Matt Siuba
+    - Emily Tyszka
+    - Anastasia Vassiliou
+    - Gi-Ming Wang
+    - Siyu Wang
+- The remaining project proposals had larger problems identified by the TAs and should anticipate the need for a more complete revision. Dr. Love will tackle those proposals first in building up final responses.
 
 
 ## Next Few Deliverables (from [the Course Calendar](https://github.com/THOMASELOVE/2020-432/blob/master/calendar.md))
