@@ -14,6 +14,14 @@ Slides in PDF | Slides in R Markdown | Audio Recording | Need Help?
 
 This should shorten the needed response considerably. If you've already turned in the homework with a more complete assessment, OK, but in reviewing the answer sketch, I feel the need to shorten the interpretation requirement.
 
+2. The TAs have completed an initial review of your Project Proposals. Now, it's up to me to look them over and release next steps. That should happen before class on Thursday.
+
 ## Next Few Deliverables (from [the Course Calendar](https://github.com/THOMASELOVE/2020-432/blob/master/calendar.md))
 
-To come.
+Date | Deliverable
+----: | ---------------------------------------------------------------
+02-18 | [Homework 3](https://github.com/THOMASELOVE/2020-432/tree/master/homework/hw03) due at 5 PM.
+02-20 | Please complete reading of **ART** Chapters 1-5, and 7-9.
+02-26 | [Quiz 1](https://github.com/THOMASELOVE/2020-432/tree/master/quizzes) will be made available.
+03-02 | [Quiz 1](https://github.com/THOMASELOVE/2020-432/tree/master/quizzes) is due at 9 AM.
+03-09 | [Project 1 Posters/Portfolios](https://github.com/THOMASELOVE/2020-432/tree/master/projects/project1) are due at 2 PM.
