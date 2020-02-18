@@ -1,7 +1,8 @@
 432 Homework 3
 ================
 
-This assignment was revised 2020-02-11 to correct a typo in Question 5 and 2020-02-14 to correct a typo in the setup for Question 2.
+This assignment was revised 2020-02-18 at 9:30 AM to reflect a
+shortening of the request in Question 5.
 
 # General Instructions
 
@@ -75,9 +76,9 @@ and justify that selection.
 
 ## Question 5 (10 points)
 
-For the model you selected in Question 4, interpret the odds ratios
-associated with the predictors carefully, including 90% uncertainty
-intervals and what we can conclude from the results.
+For the model you selected in Question 4, interpret the odds ratio
+associated with the `ldl` main effect carefully, specifying a 90%
+uncertainty interval and what we can conclude from the results.
 
 # Question 6 (30 points)
 
