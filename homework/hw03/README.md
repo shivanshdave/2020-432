@@ -1,6 +1,12 @@
 432 Homework 3
 ================
 
+# The Answer Sketch (and Grading Rubric) for Homework 3 is now available.
+
+- [PDF](https://github.com/THOMASELOVE/2020-432/blob/master/homework/hw03/sketch/sketch_hw3.pdf) including both the sketch and rubric.
+- [R Markdown](https://github.com/THOMASELOVE/2020-432/blob/master/homework/hw03/sketch/sketch_hw3.Rmd) used to build the PDF.
+- Grades should be posted to http://bit.ly/432-2020-grades on Tuesday 2020-02-25. Check your email for your HW-Code.
+
 This assignment was revised 2020-02-18 at 9:30 AM to reflect a
 shortening of the request in Question 5.
 
