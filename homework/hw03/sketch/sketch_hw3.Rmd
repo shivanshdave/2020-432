@@ -467,10 +467,10 @@ We don't write sketches for essay questions. We hope to share a few of the more 
 
 ## Question 6 (Rubric: 30 points)
 
-- Award up to 8 points for the initial little essay, giving full credit if they write down an actual piece of advice that makes sense to you, assuming they provide a clear indication of where it came from.
-    - A reasonable piece of advice with no citation should get 6/8 on this part.
-- Award up to 12 additional points for the second little essay, awarding 10 points for most students who do this in a reasonable way, but the full 12 points for the top 5 or so essays overall.
-- Provide comments to all students who score below 16/20 here for reasons other than just typos or grammatical issues.
+- Award up to 12 points for the initial little essay, giving full credit if they write down an actual piece of advice that makes sense to you, assuming they provide a clear indication of where it came from.
+    - A reasonable piece of advice with no citation should get 9/12 on this part.
+- Award up to 18 additional points for the second little essay, awarding 14-15 points for most students who do this in a reasonable way, but 17-18 points for the top 5 or so essays overall.
+- Provide comments to all students who score below 24/30 here for reasons other than just typos or grammatical issues.
 
 
 # Session Information
