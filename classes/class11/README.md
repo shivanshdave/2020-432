@@ -9,7 +9,7 @@ Slides in PDF | Slides in R Markdown | Audio Recording | Need Help?
 ## Today's Announcements
 
 1. The [Homework 3 Answer Sketch](https://github.com/THOMASELOVE/2020-432/tree/master/homework/hw03) (including the grading rubric) is available now.
-2. As of 6:30 PM on 2020-02-19, reactions to 29 of the 38 Project 1 Proposals have been posted to Canvas, and reactions to the remaining 9 (all of which had initial scores from the TAs of 9 or 10) will be posted by class time on Thursday. Dr. Love will provide more details (including deadlines for revisions) between now and Thursday's class, once he has posted Canvas reactions to all 38 proposals.
+2. As of 6:30 PM on 2020-02-19, reactions to 26 of the 38 Project 1 Proposals have been posted to Canvas, and reactions to the remaining 12 (all of which had initial scores from the TAs of 9 or 10) will be posted by class time on Thursday. Dr. Love will provide more details (including deadlines for revisions) between now and Thursday's class, once he has posted Canvas reactions to all 38 proposals.
 
 Whether we mentioned it in our comments on Canvas or not, to be approved, **ALL REVISED PROPOSALS should...**
 - use `message = FALSE` in the code chunk where the packages are listed to eliminate the messages in the HTML showing warnings about when packages were built or how objects were masked
