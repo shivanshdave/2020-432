@@ -11,6 +11,15 @@ Slides in PDF | Slides in R Markdown | Audio Recording | Need Help?
 1. The [Homework 3 Answer Sketch](https://github.com/THOMASELOVE/2020-432/tree/master/homework/hw03) (including the grading rubric) is available now.
 2. Reactions to Project 1 Proposals are going up on Canvas Wednesday as I can finish them. I'll provide more details (including deadlines for revisions) between now and Thursday's class, once I've posted Canvas reactions to all 38 proposals.
 
+Whether we mentioned it in our comments on Canvas or not, to be approved, **ALL REVISED PROPOSALS will need to...**
+- use `message = FALSE` in the code chunk where the packages are listed to eliminate the messages in the HTML showing warnings about when packages were built or how objects were masked
+- use `comment = NA` in the setup chunk to avoid R output being preceded by hashtags `##`
+- be run using **R version 3.6.2** or later, and include **session info** at the end of the document
+- should use **code-folding** in the HTML result (add code_folding: show to your YAML)
+- should use the **tidyverse** for data management, almost without exception
+- include a **tidied version of the data file**, in .csv format, perhaps in addition to the raw data, and this tidied version should adhere to the requirements for minimum and maximum number of rows and columns, with a row (subject) identifier at the far left of the .csv file.
+- use `clean_names()` to clean up the names in the variables in the final tidied version of the data, and have no names that are longer than they need to be (16 characters should always be sufficient, and I usually try to stay under that limit)
+
 ## Next Few Deliverables (from [the Course Calendar](https://github.com/THOMASELOVE/2020-432/blob/master/calendar.md))
 
 Date | Deliverable
