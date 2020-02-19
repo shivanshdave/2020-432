@@ -9,7 +9,7 @@ Slides in PDF | Slides in R Markdown | Audio Recording | Need Help?
 ## Today's Announcements
 
 1. The [Homework 3 Answer Sketch](https://github.com/THOMASELOVE/2020-432/tree/master/homework/hw03) (including the grading rubric) is available now.
-2. As of 5:30 PM, reactions to nearly half of the Project 1 Proposals have been posted to Canvas, and the remaining ones (all of which were in the initial group identified in the 8-10 range) will be up by class time on Thursday. Dr. Love will provide more details (including deadlines for revisions) between now and Thursday's class, once I've posted Canvas reactions to all 38 proposals.
+2. Reactions to more than half of the Project 1 Proposals have been posted to Canvas, and the remaining ones (all of which were in the initial group identified in the 8-10 range) will be up by class time on Thursday. Dr. Love will provide more details (including deadlines for revisions) between now and Thursday's class, once he has posted Canvas reactions to all 38 proposals.
 
 Whether we mentioned it in our comments on Canvas or not, to be approved, **ALL REVISED PROPOSALS should...**
 - use `message = FALSE` in the code chunk where the packages are listed to eliminate the messages in the HTML showing warnings about when packages were built or how objects were masked
@@ -18,6 +18,7 @@ Whether we mentioned it in our comments on Canvas or not, to be approved, **ALL 
 - should use **code-folding** in the HTML result (add code_folding: show to your YAML)
 - should use the **tidyverse** for data management, almost without exception
 - include a **tidied version of the data file**, in .csv format, perhaps in addition to the raw data, and this tidied version should adhere to the requirements for minimum and maximum number of rows and columns, with a row (subject) identifier at the far left of the .csv file.
+- use the ENTER key sufficiently to prevent any code chunks in the HTML file from requiring a scrolling window in order to be seen (note that this is a particularly common problem when people list many, many packages on the same line, separated by semicolons)
 - use `clean_names()` to clean up the names in the variables in the final tidied version of the data, and have no names that are longer than they need to be (10 characters or less is a good plan for variable names.)
 
 ## Next Few Deliverables (from [the Course Calendar](https://github.com/THOMASELOVE/2020-432/blob/master/calendar.md))
