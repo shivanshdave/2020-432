@@ -9,6 +9,7 @@ Slides in PDF | Slides in R Markdown | Audio Recording | Need Help?
 ## Today's Announcements
 
 1. The [Homework 3 Answer Sketch](https://github.com/THOMASELOVE/2020-432/tree/master/homework/hw03) (including the grading rubric) is available now.
+2. Reactions to Project 1 Proposals are going up on Canvas Wednesday as I can finish them. I'll provide more details (including deadlines for revisions) between now and Thursday's class, once I've posted Canvas reactions to all 38 proposals.
 
 ## Next Few Deliverables (from [the Course Calendar](https://github.com/THOMASELOVE/2020-432/blob/master/calendar.md))
 
