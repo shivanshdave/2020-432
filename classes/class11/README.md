@@ -8,3 +8,13 @@ Slides in PDF | Slides in R Markdown | Audio Recording | Need Help?
 
 ## Today's Announcements
 
+Coming soon.
+
+## Next Few Deliverables (from [the Course Calendar](https://github.com/THOMASELOVE/2020-432/blob/master/calendar.md))
+
+Date | Deliverable
+----: | ---------------------------------------------------------------
+TBA   | Project 1 Proposal Revision submitted to Canvas.
+02-26 | [Quiz 1](https://github.com/THOMASELOVE/2020-432/tree/master/quizzes) will be made available.
+03-02 | [Quiz 1](https://github.com/THOMASELOVE/2020-432/tree/master/quizzes) is due at 9 AM.
+03-09 | [Project 1 Posters/Portfolios](https://github.com/THOMASELOVE/2020-432/tree/master/projects/project1) are due at 2 PM.
