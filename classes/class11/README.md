@@ -8,7 +8,7 @@ Slides in PDF | Slides in R Markdown | Audio Recording | Need Help?
 
 ## Today's Announcements
 
-Coming soon.
+1. The [Homework 3 Answer Sketch](https://github.com/THOMASELOVE/2020-432/tree/master/homework/hw03) (including the grading rubric) is available now.
 
 ## Next Few Deliverables (from [the Course Calendar](https://github.com/THOMASELOVE/2020-432/blob/master/calendar.md))
 
