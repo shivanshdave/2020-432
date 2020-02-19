@@ -18,6 +18,9 @@ Whether we mentioned it in our comments on Canvas or not, to be approved, **ALL 
 - should use **code-folding** in the HTML result (add code_folding: show to your YAML)
 - should use the **tidyverse** for data management, almost without exception
 - include a **tidied version of the data file**, in .csv format, perhaps in addition to the raw data, and this tidied version should adhere to the requirements for minimum and maximum number of rows and columns, with a row (subject) identifier at the far left of the .csv file.
+- **not** use `skim_with(numeric = list(hist = NULL), integer = list(hist = NULL))` since it leads to a lengthy and pointless function listing. If you want to skim without charts use `skim_without_charts` which came into existence in 2019.
+- **not** use `source("Love-boost.R")` or any other R script or package unless you actually need somethin it provides
+- load the tidyverse last, and not anywhere else, and avoid loading other packages that are loaded already by the tidyverse. The complete list of packages that the tidyverse loads is [the set of core packages listed at this link](https://www.tidyverse.org/packages/).
 - use the ENTER key sufficiently to prevent any code chunks in the HTML file from requiring a scrolling window in order to be seen (note that this is a particularly common problem when people list many, many packages on the same line, separated by semicolons)
 - use `clean_names()` to clean up the names in the variables in the final tidied version of the data, and have no names that are longer than they need to be (10 characters or less is a good plan for variable names.)
 
