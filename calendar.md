@@ -10,7 +10,7 @@ Session | Date | Materials
 -- | 02-24 | [Project 1 Proposal Revisions](https://github.com/THOMASELOVE/2020-432/tree/master/projects/project1#deliverable-1-the-proposal) due to Canvas by 9 AM. See [Class 11 README](https://github.com/THOMASELOVE/2020-432/tree/master/classes/class11) for details.
 Class 12 | 02-25 | Putting Together Your Project 1
 -- | 02-26 | [Quiz 1](https://github.com/THOMASELOVE/2020-432/tree/master/quizzes) will be made available.
--- | 02-27 | No class. Dr. Love will be at AHRQ Study Section. Take advantage of the time to work on Quiz 1 and Project 1.
+-- | 02-27 | No class. Dr. Love will be at AHRQ Study Section. Please work on Quiz 1 and Project 1.
 -- | 03-02 | [Quiz 1](https://github.com/THOMASELOVE/2020-432/tree/master/quizzes) is due at 9 AM.
 Class 13 | 03-03 | TBA
 Class 14 | 03-05 | TBA, **ART** Chapters 10 and 11
