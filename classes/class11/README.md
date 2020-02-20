@@ -43,7 +43,7 @@ Whether we mentioned it in our comments on Canvas or not, **ALL REVISED PROJECT 
 > I ... am currently using the skills I learned in those courses in my job as a Data Analyst at OverDrive (a Cleveland-based company that sells digital ebooks and audiobooks to libraries). I have the pleasure of working in R all day every day, which is pretty much a dream job for me. I wanted to write to thank you again ... and also to inquire about any outstanding students who would be interested in applying for a full-time entry-level position in Cleveland. I know that any applicants who did well in your 431/432 class and enjoyed the material should do very well in this position. As an aside, the longer this primary season goes, the more interesting [538's Model Talk](https://fivethirtyeight.com/tag/model-talk/) gets! I hope you're enjoying it!
 
 - Here's [the link to the Data Analyst position at Overdrive](https://company.overdrive.com/careers/?p=job%2Fo7azbfwL#positions), if you're interested.
-- You might be interested, too, in Nate Silver's latest [demonstration of how to talk about fixing a bug in your model](https://twitter.com/NateSilver538/status/1230186803027697664).
+- You might be interested, too, in Nate Silver's latest [demonstration of how to write about fixing a bug in your model](https://twitter.com/NateSilver538/status/1230186803027697664).
 - Here is the [FiveThirtyEight Democratic Primary Forecast](https://projects.fivethirtyeight.com/2020-primary-forecast/), if you want to track how last night's debate changes things going forward.
 
 ## Next Few Deliverables (from [the Course Calendar](https://github.com/THOMASELOVE/2020-432/blob/master/calendar.md))
