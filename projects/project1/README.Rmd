@@ -92,7 +92,7 @@ Every proposal should ...
 - should use the **tidyverse** for data management, almost without exception
 - use appropriate subsection headings (which you identify with hashtags on new lines in your R Markdown file) and with numbers automatically applied by R to match the task list numbering
     - Be sure `number_sections: true` is in your YAML section at the top of your R Markdown file.
-    - to create a numbered section called "Data Source", use the code `# Data Source` receded and followed by a blank line in your R Markdown file
+    - to create a numbered section called "Data Source", use the code `# Data Source` preceded and followed by a blank line in your R Markdown file
     - to create a numbered subsection called "First Source", use the code `## First Source` preceded and followed by a blank line in your R Markdown file
     - to create an unnumbered section called "Packages", use the code `# Packages [-]` preceded and followed by a blank line in your R Markdown file
 - use `message = FALSE` in the code chunk where the packages are listed to eliminate the messages in the HTML showing warnings about when packages were built or how objects were masked
@@ -115,7 +115,7 @@ The portfolio submission for Project 1 consists of 13 sections, 9 of which come 
 - Sections 1-9 are exactly the same as what you prepared for the proposal. You should nail down any details that were not yet specified in your original submissions of the proposal. Sections 5-8, in particular, should be adjusted as necessary to reflect the actual analyses you wound up doing.
 - Section 10 is **new**, should be labeled "Linear Regression Analyses" and is dedicated to that work.
 - Section 11 is **new**, should be labeled "Logistic Regression Analyses" and is dedicated to that work.
-- Section 12 is called "Discussion" and is a roughly 200 word discussion of your thoughts on the process of producing this project.
+- Section 12 is also **new**, should be labeled "Discussion" and is a roughly 200 word discussion of your thoughts on the process of producing this project.
 - Section 13 is the session info material, which should show that you're using R 3.6.2 or later.
     - Our preferred way for you to execute this is to run `sessioninfo::session_info()`.
 
@@ -217,8 +217,10 @@ You'll be using the [posterdown package](https://github.com/brentthorne/posterdo
 
 - Learn more about `posterdown` [at its repository](https://github.com/brentthorne/posterdown), and with this [installation and usage guide](https://github.com/brentthorne/posterdown/wiki/Installation-&-Usage-Guide).
 
-Further details on the poster should be available by 2020-02-25. The key thing to know at this time is that **every word and every image/table/chart** on your poster should come directly from the materials contained in the first 12 sections of your portfolio. You will not be developing any new material for the poster once you have the portfolio. As a result, we encourage you to complete the portfolio first.
+Additional details on the poster should be available by 2020-02-25. The key thing to know at this time is that **every word and every image/table/chart** on your poster should come directly from the materials contained in the first 12 sections of your portfolio. You will not be developing any new material for the poster once you have the portfolio. As a result, we encourage you to complete the portfolio first.
 
 - The development of the poster involves selecting useful information to present and then arranging it within the poster. 
-- You'll have to cut at least 90% of what you've done out, and we'll provide some guidance on that, but probably less than you want. This is where you have to make decisions about what's most important to show an audience about your work. That's a critically important skill.
+- Your poster will include no R code (you'll be using `echo = FALSE` to ensure this) but instead will provide nicely formatted figures and tables along with text.
+- You'll have to cut at least 90% of what you've done in the portfolio out, and we'll provide some guidance on that, but probably less than you want. 
+- Developing the poster is where **you** have to make decisions about what's most important to show an audience about your work. That's a critically important skill.
 

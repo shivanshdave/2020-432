@@ -230,7 +230,7 @@ Every proposal should …
       - Be sure `number_sections: true` is in your YAML section at the
         top of your R Markdown file.
       - to create a numbered section called “Data Source”, use the code
-        `# Data Source` receded and followed by a blank line in your R
+        `# Data Source` preceded and followed by a blank line in your R
         Markdown file
       - to create a numbered subsection called “First Source”, use the
         code `## First Source` preceded and followed by a blank line in
@@ -283,9 +283,9 @@ single line of code in R.
     Analyses” and is dedicated to that work.
   - Section 11 is **new**, should be labeled “Logistic Regression
     Analyses” and is dedicated to that work.
-  - Section 12 is called “Discussion” and is a roughly 200 word
-    discussion of your thoughts on the process of producing this
-    project.
+  - Section 12 is also **new**, should be labeled “Discussion” and is a
+    roughly 200 word discussion of your thoughts on the process of
+    producing this project.
   - Section 13 is the session info material, which should show that
     you’re using R 3.6.2 or later.
       - Our preferred way for you to execute this is to run
@@ -554,8 +554,8 @@ for Project 1.
     this [installation and usage
     guide](https://github.com/brentthorne/posterdown/wiki/Installation-&-Usage-Guide).
 
-Further details on the poster should be available by 2020-02-25. The key
-thing to know at this time is that **every word and every
+Additional details on the poster should be available by 2020-02-25. The
+key thing to know at this time is that **every word and every
 image/table/chart** on your poster should come directly from the
 materials contained in the first 12 sections of your portfolio. You will
 not be developing any new material for the poster once you have the
@@ -564,8 +564,12 @@ first.
 
   - The development of the poster involves selecting useful information
     to present and then arranging it within the poster.
-  - You’ll have to cut at least 90% of what you’ve done out, and we’ll
-    provide some guidance on that, but probably less than you want. This
-    is where you have to make decisions about what’s most important to
-    show an audience about your work. That’s a critically important
-    skill.
+  - Your poster will include no R code (you’ll be using `echo = FALSE`
+    to ensure this) but instead will provide nicely formatted figures
+    and tables along with text.
+  - You’ll have to cut at least 90% of what you’ve done in the portfolio
+    out, and we’ll provide some guidance on that, but probably less than
+    you want.
+  - Developing the poster is where **you** have to make decisions about
+    what’s most important to show an audience about your work. That’s a
+    critically important skill.
