@@ -6,7 +6,7 @@
 
 Session | Date | Materials 
 --------: | :-----: | ----------------------------------------------------------------------
-[Class 11](https://github.com/THOMASELOVE/2020-432/tree/master/classes/class11) | 02-20 | TBA, **ART** Chapter 9
+[Class 11](https://github.com/THOMASELOVE/2020-432/tree/master/classes/class11) | 02-20 | Fitting Logistic Regression Models with `lrm` and using multiple imputation, **ART** Chapter 9
 -- | 02-24 | [Project 1 Proposal Revisions](https://github.com/THOMASELOVE/2020-432/tree/master/projects/project1#deliverable-1-the-proposal) due to Canvas by 9 AM. See [Class 11 README](https://github.com/THOMASELOVE/2020-432/tree/master/classes/class11) for details.
 Class 12 | 02-25 | TBA
 -- | 02-26 | [Quiz 1](https://github.com/THOMASELOVE/2020-432/tree/master/quizzes) will be made available.
