@@ -29,7 +29,7 @@ Whether we mentioned it in our comments on Canvas or not, **ALL REVISED PROJECT 
 - use `clean_names()` to clean up the names in the variables in the final tidied version of the data, and have no names that are longer than they need to be (10 characters or less is a good plan for variable names)
 - include a **tidied version of the data file**, in .csv format, perhaps in addition to the raw data, and this tidied version should adhere to the requirements for minimum and maximum number of rows and columns, with a row (subject) identifier at the far left of the .csv file. This is a new and additional requirement for the revised proposal, to demonstrate that you've done the necessary work.
 
-3. I got a great email the other day from Carli Lehr, a physician on staff at the Cleveland Clinic, who took this course last year...
+3. I got a great email the other day from Carli Lehr, a physician on staff at the Cleveland Clinic, who took 432 and 500 in recent cycles...
 
 > I wanted to share an article I wrote that was recently accepted using propensity score methodology. This study was a direct result of the project from your PQHS 500 course. This project helped me obtain a grant from the Cleveland Clinic, was featured on Sirius Doctor Radio, and has been used by the Cleveland Clinic Media department to educate our transplant patients (neat study video on this site). 
 
