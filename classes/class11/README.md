@@ -37,6 +37,8 @@ Slides in PDF | Slides in R Markdown | Audio Recording | Need Help?
 
 6. [The Calendar](https://github.com/THOMASELOVE/2020-432/blob/master/calendar.md) now shows planned topics of discussion through Class 20. Materials we've already worked through have been moved down the page.
 
+7. Quiz 1 covers materials through the first 11 classes, including today, and Chapters 1-5 and 7-8 of Spiegelhalter's *Art of Statistics*. It will have either 14 or 15 questions.
+
 ## Next Few Deliverables (from [the Course Calendar](https://github.com/THOMASELOVE/2020-432/blob/master/calendar.md))
 
 Date | Deliverable
