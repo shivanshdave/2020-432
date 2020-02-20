@@ -10,7 +10,8 @@ Session | Date | Materials
 -- | 02-24 | [Project 1 Proposal Revisions](https://github.com/THOMASELOVE/2020-432/tree/master/projects/project1#new-some-additional-thoughts-after-reviewing-the-proposal-drafts) due to Canvas by 9 AM.
 Class 12 | 02-25 | Putting Together Your Project 1, Multiple Imputation for `glm` and `lm` models
 -- | 02-26 | If necessary, [third version of Project 1 Proposal](https://github.com/THOMASELOVE/2020-432/tree/master/projects/project1#new-some-additional-thoughts-after-reviewing-the-proposal-drafts) will be due at 9 AM.
--- | 02-26 | [Quiz 1](https://github.com/THOMASELOVE/2020-432/tree/master/quizzes) will be made available.
+-- | 02-26 | Minute Paper after Class 12 will be due at 2 PM.
+-- | 02-26 | [Quiz 1](https://github.com/THOMASELOVE/2020-432/tree/master/quizzes) will be made available at 5 PM.
 -- | 02-27 | No class. Dr. Love will be at AHRQ Study Section. Please work on Quiz 1 and Project 1.
 -- | 03-02 | [Quiz 1](https://github.com/THOMASELOVE/2020-432/tree/master/quizzes) is due at 9 AM.
 Class 13 | 03-03 | Ridge Regression, The Lasso, Elastic Net
