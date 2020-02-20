@@ -49,6 +49,7 @@ Slides in PDF | Slides in R Markdown | Audio Recording | Need Help?
 Date | Deliverable
 ----: | ---------------------------------------------------------------
 02-24 | [Project 1 Proposal Revision](https://github.com/THOMASELOVE/2020-432/tree/master/projects/project1#new-some-additional-thoughts-after-reviewing-the-proposal-drafts) submitted to Canvas before 9 AM.
+02-26 | If necessary, the third version of your Project 1 proposal will be due at 9 AM.
 02-26 | Minute Paper after Class 12 will be due at 2 PM.
 02-26 | [Quiz 1](https://github.com/THOMASELOVE/2020-432/tree/master/quizzes) will be made available at 5 PM.
 03-02 | [Quiz 1](https://github.com/THOMASELOVE/2020-432/tree/master/quizzes) is due at 9 AM.
