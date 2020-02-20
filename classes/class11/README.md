@@ -35,6 +35,8 @@ Slides in PDF | Slides in R Markdown | Audio Recording | Need Help?
 - You might be interested, too, in Nate Silver's latest [demonstration of how to write about fixing a bug in your model](https://twitter.com/NateSilver538/status/1230186803027697664).
 - Here is the [FiveThirtyEight Democratic Primary Forecast](https://projects.fivethirtyeight.com/2020-primary-forecast/), if you want to track how last night's debate changes things going forward.
 
+6. [The Calendar](https://github.com/THOMASELOVE/2020-432/blob/master/calendar.md) now shows planned topics of discussion through Class 20. Materials we've already worked through have been moved down the page.
+
 ## Next Few Deliverables (from [the Course Calendar](https://github.com/THOMASELOVE/2020-432/blob/master/calendar.md))
 
 Date | Deliverable
