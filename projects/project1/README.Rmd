@@ -15,9 +15,9 @@ In Project 1, you will be analyzing, presenting and discussing a pair of regress
 
 ## Project 1 involves two tasks.
 
-1. Develop a proposal, which includes a presentation of the data. This proposal is due in mid-February. The proposal is graded by the TAs using a formal rubric prepared by Dr. Love. You will iterate (as necessary) on your proposal until you receive full credit. The proposal is worth 50% of the project 1 grade. This document describes the proposal in detail.
+1. Develop a proposal, which includes a presentation of the data. This proposal is due in mid-February. The proposal is graded by the TAs using a formal rubric prepared by Dr. Love. You will iterate (as necessary) on your proposal until you receive full credit. The proposal is worth 25% of the project 1 grade, and the portfolio version of the portfolio that you will submit as part of the second task is worth another 25%. 
 
-2. Develop an electronic poster of your work. This poster is due in early March. The poster is evaluated by Dr. Love. The poster is worth the remaining 50% of the project 1 grade. Details on the poster will be provided by 2020-01-28.
+2. Develop an electronic poster of your work. This poster is due in early March. The poster is evaluated by Dr. Love. The poster is worth the remaining 50% of the project 1 grade. 
 
 See the [Course Calendar](https://github.com/THOMASELOVE/2020-432/blob/master/calendar.md) for deadlines.
 
@@ -78,14 +78,99 @@ The nine pieces of information we should find in the Markdown and HTML versions 
 
 The full [Project 1 Proposal Rubric](https://github.com/THOMASELOVE/2020-432/blob/master/projects/project1/project1_proposal_rubric.md) is available now. Please review that material closely, so that your submission will meet all requirements and score a 10 on the first try.
 
+## Some Additional Thoughts after reviewing the Proposal Drafts
+
+- Revised proposals are due 2020-02-24 at 9 AM. We will attempt to finish reviewing those revisions by 9 PM on 2020-02-24.
+- If an additional revision is required, it wil be due 2020-02-26 at 9 AM.
+
+Every proposal should ...
+
+- **not** use `skim_with(numeric = list(hist = NULL), integer = list(hist = NULL))` since it leads to a lengthy and pointless function listing. If you want to skim without charts use `skim_without_charts` which came into existence in 2019.
+- **not** use `source("Love-boost.R")` or any other R script or package unless you actually need somethin it provides
+- load the tidyverse last, and not anywhere else, and avoid loading other packages that are loaded already by the tidyverse. The complete list of packages that the tidyverse loads is [the set of core packages listed at this link](https://www.tidyverse.org/packages/).
+- should use **code-folding** in the HTML result (add code_folding: show to your YAML)
+- should use the **tidyverse** for data management, almost without exception
+- use `message = FALSE` in the code chunk where the packages are listed to eliminate the messages in the HTML showing warnings about when packages were built or how objects were masked
+- use `comment = NA` in the setup chunk to avoid R output being preceded by hashtags `##`
+- be run using **R version 3.6.2** or later, and include **session info** at the end of the document
+- use the ENTER key sufficiently to prevent any code chunks in the HTML file from requiring a scrolling window in order to be seen (note that this is a particularly common problem when people list many, many packages on the same line, separated by semicolons)
+- use `clean_names()` to clean up the names in the variables in the final tidied version of the data, and have no names that are longer than they need to be (10 characters or less is a good plan for variable names)
+- include a **tidied version of the data file**, in .csv format, perhaps in addition to the raw data, and this tidied version should adhere to the requirements for minimum and maximum number of rows and columns, with a row (subject) identifier at the far left of the .csv file. This is a new and additional requirement for the revised proposal, to demonstrate that you've done the necessary work.
+
 ## The Group Meetings
 
 - On 2020-02-27, you will meet during class time to present your proposal work, and any subsequent work you have completed on your portfolio. This important session will give you the opportunity  to present a piece of your work to some of your colleagues, and get meaningful feedback from them on the decisions you have made. The TAs will run this session, as Dr. Love will be out of town.
 
-# Deliverable 2. The Poster
+# Deliverable 2. The Poster and The Portfolio
+
+## The Portfolio
+
+The portfolio submission for Project 1 consists of 13 sections, 9 of which come straight from the proposal, and the last of which requires a single line of code in R.
+
+- Sections 1-9 are the same as what you prepared for the proposal. You should nail down any details that were not yet specified in your original submissions of the proposal. Sections 5-8, in particular, should be adjusted as necessary to reflect the actual analyses you wound up doing.
+- Section 10 is **new**, should be labeled "Linear Regression Analyses" and is dedicated to that work.
+- Section 11 is **new**, should be labeled "Logistic Regression Analyses" and is dedicated to that work.
+- Section 12 is called "Discussion" and is a 100-250 word discussion of your thoughts on the process of producing this project.
+- Section 13 is the session info material.
+
+### Section 10: Linear Regression Analyses
+
+In Section 10, we expect you to present all relevant code used to produce your final results. No output should be presented in this section (or in Section 11) without commentary. This should describe the fitting and evaluation of two models: a "main effects" model, and an "augmented" model. We're primarily interested in a clear presentation. The following 8 elements should be presented, in properly labeled subsections of section 10, using the labels in bold below.
+
+1. **Missingness** your approach to dealing with missing data, if applicable
+    - we prefer imputation (simple or multiple) to complete case analysis, but it's not mandatory
+    - if you have a sample with no missing data, specify that (again) here
+2. **Outcome Transformation** your approach to transforming the outcome variable, including an appropriate Box-Cox assessment
+3. **Scatterplot Matrix and Collinearity** a scatterplot matrix including the (possibly transformed) outcome and all predictors that make it into your "main effects" model
+    - be sure to evaluate collinearity between predictors, either through perusing and discussing the correlations in the scatterplot matrix, or with variance inflation factors
+4. **Model A**: your initial "main effects" kitchen sink model
+    - remember that your model must include at least four predictors, of which at least one must be quantitative and one must be multi-categorical.
+    - we discourage the use of best subsets or other model selection strategies here, instead please use your problem-based understanding to select variables and use them all.
+    - in presenting your main effects model you should show:
+        - a tidied table of regression coefficients
+        - key fit summary statistics like R-square, AIC and BIC, and
+        - the four key diagnostic plots of residuals, with an appropriate interpretation of what you see
+5. **Non-Linearity** your process for making decisions about how to capture potential non-linearity 
+    - what did the Spearman rho-squared plot suggest and how did you spend your degrees of freedom 
+        - If the (apparently strongest - furthest to the right) predictor in the rho-square plot is quantitative, you should be thinking first about a restricted cubic spline with 4 knots, maybe 5,
+        - If the largest rho-square is associated with a binary or a multi-categorical predictor, create an interaction term with the second-largest rho-squared predictor.
+        - If you still have degrees of freedom you're willing to spend after this, proceed down to the second largest predictor in terms of rho-squared, and proceed similarly to the third largest after that.
+    - Regardless of your sample size, please use between 3 and 6 additional degrees of freedom beyond the main effects model to account for non-linearity, and add no more than 3 non-linear terms to your model.
+6. **Model B**: fitting your "augmented model" incorporating non-linear terms
+    - unless you're doing multiple imputation you'll want to be sure you demonstrate that you can fit this using either `ols` or `lm`, since you might need either approach for a complete assessment of the model (if you're doing multiple imputation, you can stick with `ols`)
+    - you'll need at a minimum to present a nomogram and plot of the effects from `plot(summary(modelname))` for this augmenmted model, using `ols`.
+    - you'll also need to present the residual plots for the model you've fit, which is easiest to do if you fit the model with `lm`.
+        - if you've used multiple imputation, prepare a residuals vs. fitted values plot and evaluate it using `ols`.
+7. **Validating the Models** the results of a validation comparison of the "augmented model" to the "kitchen sink" model which should help you select a "final model" from the two possibilities. Feasible ways to do this include:
+    - an initial partition into training and test samples,
+    - or a k-fold cross-validation strategy,
+    - perhaps you might also develop validated $R^2$ statistics within `ols` through the `validate` function
+8. **Final Model** This section should end with a clear statement of the model you prefer (the "main effects model A" or the "augmented model B") based on your overall assessment of fit quality, adherence to assumptions as seen in residuals, and whether adding the terms in the augmented model yields an improvement that is worth the complication of adding the non-linear terms.
+    - You should land on a single, final model, using both statistical and non-statistical considerations to make a decision between model A and model B.
+    - An appropriate summary of the final model you landed on should start with a listing of the model parameters with appropriate confidence intervals, and a table or (better) plot of the effect sizes.
+        - Specify the effect sizes for all elements of your final model numerically (with both a point estimate and a confidence interval), and graphically (with a plot of those effects (probably through `plot(summary(yourmodel)`).
+        - Then write a detailed and correct description of the effect of **at least one** predictor on your outcome for your linear regression model, providing all necessary elements of such a description, and link this directly to what the plot is telling you. 
+        - We prefer you discuss a statistically and scientifically meaningful effect, should one exist. Pick an effect to describe that is interesting to you.
+    - The final part of your summary of the final model should be a nomogram with a demonstration of a prediction (and appropriate prediction interval) for a new subject of interest.
+        - Your prediction (and its prediction interval) should be back transformed to the original scale of your outcome, if you made a transformation back at the beginning of building your model.
+
+### Section 11: Logistic Regression
+
+Details coming soon.
+
+### Section 12: The Discussion
+
+This should be a short (perhaps 200 words) discussion of your thoughts on the entire Project 1 process. Topics to address (pick two of these) include:
+
+- What was substantially harder or easier than you expected?
+- What do you wish you'd known at the start of this process that you know now?
+- What was the most confusing part of doing the project?
+- What was the most useful thing you learned while doing the project?
+
+## The Poster
 
 You'll be using the [posterdown package](https://github.com/brentthorne/posterdown) to build your poster for Project 1.
     
 - Learn more about `posterdown` [at its repository](https://github.com/brentthorne/posterdown), and with this [installation and usage guide](https://github.com/brentthorne/posterdown/wiki/Installation-&-Usage-Guide).
 
-Further details on the poster should be available by 2020-02-01.
+Further details on the poster should be available by 2020-02-25.
