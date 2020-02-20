@@ -193,8 +193,7 @@ versions of your proposal are:
     successfully, and then one additional point for each of the nine
     tasks if they are successfully completed.
   - If you receive a grade lower than 10, you will need to redo until
-    you reach 10. Redos are expected within 48 hours of receipt of the
-    redo request.
+    you reach 10.
 
 The full [Project 1 Proposal
 Rubric](https://github.com/THOMASELOVE/2020-432/blob/master/projects/project1/project1_proposal_rubric.md)
@@ -205,8 +204,8 @@ submission will meet all requirements and score a 10 on the first try.
 
   - Revised proposals are due 2020-02-24 at 9 AM. We will attempt to
     finish reviewing those revisions by 9 PM on 2020-02-24.
-  - If an additional revision is required, it wil be due 2020-02-26 at 9
-    AM.
+  - If an additional revision is required, it will be due 2020-02-26 at
+    9 AM.
 
 Every proposal should …
 
@@ -215,7 +214,7 @@ Every proposal should …
     function listing. If you want to skim without charts use
     `skim_without_charts` which came into existence in 2019.
   - **not** use `source("Love-boost.R")` or any other R script or
-    package unless you actually need somethin it provides
+    package unless you actually need something it provides
   - load the tidyverse last, and not anywhere else, and avoid loading
     other packages that are loaded already by the tidyverse. The
     complete list of packages that the tidyverse loads is [the set of
@@ -269,8 +268,9 @@ single line of code in R.
     Analyses” and is dedicated to that work.
   - Section 11 is **new**, should be labeled “Logistic Regression
     Analyses” and is dedicated to that work.
-  - Section 12 is called “Discussion” and is a 100-250 word discussion
-    of your thoughts on the process of producing this project.
+  - Section 12 is called “Discussion” and is a roughly 200 word
+    discussion of your thoughts on the process of producing this
+    project.
   - Section 13 is the session info material, which should show that
     you’re using R 3.6.2 or later.
       - Our preferred way for you to execute this is to run
@@ -311,6 +311,8 @@ below.
       - in presenting your main effects model you should show:
           - a tidied table of regression coefficients
           - key fit summary statistics like R-square, AIC and BIC, and
+            we also suggest you develop and display a validated R-square
+            statistic using the `validate` function in `ols` here.
           - the four key diagnostic plots of residuals, with an
             appropriate interpretation of what you see
 5.  **Non-Linearity** your process for making decisions about how to
@@ -340,7 +342,7 @@ below.
         assessment of the model (if you’re doing multiple imputation,
         you can stick with `ols`)
       - you’ll need at a minimum to present a nomogram and plot of the
-        effects from `plot(summary(modelname))` for this augmenmted
+        effects from `plot(summary(modelname))` for this augmented
         model, using `ols`.
       - you’ll want to look at an ANOVA comparison of Model B to Model A
         in order to understand whether the changes you’ve made led to
@@ -356,8 +358,9 @@ below.
     ways to do this include:
       - an initial partition into training and test samples,
       - or a k-fold cross-validation strategy,
-      - perhaps you might also develop validated \(R^2\) statistics
-        within `ols` through the `validate` function
+      - you may also want to produce validated \(R^2\) statistics for
+        Model B within `ols` through the `validate` function and present
+        a comparison of results across the two models
 8.  **Final Model** This section should end with a clear statement of
     the model you prefer (the “main effects model A” or the “augmented
     model B”) based on your overall assessment of fit quality, adherence
@@ -384,6 +387,8 @@ below.
           - We prefer you discuss a statistically and scientifically
             meaningful effect, should one exist. Pick an effect to
             describe that is interesting to you.
+      - You should display an appropriate (corrected through validation)
+        estimate of R-square for your final model
       - The final part of your summary of the final model should be a
         nomogram with a demonstration of a prediction (and appropriate
         prediction interval) for a new subject of interest.
@@ -420,7 +425,8 @@ elements should be presented, in properly labeled subsections of section
       - in presenting your main effects model you should show:
           - a tidied table of regression coefficients
           - key fit summary statistics like the Nagelkerke R-square and
-            the area under the ROC curve
+            the area under the ROC curve as they are presented in the
+            `lrm` output
           - a confusion matrix based on an explicitly specified
             prediction rule (perhaps `.fitted` \>= 0.5, but something
             else if you prefer) and you’ll need to specify the
@@ -452,7 +458,7 @@ elements should be presented, in properly labeled subsections of section
         I’d expect, and that’s fine, but you’ll want to fit the model
         with `glm`, too, to help with building the confusion matrix.
       - you’ll need at a minimum to present a nomogram and plot of the
-        effects from `plot(summary(modelname))` for this augmenmted
+        effects from `plot(summary(modelname))` for this augmented
         model, using `lrm`.
       - you’ll want to look at an ANOVA comparison of Model Z to Model Y
         in order to understand whether the changes you’ve made led to
@@ -462,6 +468,8 @@ elements should be presented, in properly labeled subsections of section
         you’ll need to provide (and compare to Model Y) the
         specificity, sensitivity and PPV for Model Z using that
         prediction rule.
+      - you’ll also need to show the Nagelkerke R-square and C statistic
+        from the `lrm` output.
 5.  **Validating the Models** the results of a validation comparison of
     the Nagelkerke R-square and the C statistic for the “augmented
     model” Z to the “main effects” model Y through the `validate`
@@ -495,6 +503,9 @@ elements should be presented, in properly labeled subsections of section
             describe that is interesting to you.
       - Next, we want you to provide a plot of the ROC curve for the
         “final model” in the entire data set.
+      - You should display an appropriate (corrected through validation)
+        estimate of Nagelkerke R-square and the C statistic for your
+        final model, using the entire data set.
       - The final part of your summary of the final model should be a
         nomogram with a demonstration of a predicted probability
         associated with two new subjects of interest that differ in
