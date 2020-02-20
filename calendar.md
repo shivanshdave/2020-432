@@ -18,13 +18,13 @@ Class 14 | 03-05 | "Best Subsets" for Logistic Regression, Dealing with Aggregat
 -- | 03-09 | [Project 1 Posters/Portfolios](https://github.com/THOMASELOVE/2020-432/tree/master/projects/project1) are due at 2 PM.
 -- | 03-10 | No class. CWRU Spring Break (03-09 through 03-13)
 -- | 03-12 | No class. CWRU Spring Break (03-09 through 03-13)
-Class 15 | 03-17 | TBA, **ART** Chapter 6
+Class 15 | 03-17 | Fitting Models to Multi-Categorical Responses, **ART** Chapter 6
 Class 16 | 03-19 | Dr. Love may be out of town.
-Class 17 | 03-24 | TBA
-Class 18 | 03-26 | TBA, **ART** Chapter 12
-Class 19 | 03-31 | TBA
+Class 17 | 03-24 | Fitting Models to Multi-Categorical Responses
+Class 18 | 03-26 | Fitting Models to Multi-Categorical Responses, **ART** Chapter 12
+Class 19 | 03-31 | Describing and Dealing with Time-To-Event (Survival) Data
 -- | 04-01 | Project 2 Proposal due at 2 PM. Details to come.
-Class 20 | 04-02 | TBA
+Class 20 | 04-02 | Fitting Cox Models for Time-to-Event Data
 Class 21 | 04-07 | TBA
 Class 22 | 04-09 | TBA, **ART** Chapter 13
 Class 23 | 04-14 | TBA
