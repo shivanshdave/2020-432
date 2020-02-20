@@ -6,25 +6,6 @@
 
 Session | Date | Materials 
 --------: | :-----: | ----------------------------------------------------------------------
-[Class 01](https://github.com/THOMASELOVE/2020-432/tree/master/classes/class01) | 01-14 | Getting Started, Building Table 1.
--- | 01-15 | [Minute Paper after Class 1](http://bit.ly/432-2020-minute-01) due ([Feedback is here](http://bit.ly/432-2020-minute-01-feedback))
-[Class 02](https://github.com/THOMASELOVE/2020-432/tree/master/classes/class02) | 01-16 | Developing the BRFSS/SMART data, **ART** Introduction and Chapters 1-2
-[Class 03](https://github.com/THOMASELOVE/2020-432/tree/master/classes/class03) | 01-21 | Imputation, Interaction, ANOVA and ANCOVA models, **ART** Chapter 3
-[Class 04](https://github.com/THOMASELOVE/2020-432/tree/master/classes/class04) | 01-23 | Interaction: Multi-categorical predictors, Predicting Binary Outcomes **ART** Chapter 5
--- | 01-24 | [Minute Paper after Class 4](http://bit.ly/432-2020-minute-04) due at 2 PM. ([Feedback is here](http://bit.ly/432-2020-minute-04-feedback))
--- | 01-28 | [Homework 1](https://github.com/THOMASELOVE/2020-432/tree/master/homework/hw01) due at 5 PM.
-[Class 05](https://github.com/THOMASELOVE/2020-432/tree/master/classes/class05) | 01-28 | Predicting Binary Outcomes (Linear Probability Model, Logistic Regression)
-[Class 06](https://github.com/THOMASELOVE/2020-432/tree/master/classes/class06) | 01-30 | Predicting Binary Outcomes (Logistic Regression), **ART** Chapter 4
--- | 01-31 | [Minute Paper after Class 06](http://bit.ly/432-2020-minute-06) due at 2 PM.
--- | 02-04 | [Homework 2](https://github.com/THOMASELOVE/2020-432/tree/master/homework/hw02) due at 5 PM.
-[Class 07](https://github.com/THOMASELOVE/2020-432/tree/master/classes/class07) | 02-04 | Model Section and Cross-Validation in Linear Models 
--- | 02-05 | You should have your data for [Project 1](https://github.com/THOMASELOVE/2020-432/tree/master/projects/project1) by this date.
--- | 02-07 | Class is cancelled due to Dr. Love's illness.
-[Class 08](https://github.com/THOMASELOVE/2020-432/tree/master/classes/class08) | 02-11 | Model Section and Cross-Validation in Linear Models, **ART** Chapter 7
-[Class 09](https://github.com/THOMASELOVE/2020-432/tree/master/classes/class09) | 02-13 | Non-linearity in regression, **ART** Chapter 8
--- | 02-14 | [Project 1 Proposal](https://github.com/THOMASELOVE/2020-432/tree/master/projects/project1) due at 2 PM. 
--- | 02-18 | [Homework 3](https://github.com/THOMASELOVE/2020-432/tree/master/homework/hw03) due at 5 PM.
-[Class 10](https://github.com/THOMASELOVE/2020-432/tree/master/classes/class10) | 02-18 | Using `ols` to fit flexible linear models
 [Class 11](https://github.com/THOMASELOVE/2020-432/tree/master/classes/class11) | 02-20 | TBA, **ART** Chapter 9
 -- | 02-24 | [Project 1 Proposal Revisions](https://github.com/THOMASELOVE/2020-432/tree/master/projects/project1#deliverable-1-the-proposal) due to Canvas by 9 AM. See [Class 11 README](https://github.com/THOMASELOVE/2020-432/tree/master/classes/class11) for details.
 Class 12 | 02-25 | TBA
@@ -50,6 +31,30 @@ Class 24 | 04-16 | TBA, **ART** Chapter 14
 Class 25 | 04-21 | TBA
 Class 26 | 04-23 | TBA
 -- | 04-28 | Project 2 will be due during this week. Details to come.
+
+### Deadlines that have passed...
+
+Session | Date | Materials 
+--------: | :-----: | ----------------------------------------------------------------------
+[Class 01](https://github.com/THOMASELOVE/2020-432/tree/master/classes/class01) | 01-14 | Getting Started, Building Table 1.
+-- | 01-15 | [Minute Paper after Class 1](http://bit.ly/432-2020-minute-01) due ([Feedback is here](http://bit.ly/432-2020-minute-01-feedback))
+[Class 02](https://github.com/THOMASELOVE/2020-432/tree/master/classes/class02) | 01-16 | Developing the BRFSS/SMART data, **ART** Introduction and Chapters 1-2
+[Class 03](https://github.com/THOMASELOVE/2020-432/tree/master/classes/class03) | 01-21 | Imputation, Interaction, ANOVA and ANCOVA models, **ART** Chapter 3
+[Class 04](https://github.com/THOMASELOVE/2020-432/tree/master/classes/class04) | 01-23 | Interaction: Multi-categorical predictors, Predicting Binary Outcomes **ART** Chapter 5
+-- | 01-24 | [Minute Paper after Class 4](http://bit.ly/432-2020-minute-04) due at 2 PM. ([Feedback is here](http://bit.ly/432-2020-minute-04-feedback))
+-- | 01-28 | [Homework 1](https://github.com/THOMASELOVE/2020-432/tree/master/homework/hw01) due at 5 PM.
+[Class 05](https://github.com/THOMASELOVE/2020-432/tree/master/classes/class05) | 01-28 | Predicting Binary Outcomes (Linear Probability Model, Logistic Regression)
+[Class 06](https://github.com/THOMASELOVE/2020-432/tree/master/classes/class06) | 01-30 | Predicting Binary Outcomes (Logistic Regression), **ART** Chapter 4
+-- | 01-31 | [Minute Paper after Class 06](http://bit.ly/432-2020-minute-06) due at 2 PM.
+-- | 02-04 | [Homework 2](https://github.com/THOMASELOVE/2020-432/tree/master/homework/hw02) due at 5 PM.
+[Class 07](https://github.com/THOMASELOVE/2020-432/tree/master/classes/class07) | 02-04 | Model Section and Cross-Validation in Linear Models 
+-- | 02-05 | You should have your data for [Project 1](https://github.com/THOMASELOVE/2020-432/tree/master/projects/project1) by this date.
+-- | 02-07 | Class is cancelled due to Dr. Love's illness.
+[Class 08](https://github.com/THOMASELOVE/2020-432/tree/master/classes/class08) | 02-11 | Model Section and Cross-Validation in Linear Models, **ART** Chapter 7
+[Class 09](https://github.com/THOMASELOVE/2020-432/tree/master/classes/class09) | 02-13 | Non-linearity in regression, **ART** Chapter 8
+-- | 02-14 | [Project 1 Proposal](https://github.com/THOMASELOVE/2020-432/tree/master/projects/project1) due at 2 PM. 
+-- | 02-18 | [Homework 3](https://github.com/THOMASELOVE/2020-432/tree/master/homework/hw03) due at 5 PM.
+[Class 10](https://github.com/THOMASELOVE/2020-432/tree/master/classes/class10) | 02-18 | Using `ols` to fit flexible linear models
 
 ## TAs and Office Hours
 
