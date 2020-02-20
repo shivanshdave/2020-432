@@ -224,13 +224,28 @@ Every proposal should …
     show to your YAML)
   - should use the **tidyverse** for data management, almost without
     exception
+  - use appropriate subsection headings (which you identify with
+    hashtags on new lines in your R Markdown file) and with numbers
+    automatically applied by R to match the task list numbering
+      - Be sure `number_sections: true` is in your YAML section at the
+        top of your R Markdown file.
+      - to create a numbered section called “Data Source”, use the code
+        `# Data Source` receded and followed by a blank line in your R
+        Markdown file
+      - to create a numbered subsection called “First Source”, use the
+        code `## First Source` preceded and followed by a blank line in
+        your R Markdown file
+      - to create an unnumbered section called “Packages”, use the code
+        `# Packages [-]` preceded and followed by a blank line in your R
+        Markdown file
   - use `message = FALSE` in the code chunk where the packages are
     listed to eliminate the messages in the HTML showing warnings about
     when packages were built or how objects were masked
   - use `comment = NA` in the setup chunk to avoid R output being
     preceded by hashtags `##`
   - be run using **R version 3.6.2** or later, and include **session
-    info** at the end of the document
+    info** at the end of the document by running the
+    `sessioninfo::session_info()` function.
   - use the ENTER key sufficiently to prevent any code chunks in the
     HTML file from requiring a scrolling window in order to be seen
     (note that this is a particularly common problem when people list
@@ -358,7 +373,7 @@ below.
     ways to do this include:
       - an initial partition into training and test samples,
       - or a k-fold cross-validation strategy,
-      - you may also want to produce validated \(R^2\) statistics for
+      - you may also want to produce validated R-square statistics for
         Model B within `ols` through the `validate` function and present
         a comparison of results across the two models
 8.  **Final Model** This section should end with a clear statement of
