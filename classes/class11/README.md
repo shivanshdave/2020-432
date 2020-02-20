@@ -38,6 +38,12 @@ Whether we mentioned it in our comments on Canvas or not, **ALL REVISED PROJECT 
 - Here's a [copy of Carli's paper](https://github.com/THOMASELOVE/2020-500/blob/master/classes/class05/JCVTS_Lehr_2020.pdf), written with her colleagues at CCF.
 - The link to the [study video is here](https://newsroom.clevelandclinic.org/2019/12/05/cleveland-clinic-study-using-lungs-from-increased-risk-donors-expands-donor-pool-while-maintaining-current-survival-rates/).
 
+4. I got another email this week from Susan Gross, who took the 431-432 sequence with me a few years ago, and writes...
+
+> I ... am currently using the skills I learned in those courses in my job as a Data Analyst at OverDrive (a Cleveland-based company that sells digital ebooks and audiobooks to libraries). I have the pleasure of working in R all day every day, which is pretty much a dream job for me. I wanted to write to thank you again ... and also to inquire about any outstanding students who would be interested in applying for a full-time entry-level position in Cleveland. I know that any applicants who did well in your 431/432 class and enjoyed the material should do very well in this position. As an aside, the longer this primary season goes, the more interesting [538's Model Talk](https://fivethirtyeight.com/tag/model-talk/) gets! I hope you're enjoying it!
+
+- Here's [the link to the Data Analyst position at Overdrive](https://company.overdrive.com/careers/?p=job%2Fo7azbfwL#positions), if you're interested.
+
 ## Next Few Deliverables (from [the Course Calendar](https://github.com/THOMASELOVE/2020-432/blob/master/calendar.md))
 
 Date | Deliverable
