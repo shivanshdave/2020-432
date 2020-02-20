@@ -25,7 +25,7 @@ Session | Date | Materials
 -- | 02-14 | [Project 1 Proposal](https://github.com/THOMASELOVE/2020-432/tree/master/projects/project1) due at 2 PM. 
 -- | 02-18 | [Homework 3](https://github.com/THOMASELOVE/2020-432/tree/master/homework/hw03) due at 5 PM.
 [Class 10](https://github.com/THOMASELOVE/2020-432/tree/master/classes/class10) | 02-18 | Using `ols` to fit flexible linear models
-Class 11 | 02-20 | TBA, **ART** Chapter 9
+[Class 11](https://github.com/THOMASELOVE/2020-432/tree/master/classes/class11) | 02-20 | TBA, **ART** Chapter 9
 -- | 02-24 | [Project 1 Proposal Revisions](https://github.com/THOMASELOVE/2020-432/tree/master/projects/project1#deliverable-1-the-proposal) due to Canvas by 9 AM. See [Class 11 README](https://github.com/THOMASELOVE/2020-432/tree/master/classes/class11) for details.
 Class 12 | 02-25 | TBA
 -- | 02-26 | [Quiz 1](https://github.com/THOMASELOVE/2020-432/tree/master/quizzes) will be made available.
