@@ -33,7 +33,7 @@ Whether we mentioned it in our comments on Canvas or not, **ALL REVISED PROJECT 
 
 Date | Deliverable
 ----: | ---------------------------------------------------------------
-TBA   | Project 1 Proposal Revision submitted to Canvas.
+02-24 | Project 1 Proposal Revision submitted to Canvas before 9 AM.
 02-26 | [Quiz 1](https://github.com/THOMASELOVE/2020-432/tree/master/quizzes) will be made available.
 03-02 | [Quiz 1](https://github.com/THOMASELOVE/2020-432/tree/master/quizzes) is due at 9 AM.
 03-09 | [Project 1 Posters/Portfolios](https://github.com/THOMASELOVE/2020-432/tree/master/projects/project1) are due at 2 PM.
