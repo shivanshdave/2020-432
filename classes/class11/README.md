@@ -9,20 +9,23 @@ Slides in PDF | Slides in R Markdown | Audio Recording | Need Help?
 ## Today's Announcements
 
 1. The [Homework 3 Answer Sketch](https://github.com/THOMASELOVE/2020-432/tree/master/homework/hw03) (including the grading rubric) is available now.
-2. As of 7 PM on 2020-02-19, reactions to 35 of the 38 Project 1 Proposals have been posted to Canvas, and reactions to the last 3 will be available later on Wednesday evening. Dr. Love will provide more details (including deadlines for revisions) between now and Thursday's class, once he has posted Canvas reactions to all 38 proposals.
+2. Reactions to all Project 1 Proposals have been posted to Canvas, and everyone needs to do at least some little revision, except for the one pair of folks who've already completed theirs. All revisions for Project 1 proposals should go to the same place in Canvas where you submitted the initial draft, and **all** Project 1 Proposal revisions are due at 9 AM on Monday 2020-02-24. 
+    - If your initial grade on the project was below 8, we especially encourage you to complete your revision quickly, so that we can review it over the weekend and get you on track to a 10 as quickly as possible. 
+    - We encourage early submission of these revisions and additional conversation with the TAs or Dr. Love via email to 431-help or in person as you move forward. If your revision doesn't reach the level of approval (and a score of 10), you'll know that as soon as we can tell you (likely by Monday afternoon), and you'll have to revise it again, and that revision will be due at 9 AM Wednesday 2020-02-26.
+    - Please address all the things we listed in Canvas for you to work on, as well as the list below... 
 
-Whether we mentioned it in our comments on Canvas or not, to be approved, **ALL REVISED PROPOSALS should...**
-- use `message = FALSE` in the code chunk where the packages are listed to eliminate the messages in the HTML showing warnings about when packages were built or how objects were masked
-- use `comment = NA` in the setup chunk to avoid R output being preceded by hashtags `##`
-- be run using **R version 3.6.2** or later, and include **session info** at the end of the document
-- should use **code-folding** in the HTML result (add code_folding: show to your YAML)
-- should use the **tidyverse** for data management, almost without exception
-- include a **tidied version of the data file**, in .csv format, perhaps in addition to the raw data, and this tidied version should adhere to the requirements for minimum and maximum number of rows and columns, with a row (subject) identifier at the far left of the .csv file.
+Whether we mentioned it in our comments on Canvas or not, **ALL REVISED PROPOSALS should...**
 - **not** use `skim_with(numeric = list(hist = NULL), integer = list(hist = NULL))` since it leads to a lengthy and pointless function listing. If you want to skim without charts use `skim_without_charts` which came into existence in 2019.
 - **not** use `source("Love-boost.R")` or any other R script or package unless you actually need somethin it provides
 - load the tidyverse last, and not anywhere else, and avoid loading other packages that are loaded already by the tidyverse. The complete list of packages that the tidyverse loads is [the set of core packages listed at this link](https://www.tidyverse.org/packages/).
+- should use **code-folding** in the HTML result (add code_folding: show to your YAML)
+- should use the **tidyverse** for data management, almost without exception
+- use `message = FALSE` in the code chunk where the packages are listed to eliminate the messages in the HTML showing warnings about when packages were built or how objects were masked
+- use `comment = NA` in the setup chunk to avoid R output being preceded by hashtags `##`
+- be run using **R version 3.6.2** or later, and include **session info** at the end of the document
 - use the ENTER key sufficiently to prevent any code chunks in the HTML file from requiring a scrolling window in order to be seen (note that this is a particularly common problem when people list many, many packages on the same line, separated by semicolons)
-- use `clean_names()` to clean up the names in the variables in the final tidied version of the data, and have no names that are longer than they need to be (10 characters or less is a good plan for variable names.)
+- use `clean_names()` to clean up the names in the variables in the final tidied version of the data, and have no names that are longer than they need to be (10 characters or less is a good plan for variable names)
+- include a **tidied version of the data file**, in .csv format, perhaps in addition to the raw data, and this tidied version should adhere to the requirements for minimum and maximum number of rows and columns, with a row (subject) identifier at the far left of the .csv file. This is a new and additional requirement for the revised proposal, to demonstrate that you've done the necessary work.
 
 ## Next Few Deliverables (from [the Course Calendar](https://github.com/THOMASELOVE/2020-432/blob/master/calendar.md))
 
