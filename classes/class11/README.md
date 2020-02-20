@@ -9,6 +9,8 @@ Slides in PDF | Slides in R Markdown | Audio Recording | Need Help?
 ## Today's Announcements
 
 1. In reaction to a Minute Paper after Class 6 question, I [built a description of effect sizes and how to discuss them](https://github.com/THOMASELOVE/2020-432/blob/master/classes/class11/class11_effects_note.pdf).
+    - The (brief) feedback to the Minute Paper after Class 6 is at http://bit.ly/432-2020-minute-06-feedback. Sorry it took so long.
+    - We'll have a minute paper next week after Class 12.
 
 2. The [Homework 3 Answer Sketch](https://github.com/THOMASELOVE/2020-432/tree/master/homework/hw03) (including the grading rubric) is available now.
 
@@ -47,6 +49,7 @@ Slides in PDF | Slides in R Markdown | Audio Recording | Need Help?
 Date | Deliverable
 ----: | ---------------------------------------------------------------
 02-24 | [Project 1 Proposal Revision](https://github.com/THOMASELOVE/2020-432/tree/master/projects/project1#new-some-additional-thoughts-after-reviewing-the-proposal-drafts) submitted to Canvas before 9 AM.
-02-26 | [Quiz 1](https://github.com/THOMASELOVE/2020-432/tree/master/quizzes) will be made available.
+02-26 | Minute Paper after Class 12 will be due at 2 PM.
+02-26 | [Quiz 1](https://github.com/THOMASELOVE/2020-432/tree/master/quizzes) will be made available at 5 PM.
 03-02 | [Quiz 1](https://github.com/THOMASELOVE/2020-432/tree/master/quizzes) is due at 9 AM.
 03-09 | [Project 1 Posters/Portfolios](https://github.com/THOMASELOVE/2020-432/tree/master/projects/project1) are due at 2 PM.
