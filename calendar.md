@@ -13,8 +13,8 @@ Class 12 | 02-25 | Putting Together Your Project 1
 -- | 02-26 | [Quiz 1](https://github.com/THOMASELOVE/2020-432/tree/master/quizzes) will be made available.
 -- | 02-27 | No class. Dr. Love will be at AHRQ Study Section. Please work on Quiz 1 and Project 1.
 -- | 03-02 | [Quiz 1](https://github.com/THOMASELOVE/2020-432/tree/master/quizzes) is due at 9 AM.
-Class 13 | 03-03 | TBA
-Class 14 | 03-05 | TBA, **ART** Chapters 10 and 11
+Class 13 | 03-03 | Ridge Regression, The Lasso, Elastic Net
+Class 14 | 03-05 | "Best Subsets" for Logistic Regression, Dealing with Aggregated Data, **ART** Chapters 10 and 11
 -- | 03-09 | [Project 1 Posters/Portfolios](https://github.com/THOMASELOVE/2020-432/tree/master/projects/project1) are due at 2 PM.
 -- | 03-10 | No class. CWRU Spring Break (03-09 through 03-13)
 -- | 03-12 | No class. CWRU Spring Break (03-09 through 03-13)
