@@ -12,11 +12,12 @@ Instructions for 432 Project 1
         Proposal](#the-nine-parts-of-your-proposal)
           - [Evaluating the Project 1
             Proposal](#evaluating-the-project-1-proposal)
-      - [Some Additional Thoughts after reviewing the Proposal
-        Drafts](#some-additional-thoughts-after-reviewing-the-proposal-drafts)
-      - [The Group Meetings](#the-group-meetings)
-  - [Deliverable 2. The Poster and The
-    Portfolio](#deliverable-2.-the-poster-and-the-portfolio)
+      - [NEW\! Some Additional Thoughts after reviewing the Proposal
+        Drafts](#new-some-additional-thoughts-after-reviewing-the-proposal-drafts)
+      - [NEW\! The Group Meetings are
+        Cancelled](#new-the-group-meetings-are-cancelled)
+  - [NEW\! Deliverable 2. The Poster and The
+    Portfolio](#new-deliverable-2.-the-poster-and-the-portfolio)
       - [The Portfolio](#the-portfolio)
           - [Section 10: Linear Regression
             Analyses](#section-10-linear-regression-analyses)
@@ -200,7 +201,7 @@ Rubric](https://github.com/THOMASELOVE/2020-432/blob/master/projects/project1/pr
 is available now. Please review that material closely, so that your
 submission will meet all requirements and score a 10 on the first try.
 
-## Some Additional Thoughts after reviewing the Proposal Drafts
+## NEW\! Some Additional Thoughts after reviewing the Proposal Drafts
 
   - Revised proposals are due 2020-02-24 at 9 AM. We will attempt to
     finish reviewing those revisions by 9 PM on 2020-02-24.
@@ -246,16 +247,12 @@ Every proposal should …
     .csv file. This is a new and additional requirement for the revised
     proposal, to demonstrate that you’ve done the necessary work.
 
-## The Group Meetings
+## NEW\! The Group Meetings are Cancelled
 
-  - On 2020-02-27, you will meet during class time to present your
-    proposal work, and any subsequent work you have completed on your
-    portfolio. This important session will give you the opportunity to
-    present a piece of your work to some of your colleagues, and get
-    meaningful feedback from them on the decisions you have made. The
-    TAs will run this session, as Dr. Love will be out of town.
+  - On 2020-02-27, we will no longer be meeting as a group. The TAs will
+    be available for office hours on that day, as usual.
 
-# Deliverable 2. The Poster and The Portfolio
+# NEW\! Deliverable 2. The Poster and The Portfolio
 
 ## The Portfolio
 
@@ -263,28 +260,32 @@ The portfolio submission for Project 1 consists of 13 sections, 9 of
 which come straight from the proposal, and the last of which requires a
 single line of code in R.
 
-  - Sections 1-9 are the same as what you prepared for the proposal. You
-    should nail down any details that were not yet specified in your
-    original submissions of the proposal. Sections 5-8, in particular,
-    should be adjusted as necessary to reflect the actual analyses you
-    wound up doing.
+  - Sections 1-9 are exactly the same as what you prepared for the
+    proposal. You should nail down any details that were not yet
+    specified in your original submissions of the proposal. Sections
+    5-8, in particular, should be adjusted as necessary to reflect the
+    actual analyses you wound up doing.
   - Section 10 is **new**, should be labeled “Linear Regression
     Analyses” and is dedicated to that work.
   - Section 11 is **new**, should be labeled “Logistic Regression
     Analyses” and is dedicated to that work.
   - Section 12 is called “Discussion” and is a 100-250 word discussion
     of your thoughts on the process of producing this project.
-  - Section 13 is the session info material.
+  - Section 13 is the session info material, which should show that
+    you’re using R 3.6.2 or later.
+      - Our preferred way for you to execute this is to run
+        `sessioninfo::session_info()`.
 
 ### Section 10: Linear Regression Analyses
 
 In Section 10, we expect you to present all relevant code used to
 produce your final results. No output should be presented in this
 section (or in Section 11) without commentary. This should describe the
-fitting and evaluation of two models: a “main effects” model, and an
-“augmented” model. We’re primarily interested in a clear presentation.
-The following 8 elements should be presented, in properly labeled
-subsections of section 10, using the labels in bold below.
+fitting and evaluation of two models: a “main effects” model (model A),
+and an “augmented” model (model B). We’re primarily interested in a
+clear presentation. The following 8 elements should be presented, in
+properly labeled subsections of section 10, using the labels in bold
+below.
 
 1.  **Missingness** your approach to dealing with missing data, if
     applicable
@@ -300,7 +301,7 @@ subsections of section 10, using the labels in bold below.
       - be sure to evaluate collinearity between predictors, either
         through perusing and discussing the correlations in the
         scatterplot matrix, or with variance inflation factors
-4.  **Model A**: your initial “main effects” kitchen sink model
+4.  **Model A**: your initial “main effects” model
       - remember that your model must include at least four predictors,
         of which at least one must be quantitative and one must be
         multi-categorical.
@@ -341,15 +342,18 @@ subsections of section 10, using the labels in bold below.
       - you’ll need at a minimum to present a nomogram and plot of the
         effects from `plot(summary(modelname))` for this augmenmted
         model, using `ols`.
+      - you’ll want to look at an ANOVA comparison of Model B to Model A
+        in order to understand whether the changes you’ve made led to
+        statistically detectable improvements in prediction.
       - you’ll also need to present the residual plots for the model
         you’ve fit, which is easiest to do if you fit the model with
         `lm`.
           - if you’ve used multiple imputation, prepare a residuals
             vs. fitted values plot and evaluate it using `ols`.
 7.  **Validating the Models** the results of a validation comparison of
-    the “augmented model” to the “kitchen sink” model which should help
-    you select a “final model” from the two possibilities. Feasible ways
-    to do this include:
+    the “augmented model” B to the “main effects” model A which should
+    help you select a “final model” from the two possibilities. Feasible
+    ways to do this include:
       - an initial partition into training and test samples,
       - or a k-fold cross-validation strategy,
       - perhaps you might also develop validated \(R^2\) statistics
@@ -364,9 +368,10 @@ subsections of section 10, using the labels in bold below.
         and non-statistical considerations to make a decision between
         model A and model B.
       - An appropriate summary of the final model you landed on should
-        start with a listing of the model parameters with appropriate
-        confidence intervals, and a table or (better) plot of the effect
-        sizes.
+        start with a listing of the model parameters for a model fit to
+        the entire data set (after imputation as needed) with
+        appropriate confidence intervals, and a table or (better) plot
+        of the effect sizes.
           - Specify the effect sizes for all elements of your final
             model numerically (with both a point estimate and a
             confidence interval), and graphically (with a plot of those
@@ -384,24 +389,133 @@ subsections of section 10, using the labels in bold below.
         prediction interval) for a new subject of interest.
           - Your prediction (and its prediction interval) should be back
             transformed to the original scale of your outcome, if you
-            made a transformation back at the beginning of building your
-            model.
+            transformed your outcome before building your model.
 
 ### Section 11: Logistic Regression
 
-Details coming soon.
+In Section 11, we expect you to present all relevant code used to
+produce your final results. As in Section 10, no output should be
+presented in this section without commentary. Also as in Section 10,
+this section will describe the fitting and evaluation of two models: a
+“main effects” model (model Y), and an “augmented” model (model Z).
+We’re primarily interested in a clear presentation. The following 6
+elements should be presented, in properly labeled subsections of section
+11, using the labels in bold below.
+
+1.  **Missingness** your approach to dealing with missing data, if
+    applicable
+      - we prefer imputation (simple or multiple) to complete case
+        analysis, but it’s not mandatory
+      - if you have a sample with no missing data, specify that (again)
+        here
+      - you can use the same approach as in Section 10, or a different
+        one, if you prefer
+2.  **Model Y**: your initial “main effects” model
+      - remember that your model must include at least four predictors,
+        of which at least one must be quantitative and one must be
+        multi-categorical.
+      - we discourage the use of stepwise or other model selection
+        strategies here, instead please use your problem-based
+        understanding to select variables and use them all.
+      - in presenting your main effects model you should show:
+          - a tidied table of regression coefficients
+          - key fit summary statistics like the Nagelkerke R-square and
+            the area under the ROC curve
+          - a confusion matrix based on an explicitly specified
+            prediction rule (perhaps `.fitted` \>= 0.5, but something
+            else if you prefer) and you’ll need to specify the
+            specificity, sensitivity and positive predictive value for
+            this model.
+          - a nomogram describing the model.
+3.  **Non-Linearity** your process for making decisions about how to
+    capture potential non-linearity
+      - what did the Spearman rho-squared plot suggest and how did you
+        spend your degrees of freedom
+          - If the (apparently strongest - furthest to the right)
+            predictor in the rho-square plot is quantitative, you should
+            be thinking first about a restricted cubic spline with 4
+            knots, maybe 5,
+          - If the largest rho-square is associated with a binary or a
+            multi-categorical predictor, create an interaction term with
+            the second-largest rho-squared predictor.
+          - If you still have degrees of freedom you’re willing to spend
+            after this, proceed down to the second largest predictor in
+            terms of rho-squared, and proceed similarly to the third
+            largest after that.
+      - Regardless of your sample size, please use between 3 and 6
+        additional degrees of freedom beyond the main effects model to
+        account for non-linearity, and add no more than 3 non-linear
+        terms to your model.
+4.  **Model Z**: fitting your “augmented model” incorporating non-linear
+    terms
+      - most of you will choose to use `lrm` to do most of this work,
+        I’d expect, and that’s fine, but you’ll want to fit the model
+        with `glm`, too, to help with building the confusion matrix.
+      - you’ll need at a minimum to present a nomogram and plot of the
+        effects from `plot(summary(modelname))` for this augmenmted
+        model, using `lrm`.
+      - you’ll want to look at an ANOVA comparison of Model Z to Model Y
+        in order to understand whether the changes you’ve made led to
+        statistically detectable improvements in prediction.
+      - again, we’ll want you to produce an appropriate confusion matrix
+        using the same prediction rule that you used in Model Y, and
+        you’ll need to provide (and compare to Model Y) the
+        specificity, sensitivity and PPV for Model Z using that
+        prediction rule.
+5.  **Validating the Models** the results of a validation comparison of
+    the Nagelkerke R-square and the C statistic for the “augmented
+    model” Z to the “main effects” model Y through the `validate`
+    function in `lrm` fits.
+6.  **Final Model** This section should end with a clear statement of
+    the model you prefer (the “main effects” model Y or the “augmented”
+    model Z) based on your overall assessment of fit quality, and
+    whether adding the terms in the augmented model yields an
+    improvement that is worth the complication of adding the non-linear
+    terms.
+      - You should land on a single, final model, using both statistical
+        and non-statistical considerations to make a decision between
+        models Y and Z.
+      - An appropriate summary of the final model you landed on should
+        start with a listing of the model parameters for a model fit to
+        the entire data set (after imputation as needed) in terms of
+        odds ratios, with appropriate confidence intervals, and a table
+        or (better) plot of the effect sizes.
+          - Specify the effect sizes for all elements of your final
+            model numerically (with both an odds ratio point estimate
+            and a confidence interval), and graphically (with a plot of
+            those effects (probably through `plot(summary(yourmodel)`),
+            properly interpreted.
+          - Then write a detailed and correct description of the effect
+            of **at least one** predictor on your outcome for your
+            chosen logistic regression model, providing all necessary
+            elements of such a description, and link this directly to
+            what the plot is telling you.
+          - We prefer you discuss a statistically and scientifically
+            meaningful effect, should one exist. Pick an effect to
+            describe that is interesting to you.
+      - Next, we want you to provide a plot of the ROC curve for the
+        “final model” in the entire data set.
+      - The final part of your summary of the final model should be a
+        nomogram with a demonstration of a predicted probability
+        associated with two new subjects of interest that differ in
+        terms of some of the parameters in your model.
+          - Your predictions in Section 11 should describe two different
+            people. You don’t have to call them Harry and Sally, but it
+            is helpful to give them actual names.
 
 ### Section 12: The Discussion
 
-This should be a short (perhaps 200 words) discussion of your thoughts
-on the entire Project 1 process. Topics to address (pick two of these)
-include:
+This should be a short (somewhere in the neighborhood of 200 words)
+discussion of your thoughts on the entire Project 1 process. Topics (be
+sure to address at least two of these) include:
 
-  - What was substantially harder or easier than you expected?
+  - What was substantially harder or easier than you expected, and why?
   - What do you wish you’d known at the start of this process that you
-    know now?
-  - What was the most confusing part of doing the project?
-  - What was the most useful thing you learned while doing the project?
+    know now, and why?
+  - What was the most confusing part of doing the project, and how did
+    you get past it?
+  - What was the most useful thing you learned while doing the project,
+    and why?
 
 ## The Poster
 
@@ -414,4 +528,18 @@ for Project 1.
     this [installation and usage
     guide](https://github.com/brentthorne/posterdown/wiki/Installation-&-Usage-Guide).
 
-Further details on the poster should be available by 2020-02-25.
+Further details on the poster should be available by 2020-02-25. The key
+thing to know at this time is that **every word and every
+image/table/chart** on your poster should come directly from the
+materials contained in the first 12 sections of your portfolio. You will
+not be developing any new material for the poster once you have the
+portfolio. As a result, we encourage you to complete the portfolio
+first.
+
+  - The development of the poster involves selecting useful information
+    to present and then arranging it within the poster.
+  - You’ll have to cut at least 90% of what you’ve done out, and we’ll
+    provide some guidance on that, but probably less than you want. This
+    is where you have to make decisions about what’s most important to
+    show an audience about your work. That’s a critically important
+    skill.
