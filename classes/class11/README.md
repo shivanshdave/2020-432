@@ -9,12 +9,14 @@ Slides in PDF | Slides in R Markdown | Audio Recording | Need Help?
 ## Today's Announcements
 
 1. The [Homework 3 Answer Sketch](https://github.com/THOMASELOVE/2020-432/tree/master/homework/hw03) (including the grading rubric) is available now.
-2. Reactions to all Project 1 Proposals have been posted to Canvas, and everyone needs to do at least some little revision, except for the one pair of folks who've already completed theirs. All revisions for Project 1 proposals should go to the same place in Canvas where you submitted the initial draft, and **all** Project 1 Proposal revisions are due at 9 AM on Monday 2020-02-24. 
-    - If your initial grade on the project was below 8, we especially encourage you to complete your revision quickly, so that we can review it over the weekend and get you on track to a 10 as quickly as possible. 
+2. Reactions from Dr. Love and the TAs to all [Project 1 Proposals](https://github.com/THOMASELOVE/2020-432/tree/master/projects/project1#deliverable-1-the-proposal) have been posted to Canvas.
+    - Everyone needs to do at least some little revision, except for the one pair of folks who've already completed theirs. 
+    - All revisions for Project 1 proposals should go to the same place in Canvas where you submitted the initial draft, and **all** Project 1 Proposal revisions are due at 9 AM on Monday 2020-02-24. 
     - We encourage early submission of these revisions and additional conversation with the TAs or Dr. Love via email to 431-help or in person as you move forward. If your revision doesn't reach the level of approval (and a score of 10), you'll know that as soon as we can tell you (likely by Monday afternoon), and you'll have to revise it again, and that revision will be due at 9 AM Wednesday 2020-02-26.
+    - If your initial grade on the proposal was below 8, we especially encourage you to complete your revision quickly, so that we can review it over the weekend and get you on track to a 10 as quickly as possible. 
     - Please address all the things we listed in Canvas for you to work on, as well as the list below... 
 
-Whether we mentioned it in our comments on Canvas or not, **ALL REVISED PROPOSALS should...**
+Whether we mentioned it in our comments on Canvas or not, **ALL REVISED PROJECT 1 PROPOSALS should...**
 - **not** use `skim_with(numeric = list(hist = NULL), integer = list(hist = NULL))` since it leads to a lengthy and pointless function listing. If you want to skim without charts use `skim_without_charts` which came into existence in 2019.
 - **not** use `source("Love-boost.R")` or any other R script or package unless you actually need somethin it provides
 - load the tidyverse last, and not anywhere else, and avoid loading other packages that are loaded already by the tidyverse. The complete list of packages that the tidyverse loads is [the set of core packages listed at this link](https://www.tidyverse.org/packages/).
