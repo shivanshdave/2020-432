@@ -23,7 +23,7 @@ Slides in PDF | Slides in R Markdown | Audio Recording | Need Help?
 
 4. We've [updated the Project 1 Instructions](https://github.com/THOMASELOVE/2020-432/tree/master/projects/project1) now to show you everything you'll need to do for the Portfolio in detail (once your proposal is approved) and to clarify some important issues and changes in the plan. Please take a look.
 
-5. I got a great email the other day from Carli Lehr, a physician on staff at the Cleveland Clinic, who took 432 and 500 in recent cycles...
+5. I got an email from Carli Lehr, a physician on staff at the Cleveland Clinic, who took 432 and 500 in recent cycles...
 
 > I wanted to share an article I wrote that was recently accepted using propensity score methodology. This study was a direct result of the project from your PQHS 500 course. This project helped me obtain a grant from the Cleveland Clinic, was featured on Sirius Doctor Radio, and has been used by the Cleveland Clinic Media department to educate our transplant patients (neat study video on this site). 
 
@@ -34,7 +34,7 @@ Slides in PDF | Slides in R Markdown | Audio Recording | Need Help?
 
 6. Susan Gross, who took the 431-432 sequence with me a few years ago, writes...
 
-> I ... am currently using the skills I learned in those courses in my job as a Data Analyst at OverDrive (a Cleveland-based company that sells digital ebooks and audiobooks to libraries). I have the pleasure of working in R all day every day, which is pretty much a dream job for me. I wanted to write to thank you again ... and also to inquire about any outstanding students who would be interested in applying for a full-time entry-level position in Cleveland. I know that any applicants who did well in your 431/432 class and enjoyed the material should do very well in this position. As an aside, the longer this primary season goes, the more interesting [538's Model Talk](https://fivethirtyeight.com/tag/model-talk/) gets! I hope you're enjoying it!
+> I ... am currently using the skills I learned in those courses in my job as a Data Analyst at OverDrive (a Cleveland-based company that sells digital ebooks and audiobooks to libraries). I have the pleasure of working in R all day every day, which is pretty much a dream job for me. I wanted to write to thank you again ... and also to inquire about any outstanding students who would be interested in applying for a full-time entry-level position in Cleveland. I know that any applicants who did well in your 431/432 class and enjoyed the material should do very well in this position. 
 
 - Here's [the link to the Data Analyst position at Overdrive](https://company.overdrive.com/careers/?p=job%2Fo7azbfwL#positions), if you're interested.
 
