@@ -29,7 +29,9 @@ Whether we mentioned it in our comments on Canvas or not, **ALL REVISED PROJECT 
 - use `clean_names()` to clean up the names in the variables in the final tidied version of the data, and have no names that are longer than they need to be (10 characters or less is a good plan for variable names)
 - include a **tidied version of the data file**, in .csv format, perhaps in addition to the raw data, and this tidied version should adhere to the requirements for minimum and maximum number of rows and columns, with a row (subject) identifier at the far left of the .csv file. This is a new and additional requirement for the revised proposal, to demonstrate that you've done the necessary work.
 
-3. I got a great email the other day from Carli Lehr, a physician on staff at the Cleveland Clinic, who took 432 and 500 in recent cycles...
+3. We've [updated the Project 1 Instructions](https://github.com/THOMASELOVE/2020-432/tree/master/projects/project1) now to show you everything you'll need to do for the Portfolio in detail (once your proposal is approved) and to clarify some important issues and changes in the plan. Please take a look.
+
+4. I got a great email the other day from Carli Lehr, a physician on staff at the Cleveland Clinic, who took 432 and 500 in recent cycles...
 
 > I wanted to share an article I wrote that was recently accepted using propensity score methodology. This study was a direct result of the project from your PQHS 500 course. This project helped me obtain a grant from the Cleveland Clinic, was featured on Sirius Doctor Radio, and has been used by the Cleveland Clinic Media department to educate our transplant patients (neat study video on this site). 
 
@@ -38,7 +40,7 @@ Whether we mentioned it in our comments on Canvas or not, **ALL REVISED PROJECT 
 - Here's a [copy of Carli's paper](https://github.com/THOMASELOVE/2020-500/blob/master/classes/class05/JCVTS_Lehr_2020.pdf), written with her colleagues at CCF.
 - The link to the [study video is here](https://newsroom.clevelandclinic.org/2019/12/05/cleveland-clinic-study-using-lungs-from-increased-risk-donors-expands-donor-pool-while-maintaining-current-survival-rates/).
 
-4. I got another email this week from Susan Gross, who took the 431-432 sequence with me a few years ago, and writes...
+5. Susan Gross, who took the 431-432 sequence with me a few years ago, writes...
 
 > I ... am currently using the skills I learned in those courses in my job as a Data Analyst at OverDrive (a Cleveland-based company that sells digital ebooks and audiobooks to libraries). I have the pleasure of working in R all day every day, which is pretty much a dream job for me. I wanted to write to thank you again ... and also to inquire about any outstanding students who would be interested in applying for a full-time entry-level position in Cleveland. I know that any applicants who did well in your 431/432 class and enjoyed the material should do very well in this position. As an aside, the longer this primary season goes, the more interesting [538's Model Talk](https://fivethirtyeight.com/tag/model-talk/) gets! I hope you're enjoying it!
 
