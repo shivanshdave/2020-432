@@ -23,7 +23,7 @@ Today, we'll be talking about multiple imputation and cross-validation approache
 5. Quiz 1 covers materials through the first 11 classes, and Chapters 1-5 and 7-8 of Spiegelhalter's *Art of Statistics*. It will have **either 14 or 15** questions. It **will be available** at 5 PM Wednesday 2020-02-26.
 6. The next meeting of [the Cleveland R Users Group](https://www.meetup.com/Cleveland-UseR-Group) is tomorrow evening. I've been to a few of the meetings in the past (though I won't be at this one) and found them useful/interesting.
 
-## Approved Project Proposals
+## Approved Project Proposals (of the 38 in total)
 
 Code | Investigator(s) | Title
 ---: | :-------------: | -------------------------------------------------------------------------------------------
