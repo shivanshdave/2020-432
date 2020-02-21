@@ -14,6 +14,7 @@ Instructions for 432 Project 1
             Proposal](#evaluating-the-project-1-proposal)
       - [NEW\! Some Additional Thoughts after reviewing the Proposal
         Drafts](#new-some-additional-thoughts-after-reviewing-the-proposal-drafts)
+      - [NEW\! Project 1 Templates](#new-project-1-templates)
       - [NEW\! The Group Meetings are
         Cancelled](#new-the-group-meetings-are-cancelled)
   - [NEW\! Deliverable 2. The Poster and The
@@ -260,6 +261,15 @@ Every proposal should …
     and columns, with a row (subject) identifier at the far left of the
     .csv file. This is a new and additional requirement for the revised
     proposal, to demonstrate that you’ve done the necessary work.
+
+## NEW\! Project 1 Templates
+
+I built three templates to make it a little easier to meet the
+requirements specified here. You’ll find them [at this
+link](https://github.com/THOMASELOVE/2020-432/tree/master/projects/project1/templates).
+You are not required to use a template, but it might be helpful to you,
+and the use of one should help you avoid some problems and produce an
+attractive proposal or portfolio result.
 
 ## NEW\! The Group Meetings are Cancelled
 

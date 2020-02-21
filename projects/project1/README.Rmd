@@ -102,6 +102,10 @@ Every proposal should ...
 - use `clean_names()` to clean up the names in the variables in the final tidied version of the data, and have no names that are longer than they need to be (10 characters or less is a good plan for variable names)
 - include a **tidied version of the data file**, in .csv format, perhaps in addition to the raw data, and this tidied version should adhere to the requirements for minimum and maximum number of rows and columns, with a row (subject) identifier at the far left of the .csv file. This is a new and additional requirement for the revised proposal, to demonstrate that you've done the necessary work.
 
+## NEW! Project 1 Templates
+
+I built three templates to make it a little easier to meet the requirements specified here. You'll find them [at this link](https://github.com/THOMASELOVE/2020-432/tree/master/projects/project1/templates). You are not required to use a template, but it might be helpful to you, and the use of one should help you avoid some problems and produce an attractive proposal or portfolio result.
+
 ## NEW! The Group Meetings are Cancelled
 
 - On 2020-02-27, we will no longer be meeting as a group. The TAs will be available for office hours on that day, as usual.
