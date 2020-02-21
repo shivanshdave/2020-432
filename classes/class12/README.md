@@ -22,6 +22,16 @@ Today, we'll be talking about multiple imputation and cross-validation approache
     - If your grade on the Proposal is still below 10 after revision, then your next (and, we fervently hope, final) revision is due Wednesday 2020-02-26 at 9 AM to Canvas, in the same place where you've posted prior revisions.
 4. Quiz 1 covers materials through the first 11 classes, and Chapters 1-5 and 7-8 of Spiegelhalter's *Art of Statistics*. It will have **either 14 or 15** questions. It **will be available** at 5 PM Wednesday 2020-02-26.
 
+## Approved Project Proposals
+
+Code | Investigator(s) | Title
+---: | :-------------: | -------------------------------------------------------------------------------------------
+01-P | Hussam Alqahtani and Kimberly Noriega | Unnamed project using NHANES to study sleep, BMI and gum disease
+03-P | Fatima Asad and Basma Dahash | Unnamed project using Chinese PCI data from DataDryad
+20-S | Stephanie Merlino Barr | Unnamed project using County Health Rankings to study infant mortality
+30-S | Alena Sorensen | Unnamed project using BRFSS data to study poor mental health days or satisfaction with life
+
+
 ## Next Few Deliverables (from [the Course Calendar](https://github.com/THOMASELOVE/2020-432/blob/master/calendar.md))
 
 Date | Deliverable
