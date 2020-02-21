@@ -20,7 +20,8 @@ Today, we'll be talking about multiple imputation and cross-validation approache
     - **Additional updates** will appear by class time.
     - If Dr. Love has accepted your [Project 1 Proposal Revision](https://github.com/THOMASELOVE/2020-432/tree/master/projects/project1#new-some-additional-thoughts-after-reviewing-the-proposal-drafts) and given you a grade of 10 on Canvas, you'll be on the list below, and you should move on to building your actual Portfolio for the project.
     - If your grade on the Proposal is still below 10 after revision, then your next (and, we fervently hope, final) revision is due Wednesday 2020-02-26 at 9 AM to Canvas, in the same place where you've posted prior revisions.
-4. Quiz 1 covers materials through the first 11 classes, and Chapters 1-5 and 7-8 of Spiegelhalter's *Art of Statistics*. It will have **either 14 or 15** questions. It **will be available** at 5 PM Wednesday 2020-02-26.
+5. Quiz 1 covers materials through the first 11 classes, and Chapters 1-5 and 7-8 of Spiegelhalter's *Art of Statistics*. It will have **either 14 or 15** questions. It **will be available** at 5 PM Wednesday 2020-02-26.
+6. The next meeting of [the Cleveland R Users Group](https://www.meetup.com/Cleveland-UseR-Group) is tomorrow evening. I've been to a few of the meetings in the past (though I won't be at this one) and found them useful/interesting.
 
 ## Approved Project Proposals
 
