@@ -26,10 +26,10 @@ Today, we'll be talking about multiple imputation and cross-validation approache
 
 Code | Investigator(s) | Title
 ---: | :-------------: | -------------------------------------------------------------------------------------------
-01-P | Hussam Alqahtani and Kimberly Noriega | Unnamed project using NHANES to study sleep, BMI and gum disease
-03-P | Fatima Asad and Basma Dahash | Unnamed project using Chinese PCI data from DataDryad
-20-S | Stephanie Merlino Barr | Unnamed project using County Health Rankings to study infant mortality
-30-S | Alena Sorensen | Unnamed project using BRFSS data to study poor mental health days or satisfaction with life
+`01-P` | Hussam Alqahtani and Kimberly Noriega | Unnamed project using NHANES to study sleep, BMI and gum disease
+`03-P` | Fatima Asad and Basma Dahash | Unnamed project using Chinese PCI data from DataDryad
+`20-S` | Stephanie Merlino Barr | Unnamed project using County Health Rankings to study infant mortality
+`30-S` | Alena Sorensen | Unnamed project using BRFSS data to study poor mental health days or satisfaction with life
 
 
 ## Next Few Deliverables (from [the Course Calendar](https://github.com/THOMASELOVE/2020-432/blob/master/calendar.md))
