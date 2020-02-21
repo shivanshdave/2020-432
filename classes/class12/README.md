@@ -11,7 +11,7 @@ Slides in PDF | Slides in R Markdown | Audio Recording | Need Help?
 1. Please remember that we don't have class this Thursday 2020-02-27. 
 2. There will be a Minute Paper after Class 12, which will be due at 2 PM Wednesday.
 3. Since we last met, there have been several updates to the [Project 1 Instructions](https://github.com/THOMASELOVE/2020-432/tree/master/projects/project1)
-    - This includes a set of templates.
+    - This includes [a set of templates](https://github.com/THOMASELOVE/2020-432/tree/master/projects/project1/templates) which can be very helpful to you in terms of getting the formatting to work well. Switching between these three templates is simply a matter of swapping out the YAML code at the start of the R Markdown document.
     - If Dr. Love has accepted your [Project 1 Proposal Revision](https://github.com/THOMASELOVE/2020-432/tree/master/projects/project1#new-some-additional-thoughts-after-reviewing-the-proposal-drafts) and given you a grade of 10 on Canvas, then you should move on to building your actual Portfolio.
     - If your grade on the Proposal is still below 10, then your next (and, we fervently hope, final) revision is due Wednesday 2020-02-26 at 9 AM to Canvas, in the same place where you've posted prior revisions.
 4. Quiz 1 covers materials through the first 11 classes, and Chapters 1-5 and 7-8 of Spiegelhalter's *Art of Statistics*. It will have either 14 or 15 questions. It will be available at 5 PM Wednesday 2020-02-26.
