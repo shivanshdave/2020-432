@@ -236,7 +236,7 @@ Every proposal should …
         code `## First Source` preceded and followed by a blank line in
         your R Markdown file
       - to create an unnumbered section called “Packages”, use the code
-        `# Packages [-]` preceded and followed by a blank line in your R
+        `# Packages {-}` preceded and followed by a blank line in your R
         Markdown file
   - use `message = FALSE` in the code chunk where the packages are
     listed to eliminate the messages in the HTML showing warnings about

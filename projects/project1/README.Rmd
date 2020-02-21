@@ -94,7 +94,7 @@ Every proposal should ...
     - Be sure `number_sections: true` is in your YAML section at the top of your R Markdown file.
     - to create a numbered section called "Data Source", use the code `# Data Source` preceded and followed by a blank line in your R Markdown file
     - to create a numbered subsection called "First Source", use the code `## First Source` preceded and followed by a blank line in your R Markdown file
-    - to create an unnumbered section called "Packages", use the code `# Packages [-]` preceded and followed by a blank line in your R Markdown file
+    - to create an unnumbered section called "Packages", use the code `# Packages {-}` preceded and followed by a blank line in your R Markdown file
 - use `message = FALSE` in the code chunk where the packages are listed to eliminate the messages in the HTML showing warnings about when packages were built or how objects were masked
 - use `comment = NA` in the setup chunk to avoid R output being preceded by hashtags `##`
 - be run using **R version 3.6.2** or later, and include **session info** at the end of the document by running the `sessioninfo::session_info()` function.
