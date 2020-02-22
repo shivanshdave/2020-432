@@ -2,7 +2,7 @@
 
 There are 38 proposals in total this semester.
 
-Proposals that have been approved by Dr. Love have a grade of 10 on Canvas, and are listed below. If you have an updated title for your proposal, please email it to 431-help with the subject heading: Project 1 Proposal New Name.
+Proposals that have been approved by Dr. Love have a grade of 10 on Canvas, and are listed below. If your approved project is listed below as unnamed, please email a new title (maximum 85 characters, including spaces) to `431-help` with the subject heading: **Project 1 Proposal New Title** at your earliest convenience.
 
 Code | Investigator(s) | Title
 ------: | :----------------: | -------------------------------------------------------------------------------------------
