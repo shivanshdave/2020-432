@@ -140,22 +140,30 @@ knitting your Markdown file.
 
 ## The Nine Parts of Your Proposal
 
-The nine pieces of information we should find in the Markdown and HTML
-versions of your proposal are:
+*Title*: Your project should have a meaningful title (not 432 Proposal)
+but rather something describing your actual data and plans. Please keep
+the title to no more than 85 characters, including spaces.
 
-1.  Complete information on the source of the data: how did you get it,
-    how was it gathered, by whom, in what setting, for what purpose, and
-    using what sampling strategy.
-2.  Code to load the raw `.csv` file into a tibble, and tidy/clean up
-    the data to be useful for your modeling work.
-3.  A listing of the tibble, with all variables correctly imported (via
-    your code) as the types of variables (factor/integer/numeric, etc.)
-    that you need for modeling. Be sure that your listing specifies the
-    number of rows and number of columns in your tidy data set.
-4.  A description (one or two sentences) of who or what the subjects
-    (rows) are in your data set.
-5.  A code book, which provides, for each variable in your tibble, the
-    following information:
+The nine pieces of information we should find in the Markdown and HTML
+versions of your proposal (with the section names we prefer in **bold**)
+are:
+
+1.  **Data Source** Complete information on the source of the data: how
+    did you get it, how was it gathered, by whom, in what setting, for
+    what purpose, and using what sampling strategy.
+2.  **Loading and Tidying the Data** Code to load the raw `.csv` file
+    into a tibble, and tidy/clean up the data to be useful for your
+    modeling work.
+3.  **Listing of the Tibble** A listing of the tibble, with all
+    variables correctly imported (via your code) as the types of
+    variables (factor/integer/numeric, etc.) that you need for modeling.
+    Be sure that your listing specifies the number of rows and number of
+    columns in your tidy data set. This should be a listing, not a
+    glimpse or anything else.
+4.  **The Subjects** A description (one or two sentences) of who or what
+    the subjects (rows) are in your data set.
+5.  **The Code Book** A code book, which provides, for each variable in
+    your tibble, the following information:
       - The name of the variable used in your tibble
       - The type of variable (binary, multi-categorical, quantitative)
       - The details for each variable
@@ -165,20 +173,35 @@ versions of your proposal are:
             and what are the units of measurement
           - if there are missing data, tell us how many observations are
             missing, and why, if you know why.
-6.  A sentence or two for each variable (column) providing a description
-    of what the variable measures or describes, in English.
-7.  A sentence or two telling us what you will use your linear
-    regression model to explain or predict, *followed by* a sentence or
-    several telling us very precisely which (quantitative) variable will
-    serve as your outcome in your linear regression model, and which
-    four (or more) candidate predictors you intend to use for that
-    model.
-8.  A sentence or two telling us what you will use your logistic
-    regression model to explain or predict, *followed by* a sentence or
-    several telling us very precisely which (binary) variable will serve
-    as your outcome in your logistic regression model, and which four
-    (or more) candidate predictors you intend to use for that model.
-9.  An affirmation that the data set meets all of the requirements
+6.  **Describing the Variables** A sentence or two for each variable
+    (column) providing a description of what the variable measures or
+    describes, in English.
+      - Please use the variable names that appear in your code book and
+        tibble in this section, along with their description. We prefer
+        that you put the variable names in `codefont` by surrounding
+        them with the \` symbol, in Sections 5-8.
+7.  **Plans for the Linear Regression** A sentence or two telling us
+    what you will use your linear regression model to explain or
+    predict, *followed by* a sentence or several telling us very
+    precisely which (quantitative) variable will serve as your outcome
+    in your linear regression model, and which four (or more) candidate
+    predictors you intend to use for that model.
+      - Please use the variable names that appear in your code book and
+        tibble in this section, along with their description. We prefer
+        that you put the variable names in `codefont` by surrounding
+        them with the \` symbol, in Sections 5-8.
+8.  **Plans for the Logistic Regression** A sentence or two telling us
+    what you will use your logistic regression model to explain or
+    predict, *followed by* a sentence or several telling us very
+    precisely which (binary) variable will serve as your outcome in your
+    logistic regression model, and which four (or more) candidate
+    predictors you intend to use for that model.
+      - Please use the variable names that appear in your code book and
+        tibble in this section, along with their description. We prefer
+        that you put the variable names in `codefont` by surrounding
+        them with the \` symbol, in Sections 5-8.
+9.  **Session Information** This section should begin with an
+    affirmation that the data set meets all of the requirements
     specified here, most especially that the data can be shared freely
     over the internet, and that there is no protected information of any
     kind involved. You need to be able to write “I am certain that it is
@@ -186,6 +209,11 @@ versions of your proposal are:
     without any conditions. There are no concerns about privacy or
     security.” If you are unsure whether this is true, select a
     different data set.
+      - This affirmation should be followed by the session information,
+        for which we’d like you to use `sessioninfo::session_info()`.
+      - If you need to provide any references, you can do so in this
+        section as well, or create a separate section before or after
+        the Session Information section.
 
 ### Evaluating the Project 1 Proposal
 
@@ -216,6 +244,8 @@ Every proposal should …
     `skim_without_charts` which came into existence in 2019.
   - **not** use `source("Love-boost.R")` or any other R script or
     package unless you actually need something it provides
+  - have a meaningful **title** (not containing 432 or Proposal)
+    containing no more than 85 characters, including spaces
   - load the tidyverse last, and not anywhere else, and avoid loading
     other packages that are loaded already by the tidyverse. The
     complete list of packages that the tidyverse loads is [the set of
