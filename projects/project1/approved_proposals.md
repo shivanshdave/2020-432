@@ -2,7 +2,10 @@
 
 There are 38 proposals in total this semester, for 49 students.
 
-Proposals that have been approved by Dr. Love have a grade of 10 on Canvas, and are listed below. If your approved project is listed below as unnamed, please email a new title (maximum 85 characters, including spaces) to `431-help` with the subject heading: **Project 1 Proposal New Title** at your earliest convenience.
+Proposals that have been approved by Dr. Love have a grade of 10 on Canvas, and are listed below. 
+
+- If your approved project is listed below as unnamed, please email a new title (maximum 85 characters, including spaces) to `431-help` with the subject heading: **Project 1 Proposal New Title** at your earliest convenience.
+- The next deadline for submitting a proposal is Monday 2020-02-24 at 9 AM. All students not listed below should submit their revised proposal by that time.
 
 Code | Investigator(s) | Title
 ------: | :----------------: | -------------------------------------------------------------------------------------------
