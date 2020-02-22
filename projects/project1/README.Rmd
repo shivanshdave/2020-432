@@ -127,7 +127,7 @@ The portfolio submission for Project 1 consists of 13 sections, 10 of which come
 
 - Any preliminaries (including loading packages) should be placed in an unnumbered section called **Preliminaries** that can have as many subsections as you need.
 - Sections 1-8 are exactly the same as what you prepared for the proposal. You should nail down any details that were not yet specified in your original submissions of the proposal. Sections 5-8, in particular, should be adjusted as necessary to reflect the actual analyses you wound up doing.
-- Section 9 is now just the **Affirmation** that the data can bs shared with us, as we're moving the session info and references (if needed) to the bottom of the document.
+- Section 9 is now just the **Affirmation** that the data can be shared with us, as we're moving the session info and references (if needed) to the bottom of the document.
 - Section 10 is **new**, should be labeled "Linear Regression Analyses" and is dedicated to that work.
 - Section 11 is **new**, should be labeled "Logistic Regression Analyses" and is dedicated to that work.
 - Section 12 is also **new**, should be labeled "Discussion" and is a roughly 200 word discussion of your thoughts on the process of producing this project.

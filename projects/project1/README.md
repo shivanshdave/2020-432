@@ -325,7 +325,7 @@ which requires a single line of code in R. The truly new sections are
     specified in your original submissions of the proposal. Sections
     5-8, in particular, should be adjusted as necessary to reflect the
     actual analyses you wound up doing.
-  - Section 9 is now just the **Affirmation** that the data can bs
+  - Section 9 is now just the **Affirmation** that the data can be
     shared with us, as we’re moving the session info and references (if
     needed) to the bottom of the document.
   - Section 10 is **new**, should be labeled “Linear Regression
