@@ -74,9 +74,9 @@ The nine pieces of information we should find in the Markdown and HTML versions 
     + Please use the variable names that appear in your code book and tibble in this section, along with their description. We prefer that you put the variable names in `codefont` by surrounding them with the ` symbol, in Sections 5-8. 
 8. **Plans for the Logistic Regression** A sentence or two telling us what you will use your logistic regression model to explain or predict, *followed by* a sentence or several telling us very precisely which (binary) variable will serve as your outcome in your logistic regression model, and which four (or more) candidate predictors you intend to use for that model.
     + Please use the variable names that appear in your code book and tibble in this section, along with their description. We prefer that you put the variable names in `codefont` by surrounding them with the ` symbol, in Sections 5-8.
-9. **Session Information** This section should begin with an affirmation that the data set meets all of the requirements specified here, most especially that the data can be shared freely over the internet, and that there is no protected information of any kind involved. You need to be able to write "I am certain that it is completely appropriate for these data to be shared with anyone, without any conditions. There are no concerns about privacy or security." If you are unsure whether this is true, select a different data set.
-    - This affirmation should be followed by the session information, for which we'd like you to use `sessioninfo::session_info()`.
-    - If you need to provide any references, you can do so in this section as well, or create a separate section before or after the Session Information section.
+9. **Affirmation** This section contains affirmation that the data set meets all of the requirements specified here, most especially that the data can be shared freely over the internet, and that there is no protected information of any kind involved. You need to be able to write "I am certain that it is completely appropriate for these data to be shared with anyone, without any conditions. There are no concerns about privacy or security." If you are unsure whether this is true, select a different data set.
+    - If you need to provide any **references**, we prefer that you create a subsection here called **References** before the session information and after the affirmation.
+    - This affirmation should be followed by a subsection containing the **Session Information**, for which we'd like you to use `sessioninfo::session_info()`.
 
 ### Evaluating the Project 1 Proposal
 
@@ -108,6 +108,7 @@ Every proposal should ...
 - be run using **R version 3.6.2** or later, and include **session info** at the end of the document by running the `sessioninfo::session_info()` function.
 - use the ENTER key sufficiently to prevent any code chunks in the HTML file from requiring a scrolling window in order to be seen (note that this is a particularly common problem when people list many, many packages on the same line, separated by semicolons)
 - use `clean_names()` to clean up the names in the variables in the final tidied version of the data, and have no names that are longer than they need to be (10 characters or less is a good plan for variable names)
+- should have a completely tidied data set at the end of Section 2, and should
 - include a **tidied version of the data file**, in .csv format, perhaps in addition to the raw data, and this tidied version should adhere to the requirements for minimum and maximum number of rows and columns, with a row (subject) identifier at the far left of the .csv file. This is a new and additional requirement for the revised proposal, to demonstrate that you've done the necessary work.
 
 ## NEW! Project 1 Templates
@@ -122,16 +123,17 @@ I built three templates to make it a little easier to meet the requirements spec
 
 ## The Portfolio
 
-The portfolio submission for Project 1 consists of 13 sections, 9 of which come straight from the proposal, and the last of which requires a single line of code in R.
+The portfolio submission for Project 1 consists of 13 sections, 10 of which come (essentially) straight from the proposal, and the last of which requires a single line of code in R. The truly new sections are 10, 11 and 12, and we explain those sections below.
 
+- Any preliminaries (including loading packages) should be placed in an unnumbered section called **Preliminaries** that can have as many subsections as you need.
 - Sections 1-8 are exactly the same as what you prepared for the proposal. You should nail down any details that were not yet specified in your original submissions of the proposal. Sections 5-8, in particular, should be adjusted as necessary to reflect the actual analyses you wound up doing.
-- Section 9 is now just the **Affirmation** that the data can bs shared with us, as we're moving the session info to the bottom of the document.
+- Section 9 is now just the **Affirmation** that the data can bs shared with us, as we're moving the session info and references (if needed) to the bottom of the document.
 - Section 10 is **new**, should be labeled "Linear Regression Analyses" and is dedicated to that work.
 - Section 11 is **new**, should be labeled "Logistic Regression Analyses" and is dedicated to that work.
 - Section 12 is also **new**, should be labeled "Discussion" and is a roughly 200 word discussion of your thoughts on the process of producing this project.
-- Section 13 is the session info material, which should show that you're using R 3.6.2 or later.
+- Section 13 is the session information material, labeled **Session Information**, which should show that you're using R 3.6.2 or later.
     - Our preferred way for you to execute this is to run `sessioninfo::session_info()`.
-- If you need to have a section called **References** we would like you to place that just before the session information (making **References** section 13 and **Session Information** section 14.)
+    - If you need to have a section called **References** we would like you to place that just before the session information (making **References** section 13 and **Session Information** section 14.)
 
 ### Section 10: Linear Regression Analyses
 
