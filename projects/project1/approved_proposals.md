@@ -1,6 +1,6 @@
 # Approved Project 1 Proposals
 
-There are 38 proposals in total this semester.
+There are 38 proposals in total this semester, for 49 students.
 
 Proposals that have been approved by Dr. Love have a grade of 10 on Canvas, and are listed below. If your approved project is listed below as unnamed, please email a new title (maximum 85 characters, including spaces) to `431-help` with the subject heading: **Project 1 Proposal New Title** at your earliest convenience.
 
@@ -14,4 +14,6 @@ Code | Investigator(s) | Title
 `18-S` | Noah Lorincz-Comi | Predicting Absenteeism at Work
 `20-S` | Stephanie Merlino Barr | Unnamed project using County Health Rankings to study infant mortality
 `21-S` | Anna Miller | Predicting Blood Pressure Medication Usage and Doctor Checkups from 500 Cities Data
+`24-S` | Troy Neptune | Predicting High Quality Movies Using Rotten Tomatoes
+`27-S` | Abby Roche | Diabetes in Adult SNAP Participants
 `30-S` | Alena Sorensen | Unnamed project using BRFSS data to study poor mental health days or satisfaction with life
