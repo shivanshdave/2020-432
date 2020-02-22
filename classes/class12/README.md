@@ -22,7 +22,7 @@ Today, we'll be talking about multiple imputation and cross-validation approache
         - If your approved project has an [unnamed title in this listing](https://github.com/THOMASELOVE/2020-432/blob/master/projects/project1/approved_proposals.md), or if you just want to change what I have listed, please email a new title (maximum 85 characters, including spaces) to `431-help` with the subject heading: **Project 1 Proposal New Title** at your earliest convenience.
     - If your grade on the Proposal is still below 10 after revision, then your next (and, we fervently hope, final) revision is due Wednesday 2020-02-26 at 9 AM to Canvas, in the same place where you've posted prior revisions.
 5. Quiz 1 covers materials through the first 11 classes, and Chapters 1-5 and 7-8 of Spiegelhalter's *Art of Statistics*. It will have **either 14 or 15** questions. It **will be available** at 5 PM Wednesday 2020-02-26.
-6. The next meeting of [the Cleveland R Users Group](https://www.meetup.com/Cleveland-UseR-Group) is tomorrow evening. I've been to a few of the meetings in the past (though I won't be at this one) and found them useful/interesting.
+6. The next meeting of [the Cleveland R Users Group](https://www.meetup.com/Cleveland-UseR-Group) is Wednesday evening (2020-02-26). I've been to a few of the meetings in the past (though I won't be at this one) and found them useful/interesting.
 
 ## Next Few Deliverables (from [the Course Calendar](https://github.com/THOMASELOVE/2020-432/blob/master/calendar.md))
 
