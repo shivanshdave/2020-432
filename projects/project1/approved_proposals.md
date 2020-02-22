@@ -5,7 +5,7 @@ There are 38 proposals in total this semester.
 Proposals that have been approved by Dr. Love have a grade of 10 on Canvas, and are listed below. If you have an updated title for your proposal, please email it to 431-help with the subject heading: Project 1 Proposal New Name.
 
 Code | Investigator(s) | Title
-----: | :-------------: | -------------------------------------------------------------------------------------------
+------: | :----------------: | -------------------------------------------------------------------------------------------
 `01-P` | Hussam Alqahtani and Kimberly Noriega | Unnamed project using NHANES to study sleep, BMI and gum disease
 `03-P` | Fatima Asad and Basma Dahash | Unnamed project using Chinese PCI data from DataDryad
 `11-P` | Emily Hannon and Jasmine Olvany | Exploring the Connection between Human Population and Sea Otter Health
