@@ -314,11 +314,14 @@ The portfolio submission for Project 1 consists of 13 sections, 9 of
 which come straight from the proposal, and the last of which requires a
 single line of code in R.
 
-  - Sections 1-9 are exactly the same as what you prepared for the
+  - Sections 1-8 are exactly the same as what you prepared for the
     proposal. You should nail down any details that were not yet
     specified in your original submissions of the proposal. Sections
     5-8, in particular, should be adjusted as necessary to reflect the
     actual analyses you wound up doing.
+  - Section 9 is now just the **Affirmation** that the data can bs
+    shared with us, as we’re moving the session info to the bottom of
+    the document.
   - Section 10 is **new**, should be labeled “Linear Regression
     Analyses” and is dedicated to that work.
   - Section 11 is **new**, should be labeled “Logistic Regression
@@ -330,6 +333,9 @@ single line of code in R.
     you’re using R 3.6.2 or later.
       - Our preferred way for you to execute this is to run
         `sessioninfo::session_info()`.
+  - If you need to have a section called **References** we would like
+    you to place that just before the session information (making
+    **References** section 13 and **Session Information** section 14.)
 
 ### Section 10: Linear Regression Analyses
 
