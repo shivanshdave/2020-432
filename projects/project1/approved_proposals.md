@@ -17,3 +17,4 @@ Code | Investigator(s) | Title
 `24-S` | Troy Neptune | Predicting High Quality Movies Using Rotten Tomatoes
 `27-S` | Abby Roche | Diabetes in Adult SNAP Participants
 `30-S` | Alena Sorensen | Unnamed project using BRFSS data to study poor mental health days or satisfaction with life
+`31-S` | Wayne Tsuang | Air Pollution and Life Expectancy in the County Health Rankings
