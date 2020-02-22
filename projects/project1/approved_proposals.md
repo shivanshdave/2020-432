@@ -8,6 +8,7 @@ Code | Investigator(s) | Title
 ------: | :----------------: | -------------------------------------------------------------------------------------------
 `01-P` | Hussam Alqahtani and Kimberly Noriega | Unnamed project using NHANES to study sleep, BMI and gum disease
 `03-P` | Fatima Asad and Basma Dahash | Unnamed project using Chinese PCI data from DataDryad
+`05-P` | Rebeka Bordi and Sangeetha Rahghupathy | Alcohol Use and the Prediction of Liver Fibrosis in HCV infected NHANES participants
 `11-P` | Emily Hannon and Jasmine Olvany | Exploring the Connection between Human Population and Sea Otter Health
 `12-S` | Logan Harper | Unnamed project on diabetes using the National Health Interview Survey
 `18-S` | Noah Lorincz-Comi | Predicting Absenteeism at Work
