@@ -33,7 +33,8 @@ Approved but still Untitled | 7 | 10
 **APPROVED** | **16** | **21** 
 Version 2 submitted, Another Revision needed | 7 | 10
 Version 2 not yet submitted | 15 | 18
-**TOTALS** | **38** | **49**
+**NOT YET APPROVED** | 22 | 28
+*TOTAL* | *38* | *49*
 
 ### Projects whose proposal has not yet been approved
 
