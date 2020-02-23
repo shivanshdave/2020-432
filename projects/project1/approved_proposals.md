@@ -30,8 +30,9 @@ As of `2020-02-23 4:40 PM` | Proposals | Investigators
 -------------: | -----------------: | ----------------:
 Approved with Good Titles | 9 | 11
 Approved but still Untitled | 7 | 10
-Revision submitted, Another Revision needed | 7 | 10
-Revision not yet submitted | 15 | 18
+**APPROVED** | **16** | **21** 
+Version 2 submitted, Another Revision needed | 7 | 10
+Version 2 not yet submitted | 15 | 18
 **TOTALS** | **38** | **49**
 
 ### Projects whose proposal has not yet been approved
