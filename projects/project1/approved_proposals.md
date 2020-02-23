@@ -47,7 +47,7 @@ Code | Investigator(s) | Version 2 Submitted | Another Revision Required?
 `19-S` | Yuxuan Luo | No | --
 `22-S` | Shayan Monabbati | No | --
 `23-P` | Ryan Moore and Khaled Shorbaji | No | --
-`25-S` | Vineet Punia | No | --
+`25-S` | Vineet Punia | Yes | Yes
 `28-S` | Matt Siuba | No | --
 `29-S` | Claire Sonneborn | No | --
 `33-S` | Vachan Vadmal | No | --
