@@ -28,13 +28,13 @@ Code | Investigator(s) | Title
 
 As of `2020-02-23 4:40 PM` | Proposals | Investigators
 -------------: | -----------------: | ----------------:
+**APPROVED** | **16** | **21** 
 Approved with Good Titles | 9 | 11
 Approved but still Untitled | 7 | 10
-**APPROVED** | **16** | **21** 
+**NOT YET APPROVED** | **22** | **28**
 Version 2 submitted, Another Revision needed | 7 | 10
 Version 2 not yet submitted | 15 | 18
-**NOT YET APPROVED** | 22 | 28
-*TOTAL* | *38* | *49*
+**TOTAL** | **38** | **49**
 
 ### Projects whose proposal has not yet been approved
 
