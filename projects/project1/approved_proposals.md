@@ -10,6 +10,8 @@ Code | Investigator(s) | Title
 `01-P` | Hussam Alqahtani and Kimberly Noriega | *Unnamed project using NHANES to study sleep, BMI and gum disease*
 `03-P` | Fatima Asad and Basma Dahash | *Unnamed project using Chinese PCI data from DataDryad*
 `05-P` | Rebeka Bordi and Sangeetha Rahghupathy | Alcohol Use and the Prediction of Liver Fibrosis in HCV infected NHANES participants
+`08-S` | Shivansh Dave | Predicting auditory health using demographic and examination data from NHANES
+`09-P` | Joshua Froess and Rajeev Varkey | Will Your Kickstarter Project Succeed?
 `10-S` | Farrah Gao | Health Indicators and the Prediction of Premature Births and Infant Mortality
 `11-P` | Emily Hannon and Jasmine Olvany | Exploring the Connection between Human Population and Sea Otter Health
 `12-S` | Logan Harper | *Unnamed project on diabetes using the National Health Interview Survey*
@@ -23,17 +25,18 @@ Code | Investigator(s) | Title
 `30-S` | Alena Sorensen | *Unnamed project using BRFSS data to study poor mental health days or satisfaction with life*
 `31-S` | Wayne Tsuang | Air Pollution and Life Expectancy in the County Health Rankings
 `32-S` | Emily Tyszka | *Unnamed project using County Health Rankings to study violent crime and teen birth rates*
+`34-S` | Anastasia Vassiliou | Living Near ART
 
 ## Status Report on All Proposals
 
-As of `2020-02-23 4:50 PM` | Proposals | Investigators
+As of `2020-02-23 5:55 PM` | Proposals | Investigators
 -------------: | -----------------: | ----------------:
-**APPROVED** | **16** | **21** 
-Approved with Good Titles | 9 | 11
+**APPROVED** | **19** | **25** 
+Approved with Good Titles | 12 | 15
 Approved but still Untitled | 7 | 10
-**NOT YET APPROVED** | **22** | **28**
-Version 2 submitted, Another Revision needed | 7 | 10
-Version 2 not yet submitted | 15 | 18
+**NOT YET APPROVED** | **19** | **24**
+Version 2 submitted, Another Revision needed | 6 | 8
+Version 2 not yet submitted | 13 | 16
 **TOTAL** | **38** | **49**
 
 ### Projects whose proposal has not yet been approved
@@ -47,8 +50,6 @@ Code | Investigator(s) | Version 2 Submitted | Another Revision Required?
 `04-S` | Ife Babatunde | **No** | --
 `06-S` | Sofija Conic | **No** | --
 `07-P` | Lauren Cruz and Kara Hageman | **No** | --
-`08-S` | Shivansh Dave | **No** | --
-`09-P` | Joshua Froess and Rajeev Varkey | Yes | Yes
 `13-S` | Vanessa Ho | **No** | --
 `14-P` | Jason Huang and Yufei Li | **No** | --
 `15-S` | Jazmine Kirkland | **No** | --
@@ -60,7 +61,6 @@ Code | Investigator(s) | Version 2 Submitted | Another Revision Required?
 `28-S` | Matt Siuba | **No** | --
 `29-S` | Claire Sonneborn | **No** | --
 `33-S` | Vachan Vadmal | **No** | --
-`34-S` | Anastasia Vassiliou | **No** | --
 `35-S` | Gi-Ming Wang | Yes | Yes
 `36-S` | Siyu Wang | Yes | Yes
 `37-S` | Jakob Woerner | **No** | --
