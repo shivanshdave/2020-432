@@ -23,3 +23,4 @@ Code | Investigator(s) | Title
 `27-S` | Abby Roche | Diabetes in Adult SNAP Participants
 `30-S` | Alena Sorensen | *Unnamed project using BRFSS data to study poor mental health days or satisfaction with life*
 `31-S` | Wayne Tsuang | Air Pollution and Life Expectancy in the County Health Rankings
+`32-S` | Emily Tyszka | *Unnamed project using County Health Rankings to study violent crime and teen birth rates*
