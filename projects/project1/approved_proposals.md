@@ -8,7 +8,7 @@ Proposals that have been approved by Dr. Love have a grade of 10 [posted on Canv
 - The next deadline for submitting a proposal is Monday 2020-02-24 at 9 AM. All students not listed below should submit their revised proposal by that time.
 
 Code | Investigator(s) | Title
-------: | :----------------: | -------------------------------------------------------------------------------------------
+-------: | :--------------: | -------------------------------------------------------------------------------------------
 `01-P` | Hussam Alqahtani and Kimberly Noriega | *Unnamed project using NHANES to study sleep, BMI and gum disease*
 `03-P` | Fatima Asad and Basma Dahash | *Unnamed project using Chinese PCI data from DataDryad*
 `05-P` | Rebeka Bordi and Sangeetha Rahghupathy | Alcohol Use and the Prediction of Liver Fibrosis in HCV infected NHANES participants
