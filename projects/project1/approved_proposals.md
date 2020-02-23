@@ -39,7 +39,7 @@ Code | Investigator(s) | Version 2 Submitted | Another Revision Required?
 `06-S` | Sofija Conic | No | --
 `07-P` | Lauren Cruz and Kara Hageman | No | --
 `08-S` | Shivansh Dave | No | --
-`09-P` | Joshua Froess and Rajeev Varkey | No | --
+`09-P` | Joshua Froess and Rajeev Varkey | Yes | Yes
 `13-S` | Vanessa Ho | No | --
 `14-P` | Jason Huang and Yufei Li | No | --
 `15-S` | Jazmine Kirkland | No | --
