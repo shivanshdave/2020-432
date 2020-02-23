@@ -1,15 +1,5 @@
 # Approved Project 1 Proposals
 
-There are 38 proposals in total this semester, for 49 students.
-
-As of `2020-02-23 4:40 PM` | Proposals | Investigators
-:-----------: | -----------------: | ----------------:
-Approved with Good Titles | 9 | 11
-Approved, Still Untitled | 7 | 10
-Revision submitted, Another Revision needed | 7 | 10
-Revision not yet submitted | 15 | 18
-**TOTALS** | **38** | **49**
-
 Proposals that have been approved by Dr. Love have a grade of 10 [posted on Canvas along with my feedback](https://canvas.case.edu/), and are listed below. 
 
 - If your approved project is listed below as unnamed, please email a new title (maximum 85 characters, including spaces) to `431-help` with the subject heading: **Project 1 Proposal New Title** at your earliest convenience.
@@ -35,6 +25,16 @@ Code | Investigator(s) | Title
 `32-S` | Emily Tyszka | *Unnamed project using County Health Rankings to study violent crime and teen birth rates*
 
 ## Status of All Other Project Proposals
+
+There are 38 proposals in total this semester, for 49 students.
+
+As of `2020-02-23 4:40 PM` | Proposals | Investigators
+:-----------: | -----------------: | ----------------:
+Approved with Good Titles | 9 | 11
+Approved, Still Untitled | 7 | 10
+Revision submitted, Another Revision needed | 7 | 10
+Revision not yet submitted | 15 | 18
+**TOTALS** | **38** | **49**
 
 - Below is the list of projects whose proposal has not yet been approved.
 - If you're in this group, Version 2 of your proposal should be submitted to Canvas by 9 AM Monday 2020-02-24.
