@@ -15,6 +15,7 @@ Code | Investigator(s) | Title
 `10-S` | Farrah Gao | Health Indicators and the Prediction of Premature Births and Infant Mortality
 `11-P` | Emily Hannon and Jasmine Olvany | Exploring the Connection between Human Population and Sea Otter Health
 `12-S` | Logan Harper | *Unnamed project on diabetes using the National Health Interview Survey*
+`17-P` | Shiying Liu and Yiheng Pan | *Unnamed project using NHANES to study total cholesterol levels*
 `18-S` | Noah Lorincz-Comi | Predicting Absenteeism at Work
 `20-S` | Stephanie Merlino Barr | *Unnamed project using County Health Rankings to study infant mortality*
 `21-S` | Anna Miller | Predicting Blood Pressure Medication Usage and Doctor Checkups from 500 Cities Data
