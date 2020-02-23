@@ -25,3 +25,32 @@ Code | Investigator(s) | Title
 `30-S` | Alena Sorensen | *Unnamed project using BRFSS data to study poor mental health days or satisfaction with life*
 `31-S` | Wayne Tsuang | Air Pollution and Life Expectancy in the County Health Rankings
 `32-S` | Emily Tyszka | *Unnamed project using County Health Rankings to study violent crime and teen birth rates*
+
+## Status of Project Proposals that are Not Yet Approved
+
+Code | Investigator(s) | Version 2 Submitted | Another Revision Required?
+------: | :-------------------------: | :-------------------: | :----------------:
+`02-P` | Ebtesam Alshehri and Carolyn Goldschmidt | Yes | Yes
+`04-S` | Ife Babatunde | No | --
+`06-S` | Sofija Conic | No | --
+`07-P` | Lauren Cruz and Kara Hageman | No | --
+`08-S` | Shivansh Dave | No | --
+`09-P` | Joshua Froess and Rajeev Varkey | No | --
+`13-S` | Vanessa Ho | No | --
+`14-P` | Jason Huang and Yufei Li | No | --
+`15-S` | Jazmine Kirkland | No | --
+`16-P` | Ani Kumar and Div Patel | Yes | Yes
+`19-S` | Yuxuan Luo | No | --
+`22-S` | Shayan Monabbati | No | --
+`23-P` | Ryan Moore and Khaled Shorbaji | No | --
+`25-S` | Vineet Punia | No | --
+`28-S` | Matt Siuba | No | --
+`29-S` | Claire Sonneborn | No | --
+`33-S` | Vachan Vadmal | No | --
+`34-S` | Anastasia Vassiliou | No | --
+`35-S` | Gi-Ming Wang | Yes | Yes
+`36-S` | Siyu Wang | Yes | Yes
+`37-S` | Jakob Woerner | No | --
+`38-S` | Victor Zhou | Yes | Yes
+
+
