@@ -24,9 +24,7 @@ Code | Investigator(s) | Title
 `31-S` | Wayne Tsuang | Air Pollution and Life Expectancy in the County Health Rankings
 `32-S` | Emily Tyszka | *Unnamed project using County Health Rankings to study violent crime and teen birth rates*
 
-## Status of All Other Project Proposals
-
-There are 38 proposals in total this semester, for 49 students.
+## Status Report on All Proposals
 
 As of `2020-02-23 4:40 PM` | Proposals | Investigators
 -------------: | -----------------: | ----------------:
@@ -36,9 +34,10 @@ Revision submitted, Another Revision needed | 7 | 10
 Revision not yet submitted | 15 | 18
 **TOTALS** | **38** | **49**
 
-- Below is the list of projects whose proposal has not yet been approved.
+### Projects whose proposal has not yet been approved
+
 - If you're in this group, Version 2 of your proposal should be submitted to Canvas by 9 AM Monday 2020-02-24.
-- Once Dr. Love has reviewed Version 2 of your proposal, another revision may be required. If so, please submit that revision as soon as possible, but certainly by the final deadline of 9 AM Wednesday 2020-02-26.
+- Once Dr. Love has reviewed Version 2 of your proposal, he may require another revision. Please submit that revision as soon as possible, but certainly by the final deadline of 9 AM Wednesday 2020-02-26.
 
 Code | Investigator(s) | Version 2 Submitted | Another Revision Required?
 ------: | :-------------------------: | :-------------------: | :----------------:
