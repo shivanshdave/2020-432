@@ -29,7 +29,7 @@ Code | Investigator(s) | Title
 There are 38 proposals in total this semester, for 49 students.
 
 As of `2020-02-23 4:40 PM` | Proposals | Investigators
-:-----------: | -----------------: | ----------------:
+-------------: | -----------------: | ----------------:
 Approved with Good Titles | 9 | 11
 Approved, Still Untitled | 7 | 10
 Revision submitted, Another Revision needed | 7 | 10
