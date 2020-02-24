@@ -13,7 +13,7 @@ Status Report as of 2020-02-24 at 3:35 PM | Proposals | Investigators
 
 Proposals that have been approved by Dr. Love have a grade of 10 [posted on Canvas along with my feedback](https://canvas.case.edu/), and are listed in the table below. 
 
-- If your approved project is listed below as unnamed, please email a new title (maximum 85 characters, including spaces) to `431-help` with the subject heading: **Project 1 Proposal New Title** at your earliest convenience.
+- If your approved project is listed below as *unnamed*, please email a new title (maximum 85 characters, including spaces) to `431-help` with the subject heading: **Project 1 Proposal New Title** at your earliest convenience.
 
 Code | Investigator(s) | Title
 --------: | :-------------------------: | -------------------------------------------------------------------------------------
