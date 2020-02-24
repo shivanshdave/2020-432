@@ -1,9 +1,10 @@
 # Approved Project 1 Proposals
 
-Proposals that have been approved by Dr. Love have a grade of 10 [posted on Canvas along with my feedback](https://canvas.case.edu/), and are listed below. 
+Proposals that have been approved by Dr. Love have a grade of 10 [posted on Canvas along with my feedback](https://canvas.case.edu/), and are listed in the first table below. 
 
 - If your approved project is listed below as unnamed, please email a new title (maximum 85 characters, including spaces) to `431-help` with the subject heading: **Project 1 Proposal New Title** at your earliest convenience.
-- The next deadline for submitting a proposal is Monday 2020-02-24 at 9 AM. All students not listed below should submit their revised proposal by that time.
+
+Students whose projects are not listed in this table will find more information about their projects further down this page.
 
 Code | Investigator(s) | Title
 --------: | :-------------------------: | -------------------------------------------------------------------------------------
