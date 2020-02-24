@@ -48,22 +48,22 @@ Version 2 not yet submitted | 10 | 11
 Code | Investigator(s) | Version 2 Submitted | Another Revision Required?
 ------: | :-------------------------: | :-------------------: | :----------------:
 `02-P` | Ebtesam Alshehri and Carolyn Goldschmidt | Yes | Yes
+`07-P` | Lauren Cruz and Kara Hageman | Yes | Yes
+`14-P` | Jason Huang and Yufei Li | Yes | Yes
+`16-P` | Ani Kumar and Div Patel | Yes | Yes
+`29-S` | Claire Sonneborn | Yes | Yes
+`35-S` | Gi-Ming Wang | Yes | Yes
+`36-S` | Siyu Wang | Yes | Yes
+`38-S` | Victor Zhou | Yes | Yes
 `04-S` | Ife Babatunde | **No** | --
 `06-S` | Sofija Conic | **No** | --
-`07-P` | Lauren Cruz and Kara Hageman | Yes | Yes
 `13-S` | Vanessa Ho | **No** | --
-`14-P` | Jason Huang and Yufei Li | Yes | Yes
 `15-S` | Jazmine Kirkland | **No** | --
-`16-P` | Ani Kumar and Div Patel | Yes | Yes
 `19-S` | Yuxuan Luo | **No** | --
 `22-S` | Shayan Monabbati | **No** | --
 `23-P` | Ryan Moore and Khaled Shorbaji | **No** | --
 `28-S` | Matt Siuba | **No** | --
-`29-S` | Claire Sonneborn | Yes | Yes
 `33-S` | Vachan Vadmal | **No** | --
-`35-S` | Gi-Ming Wang | Yes | Yes
-`36-S` | Siyu Wang | Yes | Yes
 `37-S` | Jakob Woerner | **No** | --
-`38-S` | Victor Zhou | Yes | Yes
 
 
