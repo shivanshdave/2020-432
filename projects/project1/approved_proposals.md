@@ -38,8 +38,8 @@ As of `2020-02-24 8:55 AM` | Proposals | Investigators
 Approved with Good Titles | 16 | 21
 Approved but still Untitled | 6 | 8
 **NOT YET APPROVED** | **16** | **20**
-Version 2 submitted, under review by Dr. Love | 5 | 6
-Version 2 submitted, Another Revision needed | 6 | 9
+Version 2 submitted, under review by Dr. Love | 4 | 4
+Version 2 submitted, Another Revision needed | 7 | 11
 Version 2 not yet submitted | 5 | 5
 **TOTAL** | **38** | **49**
 
@@ -59,7 +59,7 @@ Code | Investigator(s) | Version 2 Submitted | Another Revision Required?
 `16-P` | Ani Kumar and Div Patel | Yes | Yes, see [Canvas](https://canvas.case.edu/) for comments.
 `19-S` | Yuxuan Luo | Yes | Under review by Dr. Love
 `22-S` | Shayan Monabbati | **Not yet** | --
-`23-P` | Ryan Moore and Khaled Shorbaji | Yes | Under review by Dr. Love
+`23-P` | Ryan Moore and Khaled Shorbaji | Yes | Yes, see [Canvas](https://canvas.case.edu/) for comments.
 `28-S` | Matt Siuba | **Not yet** | --
 `29-S` | Claire Sonneborn | Yes | Yes, see [Canvas](https://canvas.case.edu/) for comments.
 `33-S` | Vachan Vadmal | Yes | Under review by Dr. Love
