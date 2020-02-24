@@ -31,14 +31,14 @@ Code | Investigator(s) | Title
 
 ## Status Report on All Proposals
 
-As of `2020-02-24 7:40 AM` | Proposals | Investigators
+As of `2020-02-24 8:40 AM` | Proposals | Investigators
 -------------: | -----------------: | ----------------:
 **APPROVED** | **21** | **28** 
 Approved with Good Titles | 15 | 20
 Approved but still Untitled | 6 | 8
 **NOT YET APPROVED** | **17** | **21**
-Version 2 submitted, under review by Dr. Love | 8 | 9
-Version 2 submitted, Another Revision needed | 4 | 7
+Version 2 submitted, under review by Dr. Love | 7 | 9
+Version 2 submitted, Another Revision needed | 5 | 7
 Version 2 not yet submitted | 5 | 5
 **TOTAL** | **38** | **49**
 
@@ -49,7 +49,7 @@ Version 2 not yet submitted | 5 | 5
 
 Code | Investigator(s) | Version 2 Submitted | Another Revision Required?
 ------: | :-------------------------: | :-------------------: | :----------------:
-`02-P` | Ebtesam Alshehri and Carolyn Goldschmidt | Yes | Yes, see [Canvas](https://canvas.case.edu/) for comments.
+`02-P` | Ebtesam Alshehri and Carolyn Goldschmidt | Yes | Under review by Dr. Love
 `04-S` | Ife Babatunde | Yes | Under review by Dr. Love
 `06-S` | Sofija Conic | **Not yet** | --
 `13-S` | Vanessa Ho | **Not yet** | --
@@ -62,8 +62,8 @@ Code | Investigator(s) | Version 2 Submitted | Another Revision Required?
 `28-S` | Matt Siuba | **Not yet** | --
 `29-S` | Claire Sonneborn | Yes | Yes, see [Canvas](https://canvas.case.edu/) for comments.
 `33-S` | Vachan Vadmal | Yes | Under review by Dr. Love
-`35-S` | Gi-Ming Wang | Yes | Under review by Dr. Love
-`36-S` | Siyu Wang | Yes | Under review by Dr. Love
+`35-S` | Gi-Ming Wang | Yes | Yes, see [Canvas](https://canvas.case.edu/) for comments.
+`36-S` | Siyu Wang | Yes | Yes, see [Canvas](https://canvas.case.edu/) for comments.
 `37-S` | Jakob Woerner | Yes | Under review by Dr. Love
 `38-S` | Victor Zhou | Yes | Under review by Dr. Love
 
