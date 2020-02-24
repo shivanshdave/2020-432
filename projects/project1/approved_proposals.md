@@ -38,8 +38,8 @@ As of `2020-02-24 9:20 AM` | Proposals | Investigators
 Approved with Good Titles | 16 | 21
 Approved but still Untitled | 6 | 8
 **NOT YET APPROVED** | **16** | **20**
-Version 2 submitted, under review by Dr. Love | 7 | 7
-Version 2 submitted, Another Revision needed | 7 | 11
+Version 2 submitted, under review by Dr. Love | 6 | 6
+Version 2 submitted, Another Revision needed | 8 | 12
 Version 2 not yet submitted | 2 | 2
 **TOTAL** | **38** | **49**
 
@@ -51,7 +51,7 @@ Version 2 not yet submitted | 2 | 2
 Code | Investigator(s) | Version 2 Submitted | Another Revision Required?
 ------: | :-------------------------: | :-------------------: | :----------------:
 `02-P` | Ebtesam Alshehri and Carolyn Goldschmidt | Yes | Yes, see [Canvas](https://canvas.case.edu/) for comments.
-`04-S` | Ife Babatunde | Yes | Under review by Dr. Love
+`04-S` | Ife Babatunde | Yes | Yes, see [Canvas](https://canvas.case.edu/) for comments.
 `06-S` | Sofija Conic | Yes | Under review by Dr. Love
 `13-S` | Vanessa Ho | Yes | Under review by Dr. Love
 `14-P` | Jason Huang and Yufei Li | Yes | Yes, see [Canvas](https://canvas.case.edu/) for comments.
