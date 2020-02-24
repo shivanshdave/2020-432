@@ -28,17 +28,18 @@ Code | Investigator(s) | Title
 `31-S` | Wayne Tsuang | Air Pollution and Life Expectancy in the County Health Rankings
 `32-S` | Emily Tyszka | *Unnamed project using County Health Rankings to study violent crime and teen birth rates*
 `34-S` | Anastasia Vassiliou | Living Near ART
+`38-S` | Victor Zhou | Waist/hip ratio and the prediction of diabetes
 
 ## Status Report on All Proposals
 
-As of `2020-02-24 8:40 AM` | Proposals | Investigators
+As of `2020-02-24 8:55 AM` | Proposals | Investigators
 -------------: | -----------------: | ----------------:
-**APPROVED** | **21** | **28** 
-Approved with Good Titles | 15 | 20
+**APPROVED** | **22** | **29** 
+Approved with Good Titles | 16 | 21
 Approved but still Untitled | 6 | 8
-**NOT YET APPROVED** | **17** | **21**
-Version 2 submitted, under review by Dr. Love | 7 | 9
-Version 2 submitted, Another Revision needed | 5 | 7
+**NOT YET APPROVED** | **16** | **20**
+Version 2 submitted, under review by Dr. Love | 5 | 7
+Version 2 submitted, Another Revision needed | 6 | 8
 Version 2 not yet submitted | 5 | 5
 **TOTAL** | **38** | **49**
 
@@ -49,7 +50,7 @@ Version 2 not yet submitted | 5 | 5
 
 Code | Investigator(s) | Version 2 Submitted | Another Revision Required?
 ------: | :-------------------------: | :-------------------: | :----------------:
-`02-P` | Ebtesam Alshehri and Carolyn Goldschmidt | Yes | Under review by Dr. Love
+`02-P` | Ebtesam Alshehri and Carolyn Goldschmidt | Yes | Yes, see [Canvas](https://canvas.case.edu/) for comments.
 `04-S` | Ife Babatunde | Yes | Under review by Dr. Love
 `06-S` | Sofija Conic | **Not yet** | --
 `13-S` | Vanessa Ho | **Not yet** | --
@@ -65,6 +66,5 @@ Code | Investigator(s) | Version 2 Submitted | Another Revision Required?
 `35-S` | Gi-Ming Wang | Yes | Yes, see [Canvas](https://canvas.case.edu/) for comments.
 `36-S` | Siyu Wang | Yes | Yes, see [Canvas](https://canvas.case.edu/) for comments.
 `37-S` | Jakob Woerner | Yes | Under review by Dr. Love
-`38-S` | Victor Zhou | Yes | Under review by Dr. Love
 
 
