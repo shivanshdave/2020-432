@@ -20,6 +20,7 @@ Code | Investigator(s) | Title
 `20-S` | Stephanie Merlino Barr | *Unnamed project using County Health Rankings to study infant mortality*
 `21-S` | Anna Miller | Predicting Blood Pressure Medication Usage and Doctor Checkups from 500 Cities Data
 `24-S` | Troy Neptune | Predicting High Quality Movies Using Rotten Tomatoes
+`25-S` | Vineet Punia | Predicting *Wine Enthusiast* magazine's wine ratings
 `26-S` | Abigail Rippin | Social Network Use Interacting with Anxiety and Stress Scores in Students
 `27-S` | Abby Roche | Diabetes in Adult SNAP Participants
 `30-S` | Alena Sorensen | *Unnamed project using BRFSS data to study poor mental health days or satisfaction with life*
@@ -31,12 +32,12 @@ Code | Investigator(s) | Title
 
 As of `2020-02-23 8:20 PM` | Proposals | Investigators
 -------------: | -----------------: | ----------------:
-**APPROVED** | **19** | **25** 
-Approved with Good Titles | 12 | 15
+**APPROVED** | **20** | **26** 
+Approved with Good Titles | 13 | 16
 Approved but still Untitled | 7 | 10
-**NOT YET APPROVED** | **19** | **24**
+**NOT YET APPROVED** | **18** | **23**
 Version 2 submitted, Another Revision needed | 5 | 7
-Version 2 submitted, under review | 3 | 5
+Version 2 submitted, under review | 2 | 4
 Version 2 not yet submitted | 11 | 12
 **TOTAL** | **38** | **49**
 
@@ -58,7 +59,6 @@ Code | Investigator(s) | Version 2 Submitted | Another Revision Required?
 `19-S` | Yuxuan Luo | **No** | --
 `22-S` | Shayan Monabbati | **No** | --
 `23-P` | Ryan Moore and Khaled Shorbaji | **No** | --
-`25-S` | Vineet Punia | Yes | Dr. Love is reviewing now.
 `28-S` | Matt Siuba | **No** | --
 `29-S` | Claire Sonneborn | **No** | --
 `33-S` | Vachan Vadmal | **No** | --
