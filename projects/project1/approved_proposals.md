@@ -24,7 +24,7 @@ Code | Investigator(s) | Title
 `25-S` | Vineet Punia | Predicting *Wine Enthusiast* magazine's wine ratings
 `26-S` | Abigail Rippin | Social Network Use Interacting with Anxiety and Stress Scores in Students
 `27-S` | Abby Roche | Diabetes in Adult SNAP Participants
-`30-S` | Alena Sorensen | *Unnamed project using BRFSS data to study poor mental health days or satisfaction with life*
+`30-S` | Alena Sorensen | Caregiving and the Connection with Mental Health and Life Satisfaction
 `31-S` | Wayne Tsuang | Air Pollution and Life Expectancy in the County Health Rankings
 `32-S` | Emily Tyszka | *Unnamed project using County Health Rankings to study violent crime and teen birth rates*
 `34-S` | Anastasia Vassiliou | Living Near ART
@@ -35,8 +35,8 @@ Code | Investigator(s) | Title
 As of `2020-02-24 10:25 AM` | Proposals | Investigators
 -------------: | -----------------: | ----------------:
 **APPROVED** | **22** | **29** 
-Approved with Good Titles | 16 | 21
-Approved but still Untitled | 6 | 8
+Approved with Good Titles | 17 | 22
+Approved but still Untitled | 5 | 7
 **NOT YET APPROVED** | **16** | **20**
 Version 2 submitted, under review by Dr. Love | 5 | 5
 Version 2 submitted, Another Revision needed | 10 | 14
