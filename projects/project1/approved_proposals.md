@@ -30,14 +30,14 @@ Code | Investigator(s) | Title
 
 ## Status Report on All Proposals
 
-As of `2020-02-23 8:40 PM` | Proposals | Investigators
+As of `2020-02-23 8:50 PM` | Proposals | Investigators
 -------------: | -----------------: | ----------------:
 **APPROVED** | **20** | **26** 
 Approved with Good Titles | 13 | 16
 Approved but still Untitled | 7 | 10
 **NOT YET APPROVED** | **18** | **23**
-Version 2 submitted, Another Revision needed | 5 | 7
-Version 2 submitted, under review | 2 | 4
+Version 2 submitted, Another Revision needed | 6 | 9
+Version 2 submitted, under review | 1 | 2
 Version 2 not yet submitted | 11 | 12
 **TOTAL** | **38** | **49**
 
@@ -53,7 +53,7 @@ Code | Investigator(s) | Version 2 Submitted | Another Revision Required?
 `06-S` | Sofija Conic | **No** | --
 `07-P` | Lauren Cruz and Kara Hageman | Yes | Dr. Love is reviewing now.
 `13-S` | Vanessa Ho | **No** | --
-`14-P` | Jason Huang and Yufei Li | Yes | Dr. Love is reviewing now.
+`14-P` | Jason Huang and Yufei Li | Yes | Yes
 `15-S` | Jazmine Kirkland | **No** | --
 `16-P` | Ani Kumar and Div Patel | Yes | Yes
 `19-S` | Yuxuan Luo | **No** | --
