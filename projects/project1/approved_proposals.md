@@ -36,8 +36,7 @@ As of `2020-02-23 8:50 PM` | Proposals | Investigators
 Approved with Good Titles | 13 | 16
 Approved but still Untitled | 7 | 10
 **NOT YET APPROVED** | **18** | **23**
-Version 2 submitted, Another Revision needed | 6 | 9
-Version 2 submitted, under review | 1 | 2
+Version 2 submitted, Another Revision needed | 7 | 11
 Version 2 not yet submitted | 11 | 12
 **TOTAL** | **38** | **49**
 
@@ -51,7 +50,7 @@ Code | Investigator(s) | Version 2 Submitted | Another Revision Required?
 `02-P` | Ebtesam Alshehri and Carolyn Goldschmidt | Yes | Yes
 `04-S` | Ife Babatunde | **No** | --
 `06-S` | Sofija Conic | **No** | --
-`07-P` | Lauren Cruz and Kara Hageman | Yes | Dr. Love is reviewing now.
+`07-P` | Lauren Cruz and Kara Hageman | Yes | Yes
 `13-S` | Vanessa Ho | **No** | --
 `14-P` | Jason Huang and Yufei Li | Yes | Yes
 `15-S` | Jazmine Kirkland | **No** | --
