@@ -35,14 +35,14 @@ Code | Investigator(s) | Title
 
 ## Status Report on All Proposals
 
-As of `2020-02-24 3:10 PM` | Proposals | Investigators
+As of `2020-02-24 3:25 PM` | Proposals | Investigators
 -------------: | -----------------: | ----------------:
 **APPROVED** | **25** | **33** 
 Approved with Good Titles | 20 | 26
 Approved but still Untitled | 5 | 7
 **NOT YET APPROVED** | **13** | **16**
-Latest version submitted, under review by Dr. Love | 2 | 3
-Latest version submitted and reviewed, another revision needed | 10 | 12
+Latest version submitted, under review by Dr. Love | 1 | 1
+Latest version submitted and reviewed, another revision needed | 11 | 14
 Version 2 not yet submitted | 1 | 1
 **TOTAL** | **38** | **49**
 
@@ -61,7 +61,7 @@ Code | Investigator(s) | Revision Submitted | Another Revision Required?
 `16-P` | Ani Kumar and Div Patel | Yes | Yes, see [Canvas](https://canvas.case.edu/) for comments.
 `19-S` | Yuxuan Luo | Yes | Yes, see [Canvas](https://canvas.case.edu/) for comments.
 `22-S` | Shayan Monabbati | Yes | Yes, see [Canvas](https://canvas.case.edu/) for comments.
-`23-P` | Ryan Moore and Khaled Shorbaji | Yes | Under review by Dr. Love
+`23-P` | Ryan Moore and Khaled Shorbaji | Yes | Yes, see [Canvas](https://canvas.case.edu/) for comments.
 `29-S` | Claire Sonneborn | Yes | Yes, see [Canvas](https://canvas.case.edu/) for comments.
 `33-S` | Vachan Vadmal | Yes | Yes, see [Canvas](https://canvas.case.edu/) for comments.
 `35-S` | Gi-Ming Wang | Yes | Yes, see [Canvas](https://canvas.case.edu/) for comments.
