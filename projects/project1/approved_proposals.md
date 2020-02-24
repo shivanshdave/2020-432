@@ -32,14 +32,14 @@ Code | Investigator(s) | Title
 
 ## Status Report on All Proposals
 
-As of `2020-02-24 9:20 AM` | Proposals | Investigators
+As of `2020-02-24 9:40 AM` | Proposals | Investigators
 -------------: | -----------------: | ----------------:
 **APPROVED** | **22** | **29** 
 Approved with Good Titles | 16 | 21
 Approved but still Untitled | 6 | 8
 **NOT YET APPROVED** | **16** | **20**
-Version 2 submitted, under review by Dr. Love | 6 | 6
-Version 2 submitted, Another Revision needed | 8 | 12
+Version 2 submitted, under review by Dr. Love | 5 | 5
+Version 2 submitted, Another Revision needed | 9 | 13
 Version 2 not yet submitted | 2 | 2
 **TOTAL** | **38** | **49**
 
@@ -57,7 +57,7 @@ Code | Investigator(s) | Version 2 Submitted | Another Revision Required?
 `14-P` | Jason Huang and Yufei Li | Yes | Yes, see [Canvas](https://canvas.case.edu/) for comments.
 `15-S` | Jazmine Kirkland | **Not yet** | --
 `16-P` | Ani Kumar and Div Patel | Yes | Yes, see [Canvas](https://canvas.case.edu/) for comments.
-`19-S` | Yuxuan Luo | Yes | Under review by Dr. Love
+`19-S` | Yuxuan Luo | Yes | Yes, see [Canvas](https://canvas.case.edu/) for comments.
 `22-S` | Shayan Monabbati | Yes | Under review by Dr. Love
 `23-P` | Ryan Moore and Khaled Shorbaji | Yes | Yes, see [Canvas](https://canvas.case.edu/) for comments.
 `28-S` | Matt Siuba | **Not yet** | --
