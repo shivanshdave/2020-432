@@ -15,7 +15,7 @@ Code | Investigator(s) | Title
 `10-S` | Farrah Gao | Health Indicators and the Prediction of Premature Births and Infant Mortality
 `11-P` | Emily Hannon and Jasmine Olvany | Exploring the Connection between Human Population and Sea Otter Health
 `12-S` | Logan Harper | *Unnamed project on diabetes using the National Health Interview Survey*
-`17-P` | Shiying Liu and Yiheng Pan | *Unnamed project using NHANES to study total cholesterol levels*
+`17-P` | Shiying Liu and Yiheng Pan | Predicting Total Cholesterol using Demographics, Nutrients and Smoking Status
 `18-S` | Noah Lorincz-Comi | Predicting Absenteeism at Work
 `20-S` | Stephanie Merlino Barr | *Unnamed project using County Health Rankings to study infant mortality*
 `21-S` | Anna Miller | Predicting Blood Pressure Medication Usage and Doctor Checkups from 500 Cities Data
@@ -33,8 +33,8 @@ Code | Investigator(s) | Title
 As of `2020-02-23 8:58 PM` | Proposals | Investigators
 -------------: | -----------------: | ----------------:
 **APPROVED** | **20** | **26** 
-Approved with Good Titles | 13 | 16
-Approved but still Untitled | 7 | 10
+Approved with Good Titles | 14 | 18
+Approved but still Untitled | 6 | 8
 **NOT YET APPROVED** | **18** | **23**
 Version 2 submitted, Another Revision needed | 6 | 10
 Version 2 submitted, Under Review by Dr Love | 1 | 1
