@@ -1,12 +1,12 @@
 # Project 1 Proposal Status
 
-Status Report as of 2020-02-24 at 3:45 PM | Proposals | Investigators
+Status Report as of 2020-02-24 at 4:30 PM | Proposals | Investigators
 :--------------------------------------- | ----: | ----:
-**[Approved Proposals](https://github.com/THOMASELOVE/2020-432/blob/master/projects/project1/approved_proposals.md#proposals-dr-love-has-approved)**  | **26** | **34**
-  Approved with a title | 21 | 27
+**[Approved Proposals](https://github.com/THOMASELOVE/2020-432/blob/master/projects/project1/approved_proposals.md#proposals-dr-love-has-approved)**  | **28** | **36**
+  Approved with a title | 23 | 29
   *Approved but still needs a title* | 5 | 7
-**[Not Yet Approved](https://github.com/THOMASELOVE/2020-432/blob/master/projects/project1/approved_proposals.md#proposals-not-yet-approved)** | **11** | **14**
-  Dr. Love awaits your next revision | 11 | 14
+**[Not Yet Approved](https://github.com/THOMASELOVE/2020-432/blob/master/projects/project1/approved_proposals.md#proposals-not-yet-approved)** | **9** | **12**
+  Dr. Love awaits your next revision | 9 | 12
   Revision on Canvas, awaiting Dr. Love's Review | 0 | 0
 
 ## Proposals Dr. Love has Approved
@@ -28,6 +28,7 @@ Code | Investigator(s) | Title
 `10-S` | Farrah Gao | Health Indicators and the Prediction of Premature Births and Infant Mortality
 `11-P` | Emily Hannon and Jasmine Olvany | Exploring the Connection between Human Population and Sea Otter Health
 `12-S` | Logan Harper | *Unnamed project on diabetes using the National Health Interview Survey*
+`13-S` | Vanessa Ho | Poor Physical Health as related to Obesity, Activity, Mental Illness, and Insurance
 `17-P` | Shiying Liu and Yiheng Pan | Predicting Total Cholesterol using Demographics, Nutrients and Smoking Status
 `18-S` | Noah Lorincz-Comi | Predicting Absenteeism at Work
 `20-S` | Stephanie Merlino Barr | *Unnamed project using County Health Rankings to study infant mortality*
@@ -42,6 +43,7 @@ Code | Investigator(s) | Title
 `32-S` | Emily Tyszka | *Unnamed project using County Health Rankings to study violent crime and teen birth rates*
 `34-S` | Anastasia Vassiliou | Living Near ART
 `36-S` | Siyu Wang | Patient Demographic Factors and Prediction of Spinal Anesthesia Outcomes
+`37-S` | Jakob Woerner | Assessing Hypertension in American Adults
 `38-S` | Victor Zhou | Waist/hip ratio and the prediction of diabetes
 
 ## Proposals Not Yet Approved
@@ -52,7 +54,6 @@ Code | Investigator(s) | Title
 Code | Investigator(s) | Another Revision Required?
 ------: | :-------------------------: | :-------------------------:
 `06-S` | Sofija Conic | Yes, see [Canvas](https://canvas.case.edu/) for comments.
-`13-S` | Vanessa Ho | Yes, see [Canvas](https://canvas.case.edu/) for comments.
 `14-P` | Jason Huang and Yufei Li | Yes, see [Canvas](https://canvas.case.edu/) for comments.
 `16-P` | Ani Kumar and Div Patel | Yes, see [Canvas](https://canvas.case.edu/) for comments.
 `19-S` | Yuxuan Luo | Yes, see [Canvas](https://canvas.case.edu/) for comments.
@@ -61,4 +62,3 @@ Code | Investigator(s) | Another Revision Required?
 `29-S` | Claire Sonneborn | Yes, see [Canvas](https://canvas.case.edu/) for comments.
 `33-S` | Vachan Vadmal | Yes, see [Canvas](https://canvas.case.edu/) for comments.
 `35-S` | Gi-Ming Wang | Yes, see [Canvas](https://canvas.case.edu/) for comments.
-`37-S` | Jakob Woerner | Yes, see [Canvas](https://canvas.case.edu/) for comments.
