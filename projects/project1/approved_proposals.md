@@ -4,7 +4,7 @@ Proposals that have been approved by Dr. Love have a grade of 10 [posted on Canv
 
 - If your approved project is listed below as unnamed, please email a new title (maximum 85 characters, including spaces) to `431-help` with the subject heading: **Project 1 Proposal New Title** at your earliest convenience.
 
-Students whose projects are not listed in this table will find more information about their projects further down this page.
+Students whose projects are not listed in this table [will find more information about their projects here](https://github.com/THOMASELOVE/2020-432/blob/master/projects/project1/approved_proposals.md#status-report-on-all-proposals).
 
 Code | Investigator(s) | Title
 --------: | :-------------------------: | -------------------------------------------------------------------------------------
