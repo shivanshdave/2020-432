@@ -2,10 +2,10 @@
 
 Status Report as of 2020-02-24 at 3:35 PM | Proposals | Investigators
 :--------------------------------------- | ----: | ----:
-**[Approved](https://github.com/THOMASELOVE/2020-432/blob/master/projects/project1/approved_proposals.md#proposals-dr-love-has-approved)**  | **25** | **33**
-  Approved with title listed below | 20 | 26
-  *Approved but needing a title* | 5 | 7
-**Not Yet Approved** | **12** | **15**
+**[Approved Proposals](https://github.com/THOMASELOVE/2020-432/blob/master/projects/project1/approved_proposals.md#proposals-dr-love-has-approved)**  | **25** | **33**
+  Approved with a title | 20 | 26
+  *Approved but still need a title* | 5 | 7
+**[Not Yet Approved](https://github.com/THOMASELOVE/2020-432/blob/master/projects/project1/approved_proposals.md#proposals-not-yet-approved)** | **12** | **15**
   Dr. Love awaits your next revision | 12 | 15
   Revision on Canvas, awaiting Dr. Love's Review | 0 | 0
 
