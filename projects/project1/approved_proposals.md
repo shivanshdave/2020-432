@@ -41,30 +41,31 @@ As of `2020-02-24 3:25 PM` | Proposals | Investigators
 Approved with Good Titles | 20 | 26
 Approved but still Untitled | 5 | 7
 **NOT YET APPROVED** | **13** | **16**
-Latest version submitted, under review by Dr. Love | 1 | 1
-Latest version submitted and reviewed, another revision needed | 11 | 14
-Version 2 not yet submitted | 1 | 1
+Latest version submitted, under review by Dr. Love | 0 | 0
+Latest version submitted and reviewed, another revision needed | 12 | 15
+Not Submitted | 1 | 1
 **TOTAL** | **38** | **49**
 
 ### Projects whose proposal has not yet been approved
 
-- If you're in this group, Version 2 of your proposal should be submitted to Canvas by 9 AM Monday 2020-02-24.
-- Once Dr. Love has reviewed Version 2 of your proposal, he may require another revision. Please submit that revision as soon as possible, but certainly by the final deadline of 9 AM Wednesday 2020-02-26.
+- All of the proposals below await their next revision, which I hope will be the last. 
+- The next formal deadline is Wednesday 2020-02-26 at 9 AM, but all of the revisions requested by me are straightforward enough that I am hopeful you will complete them much sooner, perhaps on Monday night or Tuesday morning.
 
-Code | Investigator(s) | Revision Submitted | Another Revision Required?
-------: | :-------------------------: | :-------------------: | :----------------:
-`04-S` | Ife Babatunde | Yes | Under review by Dr. Love
-`06-S` | Sofija Conic | Yes | Yes, see [Canvas](https://canvas.case.edu/) for comments.
-`13-S` | Vanessa Ho | Yes | Yes, see [Canvas](https://canvas.case.edu/) for comments.
-`14-P` | Jason Huang and Yufei Li | Yes | Yes, see [Canvas](https://canvas.case.edu/) for comments.
-`15-S` | Jazmine Kirkland | **Not yet** | --
-`16-P` | Ani Kumar and Div Patel | Yes | Yes, see [Canvas](https://canvas.case.edu/) for comments.
-`19-S` | Yuxuan Luo | Yes | Yes, see [Canvas](https://canvas.case.edu/) for comments.
-`22-S` | Shayan Monabbati | Yes | Yes, see [Canvas](https://canvas.case.edu/) for comments.
-`23-P` | Ryan Moore and Khaled Shorbaji | Yes | Yes, see [Canvas](https://canvas.case.edu/) for comments.
-`29-S` | Claire Sonneborn | Yes | Yes, see [Canvas](https://canvas.case.edu/) for comments.
-`33-S` | Vachan Vadmal | Yes | Yes, see [Canvas](https://canvas.case.edu/) for comments.
-`35-S` | Gi-Ming Wang | Yes | Yes, see [Canvas](https://canvas.case.edu/) for comments.
-`37-S` | Jakob Woerner | Yes | Yes, see [Canvas](https://canvas.case.edu/) for comments.
+Code | Investigator(s) | Another Revision Required?
+------: | :-------------------------: | :-------------------------:
+`04-S` | Ife Babatunde | Yes, see [Canvas](https://canvas.case.edu/) for comments.
+`06-S` | Sofija Conic | Yes, see [Canvas](https://canvas.case.edu/) for comments.
+`13-S` | Vanessa Ho | Yes, see [Canvas](https://canvas.case.edu/) for comments.
+`14-P` | Jason Huang and Yufei Li | Yes, see [Canvas](https://canvas.case.edu/) for comments.
+`16-P` | Ani Kumar and Div Patel | Yes, see [Canvas](https://canvas.case.edu/) for comments.
+`19-S` | Yuxuan Luo | Yes, see [Canvas](https://canvas.case.edu/) for comments.
+`22-S` | Shayan Monabbati | Yes, see [Canvas](https://canvas.case.edu/) for comments.
+`23-P` | Ryan Moore and Khaled Shorbaji | Yes, see [Canvas](https://canvas.case.edu/) for comments.
+`29-S` | Claire Sonneborn | Yes, see [Canvas](https://canvas.case.edu/) for comments.
+`33-S` | Vachan Vadmal | Yes, see [Canvas](https://canvas.case.edu/) for comments.
+`35-S` | Gi-Ming Wang | Yes, see [Canvas](https://canvas.case.edu/) for comments.
+`37-S` | Jakob Woerner | Yes, see [Canvas](https://canvas.case.edu/) for comments.
 
-
+Code | Investigator(s) | Proposal Submitted 
+------: | :-------------------------: | ----------------------------- 
+`15-S` | Jazmine Kirkland | **Not yet**, please contact Dr. Love. 
