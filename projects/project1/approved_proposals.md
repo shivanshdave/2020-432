@@ -29,18 +29,19 @@ Code | Investigator(s) | Title
 `31-S` | Wayne Tsuang | Air Pollution and Life Expectancy in the County Health Rankings
 `32-S` | Emily Tyszka | *Unnamed project using County Health Rankings to study violent crime and teen birth rates*
 `34-S` | Anastasia Vassiliou | Living Near ART
+`36-S` | Siyu Wang | Patient Demographic Factors and Prediction of Spinal Anesthesia Outcomes
 `38-S` | Victor Zhou | Waist/hip ratio and the prediction of diabetes
 
 ## Status Report on All Proposals
 
-As of `2020-02-24 2:30 PM` | Proposals | Investigators
+As of `2020-02-24 3:00 PM` | Proposals | Investigators
 -------------: | -----------------: | ----------------:
-**APPROVED** | **23** | **30** 
-Approved with Good Titles | 18 | 23
+**APPROVED** | **24** | **31** 
+Approved with Good Titles | 19 | 24
 Approved but still Untitled | 5 | 7
-**NOT YET APPROVED** | **15** | **19**
-Latest version submitted, under review by Dr. Love | 5 | 7
-Latest version submitted and reviewed, another revision needed | 9 | 11
+**NOT YET APPROVED** | **14** | **18**
+Latest version submitted, under review by Dr. Love | 3 | 5
+Latest version submitted and reviewed, another revision needed | 10 | 12
 Version 2 not yet submitted | 1 | 1
 **TOTAL** | **38** | **49**
 
@@ -61,10 +62,9 @@ Code | Investigator(s) | Revision Submitted | Another Revision Required?
 `19-S` | Yuxuan Luo | Yes | Yes, see [Canvas](https://canvas.case.edu/) for comments.
 `22-S` | Shayan Monabbati | Yes | Yes, see [Canvas](https://canvas.case.edu/) for comments.
 `23-P` | Ryan Moore and Khaled Shorbaji | Yes | Under review by Dr. Love
-`29-S` | Claire Sonneborn | Yes | Under review by Dr. Love
+`29-S` | Claire Sonneborn | Yes | Yes, see [Canvas](https://canvas.case.edu/) for comments.
 `33-S` | Vachan Vadmal | Yes | Yes, see [Canvas](https://canvas.case.edu/) for comments.
 `35-S` | Gi-Ming Wang | Yes | Yes, see [Canvas](https://canvas.case.edu/) for comments.
-`36-S` | Siyu Wang | Yes | Under review by Dr. Love
 `37-S` | Jakob Woerner | Yes | Yes, see [Canvas](https://canvas.case.edu/) for comments.
 
 
