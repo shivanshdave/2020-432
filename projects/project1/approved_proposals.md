@@ -8,6 +8,7 @@ Proposals that have been approved by Dr. Love have a grade of 10 [posted on Canv
 Code | Investigator(s) | Title
 --------: | :-------------------------: | -------------------------------------------------------------------------------------
 `01-P` | Hussam Alqahtani and Kimberly Noriega | *Unnamed project using NHANES to study sleep, BMI and gum disease*
+`02-P` | Ebtesam Alshehri and Carolyn Goldschmidt | Predicting waist circumference and cholesterol medication usage with NHANES
 `03-P` | Fatima Asad and Basma Dahash | *Unnamed project using Chinese PCI data from DataDryad*
 `05-P` | Rebeka Bordi and Sangeetha Rahghupathy | Alcohol Use and the Prediction of Liver Fibrosis in HCV infected NHANES participants
 `07-P` | Lauren Cruz and Kara Hageman | NBA Statistics in the 2015-16 Season
@@ -34,13 +35,13 @@ Code | Investigator(s) | Title
 
 ## Status Report on All Proposals
 
-As of `2020-02-24 3:00 PM` | Proposals | Investigators
+As of `2020-02-24 3:10 PM` | Proposals | Investigators
 -------------: | -----------------: | ----------------:
-**APPROVED** | **24** | **31** 
-Approved with Good Titles | 19 | 24
+**APPROVED** | **25** | **33** 
+Approved with Good Titles | 20 | 26
 Approved but still Untitled | 5 | 7
-**NOT YET APPROVED** | **14** | **18**
-Latest version submitted, under review by Dr. Love | 3 | 5
+**NOT YET APPROVED** | **13** | **16**
+Latest version submitted, under review by Dr. Love | 2 | 3
 Latest version submitted and reviewed, another revision needed | 10 | 12
 Version 2 not yet submitted | 1 | 1
 **TOTAL** | **38** | **49**
@@ -52,7 +53,6 @@ Version 2 not yet submitted | 1 | 1
 
 Code | Investigator(s) | Revision Submitted | Another Revision Required?
 ------: | :-------------------------: | :-------------------: | :----------------:
-`02-P` | Ebtesam Alshehri and Carolyn Goldschmidt | Yes | Under review by Dr. Love
 `04-S` | Ife Babatunde | Yes | Under review by Dr. Love
 `06-S` | Sofija Conic | Yes | Yes, see [Canvas](https://canvas.case.edu/) for comments.
 `13-S` | Vanessa Ho | Yes | Yes, see [Canvas](https://canvas.case.edu/) for comments.
