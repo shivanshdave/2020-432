@@ -52,7 +52,7 @@ Code | Investigator(s) | Version 2 Submitted | Another Revision Required?
 ------: | :-------------------------: | :-------------------: | :----------------:
 `02-P` | Ebtesam Alshehri and Carolyn Goldschmidt | Yes | Yes, see [Canvas](https://canvas.case.edu/) for comments.
 `04-S` | Ife Babatunde | Yes | Yes, see [Canvas](https://canvas.case.edu/) for comments.
-`06-S` | Sofija Conic | Yes | Under review by Dr. Love
+`06-S` | Sofija Conic | Yes | Yes, see [Canvas](https://canvas.case.edu/) for comments.
 `13-S` | Vanessa Ho | Yes | Under review by Dr. Love
 `14-P` | Jason Huang and Yufei Li | Yes | Yes, see [Canvas](https://canvas.case.edu/) for comments.
 `15-S` | Jazmine Kirkland | **Not yet** | --
@@ -61,7 +61,7 @@ Code | Investigator(s) | Version 2 Submitted | Another Revision Required?
 `22-S` | Shayan Monabbati | Yes | Under review by Dr. Love
 `23-P` | Ryan Moore and Khaled Shorbaji | Yes | Yes, see [Canvas](https://canvas.case.edu/) for comments.
 `28-S` | Matt Siuba | **Not yet** | --
-`29-S` | Claire Sonneborn | Yes | Yes, see [Canvas](https://canvas.case.edu/) for comments.
+`29-S` | Claire Sonneborn | Yes | Under review by Dr. Love
 `33-S` | Vachan Vadmal | Yes | Under review by Dr. Love
 `35-S` | Gi-Ming Wang | Yes | Yes, see [Canvas](https://canvas.case.edu/) for comments.
 `36-S` | Siyu Wang | Yes | Yes, see [Canvas](https://canvas.case.edu/) for comments.
