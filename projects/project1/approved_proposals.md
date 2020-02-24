@@ -30,15 +30,14 @@ Code | Investigator(s) | Title
 
 ## Status Report on All Proposals
 
-As of `2020-02-23 9:15 PM` | Proposals | Investigators
+As of `2020-02-23 9:30 PM` | Proposals | Investigators
 -------------: | -----------------: | ----------------:
 **APPROVED** | **20** | **26** 
 Approved with Good Titles | 14 | 18
 Approved but still Untitled | 6 | 8
 **NOT YET APPROVED** | **18** | **23**
-Version 2 submitted, Another Revision needed | 7 | 11
-Version 2 submitted, Under Review | 1 | 1 
-Version 2 not yet submitted | 11 | 12
+Version 2 submitted, Another Revision needed | 8 | 12
+Version 2 not yet submitted | 10 | 11
 **TOTAL** | **38** | **49**
 
 ### Projects whose proposal has not yet been approved
@@ -60,7 +59,7 @@ Code | Investigator(s) | Version 2 Submitted | Another Revision Required?
 `22-S` | Shayan Monabbati | **No** | --
 `23-P` | Ryan Moore and Khaled Shorbaji | **No** | --
 `28-S` | Matt Siuba | **No** | --
-`29-S` | Claire Sonneborn | Yes | Under Review
+`29-S` | Claire Sonneborn | Yes | Yes
 `33-S` | Vachan Vadmal | **No** | --
 `35-S` | Gi-Ming Wang | Yes | Yes
 `36-S` | Siyu Wang | Yes | Yes
