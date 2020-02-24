@@ -10,6 +10,7 @@ Code | Investigator(s) | Title
 `01-P` | Hussam Alqahtani and Kimberly Noriega | *Unnamed project using NHANES to study sleep, BMI and gum disease*
 `03-P` | Fatima Asad and Basma Dahash | *Unnamed project using Chinese PCI data from DataDryad*
 `05-P` | Rebeka Bordi and Sangeetha Rahghupathy | Alcohol Use and the Prediction of Liver Fibrosis in HCV infected NHANES participants
+`07-P` | Lauren Cruz and Kara Hageman | NBA Statistics in the 2015-16 Season
 `08-S` | Shivansh Dave | Predicting auditory health using demographic and examination data from NHANES
 `09-P` | Joshua Froess and Rajeev Varkey | Will Your Kickstarter Project Succeed?
 `10-S` | Farrah Gao | Health Indicators and the Prediction of Premature Births and Infant Mortality
@@ -30,13 +31,13 @@ Code | Investigator(s) | Title
 
 ## Status Report on All Proposals
 
-As of `2020-02-23 9:30 PM` | Proposals | Investigators
+As of `2020-02-23 10:50 PM` | Proposals | Investigators
 -------------: | -----------------: | ----------------:
-**APPROVED** | **20** | **26** 
-Approved with Good Titles | 14 | 18
+**APPROVED** | **21** | **28** 
+Approved with Good Titles | 15 | 20
 Approved but still Untitled | 6 | 8
-**NOT YET APPROVED** | **18** | **23**
-Version 2 submitted, Another Revision needed | 8 | 12
+**NOT YET APPROVED** | **17** | **21**
+Version 2 submitted, Another Revision needed | 7 | 10
 Version 2 not yet submitted | 10 | 11
 **TOTAL** | **38** | **49**
 
@@ -48,7 +49,6 @@ Version 2 not yet submitted | 10 | 11
 Code | Investigator(s) | Version 2 Submitted | Another Revision Required?
 ------: | :-------------------------: | :-------------------: | :----------------:
 `02-P` | Ebtesam Alshehri and Carolyn Goldschmidt | Yes | Yes
-`07-P` | Lauren Cruz and Kara Hageman | Yes | Yes
 `14-P` | Jason Huang and Yufei Li | Yes | Yes
 `16-P` | Ani Kumar and Div Patel | Yes | Yes
 `29-S` | Claire Sonneborn | Yes | Yes
