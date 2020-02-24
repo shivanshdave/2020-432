@@ -30,7 +30,7 @@ Code | Investigator(s) | Title
 
 ## Status Report on All Proposals
 
-As of `2020-02-23 8:20 PM` | Proposals | Investigators
+As of `2020-02-23 8:40 PM` | Proposals | Investigators
 -------------: | -----------------: | ----------------:
 **APPROVED** | **20** | **26** 
 Approved with Good Titles | 13 | 16
