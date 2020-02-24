@@ -1,24 +1,19 @@
 # Project 1 Proposal Status
 
-## Status Report 
+Status Report as of 2020-02-24 at 3:35 PM | Proposals | Investigators
+:--------------------------------------- | ----: | ----:
+**Approved**  | **25** | **33**
+  Approved with title listed below | 20 | 26
+  *Approved but needing a title* | 5 | 7
+**Not Yet Approved** | **12** | **15**
+  Dr. Love awaits your next revision | 12 | 15
+  Revision on Canvas, awaiting Dr. Love's Review | 0 | 0
 
-As of `2020-02-24 3:25 PM` | Proposals | Investigators
--------------: | -----------------: | ----------------:
-**APPROVED** | **25** | **33** 
-Approved with Good Titles | 20 | 26
-Approved but still Untitled | 5 | 7
-**NOT YET APPROVED** | **13** | **16**
-Revision at Canvas, under review by Dr. Love | 0 | 0
-Dr. Love awaits your next revision | 12 | 15
-Proposal Not Yet Submitted | 1 | 1
-**TOTAL** | **38** | **49**
-
-## Approved Proposals
+## Proposals Dr. Love has Approved
 
 Proposals that have been approved by Dr. Love have a grade of 10 [posted on Canvas along with my feedback](https://canvas.case.edu/), and are listed in the table below. 
 
 - If your approved project is listed below as unnamed, please email a new title (maximum 85 characters, including spaces) to `431-help` with the subject heading: **Project 1 Proposal New Title** at your earliest convenience.
-- Students whose projects are not listed in this table [will find more information at the bottom of this page](https://github.com/THOMASELOVE/2020-432/blob/master/projects/project1/approved_proposals.md#projects-whose-proposal-has-not-yet-been-approved).
 
 Code | Investigator(s) | Title
 --------: | :-------------------------: | -------------------------------------------------------------------------------------
@@ -48,7 +43,7 @@ Code | Investigator(s) | Title
 `36-S` | Siyu Wang | Patient Demographic Factors and Prediction of Spinal Anesthesia Outcomes
 `38-S` | Victor Zhou | Waist/hip ratio and the prediction of diabetes
 
-## Projects whose proposal has not yet been approved
+## Proposals Not Yet Approved
 
 - All of the proposals below await their next revision, which I hope will be the last. 
 - The next formal deadline is Wednesday 2020-02-26 at 9 AM, but all of the revisions requested by me are straightforward enough that I am hopeful you will complete them much sooner, perhaps on Monday night or Tuesday morning.
