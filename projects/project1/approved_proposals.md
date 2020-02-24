@@ -35,8 +35,9 @@ As of `2020-02-23 8:20 PM` | Proposals | Investigators
 Approved with Good Titles | 12 | 15
 Approved but still Untitled | 7 | 10
 **NOT YET APPROVED** | **19** | **24**
-Version 2 submitted, Another Revision needed | 6 | 8
-Version 2 not yet submitted | 13 | 16
+Version 2 submitted, Another Revision needed | 5 | 7
+Version 2 submitted, under review | 3 | 5
+Version 2 not yet submitted | 11 | 12
 **TOTAL** | **38** | **49**
 
 ### Projects whose proposal has not yet been approved
@@ -49,15 +50,15 @@ Code | Investigator(s) | Version 2 Submitted | Another Revision Required?
 `02-P` | Ebtesam Alshehri and Carolyn Goldschmidt | Yes | Yes
 `04-S` | Ife Babatunde | **No** | --
 `06-S` | Sofija Conic | **No** | --
-`07-P` | Lauren Cruz and Kara Hageman | **No** | --
+`07-P` | Lauren Cruz and Kara Hageman | Yes | Dr. Love is reviewing now.
 `13-S` | Vanessa Ho | **No** | --
-`14-P` | Jason Huang and Yufei Li | **No** | --
+`14-P` | Jason Huang and Yufei Li | Yes | Dr. Love is reviewing now.
 `15-S` | Jazmine Kirkland | **No** | --
 `16-P` | Ani Kumar and Div Patel | Yes | Yes
 `19-S` | Yuxuan Luo | **No** | --
 `22-S` | Shayan Monabbati | **No** | --
 `23-P` | Ryan Moore and Khaled Shorbaji | **No** | --
-`25-S` | Vineet Punia | Yes | Yes
+`25-S` | Vineet Punia | Yes | Under Review
 `28-S` | Matt Siuba | **No** | --
 `29-S` | Claire Sonneborn | **No** | --
 `33-S` | Vachan Vadmal | **No** | --
