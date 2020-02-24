@@ -24,6 +24,7 @@ Code | Investigator(s) | Title
 `25-S` | Vineet Punia | Predicting *Wine Enthusiast* magazine's wine ratings
 `26-S` | Abigail Rippin | Social Network Use Interacting with Anxiety and Stress Scores in Students
 `27-S` | Abby Roche | Diabetes in Adult SNAP Participants
+`28-S` | Matt Siuba | Does fluid administration on Day 1 of ICU stay predict mortality or length of stay?
 `30-S` | Alena Sorensen | Caregiving and the Connection with Mental Health and Life Satisfaction
 `31-S` | Wayne Tsuang | Air Pollution and Life Expectancy in the County Health Rankings
 `32-S` | Emily Tyszka | *Unnamed project using County Health Rankings to study violent crime and teen birth rates*
@@ -34,12 +35,12 @@ Code | Investigator(s) | Title
 
 As of `2020-02-24 1:30 PM` | Proposals | Investigators
 -------------: | -----------------: | ----------------:
-**APPROVED** | **22** | **29** 
-Approved with Good Titles | 17 | 22
+**APPROVED** | **23** | **30** 
+Approved with Good Titles | 18 | 23
 Approved but still Untitled | 5 | 7
-**NOT YET APPROVED** | **16** | **20**
-Version 2 submitted, under review by Dr. Love | 7 | 8
-Version 2 submitted, Another Revision needed | 8 | 11
+**NOT YET APPROVED** | **15** | **19**
+Version 2 submitted, under review by Dr. Love | 4 | 5
+Version 2 submitted, Another Revision needed | 10 | 13
 Version 2 not yet submitted | 1 | 1
 **TOTAL** | **38** | **49**
 
@@ -60,11 +61,10 @@ Code | Investigator(s) | Version 2 Submitted | Another Revision Required?
 `19-S` | Yuxuan Luo | Yes | Yes, see [Canvas](https://canvas.case.edu/) for comments.
 `22-S` | Shayan Monabbati | Yes | Yes, see [Canvas](https://canvas.case.edu/) for comments.
 `23-P` | Ryan Moore and Khaled Shorbaji | Yes | Yes, see [Canvas](https://canvas.case.edu/) for comments.
-`28-S` | Matt Siuba | Yes | Under review by Dr. Love
 `29-S` | Claire Sonneborn | Yes | Under review by Dr. Love
-`33-S` | Vachan Vadmal | Yes | Under review by Dr. Love
+`33-S` | Vachan Vadmal | Yes | Yes, see [Canvas](https://canvas.case.edu/) for comments.
 `35-S` | Gi-Ming Wang | Yes | Yes, see [Canvas](https://canvas.case.edu/) for comments.
 `36-S` | Siyu Wang | Yes | Under review by Dr. Love
-`37-S` | Jakob Woerner | Yes | Under review by Dr. Love
+`37-S` | Jakob Woerner | Yes | Yes, see [Canvas](https://canvas.case.edu/) for comments.
 
 
