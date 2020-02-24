@@ -8,9 +8,9 @@ As of `2020-02-24 3:25 PM` | Proposals | Investigators
 Approved with Good Titles | 20 | 26
 Approved but still Untitled | 5 | 7
 **NOT YET APPROVED** | **13** | **16**
-Latest version submitted, under review by Dr. Love | 0 | 0
-Latest version submitted and reviewed, another revision needed | 12 | 15
-Not Submitted | 1 | 1
+Revision at Canvas, under review by Dr. Love | 0 | 0
+Dr. Love awaits your next revision | 12 | 15
+Proposal Not Yet Submitted | 1 | 1
 **TOTAL** | **38** | **49**
 
 ## Approved Proposals
@@ -67,7 +67,3 @@ Code | Investigator(s) | Another Revision Required?
 `33-S` | Vachan Vadmal | Yes, see [Canvas](https://canvas.case.edu/) for comments.
 `35-S` | Gi-Ming Wang | Yes, see [Canvas](https://canvas.case.edu/) for comments.
 `37-S` | Jakob Woerner | Yes, see [Canvas](https://canvas.case.edu/) for comments.
-
-Code | Investigator(s) | Proposal Submitted 
-------: | :-------------------------: | ----------------------------- 
-`15-S` | Jazmine Kirkland | **Not yet**, please contact Dr. Love. 
