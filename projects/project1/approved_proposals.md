@@ -31,7 +31,7 @@ Code | Investigator(s) | Title
 
 ## Status Report on All Proposals
 
-As of `2020-02-23 10:50 PM` | Proposals | Investigators
+As of `2020-02-23 11 PM` | Proposals | Investigators
 -------------: | -----------------: | ----------------:
 **APPROVED** | **21** | **28** 
 Approved with Good Titles | 15 | 20
@@ -49,21 +49,21 @@ Version 2 not yet submitted | 10 | 11
 Code | Investigator(s) | Version 2 Submitted | Another Revision Required?
 ------: | :-------------------------: | :-------------------: | :----------------:
 `02-P` | Ebtesam Alshehri and Carolyn Goldschmidt | Yes | Yes, see [Canvas](https://canvas.case.edu/) for comments.
-`04-S` | Ife Babatunde | **No** | --
-`06-S` | Sofija Conic | **No** | --
-`13-S` | Vanessa Ho | **No** | --
+`04-S` | Ife Babatunde | **Not yet** | --
+`06-S` | Sofija Conic | **Not yet** | --
+`13-S` | Vanessa Ho | **Not yet** | --
 `14-P` | Jason Huang and Yufei Li | Yes | Yes, see [Canvas](https://canvas.case.edu/) for comments.
-`15-S` | Jazmine Kirkland | **No** | --
+`15-S` | Jazmine Kirkland | **Not yet** | --
 `16-P` | Ani Kumar and Div Patel | Yes | Yes, see [Canvas](https://canvas.case.edu/) for comments.
-`19-S` | Yuxuan Luo | **No** | --
-`22-S` | Shayan Monabbati | **No** | --
-`23-P` | Ryan Moore and Khaled Shorbaji | **No** | --
-`28-S` | Matt Siuba | **No** | --
+`19-S` | Yuxuan Luo | **Not yet** | --
+`22-S` | Shayan Monabbati | **Not yet** | --
+`23-P` | Ryan Moore and Khaled Shorbaji | **Not yet** | --
+`28-S` | Matt Siuba | **Not yet** | --
 `29-S` | Claire Sonneborn | Yes | Yes, see [Canvas](https://canvas.case.edu/) for comments.
-`33-S` | Vachan Vadmal | **No** | --
+`33-S` | Vachan Vadmal | **Not yet** | --
 `35-S` | Gi-Ming Wang | Yes | Yes, see [Canvas](https://canvas.case.edu/) for comments.
 `36-S` | Siyu Wang | Yes | Yes, see [Canvas](https://canvas.case.edu/) for comments.
-`37-S` | Jakob Woerner | **No** | --
+`37-S` | Jakob Woerner | **Not yet** | --
 `38-S` | Victor Zhou | Yes | Yes, see [Canvas](https://canvas.case.edu/) for comments.
 
 
