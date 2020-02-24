@@ -30,13 +30,14 @@ Code | Investigator(s) | Title
 
 ## Status Report on All Proposals
 
-As of `2020-02-23 8:50 PM` | Proposals | Investigators
+As of `2020-02-23 8:58 PM` | Proposals | Investigators
 -------------: | -----------------: | ----------------:
 **APPROVED** | **20** | **26** 
 Approved with Good Titles | 13 | 16
 Approved but still Untitled | 7 | 10
 **NOT YET APPROVED** | **18** | **23**
-Version 2 submitted, Another Revision needed | 7 | 11
+Version 2 submitted, Another Revision needed | 6 | 10
+Version 2 submitted, Under Review by Dr Love | 1 | 1
 Version 2 not yet submitted | 11 | 12
 **TOTAL** | **38** | **49**
 
@@ -61,7 +62,7 @@ Code | Investigator(s) | Version 2 Submitted | Another Revision Required?
 `28-S` | Matt Siuba | **No** | --
 `29-S` | Claire Sonneborn | **No** | --
 `33-S` | Vachan Vadmal | **No** | --
-`35-S` | Gi-Ming Wang | Yes | Yes
+`35-S` | Gi-Ming Wang | Yes | Under Review by Dr. Love
 `36-S` | Siyu Wang | Yes | Yes
 `37-S` | Jakob Woerner | **No** | --
 `38-S` | Victor Zhou | Yes | Yes
