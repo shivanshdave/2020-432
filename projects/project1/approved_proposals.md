@@ -38,8 +38,8 @@ As of `2020-02-24 8:55 AM` | Proposals | Investigators
 Approved with Good Titles | 16 | 21
 Approved but still Untitled | 6 | 8
 **NOT YET APPROVED** | **16** | **20**
-Version 2 submitted, under review by Dr. Love | 5 | 7
-Version 2 submitted, Another Revision needed | 6 | 8
+Version 2 submitted, under review by Dr. Love | 5 | 6
+Version 2 submitted, Another Revision needed | 6 | 9
 Version 2 not yet submitted | 5 | 5
 **TOTAL** | **38** | **49**
 
