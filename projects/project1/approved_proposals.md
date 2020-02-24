@@ -1,12 +1,12 @@
 # Project 1 Proposal Status
 
-Status Report as of 2020-02-24 at 3:35 PM | Proposals | Investigators
+Status Report as of 2020-02-24 at 3:45 PM | Proposals | Investigators
 :--------------------------------------- | ----: | ----:
-**[Approved Proposals](https://github.com/THOMASELOVE/2020-432/blob/master/projects/project1/approved_proposals.md#proposals-dr-love-has-approved)**  | **25** | **33**
-  Approved with a title | 20 | 26
+**[Approved Proposals](https://github.com/THOMASELOVE/2020-432/blob/master/projects/project1/approved_proposals.md#proposals-dr-love-has-approved)**  | **26** | **34**
+  Approved with a title | 21 | 27
   *Approved but still need a title* | 5 | 7
-**[Not Yet Approved](https://github.com/THOMASELOVE/2020-432/blob/master/projects/project1/approved_proposals.md#proposals-not-yet-approved)** | **12** | **15**
-  Dr. Love awaits your next revision | 12 | 15
+**[Not Yet Approved](https://github.com/THOMASELOVE/2020-432/blob/master/projects/project1/approved_proposals.md#proposals-not-yet-approved)** | **11** | **14**
+  Dr. Love awaits your next revision | 11 | 14
   Revision on Canvas, awaiting Dr. Love's Review | 0 | 0
 
 ## Proposals Dr. Love has Approved
@@ -20,6 +20,7 @@ Code | Investigator(s) | Title
 `01-P` | Hussam Alqahtani and Kimberly Noriega | *Unnamed project using NHANES to study sleep, BMI and gum disease*
 `02-P` | Ebtesam Alshehri and Carolyn Goldschmidt | Predicting waist circumference and cholesterol medication usage with NHANES
 `03-P` | Fatima Asad and Basma Dahash | *Unnamed project using Chinese PCI data from DataDryad*
+`04-S` | Ife Babatunde | Comparing Counties from States with Strong Versus Weak Health Outcomes
 `05-P` | Rebeka Bordi and Sangeetha Rahghupathy | Alcohol Use and the Prediction of Liver Fibrosis in HCV infected NHANES participants
 `07-P` | Lauren Cruz and Kara Hageman | NBA Statistics in the 2015-16 Season
 `08-S` | Shivansh Dave | Predicting auditory health using demographic and examination data from NHANES
@@ -45,12 +46,11 @@ Code | Investigator(s) | Title
 
 ## Proposals Not Yet Approved
 
-- All of the proposals below await their next revision, which I hope will be the last. 
-- The next formal deadline is Wednesday 2020-02-26 at 9 AM, but all of the revisions requested by me are straightforward enough that I am hopeful you will complete them much sooner, perhaps on Monday night or Tuesday morning.
+- I await the next revision for each of the proposals below, which I hope will be the last revision needed.
+- The next formal deadline is Wednesday 2020-02-26 at 9 AM, but all of the revisions requested for these proposals are straightforward enough that I am hopeful you will complete them much sooner, perhaps on Monday night or Tuesday morning.
 
 Code | Investigator(s) | Another Revision Required?
 ------: | :-------------------------: | :-------------------------:
-`04-S` | Ife Babatunde | Yes, see [Canvas](https://canvas.case.edu/) for comments.
 `06-S` | Sofija Conic | Yes, see [Canvas](https://canvas.case.edu/) for comments.
 `13-S` | Vanessa Ho | Yes, see [Canvas](https://canvas.case.edu/) for comments.
 `14-P` | Jason Huang and Yufei Li | Yes, see [Canvas](https://canvas.case.edu/) for comments.
