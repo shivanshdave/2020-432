@@ -25,19 +25,20 @@ Today, we'll be talking about multiple imputation and cross-validation approache
 4. **Calendar Updates**
     - I've committed since we last met to having a total of **6 Homeworks** this term, and I've specified the dates on [the Calendar](https://github.com/THOMASELOVE/2020-432/blob/master/calendar.md). There may be one additional (optional) bonus assignment. Homework 4 is due at 5 PM on Monday 2020-03-23, and Homeworks 5 and 6 are due 2020-04-13 and 2020-04-20, respectively. I'll post the instructions for each Homework at least one week in advance. We throw out your lowest grade on a Homework, and average the other 5.
     - I've committed to having **3 Quizzes**, in total, this semester, and I've [posted the dates to the Calendar](https://github.com/THOMASELOVE/2020-432/blob/master/calendar.md). Quiz 2 is at the end of March, and Quiz 3 is at the end of April. Quizzes 1 and 2 will each be worth 75 points, and I don't know if Quiz 3 will probably be worth 100.
-4. **Project 1 Proposal Status**
+5. **Project 1 Proposal Status**
     - Let's take a look at [where we are](https://github.com/THOMASELOVE/2020-432/blob/master/projects/project1/approved_proposals.md).
-5. Since we last met, there have been several updates to the [Project 1 Instructions](https://github.com/THOMASELOVE/2020-432/tree/master/projects/project1).
+6. Since we last met, there have been several updates to the [Project 1 Instructions](https://github.com/THOMASELOVE/2020-432/tree/master/projects/project1).
     - This includes [a set of portfolio templates](https://github.com/THOMASELOVE/2020-432/tree/master/projects/project1/templates) which can be very helpful to you in terms of getting the formatting to work well. Switching between these three templates is simply a matter of swapping out the YAML code at the start of the R Markdown document.
     - The newest arrival is a [posterdown template](https://github.com/THOMASELOVE/2020-432/tree/master/projects/project1/templates) which we'll talk about today, and which I'm expecting you to use in preparing your poster.
-6. [Quiz 1](https://github.com/THOMASELOVE/2020-432/edit/master/quizzes/README.md) will be [fully available](https://github.com/THOMASELOVE/2020-432/edit/master/quizzes/README.md) at 5 PM Wednesday 2020-02-26. 
+7. [Quiz 1](https://github.com/THOMASELOVE/2020-432/edit/master/quizzes/README.md) will be [fully available](https://github.com/THOMASELOVE/2020-432/edit/master/quizzes/README.md) at 5 PM Wednesday 2020-02-26. 
     - In a change, Quiz 1 is now due at 2 PM on 2020-03-02 instead of 9 AM that day.
     - In writing Quiz 1, I restricted myself to materials from Classes 1-11, from Chapters 1-14 in the Course Notes, and from Chapters 1-5 and 7-8 in Spiegelhalter's *Art of Statistics*. Subsequent quizzes will also include material from these sections of the course, as I wasn't able to cover everything that I think is important, so I didn't try. 
     - Quiz 1 has 14 questions and is worth 75 points.
     - Some preliminary information [is already available](https://github.com/THOMASELOVE/2020-432/edit/master/quizzes/README.md), including a link to the Shared Google Drive where I've posted the data you'll need for some questions on the Quiz.
     - At 5 PM Wednesday, I'll post the PDF of the Quiz, and I'll post a link to the Answer Sheet where you'll write your responses (it's a Google Form, like our Minute Papers.)
     - Quiz 1 took the TAs 2-3 hours to complete. 2-3 of the questions are clearly more time-consuming than the others. 
-7. The next meeting of [the Cleveland R Users Group](https://www.meetup.com/Cleveland-UseR-Group) is Wednesday evening (2020-02-26). I've been to a few of the meetings in the past (though I won't be at this one) and found them useful/interesting.
+8. The next meeting of [the Cleveland R Users Group](https://www.meetup.com/Cleveland-UseR-Group) is Wednesday evening (2020-02-26). I've been to a few of the meetings in the past (though I won't be at this one) and found them useful/interesting.
+9. The annual [Joint Biostatistics Symposium](https://u.osu.edu/biostatisticssymposium2020/), organized between The Ohio State University, Case Western Reserve University School of Medicine, and the Cleveland Clinic, will be held this year from 11 AM to 3 PM on 2020-04-09 at Ohio State. Sadly, we have class that day.
 
 ## Next Few Deliverables (from [the Course Calendar](https://github.com/THOMASELOVE/2020-432/blob/master/calendar.md))
 
