@@ -1,13 +1,13 @@
 # Project 1 Proposal Status
 
-Status Report as of 2020-02-24 at 4:30 PM | Proposals | Investigators
+Status Report as of 2020-02-24 at 7:25 PM | Proposals | Investigators
 :--------------------------------------- | ----: | ----:
 **[Approved Proposals](https://github.com/THOMASELOVE/2020-432/blob/master/projects/project1/approved_proposals.md#proposals-dr-love-has-approved)**  | **28** | **36**
-  Approved with a title | 23 | 29
-  *Approved but still needs a title* | 5 | 7
+  Approved with a title | 25 | 33
+  *Approved but still needs a title* | 3 | 3
 **[Not Yet Approved](https://github.com/THOMASELOVE/2020-432/blob/master/projects/project1/approved_proposals.md#proposals-not-yet-approved)** | **9** | **12**
-  Dr. Love awaits your next revision | 9 | 12
-  Revision on Canvas, awaiting Dr. Love's Review | 0 | 0
+  Dr. Love awaits your next revision | 6 | 7
+  Revision on Canvas, awaiting Dr. Love's Review | 3 | 5
 
 ## Proposals Dr. Love has Approved
 
@@ -17,9 +17,9 @@ Proposals that have been approved by Dr. Love have a grade of 10 [posted on Canv
 
 Code | Investigator(s) | Title
 --------: | :-------------------------: | -------------------------------------------------------------------------------------
-`01-P` | Hussam Alqahtani and Kimberly Noriega | *Unnamed project using NHANES to study sleep, BMI and gum disease*
+`01-P` | Hussam Alqahtani and Kimberly Noriega | The Effects of Sleep on BMI and Gum Disease
 `02-P` | Ebtesam Alshehri and Carolyn Goldschmidt | Predicting waist circumference and cholesterol medication usage with NHANES
-`03-P` | Fatima Asad and Basma Dahash | *Unnamed project using Chinese PCI data from DataDryad*
+`03-P` | Fatima Asad and Basma Dahash | Predicting ejection fraction and major adverse events in PCI surgery patients
 `04-S` | Ife Babatunde | Comparing Counties from States with Strong Versus Weak Health Outcomes
 `05-P` | Rebeka Bordi and Sangeetha Rahghupathy | Alcohol Use and the Prediction of Liver Fibrosis in HCV infected NHANES participants
 `07-P` | Lauren Cruz and Kara Hageman | NBA Statistics in the 2015-16 Season
@@ -54,11 +54,11 @@ Code | Investigator(s) | Title
 Code | Investigator(s) | Another Revision Required?
 ------: | :-------------------------: | :-------------------------:
 `06-S` | Sofija Conic | Yes, see [Canvas](https://canvas.case.edu/) for comments.
-`14-P` | Jason Huang and Yufei Li | Yes, see [Canvas](https://canvas.case.edu/) for comments.
+`14-P` | Jason Huang and Yufei Li | Under review by Dr. Love
 `16-P` | Ani Kumar and Div Patel | Yes, see [Canvas](https://canvas.case.edu/) for comments.
 `19-S` | Yuxuan Luo | Yes, see [Canvas](https://canvas.case.edu/) for comments.
 `22-S` | Shayan Monabbati | Yes, see [Canvas](https://canvas.case.edu/) for comments.
-`23-P` | Ryan Moore and Khaled Shorbaji | Yes, see [Canvas](https://canvas.case.edu/) for comments.
+`23-P` | Ryan Moore and Khaled Shorbaji | Under review by Dr. Love
 `29-S` | Claire Sonneborn | Yes, see [Canvas](https://canvas.case.edu/) for comments.
 `33-S` | Vachan Vadmal | Yes, see [Canvas](https://canvas.case.edu/) for comments.
-`35-S` | Gi-Ming Wang | Yes, see [Canvas](https://canvas.case.edu/) for comments.
+`35-S` | Gi-Ming Wang | Under review by Dr. Love
