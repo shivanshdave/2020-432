@@ -3,8 +3,8 @@
 Status Report as of 2020-02-24 at 11:30 PM | Proposals | Investigators
 :--------------------------------------- | ----: | ----:
 **[Approved Proposals](https://github.com/THOMASELOVE/2020-432/blob/master/projects/project1/approved_proposals.md#proposals-dr-love-has-approved)**  | **31** | **41**
-  Approved with a title | 27 | 36
-  *Approved but still needs a title* | 4 | 5
+  Approved with a title | 28 | 38
+  *Approved but still needs a title* | 3 | 3
 **[Not Yet Approved](https://github.com/THOMASELOVE/2020-432/blob/master/projects/project1/approved_proposals.md#proposals-not-yet-approved)** | **6** | **7**
   Dr. Love awaits your next revision | 6 | 7
   Revision on Canvas, awaiting Dr. Love's Review | 0 | 0
@@ -34,7 +34,7 @@ Code | Investigator(s) | Title
 `18-S` | Noah Lorincz-Comi | Predicting Absenteeism at Work
 `20-S` | *Stephanie Merlino Barr* | *Unnamed project using County Health Rankings to study infant mortality*
 `21-S` | Anna Miller | Predicting Blood Pressure Medication Usage and Doctor Checkups from 500 Cities Data
-`23-P` | Ryan Moore and Khaled Shorbaji | *Unnamed project about mortality in revascularized coronary patients*
+`23-P` | Ryan Moore and Khaled Shorbaji | Mortality in revascularized coronary patients after noncardiac surgery
 `24-S` | Troy Neptune | Predicting High Quality Movies Using Rotten Tomatoes
 `25-S` | Vineet Punia | Predicting *Wine Enthusiast* magazine's wine ratings
 `26-S` | Abigail Rippin | Social Network Use Interacting with Anxiety and Stress Scores in Students
