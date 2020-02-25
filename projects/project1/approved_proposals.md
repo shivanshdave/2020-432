@@ -3,17 +3,14 @@
 Status Report as of 2020-02-25 at 10:45 AM | Proposals | Investigators
 :--------------------------------------- | ----: | ----:
 **[Approved Proposals](https://github.com/THOMASELOVE/2020-432/blob/master/projects/project1/approved_proposals.md#proposals-dr-love-has-approved)**  | **33** | **43**
-  Approved with a title | 32 | 42
-  *Approved but still needs a title* | 1 | 1
 **[Not Yet Approved](https://github.com/THOMASELOVE/2020-432/blob/master/projects/project1/approved_proposals.md#proposals-not-yet-approved)** | **4** | **5**
   Dr. Love awaits your next revision | 4 | 5
   Revision on Canvas, awaiting Dr. Love's Review | 0 | 0
 
 ## Proposals Dr. Love has Approved
 
-Proposals approved by Dr. Love have a grade of 10 [posted on Canvas with my feedback](https://canvas.case.edu/), and in the table below. 
-
-- If your approved project is listed below as *unnamed*, please email a new title (maximum 85 characters, including spaces) to `431-help` with the subject heading: **Project 1 Proposal New Title** at your earliest convenience.
+- Proposals approved by Dr. Love are tabulated below and have a grade of 10 [on Canvas with my feedback](https://canvas.case.edu/). 
+- If you want to change the title listed below, email a new title (maximum 85 characters, including spaces) to `431-help` with the subject heading: **Project 1 Proposal New Title** at your earliest convenience.
 
 Code | Investigator(s) | Title
 --------: | :-------------------------: | -------------------------------------------------------------------------------------
@@ -33,7 +30,7 @@ Code | Investigator(s) | Title
 `14-P` | Jason Huang and Yufei Li | Do E-cigarettes help you sleep better?
 `17-P` | Shiying Liu and Yiheng Pan | Predicting Total Cholesterol using Demographics, Nutrients and Smoking Status
 `18-S` | Noah Lorincz-Comi | Predicting Absenteeism at Work
-`20-S` | *Stephanie Merlino Barr* | *Unnamed project using County Health Rankings to study infant mortality*
+`20-S` | Stephanie Merlino Barr | Exploring infant mortality using County Health Rankings
 `21-S` | Anna Miller | Predicting Blood Pressure Medication Usage and Doctor Checkups from 500 Cities Data
 `23-P` | Ryan Moore and Khaled Shorbaji | Mortality in revascularized coronary patients after noncardiac surgery
 `24-S` | Troy Neptune | Predicting High Quality Movies Using Rotten Tomatoes
@@ -54,8 +51,7 @@ Code | Investigator(s) | Title
 ## Proposals Not Yet Approved
 
 - I await the next revision for each of the proposals below, which I hope will be the last revision needed.
-- The next formal deadline is Wednesday 2020-02-26 at 9 AM, but all of the revisions requested for these proposals are straightforward enough that I am hopeful you will complete them much sooner, I hope sometime Tuesday morning. 
-- You will need to have an approved portfolio before I will release Quiz 1 to you.
+- The next formal deadline is Wednesday 2020-02-26 at 9 AM, but all of the revisions requested for these proposals are straightforward enough that I am hopeful you will complete them as soon as possible. 
 
 Code | Investigator(s) | Another Revision Required?
 ------: | :-------------------------: | :-------------------------:
