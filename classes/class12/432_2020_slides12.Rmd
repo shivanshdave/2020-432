@@ -62,7 +62,7 @@ Multiple imputation for missing data in epidemiological and clinical research: p
 - **Missing at random** Any systematic difference between the missing values and the observed values can be explained by differences in observed data. For example, missing blood pressure measurements may be lower than measured blood pressures but only because younger people may be more likely to have missing blood pressure measurements.
 - **Missing not at random** Even after the observed data are taken into account, systematic differences remain between the missing values and the observed values. For example, people with high blood pressure may be more likely to miss clinic appointments because they have headaches
 
-"Missing at random” is an assumption that justifies the analysis, not a property of the data.
+"Missing at random" is an assumption that justifies the analysis, not a property of the data.
 
 ## Pitfalls When Using Multiple Imputation (Sterne et al.)
 
@@ -87,7 +87,7 @@ Multiple imputation for missing data in epidemiological and clinical research: p
 
 ## Multiple Imputation (from Sterne et al.)
 
-- The second stage is to use standard statistical methods to fit the model of interest to each of the imputed datasets. Estimated associations in each of the imputed datasets will differ because of the variation introduced in the imputation of the missing values, and they are only useful when averaged together to give overall estimated associations. Standard errors are calculated using Rubin’s rules, which take account of the variability in results between the imputed datasets, reflecting the uncertainty associated with the missing values.
+- The second stage is to use standard statistical methods to fit the model of interest to each of the imputed datasets. Estimated associations in each of the imputed datasets will differ because of the variation introduced in the imputation of the missing values, and they are only useful when averaged together to give overall estimated associations. Standard errors are calculated using Rubin's rules, which take account of the variability in results between the imputed datasets, reflecting the uncertainty associated with the missing values.
     - Valid inferences are obtained because we are averaging over the distribution of the missing data given the observed data.
 
 ## A Small Example (Sterne et al.)
@@ -295,7 +295,8 @@ m2_pool
 ## Model 4 run on each imputed data frame
 
 ```{r}
-m4_mods <- with(fram_mice24, lm(sbp ~ glucose + obese))
+m4_mods <- with(fram_mice24, lm(sbp ~ glucose + 
+                              obese + smoker + educ))
 summary(m4_mods)
 ```
 
@@ -306,11 +307,18 @@ m4_pool <- pool(m4_mods)
 summary(m4_pool, conf.int = TRUE, conf.level = 0.95)
 ```
 
-## Complete Cases Results
+## Complete Cases Result (Model 4)
 
 ```{r}
 tidy(m4_cc, conf.int = TRUE) %>% select(-statistic) %>% 
     kable(digits = 3)
+```
+
+## Multiple Imputation Result (Model 4)
+
+```{r}
+summary(m4_pool, conf.int = TRUE) %>% 
+  select(-statistic, -df) %>% kable(digits = 3)
 ```
 
 ## More Details on Multiple Imputation Modeling
