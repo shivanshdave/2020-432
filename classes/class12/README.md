@@ -20,7 +20,7 @@ Today, we'll be talking about multiple imputation and cross-validation approache
 ## Today's Announcements
 
 1. Please remember that we don't have class this Thursday 2020-02-27. 
-2. There will be a **Minute Paper after Class 12**, which will be due at 2 PM Wednesday.
+2. There is a [Minute Paper after Class 12](http://bit.ly/432-2020-minute-12). Please complete it by 2 PM Wednesday 2020-02-26.
 3. The [Answer Sketch for Homework 3](https://github.com/THOMASELOVE/2020-432/tree/master/homework/hw03) is available. We anticipate **grades** appearing at http://bit.ly/432-2020-grades by 5 PM on 2020-02-25.
 4. **Project 1 Proposal Status**
     - Let's take a look at [where we are](https://github.com/THOMASELOVE/2020-432/blob/master/projects/project1/approved_proposals.md).
@@ -35,7 +35,7 @@ Today, we'll be talking about multiple imputation and cross-validation approache
 Date | Deliverable
 ----: | ---------------------------------------------------------------
 02-26 | If necessary, the third version of your [Project 1 Proposal](https://github.com/THOMASELOVE/2020-432/tree/master/projects/project1#new-some-additional-thoughts-after-reviewing-the-proposal-drafts) will be due at 9 AM.
-02-26 | Minute Paper after Class 12 will be due at 2 PM.
+02-26 | [Minute Paper after Class 12](http://bit.ly/432-2020-minute-12) is due at 2 PM.
 02-26 | [Quiz 1](https://github.com/THOMASELOVE/2020-432/tree/master/quizzes) will be made available at 5 PM.
 03-02 | [Quiz 1](https://github.com/THOMASELOVE/2020-432/tree/master/quizzes) is due at 9 AM.
 03-09 | [Project 1 Posters/Portfolios](https://github.com/THOMASELOVE/2020-432/tree/master/projects/project1) are due at 2 PM.
