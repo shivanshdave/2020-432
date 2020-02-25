@@ -6,7 +6,7 @@
 
 Session | Date | Materials 
 --------: | :-----: | ----------------------------------------------------------------------
-Class 12 | 02-25 | Putting Together Your Project 1, Multiple Imputation for `glm` and `lm` models
+[Class 12](https://github.com/THOMASELOVE/2020-432/tree/master/classes/class12) | 02-25 | Putting Together Your Project 1, Multiple Imputation for `glm` and `lm` models
 -- | 02-26 | If necessary, [next version of Project 1 Proposal](https://github.com/THOMASELOVE/2020-432/tree/master/projects/project1#new-some-additional-thoughts-after-reviewing-the-proposal-drafts) due at 9 AM.
 -- | 02-26 | [Minute Paper after Class 12](http://bit.ly/432-2020-minute-12) due at 2 PM.
 -- | 02-26 | [Quiz 1](https://github.com/THOMASELOVE/2020-432/tree/master/quizzes) will be made available at 5 PM.
