@@ -4,16 +4,10 @@
 
 - Students will complete 6 homework assignments this semester. All homework assignments will be posted to the web a minimum of one week before the due date.
 
-## Homework 1
+## Homeworks 1-3 are now complete.
 
 - Instructions for [Homework 1 are now available](https://github.com/THOMASELOVE/2020-432/tree/master/homework/hw01).
-
-## Homework 2
-
 - Instructions for [Homework 2 are now available](https://github.com/THOMASELOVE/2020-432/tree/master/homework/hw02).
-
-## Homework 3
-
 - Instructions for [Homework 3 are now available](https://github.com/THOMASELOVE/2020-432/tree/master/homework/hw03).
 
 ## Homework 4
