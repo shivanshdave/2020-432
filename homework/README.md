@@ -2,7 +2,7 @@
 
 ## How Many Homeworks?
 
-- Students will complete between 6 and 8 homework assignments this semester - the exact number is not yet determined. All homework assignments will be posted to the web a minimum of one week before the due date.
+- Students will complete 6 homework assignments this semester. All homework assignments will be posted to the web a minimum of one week before the due date.
 
 ## Homework 1
 
@@ -16,8 +16,17 @@
 
 - Instructions for [Homework 3 are now available](https://github.com/THOMASELOVE/2020-432/tree/master/homework/hw03).
 
-## Additional homework assignments will appear as the semester continues.
+## Homework 4
 
+- Homework 4 will be due on 2020-03-23 at 5 PM. Instructions will appear before 2020-03-16.
+
+## Homework 5
+
+- Homework 5 will be due on 2020-04-13 at 5 PM. Instructions will appear before 2020-04-06.
+
+## Homework 6
+
+- Homework 6 will be due on 2020-04-20 at 5 PM. Instructions will appear before 2020-04-13.
 
 ## Grading
 
