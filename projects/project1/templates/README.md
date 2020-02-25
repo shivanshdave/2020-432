@@ -33,8 +33,9 @@ Check out https://bookdown.org/yihui/rmarkdown/html-document.html for more on cu
 ## NEW! Poster Template
 
 I have now provided a posterdown template for your use in developing your Poster for Project 1. To use the template, you'll need to have the posterdown package installed in R.
-    - [R Markdown Code for Poster](https://github.com/THOMASELOVE/2020-432/blob/master/projects/project1/templates/proj1_template_posterdown.Rmd)
-    - [View the HTML result (on RPubs)](https://rpubs.com/TELOVE/poster_template_2020-432)
+
+- [R Markdown Code for Poster](https://github.com/THOMASELOVE/2020-432/blob/master/projects/project1/templates/proj1_template_posterdown.Rmd)
+- [View the HTML result of the Poster (on RPubs)](https://rpubs.com/TELOVE/poster_template_2020-432)
     
 If you want to customize the poster further, the [most useful page I found is here](https://github.com/brentthorne/posterdown/wiki/posterdown_html).
 
