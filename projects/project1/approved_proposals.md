@@ -1,13 +1,13 @@
 # Project 1 Proposal Status
 
-Status Report as of 2020-02-24 at 7:40 PM | Proposals | Investigators
+Status Report as of 2020-02-24 at 7:50 PM | Proposals | Investigators
 :--------------------------------------- | ----: | ----:
-**[Approved Proposals](https://github.com/THOMASELOVE/2020-432/blob/master/projects/project1/approved_proposals.md#proposals-dr-love-has-approved)**  | **28** | **36**
-  Approved with a title | 25 | 33
-  *Approved but still needs a title* | 3 | 3
-**[Not Yet Approved](https://github.com/THOMASELOVE/2020-432/blob/master/projects/project1/approved_proposals.md#proposals-not-yet-approved)** | **9** | **12**
+**[Approved Proposals](https://github.com/THOMASELOVE/2020-432/blob/master/projects/project1/approved_proposals.md#proposals-dr-love-has-approved)**  | **30** | **39**
+  Approved with a title | 26 | 34
+  *Approved but still needs a title* | 4 | 5
+**[Not Yet Approved](https://github.com/THOMASELOVE/2020-432/blob/master/projects/project1/approved_proposals.md#proposals-not-yet-approved)** | **7** | **9**
   Dr. Love awaits your next revision | 7 | 9
-  Revision on Canvas, awaiting Dr. Love's Review | 2 | 3
+  Revision on Canvas, awaiting Dr. Love's Review | 0 | 0
 
 ## Proposals Dr. Love has Approved
 
@@ -33,6 +33,7 @@ Code | Investigator(s) | Title
 `18-S` | Noah Lorincz-Comi | Predicting Absenteeism at Work
 `20-S` | Stephanie Merlino Barr | *Unnamed project using County Health Rankings to study infant mortality*
 `21-S` | Anna Miller | Predicting Blood Pressure Medication Usage and Doctor Checkups from 500 Cities Data
+`23-P` | Ryan Moore and Khaled Shorbaji | *Unnamed project about mortality in revascularized coronary patients*
 `24-S` | Troy Neptune | Predicting High Quality Movies Using Rotten Tomatoes
 `25-S` | Vineet Punia | Predicting *Wine Enthusiast* magazine's wine ratings
 `26-S` | Abigail Rippin | Social Network Use Interacting with Anxiety and Stress Scores in Students
@@ -42,6 +43,7 @@ Code | Investigator(s) | Title
 `31-S` | Wayne Tsuang | Air Pollution and Life Expectancy in the County Health Rankings
 `32-S` | Emily Tyszka | *Unnamed project using County Health Rankings to study violent crime and teen birth rates*
 `34-S` | Anastasia Vassiliou | Living Near ART
+`35-S` | Gi-Ming Wang | Clinical Effect of Glioma on Mutation Count and IDH status
 `36-S` | Siyu Wang | Patient Demographic Factors and Prediction of Spinal Anesthesia Outcomes
 `37-S` | Jakob Woerner | Assessing Hypertension in American Adults
 `38-S` | Victor Zhou | Waist/hip ratio and the prediction of diabetes
@@ -58,7 +60,5 @@ Code | Investigator(s) | Another Revision Required?
 `16-P` | Ani Kumar and Div Patel | Yes, see [Canvas](https://canvas.case.edu/) for comments.
 `19-S` | Yuxuan Luo | Yes, see [Canvas](https://canvas.case.edu/) for comments.
 `22-S` | Shayan Monabbati | Yes, see [Canvas](https://canvas.case.edu/) for comments.
-`23-P` | Ryan Moore and Khaled Shorbaji | Under review by Dr. Love
 `29-S` | Claire Sonneborn | Yes, see [Canvas](https://canvas.case.edu/) for comments.
 `33-S` | Vachan Vadmal | Yes, see [Canvas](https://canvas.case.edu/) for comments.
-`35-S` | Gi-Ming Wang | Under review by Dr. Love
