@@ -10,6 +10,13 @@ Slides in PDF | Slides in R Markdown | Audio Recording | Need Help?
 
 Today, we'll be talking about multiple imputation and cross-validation approaches when fitting a linear regression model with `lm` and when fitting a logistic regression model with `glm`, in each case without using `aregImpute` or the `Hmisc` package.
 
+### A Few References on Multiple Imputation
+
+- Thomas Leeper's [Tutorial](https://thomasleeper.com/Rcourse/Tutorials/mi.html) which covers methods using `mice`, but also the `Amelia` and `mi` packages.
+- Sterne JAC, White IR, Carlin JB, Spratt M, Royston P, Kenward MG, Wood AM, and Carpenter JR [Multiple imputation for missing data in epidemiological and clinical research: potential and pitfalls](https://www.bmj.com/content/338/bmj.b2393) BMJ 2009;338:b2393
+- Stef van Buuren and Karin Groothuis-Oudshoorn [mice: Multivariate Imputation by Chained Equations in R](https://www.jstatsoft.org/article/view/v045i03) *J Statistical Software* 2011, 45:3.
+- UCLA Statistical Consulting R FAQ: [How do I perform multiple imputation using predictive mean matching in R?]( https://stats.idre.ucla.edu/r/faq/how-do-i-perform-multiple-imputation-using-predictive-mean-matching-in-r/)
+
 ## Today's Announcements
 
 1. Please remember that we don't have class this Thursday 2020-02-27. 
