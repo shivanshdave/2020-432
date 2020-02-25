@@ -27,12 +27,12 @@ Code | Investigator(s) | Title
 `09-P` | Joshua Froess and Rajeev Varkey | Will Your Kickstarter Project Succeed?
 `10-S` | Farrah Gao | Health Indicators and the Prediction of Premature Births and Infant Mortality
 `11-P` | Emily Hannon and Jasmine Olvany | Exploring the Connection between Human Population and Sea Otter Health
-`12-S` | Logan Harper | *Unnamed project on diabetes using the National Health Interview Survey*
+`12-S` | *Logan Harper* | *Unnamed project on diabetes using the National Health Interview Survey*
 `13-S` | Vanessa Ho | Poor Physical Health as related to Obesity, Activity, Mental Illness, and Insurance
 `14-P` | Jason Huang and Yufei Li | Do E-cigarettes help you sleep better?
 `17-P` | Shiying Liu and Yiheng Pan | Predicting Total Cholesterol using Demographics, Nutrients and Smoking Status
 `18-S` | Noah Lorincz-Comi | Predicting Absenteeism at Work
-`20-S` | Stephanie Merlino Barr | *Unnamed project using County Health Rankings to study infant mortality*
+`20-S` | *Stephanie Merlino Barr* | *Unnamed project using County Health Rankings to study infant mortality*
 `21-S` | Anna Miller | Predicting Blood Pressure Medication Usage and Doctor Checkups from 500 Cities Data
 `23-P` | Ryan Moore and Khaled Shorbaji | *Unnamed project about mortality in revascularized coronary patients*
 `24-S` | Troy Neptune | Predicting High Quality Movies Using Rotten Tomatoes
@@ -42,7 +42,7 @@ Code | Investigator(s) | Title
 `28-S` | Matt Siuba | Does fluid administration on Day 1 of ICU stay predict mortality or length of stay?
 `30-S` | Alena Sorensen | Caregiving and the Connection with Mental Health and Life Satisfaction
 `31-S` | Wayne Tsuang | Air Pollution and Life Expectancy in the County Health Rankings
-`32-S` | Emily Tyszka | *Unnamed project using County Health Rankings to study violent crime and teen birth rates*
+`32-S` | *Emily Tyszka* | *Unnamed project using County Health Rankings to study violent crime and teen birth rates*
 `34-S` | Anastasia Vassiliou | Living Near ART
 `35-S` | Gi-Ming Wang | Clinical Effect of Glioma on Mutation Count and IDH status
 `36-S` | Siyu Wang | Patient Demographic Factors and Prediction of Spinal Anesthesia Outcomes
