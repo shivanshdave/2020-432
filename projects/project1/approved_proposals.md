@@ -52,7 +52,7 @@ Code | Investigator(s) | Title
 ## Proposals Not Yet Approved
 
 - I await the next revision for each of the proposals below, which I hope will be the last revision needed.
-- The next formal deadline is Wednesday 2020-02-26 at 9 AM, but all of the revisions requested for these proposals are straightforward enough that I am hopeful you will complete them much sooner, perhaps on Monday night or Tuesday morning.
+- The next formal deadline is Wednesday 2020-02-26 at 9 AM, but all of the revisions requested for these proposals are straightforward enough that I am hopeful you will complete them much sooner, I hope sometime Tuesday morning.
 
 Code | Investigator(s) | Another Revision Required?
 ------: | :-------------------------: | :-------------------------:
