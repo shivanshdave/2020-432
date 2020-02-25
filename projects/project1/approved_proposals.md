@@ -2,11 +2,11 @@
 
 Status Report as of 2020-02-24 at 7:50 PM | Proposals | Investigators
 :--------------------------------------- | ----: | ----:
-**[Approved Proposals](https://github.com/THOMASELOVE/2020-432/blob/master/projects/project1/approved_proposals.md#proposals-dr-love-has-approved)**  | **30** | **39**
-  Approved with a title | 26 | 34
+**[Approved Proposals](https://github.com/THOMASELOVE/2020-432/blob/master/projects/project1/approved_proposals.md#proposals-dr-love-has-approved)**  | **31** | **41**
+  Approved with a title | 27 | 36
   *Approved but still needs a title* | 4 | 5
-**[Not Yet Approved](https://github.com/THOMASELOVE/2020-432/blob/master/projects/project1/approved_proposals.md#proposals-not-yet-approved)** | **7** | **9**
-  Dr. Love awaits your next revision | 7 | 9
+**[Not Yet Approved](https://github.com/THOMASELOVE/2020-432/blob/master/projects/project1/approved_proposals.md#proposals-not-yet-approved)** | **6** | **7**
+  Dr. Love awaits your next revision | 6 | 7
   Revision on Canvas, awaiting Dr. Love's Review | 0 | 0
 
 ## Proposals Dr. Love has Approved
@@ -29,6 +29,7 @@ Code | Investigator(s) | Title
 `11-P` | Emily Hannon and Jasmine Olvany | Exploring the Connection between Human Population and Sea Otter Health
 `12-S` | Logan Harper | *Unnamed project on diabetes using the National Health Interview Survey*
 `13-S` | Vanessa Ho | Poor Physical Health as related to Obesity, Activity, Mental Illness, and Insurance
+`14-P` | Jason Huang and Yufei Li | Do E-cigarettes help you sleep better?
 `17-P` | Shiying Liu and Yiheng Pan | Predicting Total Cholesterol using Demographics, Nutrients and Smoking Status
 `18-S` | Noah Lorincz-Comi | Predicting Absenteeism at Work
 `20-S` | Stephanie Merlino Barr | *Unnamed project using County Health Rankings to study infant mortality*
@@ -56,7 +57,6 @@ Code | Investigator(s) | Title
 Code | Investigator(s) | Another Revision Required?
 ------: | :-------------------------: | :-------------------------:
 `06-S` | Sofija Conic | Yes, see [Canvas](https://canvas.case.edu/) for comments.
-`14-P` | Jason Huang and Yufei Li | Yes, see [Canvas](https://canvas.case.edu/) for comments.
 `16-P` | Ani Kumar and Div Patel | Yes, see [Canvas](https://canvas.case.edu/) for comments.
 `19-S` | Yuxuan Luo | Yes, see [Canvas](https://canvas.case.edu/) for comments.
 `22-S` | Shayan Monabbati | Yes, see [Canvas](https://canvas.case.edu/) for comments.
