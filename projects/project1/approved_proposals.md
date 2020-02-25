@@ -3,8 +3,8 @@
 Status Report as of 2020-02-25 at 10:10 AM | Proposals | Investigators
 :--------------------------------------- | ----: | ----:
 **[Approved Proposals](https://github.com/THOMASELOVE/2020-432/blob/master/projects/project1/approved_proposals.md#proposals-dr-love-has-approved)**  | **33** | **43**
-  Approved with a title | 31 | 41
-  *Approved but still needs a title* | 2 | 2
+  Approved with a title | 32 | 42
+  *Approved but still needs a title* | 1 | 1
 **[Not Yet Approved](https://github.com/THOMASELOVE/2020-432/blob/master/projects/project1/approved_proposals.md#proposals-not-yet-approved)** | **4** | **5**
   Dr. Love awaits your next revision | 4 | 5
   Revision on Canvas, awaiting Dr. Love's Review | 0 | 0
@@ -44,7 +44,7 @@ Code | Investigator(s) | Title
 `29-S` | Claire Sonneborn | Predicting county flu vaccination rates in the Southwestern United States
 `30-S` | Alena Sorensen | Caregiving and the Connection with Mental Health and Life Satisfaction
 `31-S` | Wayne Tsuang | Air Pollution and Life Expectancy in the County Health Rankings
-`32-S` | *Emily Tyszka* | *Unnamed project using County Health Rankings to study violent crime and teen birth rates*
+`32-S` | Emily Tyszka | Social Ills in the Lone Star State: Predicting Violence and Teen Pregnancy in Texas
 `34-S` | Anastasia Vassiliou | Living Near ART
 `35-S` | Gi-Ming Wang | Clinical Effect of Glioma on Mutation Count and IDH status
 `36-S` | Siyu Wang | Patient Demographic Factors and Prediction of Spinal Anesthesia Outcomes
