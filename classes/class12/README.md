@@ -22,13 +22,13 @@ Today, we'll be talking about multiple imputation and cross-validation approache
 1. Please remember that we don't have class this Thursday 2020-02-27. 
 2. There will be a **Minute Paper after Class 12**, which will be due at 2 PM Wednesday.
 3. The [Answer Sketch for Homework 3](https://github.com/THOMASELOVE/2020-432/tree/master/homework/hw03) is available. We anticipate **grades** appearing at http://bit.ly/432-2020-grades by 5 PM on 2020-02-25.
-4. Since we last met, there have been several updates to the [Project 1 Instructions](https://github.com/THOMASELOVE/2020-432/tree/master/projects/project1).
+4. **Project 1 Proposal Status**
+    - Let's take a look at [where we are](https://github.com/THOMASELOVE/2020-432/blob/master/projects/project1/approved_proposals.md).
+5. Since we last met, there have been several updates to the [Project 1 Instructions](https://github.com/THOMASELOVE/2020-432/tree/master/projects/project1).
     - This includes [a set of portfolio templates](https://github.com/THOMASELOVE/2020-432/tree/master/projects/project1/templates) which can be very helpful to you in terms of getting the formatting to work well. Switching between these three templates is simply a matter of swapping out the YAML code at the start of the R Markdown document.
-    - If Dr. Love has accepted your [Project 1 Proposal Revision](https://github.com/THOMASELOVE/2020-432/tree/master/projects/project1#new-some-additional-thoughts-after-reviewing-the-proposal-drafts) and given you a grade of 10 on Canvas, you'll be on [the list of approved proposals](https://github.com/THOMASELOVE/2020-432/blob/master/projects/project1/approved_proposals.md), and should move on to building your Project 1 Portfolio. 
-        - If your approved project has an [unnamed title in this listing](https://github.com/THOMASELOVE/2020-432/blob/master/projects/project1/approved_proposals.md), or if you just want to change what I have listed, please email a new title (maximum 85 characters, including spaces) to `431-help` with the subject heading: **Project 1 Proposal New Title** as soon as possible.
-    - If your grade on the Proposal is still below 10 after revision, then your next (and, we fervently hope, final) revision is due Wednesday 2020-02-26 at 9 AM to Canvas, in the same place where you've posted prior revisions.
-5. Quiz 1 covers materials through the first 11 classes, and Chapters 1-5 and 7-8 of Spiegelhalter's *Art of Statistics*. It will have **either 14 or 15** questions. It **will be available** at 5 PM Wednesday 2020-02-26.
-6. The next meeting of [the Cleveland R Users Group](https://www.meetup.com/Cleveland-UseR-Group) is Wednesday evening (2020-02-26). I've been to a few of the meetings in the past (though I won't be at this one) and found them useful/interesting.
+    - The newest arrival is a [posterdown template](https://github.com/THOMASELOVE/2020-432/tree/master/projects/project1/templates) which we'll talk about today, and which I'm expecting you to use in preparing your poster.
+6. Quiz 1 covers materials through the first 11 classes, and Chapters 1-5 and 7-8 of Spiegelhalter's *Art of Statistics*. It will have **either 14 or 15** questions. It **will be available** at 5 PM Wednesday 2020-02-26.
+7. The next meeting of [the Cleveland R Users Group](https://www.meetup.com/Cleveland-UseR-Group) is Wednesday evening (2020-02-26). I've been to a few of the meetings in the past (though I won't be at this one) and found them useful/interesting.
 
 ## Next Few Deliverables (from [the Course Calendar](https://github.com/THOMASELOVE/2020-432/blob/master/calendar.md))
 
