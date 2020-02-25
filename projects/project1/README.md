@@ -14,7 +14,8 @@ Instructions for 432 Project 1
             Proposal](#evaluating-the-project-1-proposal)
       - [NEW\! Some Additional Thoughts after reviewing the Proposal
         Drafts](#new-some-additional-thoughts-after-reviewing-the-proposal-drafts)
-      - [NEW\! Project 1 Templates](#new-project-1-templates)
+      - [NEW\! Project 1 Portfolio
+        Templates](#new-project-1-portfolio-templates)
       - [NEW\! The Group Meetings are
         Cancelled](#new-the-group-meetings-are-cancelled)
   - [NEW\! Deliverable 2. The Poster and The
@@ -25,7 +26,7 @@ Instructions for 432 Project 1
           - [Section 11: Logistic
             Regression](#section-11-logistic-regression)
           - [Section 12: The Discussion](#section-12-the-discussion)
-      - [The Poster](#the-poster)
+      - [NEW\! The Poster](#new-the-poster)
 
 As a substantial part of your course grade, you will complete two
 Projects this semester. This document describes Project 1. Instructions
@@ -294,7 +295,7 @@ Every proposal should …
     .csv file. This is a new and additional requirement for the revised
     proposal, to demonstrate that you’ve done the necessary work.
 
-## NEW\! Project 1 Templates
+## NEW\! Project 1 Portfolio Templates
 
 I built three templates to make it a little easier to meet the
 requirements specified here. You’ll find them [at this
@@ -596,7 +597,7 @@ sure to address at least two of these) include:
   - What was the most useful thing you learned while doing the project,
     and why?
 
-## The Poster
+## NEW\! The Poster
 
 You’ll be using the [posterdown
 package](https://github.com/brentthorne/posterdown) to build your poster
@@ -607,22 +608,36 @@ for Project 1.
     this [installation and usage
     guide](https://github.com/brentthorne/posterdown/wiki/Installation-&-Usage-Guide).
 
-Additional details on the poster should be available by 2020-02-25. The
-key thing to know at this time is that **every word and every
-image/table/chart** on your poster should come directly from the
-materials contained in the first 12 sections of your portfolio. You will
-not be developing any new material for the poster once you have the
-portfolio. As a result, we encourage you to complete the portfolio
-first.
+The key things to know at this time:
+
+1.  Your audience for the poster includes Dr. Love, the TAs and your
+    fellow students. Prepare your poster with that audience in mind.
+    What will they need to know to understand what you’ve done, and get
+    excited about it?
+2.  Dr. Love has prepared a **poster template** for you, using
+    `posterdown` and [you can find it
+    here](https://github.com/THOMASELOVE/2020-432/tree/master/projects/project1/templates#new-poster-template).
+    There is complete R Markdown code, and the resulting [HTML poster
+    can be viewed at
+    RPubs](https://rpubs.com/TELOVE/poster_template_2020-432).
+3.  (Essentially) **every word and every image/table/chart** on your
+    poster should come directly from the materials contained in the
+    first 12 sections of your portfolio. You will not be developing any
+    new material for the poster (just restating things you’ve already
+    done) once you have the portfolio. As a result, we encourage you to
+    complete the portfolio first.
+
+<!-- end list -->
 
   - The development of the poster involves selecting useful information
     to present and then arranging it within the poster.
   - Your poster will include no R code (you’ll be using `echo = FALSE`
     to ensure this) but instead will provide nicely formatted figures
     and tables along with text.
-  - You’ll have to cut at least 90% of what you’ve done in the portfolio
-    out, and we’ll provide some guidance on that, but probably less than
-    you want.
+  - You’ll have to cut 90-95% of your portfolio, and you should follow
+    your instincts regarding your audience (Dr. Love, the TAs and your
+    fellow students are your audience) and the template Dr. Love has
+    prepared to help think about this.
   - Developing the poster is where **you** have to make decisions about
     what’s most important to show an audience about your work. That’s a
     critically important skill.
