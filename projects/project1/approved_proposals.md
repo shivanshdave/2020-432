@@ -2,8 +2,8 @@
 
 Status Report as of 2020-02-25 at 10:45 AM | Proposals | Investigators
 :--------------------------------------- | ----: | ----:
-**[Approved Proposals](https://github.com/THOMASELOVE/2020-432/blob/master/projects/project1/approved_proposals.md#proposals-dr-love-has-approved)**  | **33** | **43**
-**[Not Yet Approved](https://github.com/THOMASELOVE/2020-432/blob/master/projects/project1/approved_proposals.md#proposals-not-yet-approved)**: Awaiting your next revision | **4** | **5**
+**[Approved Proposals](https://github.com/THOMASELOVE/2020-432/blob/master/projects/project1/approved_proposals.md#proposals-dr-love-has-approved)**  | **34** | **44**
+**[Not Yet Approved](https://github.com/THOMASELOVE/2020-432/blob/master/projects/project1/approved_proposals.md#proposals-not-yet-approved)**: Awaiting your next revision | **3** | **4**
   Revision submitted, awaiting Dr. Love's Review | 0 | 0
 
 ## Proposals Dr. Love has Approved
@@ -29,6 +29,7 @@ Code | Investigator(s) | Title
 `14-P` | Jason Huang and Yufei Li | Do E-cigarettes help you sleep better?
 `17-P` | Shiying Liu and Yiheng Pan | Predicting Total Cholesterol using Demographics, Nutrients and Smoking Status
 `18-S` | Noah Lorincz-Comi | Predicting Absenteeism at Work
+`19-S` | Yuxuan Luo | Predicting DADS Score and Depressive Syndrome in Type 2 Diabetes Patients
 `20-S` | Stephanie Merlino Barr | Exploring infant mortality using County Health Rankings
 `21-S` | Anna Miller | Predicting Blood Pressure Medication Usage and Doctor Checkups from 500 Cities Data
 `23-P` | Ryan Moore and Khaled Shorbaji | Mortality in revascularized coronary patients after noncardiac surgery
@@ -55,6 +56,5 @@ Code | Investigator(s) | Title
 Code | Investigator(s) | Another Revision Required?
 ------: | :-------------------------: | :-------------------------:
 `16-P` | Ani Kumar and Div Patel | Yes, see [Canvas](https://canvas.case.edu/) for comments.
-`19-S` | Yuxuan Luo | Yes, see [Canvas](https://canvas.case.edu/) for comments.
 `22-S` | Shayan Monabbati | Yes, see [Canvas](https://canvas.case.edu/) for comments.
 `33-S` | Vachan Vadmal | Yes, see [Canvas](https://canvas.case.edu/) for comments.
