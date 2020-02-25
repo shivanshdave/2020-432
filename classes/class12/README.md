@@ -51,4 +51,10 @@ Date | Deliverable
 
 ## One Last Thing
 
-**To come**.
+If you're tired of building boxplots with violins, you might want to consider beeswarm plots, using [the `ggbeeswarm` package](https://github.com/eclarke/ggbeeswarm). 
+
+Here's an example, from [@WeAreRLadies](https://twitter.com/WeAreRLadies/status/1227213192385818624) with [code here](https://gist.github.com/ivelasq/2ef720fe7138d1399b3315265e61232a).
+
+![](https://github.com/THOMASELOVE/2020-432/blob/master/classes/class12/box_violin.png)
+![](https://github.com/THOMASELOVE/2020-432/blob/master/classes/class12/beeswarm.png)
+
