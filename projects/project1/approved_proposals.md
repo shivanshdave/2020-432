@@ -3,9 +3,8 @@
 Status Report as of 2020-02-25 at 10:45 AM | Proposals | Investigators
 :--------------------------------------- | ----: | ----:
 **[Approved Proposals](https://github.com/THOMASELOVE/2020-432/blob/master/projects/project1/approved_proposals.md#proposals-dr-love-has-approved)**  | **33** | **43**
-**[Not Yet Approved](https://github.com/THOMASELOVE/2020-432/blob/master/projects/project1/approved_proposals.md#proposals-not-yet-approved)** | **4** | **5**
-  Dr. Love awaits your next revision | 4 | 5
-  Revision on Canvas, awaiting Dr. Love's Review | 0 | 0
+**[Not Yet Approved](https://github.com/THOMASELOVE/2020-432/blob/master/projects/project1/approved_proposals.md#proposals-not-yet-approved)**: Awaiting your next revision | **4** | **5**
+  Revision submitted, awaiting Dr. Love's Review | 0 | 0
 
 ## Proposals Dr. Love has Approved
 
