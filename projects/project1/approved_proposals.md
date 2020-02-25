@@ -6,8 +6,8 @@ Status Report as of 2020-02-24 at 7:25 PM | Proposals | Investigators
   Approved with a title | 25 | 33
   *Approved but still needs a title* | 3 | 3
 **[Not Yet Approved](https://github.com/THOMASELOVE/2020-432/blob/master/projects/project1/approved_proposals.md#proposals-not-yet-approved)** | **9** | **12**
-  Dr. Love awaits your next revision | 6 | 7
-  Revision on Canvas, awaiting Dr. Love's Review | 3 | 5
+  Dr. Love awaits your next revision | 7 | 9
+  Revision on Canvas, awaiting Dr. Love's Review | 2 | 3
 
 ## Proposals Dr. Love has Approved
 
@@ -54,7 +54,7 @@ Code | Investigator(s) | Title
 Code | Investigator(s) | Another Revision Required?
 ------: | :-------------------------: | :-------------------------:
 `06-S` | Sofija Conic | Yes, see [Canvas](https://canvas.case.edu/) for comments.
-`14-P` | Jason Huang and Yufei Li | Under review by Dr. Love
+`14-P` | Jason Huang and Yufei Li | Yes, see [Canvas](https://canvas.case.edu/) for comments.
 `16-P` | Ani Kumar and Div Patel | Yes, see [Canvas](https://canvas.case.edu/) for comments.
 `19-S` | Yuxuan Luo | Yes, see [Canvas](https://canvas.case.edu/) for comments.
 `22-S` | Shayan Monabbati | Yes, see [Canvas](https://canvas.case.edu/) for comments.
