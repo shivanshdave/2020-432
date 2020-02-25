@@ -19,18 +19,25 @@ Class 14 | 03-05 | "Best Subsets" for Logistic Regression, Dealing with Aggregat
 -- | 03-12 | No class. CWRU Spring Break (03-09 through 03-13)
 Class 15 | 03-17 | Fitting Models to Multi-Categorical Responses.
 Class 16 | 03-19 | Fitting Models to Multi-Categorical Responses, **ART** Chapter 6.
+-- | 03-23 | [Homework 4](https://github.com/THOMASELOVE/2020-432/tree/master/homework) will be due at 5 PM.
 Class 17 | 03-24 | Fitting Models to Multi-Categorical Responses.
 Class 18 | 03-26 | To Be Announced, **ART** Chapter 12
+-- | 03-26 | [Quiz 2](https://github.com/THOMASELOVE/2020-432/tree/master/quizzes) will be made available at 5 PM.
+-- | 03-30 | [Quiz 2](https://github.com/THOMASELOVE/2020-432/tree/master/quizzes) is due at 2 PM.
 Class 19 | 03-31 | Describing and Dealing with Time-To-Event (Survival) Data
 -- | 04-01 | Project 2 Proposal due at 2 PM. Details to come.
 Class 20 | 04-02 | Fitting Cox Models for Time-to-Event Data
 Class 21 | 04-07 | TBA
 Class 22 | 04-09 | TBA, **ART** Chapter 13
+-- | 04-13 | [Homework 5](https://github.com/THOMASELOVE/2020-432/tree/master/homework) will be due at 5 PM.
 Class 23 | 04-14 | TBA
 Class 24 | 04-16 | TBA, **ART** Chapter 14
+-- | 04-20 | [Homework 6](https://github.com/THOMASELOVE/2020-432/tree/master/homework) will be due at 5 PM.
 Class 25 | 04-21 | TBA
 Class 26 | 04-23 | TBA
--- | 04-28 | Project 2 will be due during this week. Details to come.
+-- | 04-23 | [Quiz 3](https://github.com/THOMASELOVE/2020-432/tree/master/quizzes) will be made available at 5 PM.
+-- | 04-27 | Project 2 will be due during this week. Details to come.
+-- | 04-29 | [Quiz 3](https://github.com/THOMASELOVE/2020-432/tree/master/quizzes) is due at 2 PM.
 
 ### Deadlines that have passed...
 
