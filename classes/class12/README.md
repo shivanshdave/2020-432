@@ -57,4 +57,5 @@ Here's an example, from [@WeAreRLadies](https://twitter.com/WeAreRLadies/status/
 
 ![](https://github.com/THOMASELOVE/2020-432/blob/master/classes/class12/box_violin.png)
 ![](https://github.com/THOMASELOVE/2020-432/blob/master/classes/class12/beeswarm.png)
+![](https://github.com/THOMASELOVE/2020-432/blob/master/classes/class12/beeswarm2.png)
 
