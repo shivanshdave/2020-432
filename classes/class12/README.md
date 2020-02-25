@@ -53,9 +53,46 @@ Date | Deliverable
 
 If you're tired of building boxplots with violins, you might want to consider beeswarm plots, using [the `ggbeeswarm` package](https://github.com/eclarke/ggbeeswarm). 
 
-Here's an example, from [@WeAreRLadies](https://twitter.com/WeAreRLadies/status/1227213192385818624) with [code here](https://gist.github.com/ivelasq/2ef720fe7138d1399b3315265e61232a).
+Here's an example, motivated by an example from [@WeAreRLadies](https://twitter.com/WeAreRLadies/status/1227213192385818624) with [code here](https://gist.github.com/ivelasq/2ef720fe7138d1399b3315265e61232a).
 
 ![](https://github.com/THOMASELOVE/2020-432/blob/master/classes/class12/box_violin.png)
-![](https://github.com/THOMASELOVE/2020-432/blob/master/classes/class12/beeswarm.png)
 ![](https://github.com/THOMASELOVE/2020-432/blob/master/classes/class12/beeswarm2.png)
 
+Here's the code...
+
+```{r, eval = FALSE}
+library(ggbeeswarm)
+library(viridis)
+library(tidyverse)
+
+spotify_songs <- 
+    readr::read_csv('https://raw.githubusercontent.com/rfordatascience/tidytuesday/master/data/2020/2020-01-21/spotify_songs.csv') 
+
+# Boxplot with Violin 
+
+spotify_songs %>% 
+    filter(playlist_genre == "pop" & track_popularity > 50) %>% 
+    ggplot(aes(x = playlist_subgenre, y = danceability, group = playlist_subgenre, fill = playlist_subgenre)) +
+    geom_violin() +
+    geom_boxplot(width = 0.1, fill = "white") +
+    ggtitle("Is Dance Pop More Danceable?", 
+            subtitle = "Track Popularity of 50+") +
+    scale_fill_viridis(discrete = T) +
+    theme_minimal() +
+    theme(axis.title.x = element_blank(),
+          legend.position = "none")
+
+# Beeswarm with Violin
+
+spotify_songs %>% 
+    filter(playlist_genre == "pop" & track_popularity > 50) %>% 
+    ggplot(aes(x = playlist_subgenre, y = danceability, group = playlist_subgenre, color = playlist_subgenre)) +
+    geom_quasirandom(alpha = 0.4) +
+    geom_boxplot(width = 0.1, fill = "white") +
+    ggtitle("Is Dance Pop More Danceable?", 
+            subtitle = "Track Popularity of 50+") +
+    scale_color_viridis(discrete = T) +
+    theme_minimal() +
+    theme(axis.title.x = element_blank(),
+          legend.position = "none")
+```
