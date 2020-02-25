@@ -1,10 +1,10 @@
 # Project 1 Proposal Status
 
-Status Report as of 2020-02-25 at 6:40 AM | Proposals | Investigators
+Status Report as of 2020-02-25 at 7:30 AM | Proposals | Investigators
 :--------------------------------------- | ----: | ----:
 **[Approved Proposals](https://github.com/THOMASELOVE/2020-432/blob/master/projects/project1/approved_proposals.md#proposals-dr-love-has-approved)**  | **31** | **41**
-  Approved with a title | 28 | 38
-  *Approved but still needs a title* | 3 | 3
+  Approved with a title | 29 | 39
+  *Approved but still needs a title* | 2 | 2
 **[Not Yet Approved](https://github.com/THOMASELOVE/2020-432/blob/master/projects/project1/approved_proposals.md#proposals-not-yet-approved)** | **6** | **7**
   Dr. Love awaits your next revision | 6 | 7
   Revision on Canvas, awaiting Dr. Love's Review | 0 | 0
@@ -27,7 +27,7 @@ Code | Investigator(s) | Title
 `09-P` | Joshua Froess and Rajeev Varkey | Will Your Kickstarter Project Succeed?
 `10-S` | Farrah Gao | Health Indicators and the Prediction of Premature Births and Infant Mortality
 `11-P` | Emily Hannon and Jasmine Olvany | Exploring the Connection between Human Population and Sea Otter Health
-`12-S` | *Logan Harper* | *Unnamed project on diabetes using the National Health Interview Survey*
+`12-S` | Logan Harper | Predicting Diabetes Duration and Missed Medical Care from NHIS
 `13-S` | Vanessa Ho | Poor Physical Health as related to Obesity, Activity, Mental Illness, and Insurance
 `14-P` | Jason Huang and Yufei Li | Do E-cigarettes help you sleep better?
 `17-P` | Shiying Liu and Yiheng Pan | Predicting Total Cholesterol using Demographics, Nutrients and Smoking Status
