@@ -22,6 +22,9 @@ Today, we'll be talking about multiple imputation and cross-validation approache
 1. Please remember that we don't have class this Thursday 2020-02-27. 
 2. There is a [Minute Paper after Class 12](http://bit.ly/432-2020-minute-12). Please complete it by 2 PM Wednesday 2020-02-26.
 3. The [Answer Sketch for Homework 3](https://github.com/THOMASELOVE/2020-432/tree/master/homework/hw03) is available. We anticipate **grades** appearing at http://bit.ly/432-2020-grades by 5 PM on 2020-02-25.
+4. **Calendar Updates**
+    - I've committed since we last met to having a total of **6 Homeworks** this term, and I've specified the dates on [the Calendar](https://github.com/THOMASELOVE/2020-432/blob/master/calendar.md). There may be one additional (optional) bonus assignment. Homework 4 is due at 5 PM on Monday 2020-03-23, and Homeworks 5 and 6 are due 2020-04-13 and 2020-04-20, respectively. I'll post the instructions for each Homework at least one week in advance.
+    - I've committed to having 3 Quizzes, in total, this semester, and I've [posted the dates to the Calendar](https://github.com/THOMASELOVE/2020-432/blob/master/calendar.md). Quiz 2 is at the end of March, and Quiz 3 is at the end of April.
 4. **Project 1 Proposal Status**
     - Let's take a look at [where we are](https://github.com/THOMASELOVE/2020-432/blob/master/projects/project1/approved_proposals.md).
 5. Since we last met, there have been several updates to the [Project 1 Instructions](https://github.com/THOMASELOVE/2020-432/tree/master/projects/project1).
@@ -33,7 +36,7 @@ Today, we'll be talking about multiple imputation and cross-validation approache
     - Quiz 1 has 14 questions and is worth 75 points.
     - Some preliminary information [is already available](https://github.com/THOMASELOVE/2020-432/edit/master/quizzes/README.md), including a link to the Shared Google Drive where I've posted the data you'll need for some questions on the Quiz.
     - At 5 PM Wednesday, I'll post the PDF of the Quiz, and I'll post a link to the Answer Sheet where you'll write your responses (it's a Google Form, like our Minute Papers.)
-    - Quiz 1 took the TAs 2-3 hours to complete. 2-3 of the questions are clearly more time-consuming than the rest. 
+    - Quiz 1 took the TAs 2-3 hours to complete. 2-3 of the questions are clearly more time-consuming than the others. 
 7. The next meeting of [the Cleveland R Users Group](https://www.meetup.com/Cleveland-UseR-Group) is Wednesday evening (2020-02-26). I've been to a few of the meetings in the past (though I won't be at this one) and found them useful/interesting.
 
 ## Next Few Deliverables (from [the Course Calendar](https://github.com/THOMASELOVE/2020-432/blob/master/calendar.md))
