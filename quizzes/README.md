@@ -8,7 +8,9 @@ This is where information on the course quizzes will appear. Information about Q
     - Quiz 3 will be available at 5 PM 2020-04-23, and is due at 2 PM on 2020-04-29.
 - Quizzes in 432 are open-book, take-home affairs. Some are longer than others. Dr. Love reserves the right to make some Quizzes count more than others in determining your final Quiz grade at the end of the semester.
 
-# Quiz 1 will be available at 5 PM on 2020-02-26. It is due at 2 PM on Monday 2020-03-02.
+# Quiz 1 Details
+
+All material for Quiz 1 will be available at 5 PM on 2020-02-26. Quiz 1 is due at 2 PM on Monday 2020-03-02.
 
 Quiz 1 is restricted to materials from Classes 1-11, from Chapters 1-14 in the Course Notes, and from Chapters 1-5 and 7-8 in Spiegelhalter's *Art of Statistics*. Subsequent quizzes will also include material from these sections of the course.
 
@@ -21,14 +23,14 @@ Two data sets are available to support your work on the Quiz. You'll find them i
 - The `lind` data are provided to you in the **lind.Rds** file.
 - The `riff` data are provided to you in the **riff.csv** file.
 
-## Other Material You'll Need will appear on the [Shared Google Drive](http://bit.ly/432-2020-quiz1-folder)
+## Other Material You'll Need for Quiz 1 will appear on the [Shared Google Drive](http://bit.ly/432-2020-quiz1-folder)
 
 By 5 PM Wednesday 2020-02-26, I will post [to that same folder](http://bit.ly/432-2020-quiz1-folder):
 
 - a link to the Google Form Answer Sheet you'll use to submit your answers to the Quiz.
 - a PDF file of the Quiz itself
 
-## Packages I used to create the Quiz and Answer Sketch
+## Packages I used to create Quiz 1 and its Answer Sketch
 
 For your information, here are the packages and themes I loaded into R to help me complete the Quiz. I used R version 3.6.2. I do not guarantee that all of these packages are actually used, but I didn't need any other packages to complete my answer sketch.
 
