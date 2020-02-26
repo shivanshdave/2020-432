@@ -10,7 +10,9 @@ This is where information on the course quizzes will appear. Information about Q
 
 # Quiz 1 Details
 
-All material for Quiz 1 will be available at 5 PM on 2020-02-26. Quiz 1 is due at 2 PM on Monday 2020-03-02.
+All material for Quiz 1 is now posted to the [Shared Google Drive](http://bit.ly/432-2020-quiz1-folder). 
+
+Quiz 1 is due at 2 PM on Monday 2020-03-02.
 
 Quiz 1 is restricted to materials from Classes 1-11, from Chapters 1-14 in the Course Notes, and from Chapters 1-5 and 7-8 in Spiegelhalter's *Art of Statistics*. Subsequent quizzes will also include material from these sections of the course.
 
@@ -23,12 +25,12 @@ Two data sets are available to support your work on the Quiz. You'll find them i
 - The `lind` data are provided to you in the **lind.Rds** file.
 - The `riff` data are provided to you in the **riff.csv** file.
 
-## Other Material You'll Need for Quiz 1 will appear on the [Shared Google Drive](http://bit.ly/432-2020-quiz1-folder)
+## Other Material You'll Need for Quiz 1 also appears on the [Shared Google Drive](http://bit.ly/432-2020-quiz1-folder)
 
-By 5 PM Wednesday 2020-02-26, I will post [to that same folder](http://bit.ly/432-2020-quiz1-folder):
+I have posted [to that same folder](http://bit.ly/432-2020-quiz1-folder):
 
-- a link to the Google Form Answer Sheet you'll use to submit your answers to the Quiz.
 - a PDF file of the Quiz itself
+- a link to the [Google Form Answer Sheet](http://bit.ly/432-2020-quiz1-answer-form) that you'll use to submit your answers to the Quiz.
 
 ## Packages I used to create Quiz 1 and its Answer Sketch
 
