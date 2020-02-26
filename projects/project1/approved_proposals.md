@@ -1,9 +1,9 @@
 # Project 1 Proposal Status
 
-Status Report as of 2020-02-25 at 2:55 PM | Proposals | Investigators
+Status Report as of 2020-02-26 at 9 AM | Proposals | Investigators
 :--------------------------------------- | ----: | ----:
-**[Approved Proposals](https://github.com/THOMASELOVE/2020-432/blob/master/projects/project1/approved_proposals.md#proposals-dr-love-has-approved)**  | **34** | **44**
-**[Not Yet Approved](https://github.com/THOMASELOVE/2020-432/blob/master/projects/project1/approved_proposals.md#proposals-not-yet-approved)**: Awaiting your next revision | **3** | **4**
+**[Approved Proposals](https://github.com/THOMASELOVE/2020-432/blob/master/projects/project1/approved_proposals.md#proposals-dr-love-has-approved)**  | **35** | **46**
+**[Not Yet Approved](https://github.com/THOMASELOVE/2020-432/blob/master/projects/project1/approved_proposals.md#proposals-not-yet-approved)**: Awaiting your next revision | **2** | **2**
 
 ## Proposals Dr. Love has Approved
 
@@ -26,6 +26,7 @@ Code | Investigator(s) | Title
 `12-S` | Logan Harper | Predicting Diabetes Duration and Missed Medical Care from NHIS
 `13-S` | Vanessa Ho | Poor Physical Health as related to Obesity, Activity, Mental Illness, and Insurance
 `14-P` | Jason Huang and Yufei Li | Do E-cigarettes help you sleep better?
+`16-P` | Ani Kumar and Div Patel | LDL's Effect on stent length and future revascularization in PCI patients
 `17-P` | Shiying Liu and Yiheng Pan | Predicting Total Cholesterol using Demographics, Nutrients and Smoking Status
 `18-S` | Noah Lorincz-Comi | Predicting Absenteeism at Work
 `19-S` | Yuxuan Luo | Predicting DADS Score and Depressive Syndrome in Type 2 Diabetes Patients
@@ -49,11 +50,9 @@ Code | Investigator(s) | Title
 
 ## Proposals Not Yet Approved
 
-- I await the next revision for each of the proposals below, which I hope will be the last revision needed.
-- The next formal deadline is Wednesday 2020-02-26 at 9 AM, but all of the revisions requested for these proposals are straightforward enough that I am hopeful you will complete them as soon as possible. 
+- If you're on this list, I've responded to your latest revision on Canvas. Please resubmit not later than noon today.
 
 Code | Investigator(s) | Another Revision Required?
 ------: | :-------------------------: | :-------------------------:
-`16-P` | Ani Kumar and Div Patel | Yes, see [Canvas](https://canvas.case.edu/) for comments.
 `22-S` | Shayan Monabbati | Yes, see [Canvas](https://canvas.case.edu/) for comments.
 `33-S` | Vachan Vadmal | Yes, see [Canvas](https://canvas.case.edu/) for comments.
