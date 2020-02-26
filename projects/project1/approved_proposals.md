@@ -1,13 +1,8 @@
 # Project 1 Proposal Status
 
-Status Report as of 2020-02-26 at 10:35 AM | Proposals | Investigators
-:--------------------------------------- | ----: | ----:
-**[Approved Proposals](https://github.com/THOMASELOVE/2020-432/blob/master/projects/project1/approved_proposals.md#proposals-dr-love-has-approved)**  | **36** | **47**
-**[Not Yet Approved](https://github.com/THOMASELOVE/2020-432/blob/master/projects/project1/approved_proposals.md#proposals-not-yet-approved)**: Awaiting your next revision | **1** | **1**
+## Proposals Dr. Love has Approved All Proposals He's Received
 
-## Proposals Dr. Love has Approved
-
-- Proposals approved by Dr. Love are tabulated below and have a grade of 10 [on Canvas with my feedback](https://canvas.case.edu/). 
+- Be sure you review [Canvas for my feedback](https://canvas.case.edu/). 
 - If you want to change the title listed below, email a new title (maximum 85 characters, including spaces) to `431-help` with the subject heading: **Project 1 Proposal New Title** at your earliest convenience.
 
 Code | Investigator(s) | Title
@@ -43,14 +38,10 @@ Code | Investigator(s) | Title
 `30-S` | Alena Sorensen | Caregiving and the Connection with Mental Health and Life Satisfaction
 `31-S` | Wayne Tsuang | Air Pollution and Life Expectancy in the County Health Rankings
 `32-S` | Emily Tyszka | Social Ills in the Lone Star State: Predicting Violence and Teen Pregnancy in Texas
+`33-S` | Vachan Vadmal | Making Sense of Commercial Aviation Time Data
 `34-S` | Anastasia Vassiliou | Living Near ART
 `35-S` | Gi-Ming Wang | Clinical Effect of Glioma on Mutation Count and IDH status
 `36-S` | Siyu Wang | Patient Demographic Factors and Prediction of Spinal Anesthesia Outcomes
 `37-S` | Jakob Woerner | Assessing Hypertension in American Adults
 `38-S` | Victor Zhou | Waist/hip ratio and the prediction of diabetes
 
-## Proposals Not Yet Approved
-
-Code | Investigator(s) 
-------: | :------------------: 
-`33-S` | Vachan Vadmal 
