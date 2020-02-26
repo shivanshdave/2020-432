@@ -349,8 +349,10 @@ Compare the confusion matrix produced by the two models (using a 0.5 cut point).
 
 To do this, we will use the `augment` function and then the `confusionMatrix` function from the `caret` package. We'll do this for each model separately, and then compare the results.
 
+**NOTE** In the initial draft of this sketch, we left out the `type.predict = "response"` part of the `augment` statement for each of our logistic regression models. In order to show probabilities in the predictions with `augment` using a logistic regression model, this is a necessary element. Leaving it off led us to the wrong confusion matrix for each model. We've corrected it in what follows.
+
 ```{r}
-model_without_aug <- augment(model_without)
+model_without_aug <- augment(model_without, type.predict = "response")
 
 confuse_without <- 
   model_without_aug %$% confusionMatrix(
@@ -362,7 +364,7 @@ confuse_without
 ```
 
 ```{r}
-model_with_aug <- augment(model_with)
+model_with_aug <- augment(model_with, type.predict = "response")
 
 confuse_with <- 
   model_with_aug %$% confusionMatrix(
@@ -375,7 +377,7 @@ confuse_with
 
 ### Building an Attractively Formatted Table of Key Summaries
 
-We asked you to build a table of these key summaries. Here's how Dr. Love would do it.
+We asked you to build a table of these key summaries. Here's how Dr. Love would do it. 
 
 ```{r}
 cwo <- tidy(confuse_without) %>%
@@ -397,18 +399,21 @@ If you just used the summaries printed previously, that would be OK, but you'd w
 
 As for interpreting these results, the model without the interaction has ...
 
-- a **stronger** performance in terms of predictive **accuracy** (54.7% of predictions are correct, as compared to 53.5% of predictions made by the model including the interaction.)
-- a **stronger** (but still weak) performance in terms of **sensitivity** (if the subject actually has a statin prescription, the model without interaction detects this 32.2% of the time, as compared to 25.3% of the time for the model with interaction.)
-- a **weaker** performance in terms of **specificity** (if the subject actually doesn't have a statin prescription, the model without interaction gets this right 85.4% of the time, as compared to 91.8% of the time for the model with interaction.)
-- a **weaker positive predictive value** (our predictions from the model without the interaction that a subject has a statin prescription are correct 75% of the time, while for the model with the interaction such predictions are correct 80.8% of the time.)
-- a **stronger negative preditive value** (our predictions from the model without the interaction that a subject does not have a statin prescription are correct 48% of the time, while for the model with the interaction such predictions are correct 47.4% of the time.)
+- a **weaker** performance in terms of predictive **accuracy** (57% of predictions are correct, as compared to 60% of predictions made by the model including the interaction.)
+- a **weaker** performance in terms of **sensitivity** (if the subject actually has a statin prescription, the model without interaction detects this 88% of the time, as compared to 91% of the time for the model with interaction.)
+- a **weaker** performance in terms of **specificity** (if the subject actually doesn't have a statin prescription, the model without interaction gets this right 15% of the time, as compared to 18% of the time for the model with interaction.)
+- a **weaker positive predictive value** (our predictions from the model without the interaction that a subject has a statin prescription are correct 58% of the time, while for the model with the interaction such predictions are correct 60% of the time.)
+- a **weaker negative preditive value** (our predictions from the model without the interaction that a subject does not have a statin prescription are correct 47% of the time, while for the model with the interaction such predictions are correct 60% of the time.)
 
-Depending on which of these summaries were more important to you, you could wind up favoring either model here, on the basis of these confusion matrices.
+So the clear preference is for the model with the interaction.
 
 ## Question 3: Rubric (10 points)
 
 - Award 5 points for correctly creating the two confusion matrices, which may look a little different if they failed to deal with the missingness before fitting the models.
+  - If they neglected to include `type.predict = "response"` in their `augment()` statements, then they should lose 2 points.
+  - We're very sorry that we didn't catch this in our earlier draft of this sketch.
 - Award 5 points for correctly comparing each of the five requested summary characteristics given their confusion matrices, and associating the correct direction (stronger/weaker) with each.
+  - If they had the wrong confusion matrix, but correctly interpreted the results that they developed - they should only be penalized in the first part of this question.
 
 # Question 4 (10 points)
 
@@ -427,7 +432,7 @@ bind_rows(glance(model_without), glance(model_with)) %>%
   kable(digits = 1)
 ```
 
-- The model with interaction has smaller values for both AIC and BIC, so it looks like the more appropriate choice.
+- The model with interaction has smaller values for both AIC and BIC, so it again looks like the more appropriate choice.
 - Note that the confusion matrix summaries aren't really what we were looking for in this question, and present a somewhat mixed bag of results.
 
 ## Question 4 (Rubric: 10 points)
@@ -446,7 +451,7 @@ tidy(model_with, exponentiate = TRUE,
   kable(digits = 3)
 ```
 
-The `ldl` odds ratio is estimated to be 0.964, with 90% uncertainty interval (0.950, 0.978). This means that if we have two patients named Harry and Sally who are seen at practice A, where Harry's LDL cholesterol is 1 point higher than Sally's, then the odds of Harry having a statin prescription are 96.4% as high as the odds for Sally. Since the 90% confidence interval is below 1, Harry's odds are detectably smaller (with 90% confidence) than Sally's.
+The `ldl` odds ratio is estimated to be 0.964, with 90% uncertainty interval (0.950, 0.978). In order to interpret this in light of the interaction term, we have to pick a specific `practice` in order to interpret the `ldl` result. If we have two patients named Harry and Sally who are seen at practice A, where Harry's LDL cholesterol is 1 point higher than Sally's, then the odds of Harry having a statin prescription are 96.4% as high as the odds for Sally. Since the 90% confidence interval is below 1, Harry's odds are detectably smaller (with 90% confidence) than Sally's.
 
 ## Question 5 (Rubric: 10 points)
 
