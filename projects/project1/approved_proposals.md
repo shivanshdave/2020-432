@@ -1,9 +1,9 @@
 # Project 1 Proposal Status
 
-Status Report as of 2020-02-26 at 9 AM | Proposals | Investigators
+Status Report as of 2020-02-26 at 10:35 AM | Proposals | Investigators
 :--------------------------------------- | ----: | ----:
-**[Approved Proposals](https://github.com/THOMASELOVE/2020-432/blob/master/projects/project1/approved_proposals.md#proposals-dr-love-has-approved)**  | **35** | **46**
-**[Not Yet Approved](https://github.com/THOMASELOVE/2020-432/blob/master/projects/project1/approved_proposals.md#proposals-not-yet-approved)**: Awaiting your next revision | **2** | **2**
+**[Approved Proposals](https://github.com/THOMASELOVE/2020-432/blob/master/projects/project1/approved_proposals.md#proposals-dr-love-has-approved)**  | **36** | **47**
+**[Not Yet Approved](https://github.com/THOMASELOVE/2020-432/blob/master/projects/project1/approved_proposals.md#proposals-not-yet-approved)**: Awaiting your next revision | **1** | **1**
 
 ## Proposals Dr. Love has Approved
 
@@ -32,6 +32,7 @@ Code | Investigator(s) | Title
 `19-S` | Yuxuan Luo | Predicting DADS Score and Depressive Syndrome in Type 2 Diabetes Patients
 `20-S` | Stephanie Merlino Barr | Exploring infant mortality using County Health Rankings
 `21-S` | Anna Miller | Predicting Blood Pressure Medication Usage and Doctor Checkups from 500 Cities Data
+`22-S` | Shayan Monabbati | Protein Expression of Healthy vs. O. viverrini Infected Cholangiocarcinoma Patients
 `23-P` | Ryan Moore and Khaled Shorbaji | Mortality in revascularized coronary patients after noncardiac surgery
 `24-S` | Troy Neptune | Predicting High Quality Movies Using Rotten Tomatoes
 `25-S` | Vineet Punia | Predicting *Wine Enthusiast* magazine's wine ratings
@@ -50,9 +51,6 @@ Code | Investigator(s) | Title
 
 ## Proposals Not Yet Approved
 
-- If you're on this list, I've responded to your latest revision on Canvas. Please resubmit not later than noon today.
-
-Code | Investigator(s) | Another Revision Required?
-------: | :-------------------------: | :-------------------------:
-`22-S` | Shayan Monabbati | Yes, see [Canvas](https://canvas.case.edu/) for comments.
-`33-S` | Vachan Vadmal | Yes, see [Canvas](https://canvas.case.edu/) for comments.
+Code | Investigator(s) 
+------: | :------------------: 
+`33-S` | Vachan Vadmal 
