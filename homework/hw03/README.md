@@ -5,7 +5,8 @@
 
 - [PDF](https://github.com/THOMASELOVE/2020-432/blob/master/homework/hw03/sketch/sketch_hw3.pdf) including both the sketch and rubric, adjusted to fix the error we had in the original version on Question 3.
 - [R Markdown](https://github.com/THOMASELOVE/2020-432/blob/master/homework/hw03/sketch/sketch_hw3.Rmd) used to build the updated PDF.
-- Grades should be posted to http://bit.ly/432-2020-grades by Friday 2020-02-28. Check your email for your HW-Code.
+- Grades are now posted to http://bit.ly/432-2020-grades. Check your email for your HW-Code.
+- We built a [Google Doc containing several of the essays we really enjoyed in response to Question 6](https://docs.google.com/document/d/1krZRnMTniOKfU0EqlE-dnJjqP4n7hBgFB7JSPN-x8mQ/edit?usp=sharing). Thanks!
 
 This assignment was revised 2020-02-18 at 9:30 AM to reflect a
 shortening of the request in Question 5.
