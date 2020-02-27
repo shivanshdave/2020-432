@@ -76,7 +76,7 @@ Multiple imputation for missing data in epidemiological and clinical research: p
 ## Ways to Deal with Missing Data (from Sterne et al.)
 
 - There are circumstances in which analyses of **complete cases** will not lead to bias. Missing data in predictor variables do not cause bias in analyses of complete cases if the reasons for the missing data are unrelated to the outcome. Specialist methods to address missing data may lessen the loss of precision and power resulting from exclusion of individuals with incomplete predictor variables but are not required in order to avoid bias.
-- **Single Imputation** of missing values usually causes standard errors to be too small, since it fails to acocunt for the fact that we are uncertain about the missing values.
+- **Single Imputation** of missing values usually causes standard errors to be too small, since it fails to account for the fact that we are uncertain about the missing values.
 - If we assume data are missing at random, then unbiased and statistically more powerful analyses (compared with analyses based on complete cases) can generally be done by including individuals with incomplete data.
 
 ## Multiple Imputation (from Sterne et al.)
