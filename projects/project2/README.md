@@ -1,3 +1,3 @@
 # Project 2 for 432
 
-Details to come, later this semester.
+Project 2 instructions will be posted before 1 PM on 2020-03-17.
