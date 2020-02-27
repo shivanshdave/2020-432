@@ -1,7 +1,7 @@
 432 Homework 3
 ================
 
-# The Answer Sketch (and Grading Rubric) for Homework 3 is now available.
+# All post-deadline Homework 3 stuff is now available.
 
 - [PDF](https://github.com/THOMASELOVE/2020-432/blob/master/homework/hw03/sketch/sketch_hw3.pdf) including both the sketch and rubric, adjusted to fix the error we had in the original version on Question 3.
 - [R Markdown](https://github.com/THOMASELOVE/2020-432/blob/master/homework/hw03/sketch/sketch_hw3.Rmd) used to build the updated PDF.
