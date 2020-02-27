@@ -39,5 +39,5 @@ This is graduate school. Take the deadlines very seriously. We allow 60 extra mi
 In grading, we occasionally make errors.
 
 - The teaching assistants will be happy to discuss any homework with you after it is complete, and try to help you understand in more detail how you went wrong. However, protesting your grade to them is pointless, as such protests should be directed only to Dr. Love. 
-- If you believe we have simply added up your points on a homework assignment incorrectly, please email Dr. Love directly to describe your concern. You can do this at any time before May 1.
-- We do not address more substantial regrade requests on homework assignments until May. Should you wish to request a regrade that isn't just mis-adding up your points on a homework, you will need to fill out a form that Dr. Love will provide. Dr. Love will review all such requests in a batch at the end of the semester.
+- If you believe we have simply added up your points on a homework assignment incorrectly, please email Dr. Love directly to describe your concern. You can do this at any time before 5 PM on 2020-04-30.
+- We do not address more substantial regrade requests on homework assignments until the end of the course. Should you wish to request a regrade that isn't just mis-adding up your points on a homework, you will need to fill out the form that Dr. Love has provided at http://bit.ly/432-2020-homework-regrade-requests. The form will be closed at 5 PM on 2020-04-30, and at that time, Dr. Love will review all such requests in a batch.
