@@ -6,9 +6,9 @@
 
 ## Homeworks 1-3 are now complete.
 
-- Instructions for [Homework 1 are now available](https://github.com/THOMASELOVE/2020-432/tree/master/homework/hw01).
-- Instructions for [Homework 2 are now available](https://github.com/THOMASELOVE/2020-432/tree/master/homework/hw02).
-- Instructions for [Homework 3 are now available](https://github.com/THOMASELOVE/2020-432/tree/master/homework/hw03).
+- Instructions and post-submission materials for [Homework 1 are now available](https://github.com/THOMASELOVE/2020-432/tree/master/homework/hw01).
+- Instructions and post-submission materials [Homework 2 are now available](https://github.com/THOMASELOVE/2020-432/tree/master/homework/hw02).
+- Instructions and post-submission materials [Homework 3 are now available](https://github.com/THOMASELOVE/2020-432/tree/master/homework/hw03).
 
 ## Homework 4
 
