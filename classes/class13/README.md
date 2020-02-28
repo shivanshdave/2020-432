@@ -32,7 +32,7 @@ Details to come.
     > (The site) was developed to serve medical and public health researchers and professionals who wish to learn more about biostatistics. The site contains carefully selected and vetted training materials especially suited for a non-statistician audience.
 2. [Nathan Yau tweeted](https://twitter.com/flowingdata/status/1233169893022826496?s=11) that there's [a new candidate for funny pie chart placeholder](https://www.reddit.com/r/funny/comments/f78kuo/i_hear_you_like_pie_charts/)...
 
-![](https://github.com/THOMASELOVE/2020-432/blob/master/classes/class13/figures/piechart.jpg)
+![](https://github.com/THOMASELOVE/2020-432/blob/master/classes/class13/figures/piechart.png)
 
 
 ## Reminders/Notes (from [the Course Calendar](https://github.com/THOMASELOVE/2020-432/blob/master/calendar.md))
