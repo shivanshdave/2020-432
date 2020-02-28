@@ -40,7 +40,7 @@ Break | No class and no TA office hours from 03-09 through 03-13. `431-help` wil
 
 ## Other Things
 
-3. [Nathan Yau tweeted](https://twitter.com/flowingdata/status/1233169893022826496?s=11) that there's [a new candidate for funny pie chart placeholder](https://www.reddit.com/r/funny/comments/f78kuo/i_hear_you_like_pie_charts/)...
+1. [Nathan Yau tweeted](https://twitter.com/flowingdata/status/1233169893022826496?s=11) that there's [a new candidate for funny pie chart placeholder](https://www.reddit.com/r/funny/comments/f78kuo/i_hear_you_like_pie_charts/)...
 
 ![](https://github.com/THOMASELOVE/2020-432/blob/master/classes/class13/figures/piechart.png)
 
@@ -52,7 +52,7 @@ Break | No class and no TA office hours from 03-09 through 03-13. `431-help` wil
 
 ## One Last Thing
 
-The map above [appeared in an article on CNBC.com](https://www.cnbc.com/2020/02/26/people-skipping-medically-necessary-drugs-because-they-cost-too-much.html) on 2020-02-26.
+The map below [appeared in an article on CNBC.com](https://www.cnbc.com/2020/02/26/people-skipping-medically-necessary-drugs-because-they-cost-too-much.html) on 2020-02-26.
 
 ![](https://github.com/THOMASELOVE/2020-432/blob/master/classes/class13/figures/cnbc_map_original.PNG)
 
