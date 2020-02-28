@@ -7,14 +7,14 @@
 Session | Date | Materials 
 --------: | :-----: | ----------------------------------------------------------------------
 -- | 03-02 | [Quiz 1](https://github.com/THOMASELOVE/2020-432/tree/master/quizzes) is due at 2 PM.
-[Class 13](https://github.com/THOMASELOVE/2020-432/tree/master/classes/class13) | 03-03 | Ridge Regression, The Lasso, Elastic Net
-Class 14 | 03-05 | "Best Subsets" for Logistic Regression, Dealing with Aggregated Data, **ART** Chapters 10 and 11
+[Class 13](https://github.com/THOMASELOVE/2020-432/tree/master/classes/class13) | 03-03 | Ridge Regression and The Lasso
+Class 14 | 03-05 | Dealing with Aggregated Data, Probit Regression.
 -- | 03-09 | [Project 1 Posters/Portfolios](https://github.com/THOMASELOVE/2020-432/tree/master/projects/project1) are due at 2 PM.
 -- | 03-10 | No class. CWRU Spring Break (03-09 through 03-13)
 -- | 03-12 | No class. CWRU Spring Break (03-09 through 03-13)
--- | 03-17 | Complete Project 2 Instructions will be available.
+-- | 03-17 | Complete Project 2 Instructions will be available. 
 Class 15 | 03-17 | Fitting Models to Multi-Categorical Responses.
-Class 16 | 03-19 | Fitting Models to Multi-Categorical Responses, **ART** Chapter 6.
+Class 16 | 03-19 | Fitting Models to Multi-Categorical Responses, **ART** through Chapter 11
 -- | 03-23 | [Homework 4](https://github.com/THOMASELOVE/2020-432/tree/master/homework/hw04) will be due at 5 PM.
 Class 17 | 03-24 | Fitting Models to Multi-Categorical Responses.
 Class 18 | 03-26 | To Be Announced, **ART** Chapter 12
