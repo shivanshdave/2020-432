@@ -13,12 +13,12 @@ Details to come.
 ## Today's Announcements
 
 1. Quiz 1 results should **appear by class time, I hope**.
-2. I expect to post instructions for Homework 4 **by class time**. It is due at 5 PM on 2020-03-23.
-3. Homework 3 grades were posted on 2020-02-27 to http://bit.ly/432-2020-grades. 
+2. Homework 3 grades were posted on 2020-02-27 to http://bit.ly/432-2020-grades. 
     - We built a [Google Doc containing several of the essays we really enjoyed in response to Question 6](https://docs.google.com/document/d/1krZRnMTniOKfU0EqlE-dnJjqP4n7hBgFB7JSPN-x8mQ/edit?usp=sharing).
-4. *Homework Regrades*. A reminder...
+3. *Homework Regrades*. A reminder...
     - If we've added your points up incorrectly on a Homework, send an email to Dr. Love before 5 PM 2020-04-30.
     - To request a Homework regrade for any other reason, fill out the Form at http://bit.ly/432-2020-homework-regrade-requests  any time before 5 PM on 2020-04-30. Dr. Love will review all of those requests in a batch then. [See the Grading Errors section here](https://github.com/THOMASELOVE/2020-432/blob/master/homework/README.md#grading-errors) for a little more detail.
+4. [Instructions for Homework 4](https://github.com/THOMASELOVE/2020-432/tree/master/homework/hw04) are now available.
 5. Minute Paper after Class 12 feedback is available at http://bit.ly/432-2020-minute12-feedback.
 6. In response to some Minute Paper questions about non-linearity, spending degrees of freedom and the Spearman rho-squared plot, [I wrote up some thoughts](https://github.com/THOMASELOVE/2020-432/blob/master/classes/class13/nonlinearity.md). Please take a look. I also encourage you to look closely at the relevant sections of [the Course Notes](https://thomaselove.github.io/2020-432-book).
 7. Project 2 instructions will appear on 2020-03-17 by 1 PM. The answer to all of the complicated questions I've heard so far about Project 2 is "I'm not sure. It depends on how Project 1 goes."
