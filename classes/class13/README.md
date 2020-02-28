@@ -12,8 +12,6 @@ Details to come.
 
 ## Today's Announcements
 
-### About the Class
-
 1. Quiz 1 results should **appear by class time, I hope**.
 2. I expect to post instructions for Homework 4 **by class time**. It is due at 5 PM on 2020-03-23.
 3. Homework 3 grades were posted on 2020-02-27 to http://bit.ly/432-2020-grades. 
@@ -25,15 +23,6 @@ Details to come.
 6. In response to some Minute Paper questions about non-linearity, spending degrees of freedom and the Spearman rho-squared plot, [I wrote up some thoughts](https://github.com/THOMASELOVE/2020-432/blob/master/classes/class13/nonlinearity.md). Please take a look. I also encourage you to look closely at the relevant sections of [the Course Notes](https://thomaselove.github.io/2020-432-book).
 7. Project 2 instructions will appear on 2020-03-17 by 1 PM. The answer to all of the complicated questions I've heard so far about Project 2 is "I'm not sure. It depends on how Project 1 goes."
 8. Dr. Love will hold additional **walk-in office hours** on Thursday 2020-03-05 from Noon to 12:45 and from 2:15 to 3 PM in Wood WG82-J specifically to help address questions related to project 1 portfolio and/or poster work. This is just to help supplement the TA office hours. I'm hoping you'll use this to show me something specific about your planned and ask for advice. If you have a coding question, it's better
-
-### Other Things
-
-1. [Biostats4You](https://biostats4you.umn.edu/) from the University of Minnesota may be of interest to you. 
-    > (The site) was developed to serve medical and public health researchers and professionals who wish to learn more about biostatistics. The site contains carefully selected and vetted training materials especially suited for a non-statistician audience.
-2. [Nathan Yau tweeted](https://twitter.com/flowingdata/status/1233169893022826496?s=11) that there's [a new candidate for funny pie chart placeholder](https://www.reddit.com/r/funny/comments/f78kuo/i_hear_you_like_pie_charts/)...
-
-![](https://github.com/THOMASELOVE/2020-432/blob/master/classes/class13/figures/piechart.png)
-
 
 ## Reminders/Notes (from [the Course Calendar](https://github.com/THOMASELOVE/2020-432/blob/master/calendar.md))
 
@@ -48,6 +37,15 @@ Break | No class and no TA office hours from 03-09 through 03-13. `431-help` wil
 03-26 | [Quiz 2](https://github.com/THOMASELOVE/2020-432/tree/master/quizzes) made available at 5 PM
 03-30 | [Quiz 2](https://github.com/THOMASELOVE/2020-432/tree/master/quizzes) due at 2 PM
 04-01 | [Project 2 Proposal](https://github.com/THOMASELOVE/2020-432/tree/master/projects/project2) due at 2 PM
+
+## Other Things
+
+1. [Biostats4You](https://biostats4you.umn.edu/) from the University of Minnesota may be of interest to you. 
+    > (The site) was developed to serve medical and public health researchers and professionals who wish to learn more about biostatistics. The site contains carefully selected and vetted training materials especially suited for a non-statistician audience.
+2. [Nathan Yau tweeted](https://twitter.com/flowingdata/status/1233169893022826496?s=11) that there's [a new candidate for funny pie chart placeholder](https://www.reddit.com/r/funny/comments/f78kuo/i_hear_you_like_pie_charts/)...
+
+![](https://github.com/THOMASELOVE/2020-432/blob/master/classes/class13/figures/piechart.png)
+
 
 ## One Last Thing
 
