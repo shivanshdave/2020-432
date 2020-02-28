@@ -35,7 +35,7 @@ Date | Deliverable
 ----: | ---------------------------------------------------------------
 03-06 | There will be a Minute Paper after Class 14, due at 2 PM.
 03-09 | [Project 1 Posters/Portfolios](https://github.com/THOMASELOVE/2020-432/tree/master/projects/project1) are due at 2 PM.
--- | CWRU Spring Break means no class and no TA office hours from 03-09 through 03-13. `431-help` will be open.
+Break | No class and no TA office hours from 03-09 through 03-13. `431-help` will be open.
 03-17 | [Project 2 Instructions](https://github.com/THOMASELOVE/2020-432/tree/master/projects/project2) should be available by 1 PM.
 03-20 | There will be a Minute Paper after Class 16, due at 2 PM.
 03-23 | [Homework 4](https://github.com/THOMASELOVE/2020-432/tree/master/homework) due at 5 PM
