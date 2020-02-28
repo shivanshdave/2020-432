@@ -7,9 +7,10 @@
 Session | Date | Materials 
 --------: | :-----: | ----------------------------------------------------------------------
 -- | 03-02 | [Quiz 1](https://github.com/THOMASELOVE/2020-432/tree/master/quizzes) is due at 2 PM.
--- | 03-03 | Dr. Love is holding special Project 1 Office Hours 12 - 12:45 and 2:15 - 3 in Wood WG82-J.
+-- | 03-03 | Dr. Love's Project 1 Office Hours 12 - 12:45 and 2:15 - 3 in Wood WG82-J.
 [Class 13](https://github.com/THOMASELOVE/2020-432/tree/master/classes/class13) | 03-03 | Ridge Regression and The Lasso
--- | 03-05 | Dr. Love is holding special Project 1 Office Hours 12 - 12:45 and 2:15 - 3 in Wood WG82-J.Class 14 | 03-05 | Dealing with Aggregated Data in Logistic Regression, Probit Regression, Project 1
+-- | 03-05 | Dr. Love's Project 1 Office Hours 12 - 12:45 and 2:15 - 3 in Wood WG82-J.
+[Class 14](https://github.com/THOMASELOVE/2020-432/tree/master/classes/class14) | 03-05 | Dealing with Aggregated Data in Logistic Regression, Probit Regression, Project 1
 -- | 03-09 | [Project 1 Posters/Portfolios](https://github.com/THOMASELOVE/2020-432/tree/master/projects/project1) are due at 2 PM.
 -- | 03-10 | No class. CWRU Spring Break (03-09 through 03-13)
 -- | 03-12 | No class. CWRU Spring Break (03-09 through 03-13)
