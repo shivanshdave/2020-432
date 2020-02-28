@@ -8,7 +8,7 @@ Session | Date | Materials
 --------: | :-----: | ----------------------------------------------------------------------
 -- | 03-02 | [Quiz 1](https://github.com/THOMASELOVE/2020-432/tree/master/quizzes) is due at 2 PM.
 [Class 13](https://github.com/THOMASELOVE/2020-432/tree/master/classes/class13) | 03-03 | Ridge Regression and The Lasso
-Class 14 | 03-05 | Dealing with Aggregated Data in Logistic Regression, Probit Regression.
+Class 14 | 03-05 | Dealing with Aggregated Data in Logistic Regression, Probit Regression, Project 1
 -- | 03-09 | [Project 1 Posters/Portfolios](https://github.com/THOMASELOVE/2020-432/tree/master/projects/project1) are due at 2 PM.
 -- | 03-10 | No class. CWRU Spring Break (03-09 through 03-13)
 -- | 03-12 | No class. CWRU Spring Break (03-09 through 03-13)
