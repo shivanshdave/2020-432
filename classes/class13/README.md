@@ -24,6 +24,7 @@ Details to come.
 5. Minute Paper after Class 12 feedback is available at http://bit.ly/432-2020-minute12-feedback.
 6. In response to some Minute Paper questions about non-linearity, spending degrees of freedom and the Spearman rho-squared plot, [I wrote up some thoughts](https://github.com/THOMASELOVE/2020-432/blob/master/classes/class13/nonlinearity.md). Please take a look. I also encourage you to look closely at the relevant sections of [the Course Notes](https://thomaselove.github.io/2020-432-book).
 7. Project 2 instructions will appear on 2020-03-17 by 1 PM. The answer to all of the complicated questions I've heard so far about Project 2 is "I'm not sure. It depends on how Project 1 goes."
+8. Dr. Love will hold additional walk-in office hours on Thursday 2020-03-05 from Noon to 12:45 and from 2:15 to 3 PM in Wood WG82-J for questions related to project portfolio and/or poster work. This is just to help supplement the TA office hours.
 
 ### Other Things
 
