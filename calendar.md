@@ -15,7 +15,7 @@ Class 14 | 03-05 | "Best Subsets" for Logistic Regression, Dealing with Aggregat
 -- | 03-17 | Complete Project 2 Instructions will be available.
 Class 15 | 03-17 | Fitting Models to Multi-Categorical Responses.
 Class 16 | 03-19 | Fitting Models to Multi-Categorical Responses, **ART** Chapter 6.
--- | 03-23 | [Homework 4](https://github.com/THOMASELOVE/2020-432/tree/master/homework) will be due at 5 PM.
+-- | 03-23 | [Homework 4](https://github.com/THOMASELOVE/2020-432/tree/master/homework/hw04) will be due at 5 PM.
 Class 17 | 03-24 | Fitting Models to Multi-Categorical Responses.
 Class 18 | 03-26 | To Be Announced, **ART** Chapter 12
 -- | 03-26 | [Quiz 2](https://github.com/THOMASELOVE/2020-432/tree/master/quizzes) will be made available at 5 PM.
