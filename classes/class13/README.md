@@ -47,15 +47,11 @@ Break | No class and no TA office hours from 03-09 through 03-13. `431-help` wil
 
 ## One Last Thing
 
+The map above [appeared in an article on CNBC.com](https://www.cnbc.com/2020/02/26/people-skipping-medically-necessary-drugs-because-they-cost-too-much.html) on 2020-02-26.
+
 ![](https://github.com/THOMASELOVE/2020-432/blob/master/classes/class13/figures/cnbc_map.PNG)
 
-The map above [appeared in an article on CNBC.com](https://www.cnbc.com/2020/02/26/people-skipping-medically-necessary-drugs-because-they-cost-too-much.html) on 2020-02-26. [Alyssa Keiko](https://twitter.com/alyssakeiko/status/1233092947987529728) tweeted it out, saying "I have a lot of questions about if anyone looked at this map before during or after its making"
-
-.
-
-.
-
-.
+[Alyssa Keiko](https://twitter.com/alyssakeiko/status/1233092947987529728) tweeted it out, saying "I have a lot of questions about if anyone looked at this map before during or after its making"
 
 Any thoughts as to what happened here?
 
