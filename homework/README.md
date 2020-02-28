@@ -12,15 +12,15 @@
 
 ## Homework 4
 
-- Homework 4 will be due on 2020-03-23 at 5 PM. Instructions will appear before 2020-03-16.
+- [Instructions for Homework 4 are now available](https://github.com/THOMASELOVE/2020-432/tree/master/homework/hw04). See [the Calendar](https://github.com/THOMASELOVE/2020-432/blob/master/calendar.md) for deadline information.
 
 ## Homework 5
 
-- Homework 5 will be due on 2020-04-13 at 5 PM. Instructions will appear before 2020-04-06.
+- Homework 5 instructions will appear before 2020-04-06.
 
 ## Homework 6
 
-- Homework 6 will be due on 2020-04-20 at 5 PM. Instructions will appear before 2020-04-13.
+- Homework 6 instructions will appear before 2020-04-13.
 
 ## Grading
 
