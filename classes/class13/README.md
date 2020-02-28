@@ -40,14 +40,15 @@ Break | No class and no TA office hours from 03-09 through 03-13. `431-help` wil
 
 ## Other Things
 
-1. I just learned of the existence of the [Tidy Tuesday Podcast](https://www.tidytuesday.com/). There are about 15 episodes available, each about 5 minutes long. I hope that you find these helpful to you!
-    > TidyTuesday is a weekly podcast and community activity brought to you by the R4DS Online Learning Community. Our goal is to help R learners learn in real-world contexts.
-2. [Biostats4You](https://biostats4you.umn.edu/) from the University of Minnesota may be of interest to you. 
-    > (The site) was developed to serve medical and public health researchers and professionals who wish to learn more about biostatistics. The site contains carefully selected and vetted training materials especially suited for a non-statistician audience.
 3. [Nathan Yau tweeted](https://twitter.com/flowingdata/status/1233169893022826496?s=11) that there's [a new candidate for funny pie chart placeholder](https://www.reddit.com/r/funny/comments/f78kuo/i_hear_you_like_pie_charts/)...
 
 ![](https://github.com/THOMASELOVE/2020-432/blob/master/classes/class13/figures/piechart.png)
 
+2. I just learned of the existence of the [Tidy Tuesday Podcast](https://www.tidytuesday.com/). There are about 15 episodes available, each about 5 minutes long. I hope that you find these helpful to you!
+    > TidyTuesday is a weekly podcast and community activity brought to you by the R4DS Online Learning Community. Our goal is to help R learners learn in real-world contexts.
+3. [Biostats4You](https://biostats4you.umn.edu/) from the University of Minnesota may be of interest to you. 
+    > (The site) was developed to serve medical and public health researchers and professionals who wish to learn more about biostatistics. The site contains carefully selected and vetted training materials especially suited for a non-statistician audience.
+4. The [useR! conference](https://user2020.r-project.org/) will next be held July 7-10, 2020 in St. Louis. 
 
 ## One Last Thing
 
