@@ -8,7 +8,7 @@ Slides in PDF | Slides in R Markdown | Audio Recording | Need Help?
 
 ## Today's Key Topic
 
-Details to come.
+Ridge Regression and the Lasso.
 
 ## Today's Announcements
 
