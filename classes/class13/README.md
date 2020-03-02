@@ -21,8 +21,9 @@ Ridge Regression and the Lasso.
 4. [Instructions for Homework 4](https://github.com/THOMASELOVE/2020-432/tree/master/homework/hw04) are now available.
 5. Minute Paper after Class 12 feedback is available at http://bit.ly/432-2020-minute12-feedback.
 6. In response to some Minute Paper questions about non-linearity, spending degrees of freedom and the Spearman rho-squared plot, [I wrote up some thoughts](https://github.com/THOMASELOVE/2020-432/blob/master/classes/class13/nonlinearity.md). Please take a look. I also encourage you to look closely at the relevant sections of [the Course Notes](https://thomaselove.github.io/2020-432-book).
-7. Project 2 instructions will appear on 2020-03-17 by 1 PM. The answer to all of the complicated questions I've heard so far about Project 2 is "I'm not sure. It depends on how Project 1 goes."
-8. Dr. Love will hold additional **walk-in office hours** on Tuesday 2020-03-03 and Thursday 2020-03-05 from Noon to 12:45 and from 2:15 to 3 PM in Wood WG82-J specifically to help address questions related to project 1 portfolio and/or poster work. 
+8. There have been several updates to the [Course Notes](https://thomaselove.github.io/2020-432-book), in particular there's a new Chapter 16 on Multiple Imputation (with `mice` and with `aregImpute`) in Linear Regression.
+9. Project 2 instructions will appear on 2020-03-17 by 1 PM. The answer to all of the complicated questions I've heard so far about Project 2 is "I'm not sure. It depends on how Project 1 goes."
+10. Dr. Love will hold additional **walk-in office hours** on Tuesday 2020-03-03 and Thursday 2020-03-05 from Noon to 12:45 and from 2:15 to 3 PM in Wood WG82-J specifically to help address questions related to project 1 portfolio and/or poster work. 
     - I'm hoping you'll use this opportunity to show me something specific from your portfolio or from your poster and ask for advice about how to present something most effectively. 
     - This is just to help supplement the TA office hours, which will continue to be held as usual.
     - If you have a question about coding, it's generally more effective for you to send your R Markdown and csv and a description of the problem you're having to 431-help, or to visit TA office hours.
