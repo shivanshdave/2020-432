@@ -12,7 +12,23 @@ Dealing with Aggregated Data in Logistic Regression, Probit Regression
 
 ## Today's Announcements
 
-- To come.
+- There will be a Minute Paper after Class 14, due at 2 PM on Friday 2020-03-06.
+- Enjoy Spring Break! Our next class will be Tuesday 2020-03-17.
+
+## Reminders/Notes (from [the Course Calendar](https://github.com/THOMASELOVE/2020-432/blob/master/calendar.md))
+
+Date | Deliverable
+----: | ---------------------------------------------------------------
+03-06 | There will be a Minute Paper after Class 14, due at 2 PM.
+03-09 | [Project 1 Posters/Portfolios](https://github.com/THOMASELOVE/2020-432/tree/master/projects/project1) are due at 2 PM.
+Break | No class and no TA office hours from 03-09 through 03-13. `431-help` will be open.
+03-17 | [Project 2 Instructions](https://github.com/THOMASELOVE/2020-432/tree/master/projects/project2) should be available by 1 PM.
+03-20 | There will be a Minute Paper after Class 16, due at 2 PM.
+03-23 | [Homework 4](https://github.com/THOMASELOVE/2020-432/tree/master/homework) due at 5 PM
+03-26 | [Quiz 2](https://github.com/THOMASELOVE/2020-432/tree/master/quizzes) made available at 5 PM
+03-30 | [Quiz 2](https://github.com/THOMASELOVE/2020-432/tree/master/quizzes) due at 2 PM
+04-01 | [Project 2 Proposal](https://github.com/THOMASELOVE/2020-432/tree/master/projects/project2) due at 2 PM
+
 
 ## One Last Thing
 
