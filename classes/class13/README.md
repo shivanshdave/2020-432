@@ -18,7 +18,7 @@ Ridge Regression and the Lasso.
     - If you have a question about coding, it's generally more effective for you to send your R Markdown and csv and a description of the problem you're having to 431-help, or to visit TA office hours.
 2. Quiz 1: I've finished grading and sent you my thoughts via email. 
     - Post-Quiz materials are posted here](https://github.com/THOMASELOVE/2020-432/tree/master/quizzes/postquiz1). This includes: 
-        - the [Answer Sketch, Rubric and Results document](https://github.com/THOMASELOVE/2020-432/blob/master/quizzes/postquiz1/quiz1_with_sketch.pdf) and 
+        - the [Answer Sketch, Rubric and Results document](https://github.com/THOMASELOVE/2020-432/blob/master/quizzes/postquiz1/quiz1_with_sketch.pdf) (which I updated at noon today) and 
         - the [R Markdown of code and evaluation for Question 2](https://github.com/THOMASELOVE/2020-432/blob/master/quizzes/postquiz1/quiz1_checkquestion2code.Rmd).
     - If you didn't do as well as you'd hoped, I'm sorry. I hope you all do very well on the next Quiz.
     - As a group, there were some questions ([answer sketch](https://github.com/THOMASELOVE/2020-432/blob/master/quizzes/postquiz1/quiz1_with_sketch.pdf) has results for each item) where less than 75% of available points were awarded. Those are the questions I'll be looking at again when I develop Quizzes 2 and 3. 
