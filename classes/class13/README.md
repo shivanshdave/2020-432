@@ -36,7 +36,7 @@ Ridge Regression and the Lasso.
 6. Minute Paper after Class 12 feedback is available at http://bit.ly/432-2020-minute12-feedback.
 7. In response to some Minute Paper questions about non-linearity, spending degrees of freedom and the Spearman rho-squared plot, [I wrote up some thoughts](https://github.com/THOMASELOVE/2020-432/blob/master/classes/class13/nonlinearity.md). Please take a look. I also encourage you to look closely at the relevant sections of [the Course Notes](https://thomaselove.github.io/2020-432-book).
 8. There have been several updates to the [Course Notes](https://thomaselove.github.io/2020-432-book), in particular there's a new Chapter 16 on Multiple Imputation (with `mice` and with `aregImpute`) in Linear Regression.
-9. Project 2 instructions will appear on 2020-03-17 by 1 PM. The answer to all of the complicated questions I've heard so far about Project 2 is "I'm not sure. It depends on how Project 1 goes."
+9. [Project 2 instructions](https://github.com/THOMASELOVE/2020-432/tree/master/projects/project2) are started, and the rest will appear on 2020-03-17 by 1 PM. The answer to all questions not already answered there is probably "I'm not sure. It depends on how Project 1 goes."
 
 ## Reminders/Notes (from [the Course Calendar](https://github.com/THOMASELOVE/2020-432/blob/master/calendar.md))
 
