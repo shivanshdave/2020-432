@@ -12,14 +12,27 @@ Dealing with Aggregated Data in Logistic Regression, Probit Regression
 
 ## Today's Announcements
 
-- There will be a Minute Paper after Class 14, due at 2 PM on Friday 2020-03-06.
-- Enjoy Spring Break! Our next class will be Tuesday 2020-03-17.
+1. There is a Minute Paper after Class 14, due at 2 PM on Friday 2020-03-06.
+2. The [Course Notes](https://thomaselove.github.io/2020-432-book/) have been updated to include Chapters 16, 18, and 21-24, along with placeholders for 17, 19 and 20.
+3. Enjoy Spring Break! Our next class will be Tuesday 2020-03-17.
+
+## Some Project Tips
+
+1. Some of you may have a logistic regression model that won't run, or that produces explosive results, with extremely large or small coefficients or standard errors. If that's the case, check to see that your binary outcome occurs at least a few times (and doesn't occur at least a few times) at every level of each of your categorical predictors. If, for example, you have a factor with levels A, B, C and D, and your outcome is always 1 (and never 0) for subjects in level D, you have a problem. The simplest solution is to recast the logistic regression model as a model for the sample including only subjects from levels A, B and C.
+
+2. If you have a quantitative predictor or outcome in your project 1 data that could be represented by either a proportion (number between 0 and 1) or a percentage (number between 0 and 100), I suggest you use a percentage, multiplying the proportion by 100 if necessary.
+
+3. If your predictors are on wildly different scales, for instance, most of your predictors are between 0 and 100 or are categorical, but one of your predictors (say, `cost`) is on a much wider scale (say from 1,000 to 10,000,000) then I strongly suggest either representing the costs with a base-10 logarithm or dividing by, say, 1000 to represent the costs in thousands of dollars. This will reduce the chances of you having a very very small or very very large coefficient that you need to explain. 
+
+4. For Project 1, I suggest that using simple imputation or complete cases is fine. We'd like to see multiple imputation in Project 2, but it's not something Dr. Love will be looking for in Project 1, *except* that it's an excellent thing to mention in the Discussion session as a likely next step for the work.
+
+5. If you are comparing models A and B in Project 1 and they are very comparable in terms of validation statistics (perhaps the R-square is within 1 percentage point of each other, and the RMSE and MAE disagree) then if both models' residual plots look OK, I would probably pick the main effects model, personally. (If model A's residuals look fine, but model B's don't, then you'd clearly choose model A.) You can choose whatever model you feel is more justified base on the results you've built.
 
 ## Reminders/Notes (from [the Course Calendar](https://github.com/THOMASELOVE/2020-432/blob/master/calendar.md))
 
 Date | Deliverable
 ----: | ---------------------------------------------------------------
-03-06 | There will be a Minute Paper after Class 14, due at 2 PM.
+03-06 | Minute Paper after Class 14, due at 2 PM.
 03-09 | [Project 1 Posters/Portfolios](https://github.com/THOMASELOVE/2020-432/tree/master/projects/project1) are due at 2 PM.
 Break | No class and no TA office hours from 03-09 through 03-13. `431-help` will be open.
 03-17 | [Project 2 Instructions](https://github.com/THOMASELOVE/2020-432/tree/master/projects/project2) should be available by 1 PM.
