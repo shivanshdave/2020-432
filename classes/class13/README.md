@@ -12,7 +12,7 @@ Ridge Regression and the Lasso.
 
 ## Today's Announcements
 
-1. Quiz 1 post-Quiz materials [are posted here](https://github.com/THOMASELOVE/2020-432/tree/master/quizzes/postquiz1).
+1. Quiz 1: I've finished grading. Post-Quiz materials [are posted here](https://github.com/THOMASELOVE/2020-432/tree/master/quizzes/postquiz1).
 2. Homework 3 grades were posted on 2020-02-27 to http://bit.ly/432-2020-grades. 
     - We built a [Google Doc containing several of the essays we really enjoyed in response to Question 6](https://docs.google.com/document/d/1krZRnMTniOKfU0EqlE-dnJjqP4n7hBgFB7JSPN-x8mQ/edit?usp=sharing).
 3. *Homework Regrades*. A reminder...
