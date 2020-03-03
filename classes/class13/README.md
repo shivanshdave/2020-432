@@ -17,9 +17,11 @@ Ridge Regression and the Lasso.
         - the [Answer Sketch, Rubric and Results document](https://github.com/THOMASELOVE/2020-432/blob/master/quizzes/postquiz1/quiz1_with_sketch.pdf) and 
         - the [R Markdown of code and evaluation for Question 2](https://github.com/THOMASELOVE/2020-432/blob/master/quizzes/postquiz1/quiz1_checkquestion2code.Rmd).
     - If you didn't do as well as you'd hoped, I'm sorry. I hope you all do very well on the next Quiz.
-    - As a group, there were some questions (answer sketch has results for each item) where less than 75% of available points were awarded. Those are the questions I'll be looking at again when I develop Quizzes 2 and 3. I thought every item was reasonable except maybe Question 7a, but since that was only 1 point, I left it alone.
+    - As a group, there were some questions ([answer sketch](https://github.com/THOMASELOVE/2020-432/blob/master/quizzes/postquiz1/quiz1_with_sketch.pdf) has results for each item) where less than 75% of available points were awarded. Those are the questions I'll be looking at again when I develop Quizzes 2 and 3. 
+    - I thought every item was reasonable except maybe Question 7a, but since that was only 1 point, I left it alone.
     - In the Minute Paper after Thursday's class, I'll be asking you how long it took you to do the Quiz.
-    - My bonus office hours today and Thursday are designed to be about the project 1 portfolio and poster. Please stick with that, rather than using the time to rehash the Quiz. There's not much we can do about Quiz 1, but there's a lot we can do about Project 1, and it's far more important for your grade in the course.
+    - My bonus office hours today and Thursday are designed to be about the project 1 portfolio and poster. Please stick with that, rather than using the time to rehash the Quiz. 
+        - There's not much we can do now about Quiz 1 (and whatever we can do, we can probably do via email), but there's a lot we can do about Project 1, and it's far more important for your grade in the course.
         - The 3 Quizzes (Quiz 1 worth 75 points, Quiz 2 worth 75 points, Quiz 3 worth 100 points) combined are worth 15-25% of your course grade. The 2 Projects are together worth 40% of your Course Grade.
 2. Homework 3 grades were posted on 2020-02-27 to http://bit.ly/432-2020-grades. 
     - We built a [Google Doc containing several of the essays we really enjoyed in response to Question 6](https://docs.google.com/document/d/1krZRnMTniOKfU0EqlE-dnJjqP4n7hBgFB7JSPN-x8mQ/edit?usp=sharing).
