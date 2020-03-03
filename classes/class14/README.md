@@ -8,7 +8,7 @@ Slides in PDF | Slides in R Markdown | Audio Recording | Need Help?
 
 ## Today's Key Topic
 
-Dealing with Aggregated Data in Logistic Regression, Probit Regression
+Dealing with Aggregated Data in Logistic Regression, Probit Regression (These materials are discussed in the [Course Notes](https://thomaselove.github.io/2020-432-book/) in Chapter 18)
 
 ## Today's Announcements
 
