@@ -1,7 +1,7 @@
 # Materials After Quiz 1
 
 - The [Quiz 1 answer sketch](https://github.com/THOMASELOVE/2020-432/blob/master/quizzes/postquiz1/quiz1_with_sketch.pdf) is available as a PDF file. The PDF includes the entire Quiz, followed by the Results, Sketch and Rubric for each question and overall. 
-    - At noon on 2020-03-03, I modified the answer in Question 11 to fix a typo, and explain one of the common errors that I didn't understand previously.
+    - At noon on 2020-03-03, I modified the answer in Question 11 to fix a typo, and explain one of the common errors that I didn't understand previously. At 3 PM, I modified in again, as we figured out the other common mistake in Question 11.
 - Your [responses to Question 2](https://github.com/THOMASELOVE/2020-432/blob/master/quizzes/postquiz1/quiz1_checkquestion2code.Rmd) are available as an R Markdown file if you want to see what code I received for you. This is also the place to find my specific comments on your coding.
 - Grades have been emailed to all students as of 9 AM on 2020-03-03.
 
