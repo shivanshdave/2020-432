@@ -64,7 +64,7 @@ I cannot anticipate a good reason for you to use any transformation other than t
 - If, for example, you have a factor with levels A, B, C and D, and your outcome is always 1 (and never 0) for subjects in level D, you have a problem. 
 - The simplest solution in that case would be to recast the logistic regression model as a model for the sample including only subjects from levels A, B and C.
 
-6. **Picking between Model A or B via Validation** If you are comparing models A and B in Project 1 and they are very comparable in terms of validation statistics (perhaps the R-square is within 1 percentage point of each other, and the RMSE and MAE disagree) then if both models' residual plots look OK, I would probably pick the main effects model, personally. (If model A's residuals look fine, but model B's don't, then you'd clearly choose model A.) You can choose whatever model you feel is more justified base on the results you've built. 
+6. **Picking between Model A or B via Validation** If you are comparing models A and B in Project 1 and they are very comparable in terms of validation statistics (perhaps the R-square is within 1 percentage point of each other, and the RMSE and MAE disagree) then if both models' residual plots look OK, I would probably pick the main effects model, personally. (If model A's residuals look fine, but model B's don't, then you'd clearly choose model A.) You can choose whatever model you feel is more justified by your analyses.
 
 - The same advice goes for the comparison of Models Y and Z in the logistic regression work, except that there I wouldn't be looking at residuals.
 
