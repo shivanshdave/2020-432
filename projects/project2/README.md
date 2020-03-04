@@ -55,10 +55,10 @@ Three **especially appealing** options for Project 2 that I'd really like to see
 
 Other sources that students have often used in the past include:
 
-1. [National Center on Health Statistics](https://www.cdc.gov/nchs/data_access/ftp_data.htm) including NHANES
-2. [Behavioral Risk Factor Surveillance System](https://www.cdc.gov/brfss/data_documentation/index.htm)
-3. [500 Cities](https://chronicdata.cdc.gov/browse?category=500+Cities)
-4. [County Health Rankings](https://www.countyhealthrankings.org/explore-health-rankings/rankings-data-documentation)
+4. [National Center on Health Statistics](https://www.cdc.gov/nchs/data_access/ftp_data.htm) including NHANES
+5. [Behavioral Risk Factor Surveillance System](https://www.cdc.gov/brfss/data_documentation/index.htm)
+6. [500 Cities](https://chronicdata.cdc.gov/browse?category=500+Cities)
+7. [County Health Rankings](https://www.countyhealthrankings.org/explore-health-rankings/rankings-data-documentation)
 
 ## Some Restrictions on Your Data Set (What data are you *not* allowed to use?)
 
