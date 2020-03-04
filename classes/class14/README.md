@@ -11,12 +11,22 @@ Slides in PDF | Slides in R Markdown | Audio Recording | Need Help?
 Dealing with Aggregated Data in Logistic Regression, Probit Regression 
 - These materials are discussed in the [Course Notes](https://thomaselove.github.io/2020-432-book/) in Chapter 18
 
+## Thoughts from Smart People
+
+1. A useful piece of advice for academics from [Dr. Holly Witteman](https://twitter.com/hwitteman/status/1234968102263230464?s=11)
+
+![](https://github.com/THOMASELOVE/2020-432/blob/master/classes/class14/figures/witteman.PNG)
+
+2. A powerful piece of insight from [Jenny Bryan](https://twitter.com/JennyBryan/status/1103066293190615041) and from [Paul Sochacki](https://twitter.com/Cyberskout99/status/1103095572288827392) back in 2019.
+
+![](https://github.com/THOMASELOVE/2020-432/blob/master/classes/class14/figures/jennybryan_tw.PNG)
+![](https://github.com/THOMASELOVE/2020-432/blob/master/classes/class14/figures/paul_tw.PNG)
+
 ## Today's Announcements
 
 1. There is a [Minute Paper after Class 14](http://bit.ly/432-2020-minute-14), due at 2 PM on Friday 2020-03-06.
 2. The [Course Notes](https://thomaselove.github.io/2020-432-book/) have been updated to include Chapters 16, 18, and 21-24, along with placeholders for 17, 19 and 20.
 3. For Project 2, I specified [some data sources I'd be pleased to see used more](https://github.com/THOMASELOVE/2020-432/blob/master/projects/project2/README.md#suggested-data-sources). 
-4. Enjoy Spring Break! Our next class will be Tuesday 2020-03-17.
 
 ## Some Project 1 Tips
 
@@ -107,3 +117,5 @@ If you're concerned about Alabama, later in that thread, Sam reminds us that
 By 2020-02-28, CNBC corrected the map, which now looks like this:
 
 ![](https://github.com/THOMASELOVE/2020-432/blob/master/classes/class13/figures/cnbc_map_corrected.PNG)
+
+# Enjoy Spring Break! Our next class will be Tuesday 2020-03-17.
