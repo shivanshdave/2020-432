@@ -125,4 +125,6 @@ By 2020-02-28, CNBC corrected the map, which now looks like this:
 
 ![](https://github.com/THOMASELOVE/2020-432/blob/master/classes/class13/figures/cnbc_map_corrected.PNG)
 
-# Enjoy Spring Break! Our next class will be Tuesday 2020-03-17.
+# Enjoy Spring Break! 
+
+## Our next class will be Tuesday 2020-03-17.
