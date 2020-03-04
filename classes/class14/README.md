@@ -70,6 +70,13 @@ I cannot anticipate a good reason for you to use any transformation other than t
 
 7. My note on **back-transformation in nomograms** for linear and logistic regression is available [in R Markdown](https://github.com/THOMASELOVE/2020-432/blob/master/classes/class14/class14_nomogram_note.Rmd) or [as a PDF](https://github.com/THOMASELOVE/2020-432/blob/master/classes/class14/class14_nomogram_note.pdf).
 
+## Regarding Project 1 and `431-help` Responses
+
+Dr. Love will be mostly unresponsive to email from Friday evening until Wednesday evening. 
+
+- The TAs will attempt to respond to everything on `431-help` during that time, but something may come up that requires Dr. Love. On Sunday morning at 9 AM, he will review what has come in, and try to catch up on anything needing his input by Sunday at 10 AM. 
+    - Anything received at `431-help` after 9 AM Sunday and before 9 AM Monday will likely receive a response from a TA, but not from Dr. Love.
+    - Anything received after 9 AM Monday at `431-help` is very likely NOT to receive a response at all before the Project 1 deadline of 2 PM Monday.
 
 ## Reminders/Notes (from [the Course Calendar](https://github.com/THOMASELOVE/2020-432/blob/master/calendar.md))
 
