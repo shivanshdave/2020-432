@@ -13,7 +13,7 @@ Dealing with Aggregated Data in Logistic Regression, Probit Regression
 
 ## Today's Announcements
 
-1. There is a Minute Paper after Class 14, due at 2 PM on Friday 2020-03-06.
+1. There is a [Minute Paper after Class 14](http://bit.ly/432-2020-minute-14), due at 2 PM on Friday 2020-03-06.
 2. The [Course Notes](https://thomaselove.github.io/2020-432-book/) have been updated to include Chapters 16, 18, and 21-24, along with placeholders for 17, 19 and 20.
 3. Enjoy Spring Break! Our next class will be Tuesday 2020-03-17.
 
@@ -35,7 +35,7 @@ Dealing with Aggregated Data in Logistic Regression, Probit Regression
 
 Date | Deliverable
 ----: | ---------------------------------------------------------------
-03-06 | Minute Paper after Class 14, due at 2 PM.
+03-06 | [Minute Paper after Class 14](http://bit.ly/432-2020-minute-14), due at 2 PM.
 03-09 | [Project 1 Posters/Portfolios](https://github.com/THOMASELOVE/2020-432/tree/master/projects/project1) are due at 2 PM.
 Break | No class and no TA office hours from 03-09 through 03-13. `431-help` will be open.
 03-17 | [Project 2 Instructions](https://github.com/THOMASELOVE/2020-432/tree/master/projects/project2) should be available by 1 PM.
