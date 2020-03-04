@@ -20,9 +20,13 @@ Dealing with Aggregated Data in Logistic Regression, Probit Regression
 
 ## Some Project 1 Tips
 
-1. My note on back-transformation in nomograms for linear and logistic regression is available [in R Markdown](https://github.com/THOMASELOVE/2020-432/blob/master/classes/class14/class14_nomogram_note.Rmd) or [as a PDF](https://github.com/THOMASELOVE/2020-432/blob/master/classes/class14/class14_nomogram_note.pdf).
+1. **Representing Fractions** If you have a quantitative predictor or outcome in your project 1 data that could be represented by either a proportion (number between 0 and 1) or a percentage (number between 0 and 100), I suggest you use a percentage, multiplying the proportion by 100 if necessary.
 
-2. Box-Cox and Transformations.
+2. **Scaling Your Predictors** If your predictors are on wildly different scales, for instance, most of your predictors are between 0 and 100 or are categorical, but one of your predictors (say, `cost`) is on a much wider scale (say from 1,000 to 10,000,000) then I strongly suggest either representing the costs with a base-10 logarithm or dividing by, say, 1000 to represent the costs in thousands of dollars. This will reduce the chances of you having a very very small or very very large coefficient that you need to explain. 
+
+3. **Imputation** For Project 1, I suggest that using simple imputation or complete cases is fine. We'd like to see multiple imputation in Project 2, but it's not something Dr. Love will be looking for in Project 1, *except* that it's an excellent thing to mention in the Discussion session as a likely next step for the work.
+
+4. **Box-Cox and Transformations of Your Linear Regression Outcome**.
 
 The Box-Cox procedure is **not** going to provide useful information on transformation of a quantitative outcome if your outcome is:
 
@@ -33,23 +37,29 @@ The Box-Cox procedure is **not** going to provide useful information on transfor
 
 since the limited set of transformations available really don't deal with any of those issues.
 
-Another common problem is that if you have one or more predictors that essentially define the outcome value (for instance, everyone who smokes has a higher outcome value, or close to that, than everyone who doesn't smoke). 
+Other things that can cause trouble include:
 
-In any case, if you run the Box-Cox procedure and it doesn't give you a sensible transformation (for instance, it gives you a value outside the range of -1 to +2), then you likely have one of the problems above, and I will have zero difficulty with you using your common sense to select a sensible transformation instead of whatever Box-Cox recommends. A sensible transformation is one of the following five:
+- if you have one or more predictors that essentially define the outcome value (for instance, everyone who smokes has a higher outcome value, or close to that, than everyone who doesn't smoke)
+- if you have two or more predictors that are highly collinear with one another (you can use `car::vif` to check this for a model you're fitting with `lm` or `glm`, and `rms::vif` to check collinearity for a model fit with `ols` or `lrm`.)
+
+In any case, if you run the Box-Cox procedure and it doesn't give you a sensible transformation (meaning that it gives you a value wll outside the range of -1 to +2), then I vehemently encourage you to use your common sense and understanding of what might be helpful to select a **sensible transformation** instead of whatever Box-Cox recommends. A sensible transformation is one of the following five:
 
 - inverse, logarithm (either natural or base-10 has the same effect,) square root, raw data (untransformed), or square
 
-I cannot anticipate any reason for you to use any transformation other than those five for your outcome in your linear regression for Project 1. So don't. And don't use the statistical tests available with Box-Cox to justify a different choice.
+I cannot anticipate a good reason for you to use any transformation other than those five for your outcome in your linear regression for Project 1. So **don't**. 
 
-3. Some of you may have a logistic regression model that won't run, or that produces explosive results, with extremely large or small coefficients or standard errors. If that's the case, check to see that your binary outcome occurs at least a few times (and doesn't occur at least a few times) at every level of each of your categorical predictors. If, for example, you have a factor with levels A, B, C and D, and your outcome is always 1 (and never 0) for subjects in level D, you have a problem. The simplest solution is to recast the logistic regression model as a model for the sample including only subjects from levels A, B and C.
+5. **Exploding Coefficients or Failure to Fit a Logistic Model**. Some of you may have a logistic regression model that won't run, or that produces explosive results, with extremely large or small coefficients or standard errors. 
 
-4. If you have a quantitative predictor or outcome in your project 1 data that could be represented by either a proportion (number between 0 and 1) or a percentage (number between 0 and 100), I suggest you use a percentage, multiplying the proportion by 100 if necessary.
+- If that's the case, check to see that your binary outcome occurs at least a few times (and doesn't occur at least a few times) at every level of each of your categorical predictors. 
+- If, for example, you have a factor with levels A, B, C and D, and your outcome is always 1 (and never 0) for subjects in level D, you have a problem. 
+- The simplest solution in that case would be to recast the logistic regression model as a model for the sample including only subjects from levels A, B and C.
 
-5. If your predictors are on wildly different scales, for instance, most of your predictors are between 0 and 100 or are categorical, but one of your predictors (say, `cost`) is on a much wider scale (say from 1,000 to 10,000,000) then I strongly suggest either representing the costs with a base-10 logarithm or dividing by, say, 1000 to represent the costs in thousands of dollars. This will reduce the chances of you having a very very small or very very large coefficient that you need to explain. 
+6. **Picking between Model A or B via Validation** If you are comparing models A and B in Project 1 and they are very comparable in terms of validation statistics (perhaps the R-square is within 1 percentage point of each other, and the RMSE and MAE disagree) then if both models' residual plots look OK, I would probably pick the main effects model, personally. (If model A's residuals look fine, but model B's don't, then you'd clearly choose model A.) You can choose whatever model you feel is more justified base on the results you've built. 
 
-6. For Project 1, I suggest that using simple imputation or complete cases is fine. We'd like to see multiple imputation in Project 2, but it's not something Dr. Love will be looking for in Project 1, *except* that it's an excellent thing to mention in the Discussion session as a likely next step for the work.
+- The same advice goes for the comparison of Models Y and Z in the logistic regression work, except that there I wouldn't be looking at residuals.
 
-7. If you are comparing models A and B in Project 1 and they are very comparable in terms of validation statistics (perhaps the R-square is within 1 percentage point of each other, and the RMSE and MAE disagree) then if both models' residual plots look OK, I would probably pick the main effects model, personally. (If model A's residuals look fine, but model B's don't, then you'd clearly choose model A.) You can choose whatever model you feel is more justified base on the results you've built.
+7. My note on **back-transformation in nomograms** for linear and logistic regression is available [in R Markdown](https://github.com/THOMASELOVE/2020-432/blob/master/classes/class14/class14_nomogram_note.Rmd) or [as a PDF](https://github.com/THOMASELOVE/2020-432/blob/master/classes/class14/class14_nomogram_note.pdf).
+
 
 ## Reminders/Notes (from [the Course Calendar](https://github.com/THOMASELOVE/2020-432/blob/master/calendar.md))
 
