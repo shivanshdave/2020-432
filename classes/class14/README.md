@@ -32,6 +32,8 @@ Dealing with Aggregated Data in Logistic Regression, Probit Regression
 
 6. If you are comparing models A and B in Project 1 and they are very comparable in terms of validation statistics (perhaps the R-square is within 1 percentage point of each other, and the RMSE and MAE disagree) then if both models' residual plots look OK, I would probably pick the main effects model, personally. (If model A's residuals look fine, but model B's don't, then you'd clearly choose model A.) You can choose whatever model you feel is more justified base on the results you've built.
 
+7. The Box-Cox procedure isn't going to provide useful information on transformation of a quantitative outcome if your outcome is (a) not all positive, (b) discrete with a ceiling and a floor and limited potential values or (c) if you have one or more predictors that essentially define the outcome value (for instance, everyone who smokes has a higher outcome value, or close to that, than everyone who doesn't smoke). Do not use the Box-Cox procedure to try to justify a transformation other than these five: inverse, log, square root, raw (untransformed) and square.  In fact, don't use any transformation other than those five.
+
 ## Reminders/Notes (from [the Course Calendar](https://github.com/THOMASELOVE/2020-432/blob/master/calendar.md))
 
 Date | Deliverable
