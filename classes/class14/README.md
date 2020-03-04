@@ -15,9 +15,10 @@ Dealing with Aggregated Data in Logistic Regression, Probit Regression
 
 1. There is a [Minute Paper after Class 14](http://bit.ly/432-2020-minute-14), due at 2 PM on Friday 2020-03-06.
 2. The [Course Notes](https://thomaselove.github.io/2020-432-book/) have been updated to include Chapters 16, 18, and 21-24, along with placeholders for 17, 19 and 20.
-3. Enjoy Spring Break! Our next class will be Tuesday 2020-03-17.
+3. For Project 2, I specified [some data sources I'd be pleased to see used more](https://github.com/THOMASELOVE/2020-432/blob/master/projects/project2/README.md#suggested-data-sources). 
+4. Enjoy Spring Break! Our next class will be Tuesday 2020-03-17.
 
-## Some Project Tips
+## Some Project 1 Tips
 
 1. My note on back-transformation in nomograms for linear and logistic regression is available [in R Markdown](https://github.com/THOMASELOVE/2020-432/blob/master/classes/class14/class14_nomogram_note.Rmd) or [as a PDF](https://github.com/THOMASELOVE/2020-432/blob/master/classes/class14/class14_nomogram_note.pdf).
 
