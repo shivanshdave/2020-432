@@ -45,6 +45,21 @@ There will be three deliverables:
     - At least one of the variables (outcome or predictor) you are studying must be quantitative, and at least one must be categorical with more than two categories.
 - We want you, in project 2, to have to confront the challenge of dealing with missing data via multiple imputation. If your raw data has missing values, we do not want you to reduce all of your work to complete cases, although you can compare complete case to simple imputation to multiple imputation results if you like. If your raw data has no missing values, then OK, but that's rare in "real" data.
 
+## Suggested Data Sources
+
+Three **especially appealing** options for Project 2 that I'd really like to see people use more are:
+
+1. The [Health and Retirement Study](https://hrs.isr.umich.edu/data-products/access-to-public-data)
+2. The [General Social Survey](https://gssdataexplorer.norc.org/)
+3. The many many public use data sets available at [ICSPR](https://www.icpsr.umich.edu/icpsrweb/ICPSR/)
+
+Other sources that students have often used in the past include:
+
+1. [National Center on Health Statistics](https://www.cdc.gov/nchs/data_access/ftp_data.htm) including NHANES
+2. [Behavioral Risk Factor Surveillance System](https://www.cdc.gov/brfss/data_documentation/index.htm)
+3. [500 Cities](https://chronicdata.cdc.gov/browse?category=500+Cities)
+4. [County Health Rankings](https://www.countyhealthrankings.org/explore-health-rankings/rankings-data-documentation)
+
 ## Some Restrictions on Your Data Set (What data are you *not* allowed to use?)
 
 - You are not allowed to use data stored as a data set in any R package.
@@ -53,7 +68,7 @@ There will be three deliverables:
 - You cannot reuse the data you used in Project 1 for 432, although you can use a different data set to answer related questions. You are welcome to reuse data you used in your 431 project if it is suitable and you haven’t used it in Project 1 for 432.
 - Dr. Love is pretty tired of data from Kaggle, from the UC Irvine Machine Learning Repository, from the Cleveland Clinic Lerner College Repository and data from data analysis competitions. Avoid those unless you can make a very strong argument for their relevance to a question of real interest to you.
 
-## No hierarchical data\!
+## No hierarchical data!
 
 - We want to powerfully discourage you from working with data that really require the use of multi-level models. 
       - One example would be a model of patient results that contains measures not just for individual patients but also measures for the providers within which patients are grouped, and also for health systems in which providers are grouped. 
@@ -65,3 +80,5 @@ There will be three deliverables:
 > Does Project 2 have to include everything that we did in Project 1?
 
 In Project 2, you don’t need to present everything in Project 1’s Tasks 1-9, and you’re not even required to format any of it in that way, but I would think you’d want to have most of that information at your fingertips in a presentation, so think carefully about what to keep and what to drop.
+
+
