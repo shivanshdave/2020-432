@@ -40,9 +40,9 @@ Dealing with Aggregated Data in Logistic Regression, Probit Regression
 
 The Box-Cox procedure is **not** going to provide useful information on transformation of a quantitative outcome if your outcome is:
 
-- not all positive, (although it's always possible to add a number to every observation to get them all to be strictly positive)
-- actually discrete with limited potential values
-- subject to a ceiling and/or a floor effect
+- not all positive, (although it's always possible to add a number to every observation to get them all to be strictly positive) *or*
+- actually discrete with limited potential values *or*
+- subject to a ceiling and/or a floor effect *or*
 - not particularly skewed at all, but instead either heavy-tailed or light-tailed, 
 
 since the limited set of transformations available really don't deal with any of those issues.
