@@ -30,71 +30,40 @@ Dealing with Aggregated Data in Logistic Regression, Probit Regression
 
 ## Some Project 1 Tips
 
-1. **Representing Fractions** If you have a quantitative predictor or outcome in your project 1 data that could be represented by either a proportion (number between 0 and 1) or a percentage (number between 0 and 100), I suggest you use a percentage, multiplying the proportion by 100 if necessary.
+I'm moving these to the [Project 1 Late Hints](https://github.com/THOMASELOVE/2020-432/blob/master/projects/project1/latehints.md) page.
 
-2. **Scaling Your Predictors** If your predictors are on wildly different scales, for instance, most of your predictors are between 0 and 100 or are categorical, but one of your predictors (say, `cost`) is on a much wider scale (say from 1,000 to 10,000,000) then I strongly suggest either representing the costs with a base-10 logarithm or dividing by, say, 1000 to represent the costs in thousands of dollars. This will reduce the chances of you having a very very small or very very large coefficient that you need to explain. 
+## Regarding `431-help` and Project 1
 
-3. **Imputation** For Project 1, I suggest that using simple imputation or complete cases is fine. We'd like to see multiple imputation in Project 2, but it's not something Dr. Love will be looking for in Project 1, *except* that it's an excellent thing to mention in the Discussion session as a likely next step for the work.
+- `431-help` remains open through Spring Break, but there will be a noticeable slowdown in response times after Sunday at 9 AM.
+- Dr. Love will be (essentially) away from email from Friday evening until Thursday morning, with one exception.
+    - On Sunday morning at 9 AM, he will review and try to catch up on anything needing his input, ideally finishing that by Sunday at 10 AM. So if you have questions about Project 1 that you think he needs to see, please send them to `431-help` before 9 AM Sunday.
+- Anything received after 9 AM Sunday at `431-help` will eventually get addressed, but it's very possible that this help may not come in time for your Project 1. 
+- So, we do not promise to respond to any `431-help` questions received after 9 AM Sunday, in time for Project 1. You can ask, certainly, and the TAs will usually be able to help, but Dr. Love cannot guarantee a response.
 
-4. **Box-Cox and Transformations of Your Linear Regression Outcome**.
+## Project 1 Submission Deadline
 
-The Box-Cox procedure is **not** going to provide useful information on transformation of a quantitative outcome if your outcome is:
+However, this comes with some "good" news. Because Dr. Love will now be unable to start grading the Projects until Wednesday evening, he is extending the deadline for the Portfolio and Poster by 48 hours. They are now due to Canvas at 2 PM on **Wednesday 2020-03-11**.
 
-- not all positive, (although it's always possible to add a number to every observation to get them all to be strictly positive) *or*
-- actually discrete with limited potential values *or*
-- subject to a ceiling and/or a floor effect *or*
-- not particularly skewed at all, but instead either heavy-tailed or light-tailed, 
+You will submit the following items to Canvas:
 
-since the limited set of transformations available really don't deal with any of those issues.
+1. Your Project 1 Portfolio (Rmd and HTML versions)
+    - We'd like the filenames (if your name was Jane Smith and your final version was from 2020-03-11) to be `portfolio_jane_smith_2020-03-11.Rmd` and `portfolio_jane_smith_2020-03-11.HTML`.
+2. Your Project 1 Poster (Rmd and HTML versions)
+    - We'd like the filenames (if your name was Jane Smith and your final version was from 2020-03-11) to be `poster_jane_smith_2020-03-11.Rmd` and `poster_jane_smith_2020-03-11.HTML`.
+3. Your raw data set(s) as a csv just as you imported them into R in your portfolio
+    - No reason to change the filename here. Use whatever you've used previously.
+4. Your tidy data set saved as an Rds (R data set) file. This is so that you preserve all of the factor work you've done. Save your R data set to a file in this way by typing in `saveRDS(nameoftidyRtibble, file = here("data", "tidy_yourname.Rds"))`, subsituting in the name of your tidied R tibble. You can do this after section 12 of your portfolio, just before you run the system information function.
+    - We'd like the filename to be `tidy_jane_smith.Rds`. 
 
-Other things that can cause trouble include:
-
-- if you have one or more predictors that essentially define the outcome value (for instance, everyone who smokes has a higher outcome value, or close to that, than everyone who doesn't smoke)
-- if you have two or more predictors that are highly collinear with one another (you can use `car::vif` to check this for a model you're fitting with `lm` or `glm`, and `rms::vif` to check collinearity for a model fit with `ols` or `lrm`.)
-
-In any case, if you run the Box-Cox procedure and it doesn't give you a sensible transformation (meaning that it gives you a value wll outside the range of -1 to +2), then I vehemently encourage you to use your common sense and understanding of what might be helpful to select a **sensible transformation** instead of whatever Box-Cox recommends. A sensible transformation is one of the following five:
-
-- inverse, logarithm (either natural or base-10 has the same effect,) square root, raw data (untransformed), or square
-
-I cannot anticipate a good reason for you to use any transformation other than those five for your outcome in your linear regression for Project 1. So **don't**. 
-
-5. **Exploding Coefficients or Failure to Fit a Logistic Model**. Some of you may have a logistic regression model that won't run, or that produces explosive results, with extremely large or small coefficients or standard errors. 
-
-- If that's the case, check to see that your binary outcome occurs at least a few times (and doesn't occur at least a few times) at every level of each of your categorical predictors. 
-- If, for example, you have a factor with levels A, B, C and D, and your outcome is always 1 (and never 0) for subjects in level D, you have a problem. 
-- The simplest solution in that case would be to recast the logistic regression model as a model for the sample including only subjects from levels A, B and C.
-
-6. **Confusion Matrix and ROC curve**. In fitting a confusion matrix, there's no need to force a standard of 0.5 for the cutoff you use. Selecting a different standard will change both the sensitivity and specificity, and often, the results will be a bit stronger at a value further away from 0.5, especially if your outcome occurs at a rate that's not close to 50% in your data. It’s up to you to decide what the probability cutoff should be to classify an individual as "predicted positive." The most important thing to think about is the relative costs of misclassification. Often we are willing to increase the costs of misclassification in one direction to reduce the costs of misclassification in the other direction.
-
-- The ROC curve (if you plot it) helps to indicate how changing the cutoff for the decision rule affects the sensitivity-specificity relationship. Specifically, the ROC curve does this by plotting sensitivity, the probability of predicting a real positive will be a positive, against 1-specificity, the probability of predicting a real negative will be a positive, for various decision rules.
-- In fact, the ROC curve plots out the sensitivity and specificity for every possible decision rule cutoff between 0 and 1 for a model.
-- The further the curve is from the diagonal line, the better the model is at discriminating between positives and negatives in general.
-- The Youden index is one statistic that can be used to identify the decision rule (between 0 and 1) for the fitted values that provides the optimal cutpoint (under specific circumstances.)
-- If you're essentially agnostic about the two types of misclassification, a common approach is to find the cutpoint that maximizes the sum of the sensitivity and the specificity. [The `cutpointR` package](https://cran.r-project.org/web/packages/cutpointr/vignettes/cutpointr.html) can be helpful in doing this.
-
-**In short**, it's not important to me that you optimize this choice in Project 1. Feel free to use a different standard for your decision rule than 0.5 for any reason you like. You might, for instance, try a few options and select the one with the highest combined sensitivity + specificity. Just make sure to make it clear that is what you are doing. 
-
-7. **Picking between Model A or B via Validation** If you are comparing models A and B in Project 1 and they are very comparable in terms of validation statistics (perhaps the R-square is within 1 percentage point of each other, and the RMSE and MAE disagree) then if both models' residual plots look OK, I would probably pick the main effects model, personally. (If model A's residuals look fine, but model B's don't, then you'd clearly choose model A.) You can choose whatever model you feel is more justified by your analyses.
-
-- The same advice goes for the comparison of Models Y and Z in the logistic regression work, except that there I wouldn't be looking at residuals.
-
-8. My note on **back-transformation in nomograms** for linear and logistic regression is available [in R Markdown](https://github.com/THOMASELOVE/2020-432/blob/master/classes/class14/class14_nomogram_note.Rmd) or [as a PDF](https://github.com/THOMASELOVE/2020-432/blob/master/classes/class14/class14_nomogram_note.pdf).
-
-## Regarding Project 1 and `431-help` Responses
-
-Dr. Love will be mostly unresponsive to email from Friday evening until Wednesday evening. 
-
-- The TAs will attempt to respond to everything on `431-help` during that time, but something may come up that requires Dr. Love. On Sunday morning at 9 AM, he will review what has come in, and try to catch up on anything needing his input by Sunday at 10 AM. 
-    - Anything received at `431-help` after 9 AM Sunday and before 9 AM Monday will likely receive a response from a TA, but not from Dr. Love.
-    - Anything received after 9 AM Monday at `431-help` is very likely NOT to receive a response at all before the Project 1 deadline of 2 PM Monday.
+Thank you.
 
 ## Reminders/Notes (from [the Course Calendar](https://github.com/THOMASELOVE/2020-432/blob/master/calendar.md))
 
 Date | Deliverable
 ----: | ---------------------------------------------------------------
 03-06 | [Minute Paper after Class 14](http://bit.ly/432-2020-minute-14), due at 2 PM.
-03-09 | [Project 1 Posters/Portfolios](https://github.com/THOMASELOVE/2020-432/tree/master/projects/project1) are due at 2 PM.
-Break | No class and no TA office hours from 03-09 through 03-13. `431-help` will be open.
+03-11 | [Project 1 Posters/Portfolios](https://github.com/THOMASELOVE/2020-432/tree/master/projects/project1) are due at 2 PM.
+Break | No class and no TA office hours from 03-09 through 03-13. `431-help` will be open, but slow to respond this week.
 03-17 | [Project 2 Instructions](https://github.com/THOMASELOVE/2020-432/tree/master/projects/project2) should be available by 1 PM.
 03-20 | There will be a Minute Paper after Class 16, due at 2 PM.
 03-23 | [Homework 4](https://github.com/THOMASELOVE/2020-432/tree/master/homework) due at 5 PM
