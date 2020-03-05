@@ -50,12 +50,14 @@ I cannot anticipate a good reason for you to use any transformation other than t
 
 A good strategy if you're unsure is probably this:
 
-- In a linear model, compare the validated R-squares. If they differ by 0.02 or less, it's not critical that you pick one over the other.
-- In a logistic model, compare the validated C statistics. If they differ by 0.02 or less, it's not critical that you pick one over the other.
+- In a linear model, compare the validated R-squares. If they differ by 0.02 or less, it's not critical that you pick one over the other, so you might as well follow the advice from Spiegelhalter and go with the smaller (i.e. main effects) model.
+- In a logistic model, compare the validated C statistics. If they differ by 0.02 or less, it's not critical that you pick one over the other, so you might as well follow the advice from Spiegelhalter and go with the smaller (i.e. main effects) model.
 
 8. My note on **back-transformation in nomograms** for linear and logistic regression is available [in R Markdown](https://github.com/THOMASELOVE/2020-432/blob/master/classes/class14/class14_nomogram_note.Rmd) or [as a PDF](https://github.com/THOMASELOVE/2020-432/blob/master/classes/class14/class14_nomogram_note.pdf). The only other thing you should be back-transforming is your prediction in a linear model with a transformed outcome.
 
 Other Tips:
 
 - I need a tip about fig.height and fig.width in the chunk names - which is how you make your nomogram look bigger.
+- When you draw an ROC curve, make sure that the result matches what you get from an lrm fit of the model. If not, it may be that your outcome is misspecified. You want a 0-1 numeric outcome for the plotting to work correctly, I believe.
+- One clear tip for the poster is that if you chose model B instead of model A in your linear model, model B is the only model we should see any evidence of in the poster.
 
