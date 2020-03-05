@@ -60,4 +60,5 @@ Other Tips:
 - I need a tip about fig.height and fig.width in the chunk names - which is how you make your nomogram look bigger.
 - When you draw an ROC curve, make sure that the result matches what you get from an lrm fit of the model. If not, it may be that your outcome is misspecified. You want a 0-1 numeric outcome for the plotting to work correctly, I believe.
 - One clear tip for the poster is that if you chose model B instead of model A in your linear model, model B is the only model we should see any evidence of in the poster.
+- The key thing to explain any interaction is to remember to use the words "It Depends" - if the AxB product term is important in predicting Y, then the effect of A on Y depends on the status of B. Similarly, the effect of B on Y depends on the status of A.
 
