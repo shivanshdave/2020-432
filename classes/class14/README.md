@@ -25,7 +25,7 @@ Dealing with Aggregated Data in Logistic Regression, Probit Regression
 ## Today's Announcements
 
 1. There is a [Minute Paper after Class 14](http://bit.ly/432-2020-minute-14), due at 2 PM on Friday 2020-03-06.
-2. The [Course Notes](https://thomaselove.github.io/2020-432-book/) have been updated to include Chapters 16, 18, and 21-24, along with placeholders for 17, 19 and 20.
+2. The [Course Notes](https://thomaselove.github.io/2020-432-book/) have been updated to include Chapters 16, 18, and 21-24, along with placeholders for 17, 19 and 20. I also fixed a couple of typos near the bottom of Chapter 14, in the text describing validation results.
 3. For Project 2, I specified [some data sources I'd be pleased to see used more](https://github.com/THOMASELOVE/2020-432/blob/master/projects/project2/README.md#suggested-data-sources). 
 
 ## Some Project 1 Tips
@@ -63,6 +63,16 @@ I cannot anticipate a good reason for you to use any transformation other than t
 - If that's the case, check to see that your binary outcome occurs at least a few times (and doesn't occur at least a few times) at every level of each of your categorical predictors. 
 - If, for example, you have a factor with levels A, B, C and D, and your outcome is always 1 (and never 0) for subjects in level D, you have a problem. 
 - The simplest solution in that case would be to recast the logistic regression model as a model for the sample including only subjects from levels A, B and C.
+
+6. **Confusion Matrix and ROC curve**. In fitting a confusion matrix, there's no need to force a standard of 0.5 for the cutoff you use. Selecting a different standard will change both the sensitivity and specificity, and often, the results will be a bit stronger at a value further away from 0.5, especially if your outcome occurs at a rate that's not close to 50% in your data. It’s up to you to decide what the probability cutoff should be to classify an individual as "predicted positive." The most important thing to think about is the relative costs of misclassification. Often we are willing to increase the costs of misclassification in one direction to reduce the costs of misclassification in the other direction.
+
+- The ROC curve (if you plot it) helps to indicate how changing the cutoff for the decision rule affects the sensitivity-specificity relationship. Specifically, the ROC curve does this by plotting sensitivity, the probability of predicting a real positive will be a positive, against 1-specificity, the probability of predicting a real negative will be a positive, for various decision rules.
+- In fact, the ROC curve plots out the sensitivity and specificity for every possible decision rule cutoff between 0 and 1 for a model.
+- The further the curve is from the diagonal line, the better the model is at discriminating between positives and negatives in general.
+- The Youden index is one statistic that can be used to identify the decision rule (between 0 and 1) for the fitted values that provides the optimal cutpoint (under specific circumstances.)
+- If you're essentially agnostic about the two types of misclassification, a common approach is to find the cutpoint that maximizes the sum of the sensitivity and the specificity. [The `cutpointR` package](https://cran.r-project.org/web/packages/cutpointr/vignettes/cutpointr.html) can be helpful in doing this.
+
+**In short**, it's not important to me that you optimize this choice in Project 1. Feel free to use a different standard for your decision rule than 0.5 for any reason you like. You might, for instance, try a few options and select the one with the highest combined sensitivity + specificity. Just make sure to make it clear that is what you are doing. 
 
 6. **Picking between Model A or B via Validation** If you are comparing models A and B in Project 1 and they are very comparable in terms of validation statistics (perhaps the R-square is within 1 percentage point of each other, and the RMSE and MAE disagree) then if both models' residual plots look OK, I would probably pick the main effects model, personally. (If model A's residuals look fine, but model B's don't, then you'd clearly choose model A.) You can choose whatever model you feel is more justified by your analyses.
 
