@@ -11,7 +11,13 @@ Slides in PDF | Slides in R Markdown | Audio Recording | Need Help?
 Dealing with Aggregated Data in Logistic Regression, Probit Regression 
 - These materials are discussed in the [Course Notes](https://thomaselove.github.io/2020-432-book/) in Chapter 18
 
-## Thoughts from Smart People
+## Breaking News!
+
+- The Royal Statistical Society [made an announcement yesterday](https://twitter.com/RoyalStatSoc/status/1235174819802632192)
+
+![](https://github.com/THOMASELOVE/2020-432/blob/master/classes/class14/figures/guy.png)
+
+## A Few Things That May Help
 
 1. A useful piece of advice for academics from [Dr. Holly Witteman](https://twitter.com/hwitteman/status/1234968102263230464?s=11)
 
