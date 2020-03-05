@@ -53,9 +53,9 @@ A good strategy if you're unsure is probably this:
 - In a linear model, compare the validated R-squares. If they differ by 0.02 or less, it's not critical that you pick one over the other.
 - In a logistic model, compare the validated C statistics. If they differ by 0.02 or less, it's not critical that you pick one over the other.
 
-8. My note on **back-transformation in nomograms** for linear and logistic regression is available [in R Markdown](https://github.com/THOMASELOVE/2020-432/blob/master/classes/class14/class14_nomogram_note.Rmd) or [as a PDF](https://github.com/THOMASELOVE/2020-432/blob/master/classes/class14/class14_nomogram_note.pdf).
+8. My note on **back-transformation in nomograms** for linear and logistic regression is available [in R Markdown](https://github.com/THOMASELOVE/2020-432/blob/master/classes/class14/class14_nomogram_note.Rmd) or [as a PDF](https://github.com/THOMASELOVE/2020-432/blob/master/classes/class14/class14_nomogram_note.pdf). The only other thing you should be back-transforming is your prediction in a linear model with a transformed outcome.
 
 Other Tips:
 
-- I need a tip about fig.height and fig.width
+- I need a tip about fig.height and fig.width in the chunk names - which is how you make your nomogram look bigger.
 
