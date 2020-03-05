@@ -9,8 +9,8 @@ Session | Date | Materials
 -- | 03-05 | Dr. Love's Project 1 Office Hours 12 - 12:45 and 2:15 - 3 in Wood WG82-J.
 [Class 14](https://github.com/THOMASELOVE/2020-432/tree/master/classes/class14) | 03-05 | Dealing with Aggregated Data in Logistic Regression, Probit Regression, Project 1
 -- | 03-06 | [Minute Paper after Class 14](http://bit.ly/432-2020-minute-14) due at 2 PM.
--- | 03-09 | [Project 1 Posters/Portfolios](https://github.com/THOMASELOVE/2020-432/tree/master/projects/project1) are due at 2 PM.
 -- | 03-10 | No class. CWRU Spring Break (03-09 through 03-13)
+-- | 03-11 | [Project 1 Posters/Portfolios](https://github.com/THOMASELOVE/2020-432/tree/master/projects/project1) are due to Canvas at 2 PM.
 -- | 03-12 | No class. CWRU Spring Break (03-09 through 03-13)
 -- | 03-17 | Complete [Project 2 Instructions](https://github.com/THOMASELOVE/2020-432/tree/master/projects/project2) will be available. 
 Class 15 | 03-17 | Fitting Models to Multi-Categorical Responses.
