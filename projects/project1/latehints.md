@@ -44,9 +44,14 @@ I cannot anticipate a good reason for you to use any transformation other than t
 
 **In short**, it's not important to me that you optimize this choice in Project 1. Feel free to use a different standard for your decision rule than 0.5 for any reason you like. You might, for instance, try a few options (I would stick to a decision rule where the fitted is either 0.1, 0.2, 0.3, 0.4, 0.5, 0.6, 0.7, 0.8 or 0.9) and select the one with the highest combined sensitivity + specificity. Just make sure to make it clear that is what you are doing. 
 
-7. **Picking between Model A or B via Validation** If you are comparing models A and B in Project 1 and they are very comparable in terms of validation statistics (perhaps the R-square is within 1 percentage point of each other, and the RMSE and MAE disagree) then if both models' residual plots look OK, I would probably pick the main effects model, personally. (If model A's residuals look fine, but model B's don't, then you'd clearly choose model A.) You can choose whatever model you feel is more justified by your analyses.
+7. **Picking between Model A or B via Validation** If you are comparing models A and B in Project 1 and they are very comparable in terms of validation statistics (perhaps the R-squares are within 1-2 percentage points of each other, and the RMSE and MAE disagree) then if both models' residual plots look OK, I would probably pick the main effects model, personally. (If model A's residuals look fine, but model B's don't, then you'd clearly choose model A.) You can choose whatever model you feel is more justified by your analyses.
 
-- The same advice goes for the comparison of Models Y and Z in the logistic regression work, except that there I wouldn't be looking at residuals.
+- The same advice goes for the comparison of Models Y and Z in the logistic regression work, except that there I wouldn't be looking at residuals, but mostly at the C statistic.
+
+A good strategy if you're unsure is probably this:
+
+- In a linear model, compare the validated R-squares. If they differ by 0.02 or less, it's not critical that you pick one over the other.
+- In a logistic model, compare the validated C statistics. If they differ by 0.02 or less, it's not critical that you pick one over the other.
 
 8. My note on **back-transformation in nomograms** for linear and logistic regression is available [in R Markdown](https://github.com/THOMASELOVE/2020-432/blob/master/classes/class14/class14_nomogram_note.Rmd) or [as a PDF](https://github.com/THOMASELOVE/2020-432/blob/master/classes/class14/class14_nomogram_note.pdf).
 
