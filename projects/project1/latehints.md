@@ -55,10 +55,15 @@ A good strategy if you're unsure is probably this:
 
 8. My note on **back-transformation in nomograms** for linear and logistic regression is available [in R Markdown](https://github.com/THOMASELOVE/2020-432/blob/master/classes/class14/class14_nomogram_note.Rmd) or [as a PDF](https://github.com/THOMASELOVE/2020-432/blob/master/classes/class14/class14_nomogram_note.pdf). The only other thing you should be back-transforming is your prediction in a linear model with a transformed outcome.
 
-Other Tips:
+9. One clear tip for the poster is that if you chose model B instead of model A in your linear model, model B is the only model we should see any evidence of in the poster.
 
-- I need a tip about fig.height and fig.width in the chunk names - which is how you make your nomogram look bigger.
-- When you draw an ROC curve, make sure that the result matches what you get from an lrm fit of the model. If not, it may be that your outcome is misspecified. You want a 0-1 numeric outcome for the plotting to work correctly, I believe.
-- One clear tip for the poster is that if you chose model B instead of model A in your linear model, model B is the only model we should see any evidence of in the poster.
-- The key thing to explain any interaction is to remember to use the words "It Depends" - if the AxB product term is important in predicting Y, then the effect of A on Y depends on the status of B. Similarly, the effect of B on Y depends on the status of A.
+10. When you draw an ROC curve, make sure that the result matches what you get from an lrm fit of the model. If not, it may be that your outcome is misspecified, or misinterpreted by the code. It is very important that you identify the C statistic correctly. If your plot doesn't match the correct C statistic, do not include it. Not having an ROC plot might cost you 1 point out of 100 for the project, at most. Having a mismatch between plot and C statistic obtained through `lrm` would be much more costly.
+
+11. The key thing to explain any interaction is to remember to use the words "It Depends" - if the AxB product term is important in predicting Y, then the effect of A on Y depends on the status of B. Similarly, the effect of B on Y depends on the status of A.
+
+12. If your nomogram is too small in the portfolio try using `fig.height` in the code chunk name to make it larger.
+
+13. When you build your poster, use the Rds file (that you create at the end of your portfolio) to import the data through `readRDS()`. That way, you don't have to worry about matching your data management decisions from the portfolio. 
+
+14. While it is possible to save pictures you build in the portfolio to files and then post those images into the poster, please do not do that.
 
