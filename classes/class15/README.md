@@ -10,7 +10,9 @@ Slides in PDF | Slides in R Markdown | Audio Recording | Need Help?
 
 1. Feedback on the Minute Paper after Class 14 will appear at http://bit.ly/432-2020-minute14-feedback.
 
-## Visualization of the Day
+## In The News
 
-- [How Working-Class Life Is Killing Americans, in Charts](https://www.nytimes.com/interactive/2020/03/06/opinion/working-class-death-rate.html) by David Leonhardt and Stuart A. Thompson, *NY Times* 2020-03-06.
-
+1. [COVID-19 Epidemiology with R](https://rviews.rstudio.com/2020/03/05/covid-19-epidemiology-with-r/) by Tim Churches 2020-03-05. 
+    - The [`coronavirus` package] provides a daily summary of the Coronavirus (COVID-19) cases by state/province. Data source: [Johns Hopkins University Center for Systems Science and Engineering](https://systems.jhu.edu/research/public-health/ncov/)
+2. [How Working-Class Life Is Killing Americans, in Charts](https://www.nytimes.com/interactive/2020/03/06/opinion/working-class-death-rate.html) by David Leonhardt and Stuart A. Thompson, *NY Times* 2020-03-06.
+3. [R Studio 1.3 is out in preview](https://rstudio.com/products/rstudio/download/preview/). This is a major new release with some [appealing new features](https://rstudio.com/products/rstudio/download/preview-release-notes/). I wouldn't recommend switching over this semester to anyone who isn't comfortable with dealing with less-well-tested software, and I certainly wouldn't do it in the middle of working on anything important, but I'm experimenting with it a bit.
