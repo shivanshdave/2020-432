@@ -1,0 +1,390 @@
+---
+title: "Logistic Regression with the Lindner Data"
+author: "Thomas E. Love"
+date: "3/6/2020"
+output: pdf_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(comment = NA)
+```
+
+```{r, message = FALSE}
+library(here); library(janitor); library(magrittr)
+library(knitr)
+library(rms)
+library(caret)
+library(ROCR)
+library(pROC)
+library(broom)
+library(tidyverse)
+
+theme_set(theme_bw())
+```
+
+```{r}
+lind <- readRDS(here("data", "lind.Rds"))
+
+str(lind)
+```
+
+- Note that the `abcix` variable is represented as an integer, with possible values 0 and 1, as is `stent`.
+
+```{r}
+lind %>% count(abcix, stent)
+```
+
+- The `ejecfrac` is a quantitative variable, and the units for `ejecfrac` are percentage points. All of the values are integers, and we observe 29 distinct values.
+
+```{r}
+lind %$% Hmisc::describe(ejecfrac)
+```
+
+- The `ves1proc` is represented here as an integer, but only has 6 possible values (0, 1, 2, 3, 4 and 5), since it is really a count. 
+
+```{r}
+lind %>% tabyl(ves1proc)
+```
+
+- I want to have a multi-categorical factor for the demonstrations that follow, so I will create a factor version of `ves1proc`, and place it in a new variable called `ves_f`. I'm not implying this is a great idea for these data. As we'll see, it leads to disaster.
+
+```{r}
+lind_new <- lind %>%
+    mutate(ves_f = factor(ves1proc))
+```
+
+
+# `model_1`: What do I mean by a logistic regression model exploding?
+
+Let's run a logistic regression model to predict `abcix`, a numeric (1/0) variable on the basis of `stent`, `ejecfrac` and `ves_f`.
+
+```{r}
+model_1 <- lind_new %$% 
+    glm(abcix ~ stent + ejecfrac + ves_f,
+        family = binomial)
+
+summary(model_1)
+```
+
+Notice the very, very large estimate for the `ves_f5` coefficient, and the huge standard error? What's the explanation?
+
+```{r}
+lind_new %>% tabyl(abcix, ves_f)
+```
+
+Some of the levels of our `ves_f` variable are very, very small, and one of them (5) is so small that we have zero subjects with `abcix` = 0 and `ves_f` = 5.
+
+## Collapsing the `ves1proc` to a factor with three levels
+
+So, what should we do? we'll collapse the `ves_f` factor to just three levels, so we don't have any really tiny sample sizes.
+
+```{r}
+lind_new <- lind %>%
+    mutate(ves_f = factor(ves1proc),
+           ves_fix = fct_recode(ves_f, 
+                              "Low" = "0",
+                              "Low" = "1",
+                              "Mid" = "2",
+                              "High" = "3",
+                              "High" = "4",
+                              "High" = "5"))
+
+# sanity check
+
+lind_new %>% tabyl(ves_f, ves_fix)
+
+# check that abcix can be 1 or 0 at each level of new factor ves_fix
+
+lind_new %>% tabyl(abcix, ves_fix)
+```
+
+# `model_2`: A main effects model
+
+OK. Let's try again, now.
+
+```{r}
+model_2 <- lind_new %$% 
+    glm(abcix ~ stent + ejecfrac + ves_fix,
+        family = binomial)
+
+summary(model_2)
+
+tidy(model_2, exponentiate = TRUE, conf.int = TRUE) %>%
+    select(term, estimate, conf.low, conf.high) %>%
+    kable(digits = 3)
+
+```
+
+The odds ratio estimates specify the following `model_2` predictions...
+
+- Subjects with a stent have 1.78 times the odds of being in the abcix = 1 group (treated with abcix) than subjects without a stent who have the same ejection fraction and same level of the `ves_fix` variable. The 95% CI for that odds ratio is (1.33, 2.40).
+- Suppose Harry and Larry have the same status in terms of `stent` and `ves_fix` but Harry's ejection fraction is one percentage point larger than Larry's. Harry's predicted odds of `abcix` treatment will be 97.4% of Larry's, with a 95% CI of (0.959, 0.989).
+- Subjects with a Middle level of `ves_fix` have 2.27 times the odds (with 95% CI 1.59, 3.28) of receiving abcix treatment as compared to subjects in the Low `ves_fix` group, assuming that they have the same `stent` status and ejection fraction.
+- Subjects with High `ves_fix` have 5.91 times the odds of receiving `abcix` (with 95% CI 2.53, 17.30) as compared to Low `ves_fix` subjects with the same `stent` and `ejecfrac` values.
+
+### Make a prediction from `model_2`
+
+Suppose we have a subject named Harry with `ejecfrac` = 60%, with a `stent` and a High `ves_fix`. What is that subject's predicted probability of being treated with `abcix`?
+
+```{r}
+harry <- tibble(ejecfrac = 60, stent = 1, ves_fix = "High")
+
+predict(model_2, newdata = harry, type = "response")
+```
+
+Note that `model_2` is a `glm` model, and so we use `type = "response"` to get a predicted probability. As we'll see later, if our logistic model had been fit using `lrm`, we'd have to select a different type of prediction in order to get a predicted probability.
+
+## Confusion Matrix for `model_2`
+
+What are the predicted probabilities of `abcix = 1` that we get from `model_2`?
+
+```{r}
+mod2_aug <- augment(model_2, type.predict = "response")
+
+summary(mod2_aug$.fitted)
+```
+
+Let's build a confusion matrix with decision rule "we predict that the subject received `abcix` if the predicted probability that (`abcix` = 1) is greater than or equal to 0.5"
+
+```{r}
+mod2_aug %$%
+    confusionMatrix(
+        data = factor(.fitted >= 0.5),
+        reference = factor(abcix == 1),
+        positive = "TRUE"
+    )
+```
+
+With a decision rule setting our cutoff for a positive prediction at 0.5, we have over 99% sensitivity but only 3% specificity. The sum is 0.996 + 0.028 = 1.024. Can we do meaningfully better with a different rule?
+
+### Comparing Decision Rules
+
+Let's try a decision rule with a cutoff of 0.7 instead.
+
+```{r}
+mod2_aug %$%
+    confusionMatrix(
+        data = factor(.fitted >= 0.7),
+        reference = factor(abcix == 1),
+        positive = "TRUE"
+    )
+```
+
+I've run a few other options, too, and the results are summarized below.
+
+Cutpoint | Sensitivity | Specificity | Sens + Spec
+---------------------: | --------: | ---------: | --------:
+0.5 | 0.996 | 0.028 | 1.024
+0.6 | 0.863 | 0.286 | 1.149
+0.7 | 0.588 | 0.629 | 1.217
+0.8 | 0.325 | 0.862 | 1.187
+0.9 | 0.060 | 0.982 | 1.042
+
+So it seems like 0.7 might be a reasonable decision rule here if we care equally about sensitivity and specificity.
+
+## Plotting the ROC curve for `model_2`: A Simple Strategy using the `pROC` package
+
+```{r}
+## requires pROC package
+out_m2 <- lind_new$abcix # meant to be a 1-0 numeric variable
+prob_m2 <- predict(model_2, type="response") # predictions on 0-1 scale
+
+roc_m2 <- roc(out_m2 ~ prob_m2)
+
+auc(roc_m2) # tell me the C statistic
+
+plot(roc_m2, 
+     main = paste0("ROC curve for model_2, AUC = ",
+                   round(auc(roc_m2),3)))
+```
+
+## Plotting the ROC curve for `model_2`: Using the `ROCR` package
+
+```{r}
+## requires ROCR package
+prob <- predict(model_2, type="response")
+pred <- prediction(prob, lind_new$abcix)
+perf <- performance(pred, measure = "tpr", x.measure = "fpr")
+auc <- performance(pred, measure="auc")
+
+auc <- round(auc@y.values[[1]],3)
+roc.data <- data.frame(fpr=unlist(perf@x.values),
+                       tpr=unlist(perf@y.values),
+                       model="GLM")
+
+ggplot(roc.data, aes(x=fpr, ymin=0, ymax=tpr)) +
+    geom_ribbon(alpha=0.2, fill = "blue") +
+    geom_line(aes(y=tpr), col = "blue") +
+    geom_abline(intercept = 0, slope = 1, lty = "dashed") +
+    labs(title = paste0("ROC Curve for model_2, AUC=", auc)) +
+    theme_bw()
+```
+
+
+# `model_3`: An augmented model
+
+We'll add a spline with four knots in `ejecfrac` and an interaction between the main effect of `ejecfrac` and `stent`. When fitting this model, I will always do most of the work using `lrm`.
+
+```{r}
+dd <- datadist(lind_new)
+options(datadist = "dd")
+
+model_3 <- lrm(abcix ~ rcs(ejecfrac, 4) + stent + 
+                   ejecfrac %ia% stent + ves_fix,
+               data = lind_new, x = TRUE, y = TRUE)
+
+model_3
+```
+
+## Summarizing the Effect Sizes
+
+```{r}
+summary(model_3)
+```
+
+Interpreting those results, we see that in `model_3`...
+
+- If we have two subjects, each with `stent` = 0 and the same status for `ves_fix`, but Harry has an ejection fraction of 56, while Larry's is 45, then Harry is predicted to have 0.845 times the odds of being treated with `abcix` that Larry does. The 95% CI for the odds ratio is (0.554, 1.287).
+    - Note that because of the interaction term between `stent` and `ejecfrac`, we have to look at the bottom to see which value of `stent` we're adjusting the results to in order to interpret the `ejecfrac` odds ratio. 
+- If we have two subjects each with `ejecfrac` = 55, but Harry has a stent and Barry does not, then Harry is predicted to have 1.70 times the odds of being treated with `abcix` that Barry does. The 95% CI for the odds ratio is (1.25, 2.33).
+    - Again, because of the interaction between `stent` and `ejecfrac`, we cannot interpret the `stent` effect until we specify the level of `ejecfrac`, which we read off from the "Adjusted to:" section of the output.
+- If we have two subjects with the same values of `ejecfrac` and the same `stent` status, then having Middle `ves_fix` is associated with 2.25 times the odds of `abcix` treatment as compared to Low `ves_fix`, with 95% CI (1.57, 3.23) for the odds ratio.
+    - Since `ves_fix` is not included in a product term with the other variables, we can simply assume those other variables are the same, and do not, for instance, have to assume they are exactly equal to the values in the Adjusted to section.
+- Finally, if we have two subjects with the same values of `ejecfrac` and the same `stent` status, then having High `ves_fix` is associated with 6.01 times the odds of `abcix` treatment as compared to Low `ves_fix`, with 95% CI (2.34, 15.42) for the odds ratio.
+
+Here is the plot of those effect size results...
+
+```{r}
+plot(summary(model_3))
+```
+
+### ANOVA for `model_3`
+
+Here's the ANOVA table for `model_3`. It doesn't appear that the non-linear + interaction terms added statistically detectable predictive value.
+
+```{r}
+anova(model_3)
+```
+
+## Plotting the Predicted Values and Confidence Limits at Each Coefficient
+
+The predicted values and confidence limits at each level of `ejecfrac`, `stent` and `ves_fix` implied by `model_3` are of some interest. I like to plot these in terms of the probabilities of experiencing our outcome (treatment with `abcix`) so I use the `fun = plogis` code below to help with that. 
+
+```{r}
+ggplot(Predict(model_3, fun = plogis))
+```
+
+## The Nomogram for `model_3`
+
+```{r}
+plot(nomogram(model_3, fun = plogis, funlabel = "Pr(abcix = 1)"))
+```
+
+## Validation of `model_3` summary statistics
+
+```{r}
+set.seed(432)
+
+validate(model_3, B = 100)
+```
+
+- Our validated C statistic is 0.5 + (0.2901/2) = 0.645
+- Our validated Nagelkerke R-square is 0.078.
+
+## Make a prediction from `model_3`
+
+Suppose we have a subject named Harry with `ejecfrac` = 60%, with a `stent` and a High `ves_fix`. What is that subject's predicted probability of being treated with `abcix`?
+
+Since we have a spline here and an interaction term using that spline, we will need to use the `ols` model to fit our prediction, and that requires the approach below.
+
+```{r}
+harry <- tibble(ejecfrac = 60, stent = 1, ves_fix = "High")
+
+predict(model_3, newdata = harry, type = "fitted")
+```
+
+## Run `model_3` with `glm` to get some other pieces
+
+```{r}
+model_3glm <- lind_new %$% 
+    glm(abcix ~ rcs(ejecfrac, 4) + stent + ejecfrac %ia% stent + ves_fix,
+        family = binomial)
+```
+
+
+## Confusion Matrix for `model_3glm`
+
+What are the predicted probabilities of `abcix = 1` that we get from `model_3glm`?
+
+```{r}
+model_3glm_aug <- augment(model_3glm, type.predict = "response")
+
+summary(model_3glm_aug$.fitted)
+```
+
+Let's build a confusion matrix with decision rule "we predict that the subject received `abcix` if the predicted probability that (`abcix` = 1) is greater than or equal to 0.5"
+
+```{r}
+model_3glm_aug %$%
+    confusionMatrix(
+        data = factor(.fitted >= 0.9),
+        reference = factor(abcix == 1),
+        positive = "TRUE"
+    )
+```
+
+### Comparing Decision Rules
+
+Results from trying varying cutpoints in `model_3glm` prediction follow:
+
+Cutpoint | Sensitivity | Specificity | Sens + Spec
+---------------------: | --------: | ---------: | --------:
+0.5 | 0.993 | 0.056 | 1.049
+0.6 | 0.836 | 0.311 | 1.147
+0.7 | 0.583 | 0.636 | 1.219
+0.8 | 0.250 | 0.912 | 1.162
+0.9 | 0.054 | 0.986 | 1.040
+
+So it again seems like 0.7 might be a reasonable decision rule here if we care equally about sensitivity and specificity.
+
+## Plotting the ROC curve for `model_3glm`: A Simple Strategy using the `pROC` package
+
+```{r}
+## requires pROC package
+out_m3glm <- lind_new$abcix # meant to be a 1-0 numeric variable
+prob_m3glm <- predict(model_3glm, type="response") # predictions on 0-1 scale
+
+roc_m3glm <- roc(out_m3glm ~ prob_m3glm)
+
+auc(roc_m3glm) # tell me the C statistic
+
+plot(roc_m3glm, 
+     main = paste0("ROC curve for model_3, AUC = ",
+                   round(auc(roc_m3glm),3)))
+```
+
+Note that this matches the value produced by the `lrm` package for model 3. This plots the original ROC curve, not the results after validation.
+
+## Plotting the ROC curve for `model_3glm`: Using the `ROCR` package
+
+```{r}
+## requires ROCR package
+prob <- predict(model_3glm, type="response")
+pred <- prediction(prob, lind_new$abcix)
+perf <- performance(pred, measure = "tpr", x.measure = "fpr")
+auc <- performance(pred, measure="auc")
+
+auc <- round(auc@y.values[[1]],3)
+roc.data <- data.frame(fpr=unlist(perf@x.values),
+                       tpr=unlist(perf@y.values),
+                       model="GLM")
+
+ggplot(roc.data, aes(x=fpr, ymin=0, ymax=tpr)) +
+    geom_ribbon(alpha=0.2, fill = "blue") +
+    geom_line(aes(y=tpr), col = "blue") +
+    geom_abline(intercept = 0, slope = 1, lty = "dashed") +
+    labs(title = paste0("ROC Curve for model_3, AUC=", auc)) +
+    theme_bw()
+```
+
+
