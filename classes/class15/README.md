@@ -9,3 +9,8 @@ Slides in PDF | Slides in R Markdown | Audio Recording | Need Help?
 ## Announcements
 
 1. Feedback on the Minute Paper after Class 14 will appear at http://bit.ly/432-2020-minute14-feedback.
+
+## Visualization of the Day
+
+- [How Working-Class Life Is Killing Americans, in Charts](https://www.nytimes.com/interactive/2020/03/06/opinion/working-class-death-rate.html) by David Leonhardt and Stuart A. Thompson, *NY Times* 2020-03-06.
+
