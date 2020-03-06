@@ -9,6 +9,7 @@ Slides in PDF | Slides in R Markdown | Audio Recording | Need Help?
 ## Announcements
 
 1. Feedback on the Minute Paper after Class 14 will appear at http://bit.ly/432-2020-minute14-feedback.
+2. Here's the logistic regression example ([in R Markdown](https://github.com/THOMASELOVE/2020-432/blob/master/classes/class15/logistic_example_2020-03-06.Rmd) and [in PDF](https://github.com/THOMASELOVE/2020-432/blob/master/classes/class15/logistic_example_2020-03-06.pdf)) that I built to demonstrate some things for Project 1, using the `lind` data from Quiz 1.
 
 ## In The News
 
