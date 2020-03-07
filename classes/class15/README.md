@@ -19,3 +19,36 @@ Slides in PDF | Slides in R Markdown | Audio Recording | Need Help?
 3. [R Studio 1.3 is out in preview](https://rstudio.com/products/rstudio/download/preview/). This is a major new release with some [appealing new features](https://rstudio.com/products/rstudio/download/preview-release-notes/). I wouldn't recommend switching over this semester to anyone who isn't comfortable with dealing with less-well-tested software, and I certainly wouldn't do it in the middle of working on anything important, but I'm experimenting with it a bit.
 4. [ggplot2 version 3.3.0 is now available on CRAN](https://www.tidyverse.org/blog/2020/03/ggplot2-3-3-0/). There are some useful new features in this release, and I wouldn't expect anything to break in your current code.
 
+## One Last Thing
+
+## One Last Thing
+
+The map below [appeared in an article on CNBC.com](https://www.cnbc.com/2020/02/26/people-skipping-medically-necessary-drugs-because-they-cost-too-much.html) on 2020-02-26.
+
+![](https://github.com/THOMASELOVE/2020-432/blob/master/classes/class13/figures/cnbc_map_original.PNG)
+
+[Alyssa Keiko](https://twitter.com/alyssakeiko/status/1233092947987529728) tweeted it out, saying "I have a lot of questions about if anyone looked at this map before during or after its making"
+
+Any thoughts as to what happened here?
+
+.
+
+.
+
+.
+
+.
+
+.
+
+[Sam Ventura on Twitter](https://twitter.com/stat_sam/status/1233191157053693953?s=11) has the answer, I think...
+
+![](https://github.com/THOMASELOVE/2020-432/blob/master/classes/class13/figures/sam_ventura_2020.PNG)
+
+If you're concerned about Alabama, later in that thread, Sam reminds us that 
+
+> Wyoming + 1 = Alabama, if you go 'round the corner.
+
+By 2020-02-28, CNBC corrected the map, which now looks like this:
+
+![](https://github.com/THOMASELOVE/2020-432/blob/master/classes/class13/figures/cnbc_map_corrected.PNG)
