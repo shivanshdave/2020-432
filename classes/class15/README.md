@@ -26,7 +26,7 @@ Slides in PDF | Slides in R Markdown | Audio Recording | Need Help?
 5. You might be interested in this new paper: [Development and Reporting of Prediction Models](https://journals.lww.com/ccmjournal/Abstract/onlinefirst/Development_and_Reporting_of_Prediction_Models_.95713.aspx) from 2020-03-04 in *Critical Care Medicine*, subtitled Guidance for Authors From Editors of Respiratory, Sleep, and Critical Care Journals. 
     > Key topics include considerations for selecting predictor variables, operationalizing variables, dealing with missing data, the importance of appropriate validation, model performance measures and their interpretation, and good reporting practices.... Additional best practices can be found in the Transparent Reporting of a multivariable prediction model for Individual Prognosis Or Diagnosis (TRIPOD) guidelines.
     - The [TRIPOD guidelines may be found here](https://www.equator-network.org/reporting-guidelines/tripod-statement/), along with links to guidelines for randomized trials reporting (CONSORT) and reporting on observational studies (STROBE), among other things.
-6. If you like that guidance, consider reading [Control of Confounding and Reporting of Results in Causal Inference Studies](https://www.atsjournals.org/doi/full/10.1513/AnnalsATS.201808-564PS) from 2018, which is also very helpful in terms of framing a lot of these issues.
+    - If you like that guidance, consider reading [Control of Confounding and Reporting of Results in Causal Inference Studies](https://www.atsjournals.org/doi/full/10.1513/AnnalsATS.201808-564PS) from 2018, which is also very helpful in terms of framing a lot of these issues.
 
 ## One Last Thing
 
