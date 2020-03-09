@@ -18,15 +18,19 @@ Slides in PDF | Slides in R Markdown | Audio Recording | Need Help?
 
 ## In The News
 
-1. [COVID-19 Epidemiology with R](https://rviews.rstudio.com/2020/03/05/covid-19-epidemiology-with-r/) by Tim Churches 2020-03-05. 
-    - The [`coronavirus` package] provides a daily summary of the Coronavirus (COVID-19) cases by state/province. Data source: [Johns Hopkins University Center for Systems Science and Engineering](https://systems.jhu.edu/research/public-health/ncov/)
-2. [How Working-Class Life Is Killing Americans, in Charts](https://www.nytimes.com/interactive/2020/03/06/opinion/working-class-death-rate.html) by David Leonhardt and Stuart A. Thompson, *NY Times* 2020-03-06.
-3. [R Studio 1.3 is out in preview](https://rstudio.com/products/rstudio/download/preview/). This is a major new release with some [appealing new features](https://rstudio.com/products/rstudio/download/preview-release-notes/). I wouldn't recommend switching over this semester to anyone who isn't comfortable with dealing with less-well-tested software, and I certainly wouldn't do it in the middle of working on anything important, but I'm experimenting with it a bit.
-4. [ggplot2 version 3.3.0 is now available on CRAN](https://www.tidyverse.org/blog/2020/03/ggplot2-3-3-0/). There are some useful new features in this release, and I wouldn't expect anything to break in your current code.
-5. You might be interested in this new paper: [Development and Reporting of Prediction Models](https://journals.lww.com/ccmjournal/Abstract/onlinefirst/Development_and_Reporting_of_Prediction_Models_.95713.aspx) from 2020-03-04 in *Critical Care Medicine*, subtitled Guidance for Authors From Editors of Respiratory, Sleep, and Critical Care Journals. 
+1. [How Working-Class Life Is Killing Americans, in Charts](https://www.nytimes.com/interactive/2020/03/06/opinion/working-class-death-rate.html) by David Leonhardt and Stuart A. Thompson, *NY Times* 2020-03-06.
+2. [R Studio 1.3 is out in preview](https://rstudio.com/products/rstudio/download/preview/). This is a major new release with some [appealing new features](https://rstudio.com/products/rstudio/download/preview-release-notes/). I wouldn't recommend switching over this semester to anyone who isn't comfortable with dealing with less-well-tested software, and I certainly wouldn't do it in the middle of working on anything important, but I'm experimenting with it a bit.
+3. [ggplot2 version 3.3.0 is now available on CRAN](https://www.tidyverse.org/blog/2020/03/ggplot2-3-3-0/). There are some useful new features in this release, and I wouldn't expect anything to break in your current code.
+4. You might be interested in this new paper: [Development and Reporting of Prediction Models](https://journals.lww.com/ccmjournal/Abstract/onlinefirst/Development_and_Reporting_of_Prediction_Models_.95713.aspx) from 2020-03-04 in *Critical Care Medicine*, subtitled Guidance for Authors From Editors of Respiratory, Sleep, and Critical Care Journals. 
     > Key topics include considerations for selecting predictor variables, operationalizing variables, dealing with missing data, the importance of appropriate validation, model performance measures and their interpretation, and good reporting practices.... Additional best practices can be found in the Transparent Reporting of a multivariable prediction model for Individual Prognosis Or Diagnosis (TRIPOD) guidelines.
     - The [TRIPOD guidelines may be found here](https://www.equator-network.org/reporting-guidelines/tripod-statement/), along with links to guidelines for randomized trials reporting (CONSORT) and reporting on observational studies (STROBE), among other things.
     - If you like that guidance, consider reading [Control of Confounding and Reporting of Results in Causal Inference Studies](https://www.atsjournals.org/doi/full/10.1513/AnnalsATS.201808-564PS) from 2018, which is also very helpful in terms of framing a lot of these issues.
+5. [COVID-19 Epidemiology with R](https://rviews.rstudio.com/2020/03/05/covid-19-epidemiology-with-r/) by Tim Churches 2020-03-05. 
+    - The [`coronavirus` package] provides a daily summary of the Coronavirus (COVID-19) cases by state/province. Data source: [Johns Hopkins University Center for Systems Science and Engineering](https://systems.jhu.edu/research/public-health/ncov/)
+    - Why it's important to stop the spread of the virus, from [Carl T. Bergstrom](https://twitter.com/CT_Bergstrom/status/1236427814393409536)
+
+![](https://github.com/THOMASELOVE/2020-432/blob/master/classes/class15/Bergstrom_Kim.jpg)
+
 
 ## One Last Thing
 
