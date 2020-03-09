@@ -8,10 +8,11 @@ Slides in PDF | Slides in R Markdown | Audio Recording | Need Help?
 
 ## Announcements
 
-1. Feedback on the Minute Paper after Class 14 will appear at http://bit.ly/432-2020-minute14-feedback.
+1. Feedback on the Minute Paper after Class 14 is available at http://bit.ly/432-2020-minute14-feedback.
 2. Here's the logistic regression example ([in R Markdown](https://github.com/THOMASELOVE/2020-432/blob/master/classes/class15/logistic_example_2020-03-06.Rmd) and [in PDF](https://github.com/THOMASELOVE/2020-432/blob/master/classes/class15/logistic_example_2020-03-06.pdf)) that I built to demonstrate some things for Project 1, using the `lind` data from Quiz 1.
     - If you have trouble fitting a logistic regression model, check that your binary outcome is a numeric variable in R, with 1 and 0 its only possible values. That seems to lead to the fewest downstream problems, cleaner than having it be a factor or character variable, for example. To check the type of variable, I would use `str(datasetname)` to look at each of the variable types, and I would use `datasetname %>% tabyl(outcomename)` to check to see that the outcome's two values are in fact 0 and 1.
-3. At some point in your life, you won't have 431-help any more, and you'll need to figure out how to debug on your own - consider googling any error messages you don't understand, and see if that might at least help you identify where your problem might be. If you are asking us a question at `431-help` about an R issue, I implore you to please send:
+3. A reminder that the [Project 1 Late Notes](https://github.com/THOMASELOVE/2020-432/blob/master/projects/project1/latehints.md) are still available.
+4. At some point in your life, you won't have 431-help any more, and you'll need to figure out how to debug on your own - consider googling any error messages you don't understand, and see if that might at least help you identify where your problem might be. If you are asking us a question at `431-help` about an R issue, I implore you to please send:
     - your complete R Markdown file
     - AND a clear indication of the problem you are having, such as a screenshot of the error and a clear indication of where in the code you are having a problem
     - AND either your original raw .csv file that you load at the top of your R Markdown file or a tidied Rds file of your data after cleaning. Don't send a tidied csv since that loses any work you've done to create factors, etc. For most problems where the answer isn't obvious, we need to be able to exactly duplicate your problem in order to fix it.
