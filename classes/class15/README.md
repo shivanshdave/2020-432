@@ -29,6 +29,7 @@ Slides in PDF | Slides in R Markdown | Audio Recording | Need Help?
 5. [COVID-19 Epidemiology with R](https://rviews.rstudio.com/2020/03/05/covid-19-epidemiology-with-r/) by Tim Churches 2020-03-05. 
     - The [`coronavirus` package] provides a daily summary of the Coronavirus (COVID-19) cases by state/province. Data source: [Johns Hopkins University Center for Systems Science and Engineering](https://systems.jhu.edu/research/public-health/ncov/)
     - Another interesting data source for US tracking, by state, is [covidtracking.com](http://covidtracking.com/)
+    - [Coronavirus model update: Background, assumptions, and room for improvement](https://statmodeling.stat.columbia.edu/2020/03/09/coronavirus-model-update-background-assumptions-and-room-for-improvement/)
     - Why it's important to stop the spread of the virus, from [Carl T. Bergstrom](https://twitter.com/CT_Bergstrom/status/1236427814393409536)
 
 ![](https://github.com/THOMASELOVE/2020-432/blob/master/classes/class15/Bergstrom_Kim.jpg)
