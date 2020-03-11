@@ -8,12 +8,13 @@ Session | Date | Materials
 --------: | :-----: | ----------------------------------------------------------------------
 -- | 03-12 | [Project 1 Posters/Portfolios](https://github.com/THOMASELOVE/2020-432/tree/master/projects/project1) are due to Canvas at 10 AM.
 -- | 03-12 | No class. CWRU Spring Break (03-09 through 03-13)
+-- | 03-17 | No class. CWRU cancellation for COVID-19 preparation.
 -- | 03-17 | Complete [Project 2 Instructions](https://github.com/THOMASELOVE/2020-432/tree/master/projects/project2) will be available. 
 Class 15 | 03-19 | Fitting Models to Multi-Categorical Responses.
 -- | 03-23 | [Homework 4](https://github.com/THOMASELOVE/2020-432/tree/master/homework/hw04) will be due at 5 PM.
 Class 16 | 03-24 | Fitting Models to Multi-Categorical Responses.
 Class 17 | 03-26 | Please read **ART** through Chapter 12. Other Topics TBA.
--- | -- | **Everything after this line is tentative, and subject to change.**
+-- | -- | **Everything after this line (including Quiz 2) is tentative, and subject to change.**
 -- | 03-26 | [Quiz 2](https://github.com/THOMASELOVE/2020-432/tree/master/quizzes) will be made available at 5 PM.
 -- | 03-30 | [Quiz 2](https://github.com/THOMASELOVE/2020-432/tree/master/quizzes) is due at 2 PM.
 Class 18 | 03-31 | Describing and Dealing with Time-To-Event (Survival) Data
