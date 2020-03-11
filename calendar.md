@@ -3,9 +3,10 @@
 First, please don't panic or worry. We will get through this situation. 
 
 My Number One Goal (and that of the TAs) is to be kind to you and to each other. 
-    - If you're worrying about some element of this course, please talk to us. Use 431-help for now, or email Dr. Love directly if you prefer.
-    - We'll work it out, if there's any way at all to do so. 
-    - We're all under a strain, and suffering in silence is the thing to avoid.
+
+- If you're worrying about some element of this course, please talk to us. Use 431-help for now, or email Dr. Love directly if you prefer.
+- We'll work it out, if there's any way at all to do so. 
+- We're all under a strain, and suffering in silence is the thing to avoid.
 
 ## Here's What Dr. Love Knows As Of Now
 
