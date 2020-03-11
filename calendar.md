@@ -32,7 +32,7 @@ By **6 PM Monday 2020-03-16**, I intend to post a substantial update to this pag
 
 *If you have a concern that you want me to be sure to address in what I post on Monday, please send that concern along via email. I will of course follow the guidance of the University.*
 
-# Everything below this line is old and subject to change. See above.
+## So ... Everything below this line is subject to change.
 
 -----------------------
 
