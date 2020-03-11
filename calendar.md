@@ -1,4 +1,4 @@
-# OK. So what's the new plan?
+# OK. We live in interesting times. So what's the new plan for 432?
 
 First, please don't panic or worry. We will get through this situation. 
 
