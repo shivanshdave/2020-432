@@ -19,18 +19,18 @@ My Number One Goal (and that of the TAs) is to be kind to you and to each other.
 6. Once you've submitted Project 1 to Canvas (due 10 AM on Thursday 2020-03-12), the next two deliverables are:
     - Homework 4, which is still due to Canvas on 2020-03-23 at 5 PM.
     - Reading through Chapter 12 of Spiegelhalter's ART before 2020-03-26.
-7. Everything else, including Quizzes 2 and 3, Assignments 5 and 6, and Project 2, and even the order in which we discuss new materials, are all subject to meaningful change. I hope to have all of that figured out by Tuesday 2020-03-17 at 5 PM.
+7. Everything else, including Quizzes 2 and 3, Assignments 5 and 6, and Project 2, and even the order in which we discuss new materials, are all subject to meaningful change. I hope to have all of that figured out by Monday 2020-03-16 at 6 PM.
 
 ## What Dr. Love will be doing...
 
-Starting at about 10 AM Thursday 2020-03-12, and continuing through Tuesday 2020-03-17, I will:
+Starting at about 10 AM Thursday 2020-03-12, and continuing through Monday 2020-03-16, I will:
 
 - work my way through the projects, and 
 - plan for the rest of the semester (as if we'll never all be in the same room again during that time.) 
 
-By **5 PM Tuesday 2020-03-17**, I intend to post a substantial update to this page covering the results of those two activities. I ask you to be patient before that time, as I try to figure things out. 
+By **6 PM Monday 2020-03-16**, I intend to post a substantial update to this page covering the results of those two activities. I ask you to be patient before that time, as I try to figure things out. 
 
-*If you have a concern that you want me to be sure to address in what I post next Tuesday, please send that concern along via email. I will of course follow the guidance of the University.*
+*If you have a concern that you want me to be sure to address in what I post on Monday, please send that concern along via email. I will of course follow the guidance of the University.*
 
 # Everything below this line is old and subject to change. See above.
 
