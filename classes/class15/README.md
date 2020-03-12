@@ -4,7 +4,7 @@
 
 Slides in PDF | Slides in R Markdown | Need Help?
 ------------: | :------------------: | ---------------------------
-[Class 15 Slides](https://github.com/THOMASELOVE/2020-432/blob/master/classes/class15/432_2020_slides15.pdf) | [Class 15 Rmd](https://github.com/THOMASELOVE/2020-432/blob/master/classes/class15/432_2020_slides15.Rmd) | Email **431-help at case dot edu**
+[Class 15 Slides](https://github.com/THOMASELOVE/2020-432/blob/master/classes/class15/432_2020_slides15.pdf) | [Class 15 RMD file](https://github.com/THOMASELOVE/2020-432/blob/master/classes/class15/432_2020_slides15.Rmd) | Email **431-help at case dot edu**
 
 ## Announcements
 
