@@ -1,4 +1,4 @@
-# 432 Spring 2020 Class 15: 2020-03-17
+# 432 Spring 2020 Class 15: 2020-03-19
 
 ## Key Materials
 
