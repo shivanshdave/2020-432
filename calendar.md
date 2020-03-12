@@ -13,6 +13,8 @@ My Number One Goal (and that of the TAs) is to be kind to you and to each other.
 
 http://bit.ly/love-2020-covid-form-1
 
+## Take a look at [this document](https://docs.google.com/document/d/1FYeQjzmDf6tXoirlriWTWErQSLLwLz45RTBu_R-yBhc/edit?usp=sharing) from Dr. Love written 2020-03-12.
+
 ## Here's What Dr. Love Knows As Of Now
 
 1. Our planned class on 2020-03-17 is cancelled.
