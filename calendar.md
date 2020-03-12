@@ -8,6 +8,10 @@ My Number One Goal (and that of the TAs) is to be kind to you and to each other.
     - Use 431-help for now, or email Dr. Love directly if you prefer.
     - We'll work it out, if there's any way at all to do so.
     - We're all under a strain, and suffering in silence is the thing to avoid.
+    
+## Please fill out this form...
+
+http://bit.ly/love-2020-covid-form-1
 
 ## Here's What Dr. Love Knows As Of Now
 
