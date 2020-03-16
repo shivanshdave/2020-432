@@ -1,3 +1,47 @@
+# Revised Course Calendar for 432 in Spring 2020 
+
+- All classes will now be delivered remotely, through the [Zoom platform](https://case.edu/utech/help/knowledge-base/zoom/zoom-information).
+- **ART** refers to David Spiegelhalter's *The Art of Statistics*.
+
+
+Session | Date | Materials 
+--------: | :-----: | ----------------------------------------------------------------------
+Class 15 | 03-19 | Our New Plan, Robust Linear Models, Exact Logistic Regression
+Class 16 | 03-24 | Regression on a Count outcome
+-- | 03-25 | [Homework 4](https://github.com/THOMASELOVE/2020-432/tree/master/homework/hw04) due to Canvas at 5 PM. Don't miss [the Hints](https://github.com/THOMASELOVE/2020-432/blob/master/homework/hw04/homework4_hints_2020-03-16.pdf).
+Class 17 | 03-26 | Regression on an Ordinal Multi-categorical outcome
+Class 18 | 03-31 | Regression on an Nominal Multi-categorical outcome
+-- | 04-01 | Project 2 Proposal due at 2 PM.
+Class 19 | 04-02 | Catchup, **ART** through Chapter 11
+-- | 04-03 | Quiz 2 will be made available.
+Class 20 | 04-07 | Dealing with Time-to-event (survival) data; Kaplan-Meier curves
+Class 21 | 04-09 | Fitting Cox regression models for time-to-event data
+Class 22 | 04-14 | The problems with p values, **ART** Chapters 12-13
+Class 23 | 04-16 | Retrospective Design / Thinking about Power
+-- | 04-20 | Quiz 2 will be due at 10 AM.
+Class 24 | 04-21 | An introduction to fixed and random effects: Hierarchical Data
+Class 25 | 04-23 | Catchup and wrapup of **ART** Chapters 1-14
+-- | 05-01 | Project 2 due.
+-- | 05-04 | All optional work ([Homework 5](https://github.com/THOMASELOVE/2020-432/tree/master/homework/hw05) and [Homework 6](https://github.com/THOMASELOVE/2020-432/tree/master/homework/hw05)) is due.
+
+## TA Office Hours
+
+Teaching Assistant Office Hours will be held virtually through 2020-05-01 via the [Zoom platform](https://case.edu/utech/help/knowledge-base/zoom/zoom-information). Email `431-help` if you have questions, which will also remain open through 2020-05-01.
+
+Date | 10:15 - 11:30 AM | 11:30 AM - 12:45 PM | 1:00 - 2:15 PM | 2:30 - 3:45 PM | 4:00 - 5:15 PM
+----------: | :--------: | :--------: | :--------: | :--------: | :--------:  
+Mondays     | -- | J. Conic | J. Conic | -- | -- 
+Tuesdays    | A. Saad | A. Saad | **432 CLASS** | A. Saad | A. Saad
+Wednesdays  | -- | J. Zhang | J. Zhang | J. Hnath | -- 
+Thursdays   | B. Booker | B. Booker | **432 CLASS** | J. Hnath | J. Hnath
+Fridays     | A. Mahran | A. Mahran | -- | -- | -- 
+
+This semester's TAs are:  [Benjamin (Ben) Booker, BS](https://thomaselove.github.io/2020-432-syllabus/teaching-assistants.html), [Julijana Conic, MD](https://thomaselove.github.io/2020-432-syllabus/teaching-assistants.html), [Joseph Hnath, BA](https://thomaselove.github.io/2020-432-syllabus/teaching-assistants.html), [Amr Mahran, MD MS](https://thomaselove.github.io/2020-432-syllabus/teaching-assistants.html), [Amin Saad, MD](https://thomaselove.github.io/2020-432-syllabus/teaching-assistants.html) and [Jing Zhang, MD MS](https://thomaselove.github.io/2020-432-syllabus/teaching-assistants.html). Profiles and photographs of each of the teaching assistants are found in the [Course Syllabus](https://thomaselove.github.io/2020-432-syllabus/teaching-assistants.html).
+
+## So ... Everything below this line is just an archive of previous materials.
+
+-----------
+
 # We live in interesting times. What's the new plan for 432?
 
 First, please don't panic or worry. We will get through this situation. 
@@ -38,8 +82,6 @@ By **5 PM Monday 2020-03-16**, I intend to post a substantial update to this pag
 
 *If you have a concern that you want me to be sure to address in what I post on Monday, please send that concern along via email. I will of course follow the guidance of the University.*
 
-## So ... Everything below this line is subject to change.
-
 -----------------------
 
 # Course Calendar for 432 in Spring 2020 (OLD VERSION)
@@ -50,7 +92,6 @@ By **5 PM Monday 2020-03-16**, I intend to post a substantial update to this pag
 
 Session | Date | Materials 
 --------: | :-----: | ----------------------------------------------------------------------
--- | 03-12 | [Project 1 Posters/Portfolios](https://github.com/THOMASELOVE/2020-432/tree/master/projects/project1) are due to Canvas at 10 AM.
 -- | 03-12 | No class. CWRU Spring Break (03-09 through 03-13)
 -- | 03-17 | No class. CWRU cancellation for COVID-19 preparation.
 -- | 03-17 | Complete [Project 2 Instructions](https://github.com/THOMASELOVE/2020-432/tree/master/projects/project2) will be available. 
@@ -113,6 +154,7 @@ Session | Date | Materials
 [Class 14](https://github.com/THOMASELOVE/2020-432/tree/master/classes/class14) | 03-05 | Dealing with Aggregated Data in Logistic Regression, Probit Regression, Project 1
 -- | 03-06 | [Minute Paper after Class 14](http://bit.ly/432-2020-minute-14) due at 2 PM.
 -- | 03-10 | No class. CWRU Spring Break (03-09 through 03-13)
+-- | 03-12 | [Project 1 Posters/Portfolios](https://github.com/THOMASELOVE/2020-432/tree/master/projects/project1) are due to Canvas at 10 AM.
 
 ## TAs and Office Hours
 
