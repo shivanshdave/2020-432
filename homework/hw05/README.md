@@ -1,6 +1,6 @@
 # 432 Homework 5 
 
-Note that this homework is **completely optional** and is due to Canvas by 5 PM on 2020-04-27. 
+Note that this homework is **completely optional** and is due to Canvas by 5 PM on 2020-05-04. 
 
 ## What are we doing?
 
@@ -35,8 +35,8 @@ Successful completion of this assignment will result in a 2 to 4 point bonus for
 
 ## Reviewing Your Work
 
-The TAs will be happy to review your work on Homework 5 at any time from now up through 2020-04-24, and they will try to provide suggestions for improvements. They can do this via `431-help`, or via virtual office hours.
+The TAs will be happy to review your work on Homework 5 at any time from now up through 2020-05-01, and they will try to provide suggestions for improvements. They can do this via `431-help`, or via virtual office hours.
 
 ## Submitting the Homework
 
-Submit Homework 5 via Canvas at any time before the deadline, which is 2020-04-27 at 5 PM. This is an individual assignment.
+Submit Homework 5 via Canvas at any time before the deadline, which is 2020-05-04 at 5 PM. This is an individual assignment.
