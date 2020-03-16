@@ -1,6 +1,8 @@
 432 Homework 4
 ================
 
+# [Hints for Homework 4 (very important) are now available](https://github.com/THOMASELOVE/2020-432/blob/master/homework/hw04/homework4_hints_2020-03-16.pdf).
+
 This version of Homework 4 was built 2020-02-28 16:09:14
 
 ### Setup and Package Loading
@@ -228,5 +230,7 @@ preferred way for you to do this is:
 ``` r
 sessioninfo::session_info()
 ```
+
+# Again, please review the [Hints for Homework 4](https://github.com/THOMASELOVE/2020-432/blob/master/homework/hw04/homework4_hints_2020-03-16.pdf) before submitting your work.
 
 ### This is the end of Homework 4.
