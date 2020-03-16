@@ -92,6 +92,8 @@ phr
     #   pneumo_vaccine <dbl>, ace_arb_alb <dbl>, foot_exam <dbl>, nonsmoker <dbl>,
     #   hba1c_test <dbl>, hba1c <dbl>, sbp <dbl>, dbp <dbl>, ldl <dbl>, bmi <dbl>
 
+# Don't do this homework without reviewing the [Hints for Homework 4](https://github.com/THOMASELOVE/2020-432/blob/master/homework/hw04/homework4_hints_2020-03-16.pdf).
+
 # Question 1 (5 points)
 
 Create a `phr1` tibble which includes
