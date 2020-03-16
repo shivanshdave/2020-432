@@ -16,19 +16,18 @@
 
 ## Homework 5
 
-- Homework 5 instructions will appear before 2020-04-06.
+- [Homework 5 instructions are now available](https://github.com/THOMASELOVE/2020-432/blob/master/homework/hw05/README.md). Homeworks 5 and 6 are completely optional. If you choose to do Homework 5 or 6 or both, the submission deadline is 5 PM on 2020-05-04. 
 
 ## Homework 6
 
-- Homework 6 instructions will appear before 2020-04-13.
+- [Homework 6 instructions are now available](https://github.com/THOMASELOVE/2020-432/blob/master/homework/hw06/README.md). Homeworks 5 and 6 are completely optional. If you choose to do Homework 5 or 6 or both, the submission deadline is 5 PM on 2020-05-04. 
 
 ## Grading
 
-Homework assignments are graded by the teaching assistants, using a rubric and answer sketch developed together with Dr. Love. We aim to return your grade on each homework to you within 7 days of the assignment's deadline. 
+Homework assignments 1-4 are graded by the teaching assistants, using a rubric and answer sketch developed together with Dr. Love. We aim to return your grade on each homework to you within 7 days of the assignment's deadline. 
 
-- We will drop your lowest grade across all of the homework assignments at the end of the semester in determining your grade. Thus, if you skip one assignment (which is fine - just send a one-page note to Canvas in advance of the deadline telling us you're skipping that homework) it won't count.
-- Missing more than one assignment is a serious problem - contact Dr. Love directly, in advance, if you're having trouble getting the work done.
-- Some assignments may wind up being worth more than others. Dr. Love will make this determination later in the semester.
+- We will drop your lowest grade across the four homework assignments at the end of the semester in determining your grade. Thus, if you skip one assignment (which is fine - just send a one-page note to Canvas in advance of the deadline telling us you're skipping that homework) it won't count.
+- Missing more than one of the first four homeworks is a serious problem - contact Dr. Love directly, in advance, if you're having trouble getting the work done.
 
 ### We take deadlines VERY seriously.
 
