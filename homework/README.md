@@ -2,7 +2,7 @@
 
 ## How Many Homeworks?
 
-- Students will complete 6 homework assignments this semester. All homework assignments will be posted to the web a minimum of one week before the due date.
+- Students will complete 4 required and up to 2 optional homework assignments this semester. All homework assignments are now posted.
 
 ## Homeworks 1-3 are now complete.
 
