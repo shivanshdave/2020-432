@@ -1,8 +1,10 @@
 # Project 2 for 432
 
-Complete Project 2 instructions will be posted as soon as possible.
+# All of the old Project 2 plans are now irrelevant. Please assume that I'm changing everything. I'll have a new plan up by Thursday 2020-03-19.
 
-**Right now, here's all that I am willing to commit to.**
+---------------------
+
+**EVERYTHING BELOW THIS LINE MAY CHANGE BETWEEN NOW AND THURSDAY 2020-03-19**
 
 Project 2 requires you to answer two research questions of your own choosing with data you obtain, using tools learned in the 431-432 sequence. Those questions should be amenable to regression analysis (using any sort of outcome we've discussed: quantitative, binary, multi-categorical or time-to-event.) You can study any question you like, although I’d steer clear of anything that you think Dr. Love might find inappropriate.
 
