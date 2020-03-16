@@ -1,6 +1,10 @@
 # 432 Homework 6
 
-Note that this homework is **completely optional**. If you wish to do it for credit, it needs to be completed (by sending an email with the link to Dr. Love) by 5 PM on 2020-05-04. If you already have a web presence that is working well for you, you are welcome to revise it in light of some of the guidance provided here, but this is really designed for people who have no current presence online.
+Note that this homework is **completely optional**. 
+
+If you wish to do it for credit, it needs to be completed (by sending an email with the link to Dr. Love) by 5 PM on 2020-05-04. 
+
+If you already have a web presence that is working well for you, you are welcome to revise it in light of some of the guidance provided here, but this is really designed for people who have no current presence online.
 
 If you are a student in the MS program in PQHS, I would hope you will take advantage of this opportunity.
 
