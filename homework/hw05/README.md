@@ -4,30 +4,43 @@ Note that this homework is **completely optional** and is due to Canvas by 5 PM 
 
 ## What are we doing?
 
-Your main job is to select a data source from either [the Tidy Tuesday collection](https://github.com/rfordatascience/tidytuesday), or from one of the many available sources of information related to the COVID-19 pandemic, and to either:
+Your main job is to select a data source from either [the Tidy Tuesday collection](https://github.com/rfordatascience/tidytuesday), or from one of the many available sources of information related to the COVID-19 pandemic, or from any other completely available public source that you can provide access to, and to either:
 
-a. create an attractively formatted HTML document (developed using R Markdown) to pull in the data a source on the web, and then present some key element of that data in the form of an effective visualization, accompanied by the results of an appropriate statistical model (which need not be a model using regression,) or 
+**Option A**. create an attractively formatted HTML document (developed using R Markdown) to pull in the data a source on the web, and then present some key element of that data in the form of an effective visualization, accompanied by the results of an appropriate statistical model (which need not be a model using regression,) or 
 
-b. build an attractive and effective animated visualization using `gganimate`, or some other package for animating a visualization, or
+**Option B**. build an attractive and effective animated visualization using `gganimate`, or some other package for animating a visualization, or
 
-c. build an attractive and effective Shiny app to permit the user to explore some interesting data.
+**Option C**. build an attractive and effective [Shiny app](https://shiny.rstudio.com/deploy/) to permit the user to explore some interesting data.
 
-## Parts of the Homework (if you choose option a.)
+Regardless of the approach you take, there are five things to include in your submission, which you will make to Canvas.
 
-Your presentation should be brief and focused, and use code-folding set by default to show. You should also provide clear and complete access to your data source. Your presentation should be divided into the following parts:
+1. A code document, or a working link to the code document
+2. A viewable document (which could be an animated movie or gif or a working Shiny app), or a working link to the viewable document, likely through [RPubs](https://rpubs.com/), but perhaps instead your own web site (see Homework 6) or through [Shinyapps.io](https://www.shinyapps.io/) if it's a Shiny app.
+3. The data or a working link to the data
+4. The discussion
+5. The summary
 
-1. Data Source, Load and Management
-2. Your Model
-    - An excellent model will use the data in an appropriate way to help us better understand it.
-3. Your Visualization
-    - An excellent visualization will show the data and help us better understand it.
-    - An outstanding visualization and model combination will work well together to improve our understanding.
-4. A Discussion 
-5. A Summary 
+## Details
 
-The data source and data management materials should be replicable. We should be able to take your code and be able to replicate your work completely. Restrict your presentation to activities that are necessary for us to replicate your model and visualization, and nothing more. You should provide the final results of your model and visualization, and sufficient code to replicate the work to run the results you want us to see. This assignment is not the place for detailed descriptions of models or validation studies, or most of the things you built in Project 1. We don't want to see intermediate steps printed, or sanity checks. This should basically be a visualization and a model and enough code to create it. Show us exactly what we need to see, and nothing else.
+Regardless of the approach you take, we expect to see a **Code** document (in R) and a **Viewable** document (the visualization/model/app.) 
 
-In your **Discussion**, write approximately 250 words in complete English sentences describing the decisions you made in building the visualization and model, and indicating how those decisions were motivated by the 432 course, and by Spiegelhalter's *The Art of Statistics*.
+- We need to be able to use the Code document (along with whatever data you also provide) to replicate the Viewing document. 
+- Your presentation should be brief and focused, with enough comments in the Code document so that we can follow your steps in creating the final document.
+- If your **Viewable** document is HTML, we encourage the use of code-folding set by default to show. 
+
+You must also provide clear and complete access to your **data** source. 
+
+- The data source and code materials must be replicable. We should be able to take your data and code and be able to replicate your viewable document completely with minimal effort.
+- Restrict your presentation to activities that are necessary for us to replicate your model and visualization, and nothing more. You should provide the final results of your model and visualization, and sufficient code to replicate the work to run the results you want us to see.
+- This assignment is not the place for detailed descriptions of models or validation studies, or most of the things you built in Project 1. We definitely don't want to see intermediate steps printed, or sanity checks. This should basically be a visualization and a model or an app and enough code to create it. 
+- Show us exactly what we need to see, and nothing else.
+
+The final two pieces of the homework are:
+
+- A Discussion (of 250 words, approximately), and 
+- A Summary (which is restricted to a maximum of 50 words).
+
+In your **Discussion**, write approximately 250 words in complete English sentences describing the decisions you made in building the visualization / model / app, and indicating how those decisions were motivated by the 432 course, and by Spiegelhalter's *The Art of Statistics*.
 
 In your **Summary**, summarize the key "takeaways" you want us to obtain from your work, in complete English sentences using **at most** 50 words.
 
@@ -36,7 +49,7 @@ In your **Summary**, summarize the key "takeaways" you want us to obtain from yo
 Successful completion of this assignment will result in a 2 to 4 point bonus for your course grade.
 
 - Good work on each of the five tasks in this homework will result in a 2 point bonus in your overall course grade.
-    - "Good work" means that we can use your code to replicate your work exactly, and that we understand the steps involved, and that your visualization is attractive and useful and supported by your model, and that you've completed a coherent discussion and a summary that makes sense.
+    - "Good work" means that we can use your code to replicate your work exactly, and that we understand the steps involved, and that your visualization is attractive and useful and supported by your model, and/or your app works and/or the animated visualization is attractive and effective, and that you've completed a coherent discussion and a summary using complete English sentences.
 - Exceptionally strong work may result in an additional 1-2 points of bonus credit, at Dr. Love's discretion.
 
 ## Reviewing Your Work
