@@ -28,7 +28,9 @@ The schedule for TA office hours is provided [in this section of the Course Cale
 ## Announcements
 
 1. **COVID-19** I am compiling some [Data and Resources related to COVID-19](https://github.com/THOMASELOVE/2020-432/blob/master/covid19resources.md) to help you with Homework 5, and to point you to some potentially useful materials.
-2. **Updating R** R version 3.6.3 is now available. [I encourage you to upgrade](https://github.com/THOMASELOVE/2020-432/blob/master/software.md). At the least, you should [update your R packages](https://github.com/THOMASELOVE/2020-432/blob/master/software.md).
+2. **Updating R seems like a good idea now.** Version 3.6.3 of R is now available. [I encourage you to upgrade](https://github.com/THOMASELOVE/2020-432/blob/master/software.md). At the least, you should [update your R packages](https://github.com/THOMASELOVE/2020-432/blob/master/software.md).
     - The `countreg` package: To build rootograms to visualize the results of regression models on count outcomes, I have decided to use the `countreg` package, which is available **on R-Forge only**. To install `countreg`, type `install.packages("countreg", repos="http://R-Forge.R-project.org")` into the R Console within R Studio.
+3. **Updating R Studio is purely optional.** The new version of R Studio (version 1.3.xxxx) is [available for preview](https://rstudio.com/products/rstudio/download/preview/). It has [many nice new features](https://rstudio.com/products/rstudio/download/preview-release-notes/), but like all preview versions, installing it may require subsequent re-installs later to fix issues. If you're someone who's comfortable dealing with those sorts of issues, feel free to upgrade, but continuing with version 1.2.5033 for the rest of the semester is an equally fine choice.
+
 
 
