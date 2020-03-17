@@ -2,8 +2,8 @@
 
 ## Connecting to Today's Class via Zoom
 
-Details to come. 
-
+- The Zoom meetings for our 432 classes will be open from 12:30 PM to 2:30 PM on Tuesdays and Thursdays, beginning 2020-03-19. You will need to register in advance for the meeting using the link sent to your email. After you register, you will receive a confirmation email containing information about joining the meeting. 
+    - As I understand it, once you've done this registration the first time, you should then be able to join the subsequent class meetings without re-registering, and the meetings should appear on your Zoom calendar and can be added to your Google Calendar or other time management tools.
 - Before class, be sure you've logged into [Zoom via CWRU](https://case.edu/utech/help/knowledge-base/zoom/zoom-information) and obtained the application for your computer or tablet.
 
 ## Plans for the Rest of the Semester
