@@ -1,6 +1,6 @@
 # 432 Homework 5 
 
-Note that this homework is **completely optional** and is due to Canvas by 5 PM on 2020-05-04. 
+Note that this homework is **completely optional**. If you choose to do it, it must be received on Canvas by 5 PM on 2020-05-04. 
 
 ## What are we doing?
 
