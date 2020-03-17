@@ -12,14 +12,14 @@ Class 16 | 03-24 | Regression on a Count outcome
 Class 17 | 03-26 | Regression on an Ordinal Multi-categorical outcome
 Class 18 | 03-31 | Regression on an Nominal Multi-categorical outcome
 -- | 04-01 | Project 2 Proposal due at 2 PM.
-Class 19 | 04-02 | Catchup, **ART** through Chapter 11
+Class 19 | 04-02 | Catchup, Be sure you've read **ART** through Chapter 11
 -- | 04-03 | Quiz 2 will be made available.
 Class 20 | 04-07 | Dealing with Time-to-event (survival) data; Kaplan-Meier curves
 Class 21 | 04-09 | Fitting Cox regression models for time-to-event data
 Class 22 | 04-14 | The problems with p values, **ART** Chapters 12-13
 Class 23 | 04-16 | Retrospective Design / Thinking about Power
 -- | 04-20 | Quiz 2 will be due at 10 AM.
-Class 24 | 04-21 | An introduction to fixed and random effects: Hierarchical Data
+Class 24 | 04-21 | Dealing with Hierarchical Data: An Introduction
 Class 25 | 04-23 | Catchup and wrapup of **ART** Chapters 1-14
 -- | 05-01 | Project 2 due.
 -- | 05-04 | All optional work ([Homework 5](https://github.com/THOMASELOVE/2020-432/tree/master/homework/hw05) and [Homework 6](https://github.com/THOMASELOVE/2020-432/tree/master/homework/hw05)) is due.
@@ -38,7 +38,7 @@ Fridays     | A. Mahran | A. Mahran | -- | -- | --
 
 This semester's TAs are:  [Benjamin (Ben) Booker, BS](https://thomaselove.github.io/2020-432-syllabus/teaching-assistants.html), [Julijana Conic, MD](https://thomaselove.github.io/2020-432-syllabus/teaching-assistants.html), [Joseph Hnath, BA](https://thomaselove.github.io/2020-432-syllabus/teaching-assistants.html), [Amr Mahran, MD MS](https://thomaselove.github.io/2020-432-syllabus/teaching-assistants.html), [Amin Saad, MD](https://thomaselove.github.io/2020-432-syllabus/teaching-assistants.html) and [Jing Zhang, MD MS](https://thomaselove.github.io/2020-432-syllabus/teaching-assistants.html). Profiles and photographs of each of the teaching assistants are found in the [Course Syllabus](https://thomaselove.github.io/2020-432-syllabus/teaching-assistants.html).
 
-## Everything below here is just an archive now.
+-----------
 
 The form I asked you to fill out when it became clear that COVID-19 was going to change all of our lives is at http://bit.ly/love-2020-covid-form-1.
 
