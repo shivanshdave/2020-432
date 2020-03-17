@@ -1,68 +1,26 @@
 # 432 Spring 2020 Class 15: 2020-03-19
 
-## Key Materials
+## Connecting to Today's Class via Zoom
+
+Details to come. 
+
+- Before class, be sure you've logged into [Zoom via CWRU](https://case.edu/utech/help/knowledge-base/zoom/zoom-information) and obtained the application for your computer or tablet.
+
+## Plans for the Rest of the Semester
+
+Here is a [Google Doc](http://bit.ly/432-next-steps) containing (and amplifying on) the emails I've sent this week.
+
+## Today's Slides
 
 Slides in PDF | Slides in R Markdown | Need Help?
 ------------: | :------------------: | ---------------------------
 [Class 15 Slides](https://github.com/THOMASELOVE/2020-432/blob/master/classes/class15/432_2020_slides15.pdf) | [Class 15 RMD file](https://github.com/THOMASELOVE/2020-432/blob/master/classes/class15/432_2020_slides15.Rmd) | Email **431-help at case dot edu**
 
-## Announcements
+## Virtual TA Office Hours via Zoom
 
-1. Feedback on the Minute Paper after Class 14 is available at http://bit.ly/432-2020-minute14-feedback.
-2. Here's the logistic regression example ([in R Markdown](https://github.com/THOMASELOVE/2020-432/blob/master/classes/class15/logistic_example_2020-03-06.Rmd) and [in PDF](https://github.com/THOMASELOVE/2020-432/blob/master/classes/class15/logistic_example_2020-03-06.pdf)) that I built to demonstrate some things for Project 1, using the `lind` data from Quiz 1.
-    - If you have trouble fitting a logistic regression model, check that your binary outcome is a numeric variable in R, with 1 and 0 its only possible values. That seems to lead to the fewest downstream problems, cleaner than having it be a factor or character variable, for example. To check the type of variable, I would use `str(datasetname)` to look at each of the variable types, and I would use `datasetname %>% tabyl(outcomename)` to check to see that the outcome's two values are in fact 0 and 1.
-3. A reminder that the [Project 1 Late Notes](https://github.com/THOMASELOVE/2020-432/blob/master/projects/project1/latehints.md) are still available.
-4. If you're worried about the time when 431-help won't be available, consider googling any error messages you don't understand, and see if that might at least help you identify where your problem might be. If you are asking us a question at `431-help` about an R issue, I implore you to please send:
-    - your complete R Markdown file
-    - AND a clear indication of the problem you are having, such as a screenshot of the error and a clear indication of where in the code you are having a problem
-    - AND either your original raw .csv file that you load at the top of your R Markdown file or a tidied Rds file of your data after cleaning. Don't send a tidied csv since that loses any work you've done to create factors, etc. For most problems where the answer isn't obvious, we need to be able to exactly duplicate your problem in order to fix it.
+Teaching Assistant Office Hours will be held virtually starting 2020-03-18 and running through 2020-05-01 via the [Zoom platform](https://case.edu/utech/help/knowledge-base/zoom/zoom-information).
 
-## In The News
+- Details on how to access the Zoom office hours coming soon.
 
-1. [How Working-Class Life Is Killing Americans, in Charts](https://www.nytimes.com/interactive/2020/03/06/opinion/working-class-death-rate.html) by David Leonhardt and Stuart A. Thompson, *NY Times* 2020-03-06.
-2. [R Studio 1.3 is out in preview](https://rstudio.com/products/rstudio/download/preview/). This is a major new release with some [appealing new features](https://rstudio.com/products/rstudio/download/preview-release-notes/). I wouldn't recommend switching over this semester to anyone who isn't comfortable with dealing with less-well-tested software, and I certainly wouldn't do it in the middle of working on anything important, but I'm experimenting with it a bit.
-3. [ggplot2 version 3.3.0 is now available on CRAN](https://www.tidyverse.org/blog/2020/03/ggplot2-3-3-0/). There are some useful new features in this release, and I wouldn't expect anything to break in your current code.
-4. You might be interested in this new paper: [Development and Reporting of Prediction Models](https://journals.lww.com/ccmjournal/Abstract/onlinefirst/Development_and_Reporting_of_Prediction_Models_.95713.aspx) from 2020-03-04 in *Critical Care Medicine*, subtitled Guidance for Authors From Editors of Respiratory, Sleep, and Critical Care Journals. 
-    > Key topics include considerations for selecting predictor variables, operationalizing variables, dealing with missing data, the importance of appropriate validation, model performance measures and their interpretation, and good reporting practices.... Additional best practices can be found in the Transparent Reporting of a multivariable prediction model for Individual Prognosis Or Diagnosis (TRIPOD) guidelines.
-    - The [TRIPOD guidelines may be found here](https://www.equator-network.org/reporting-guidelines/tripod-statement/), along with links to guidelines for randomized trials reporting (CONSORT) and reporting on observational studies (STROBE), among other things.
-    - If you like that guidance, consider reading [Control of Confounding and Reporting of Results in Causal Inference Studies](https://www.atsjournals.org/doi/full/10.1513/AnnalsATS.201808-564PS) from 2018, which is also very helpful in terms of framing a lot of these issues.
-5. [COVID-19 Epidemiology with R](https://rviews.rstudio.com/2020/03/05/covid-19-epidemiology-with-r/) by Tim Churches 2020-03-05. 
-    - The [`coronavirus` package] provides a daily summary of the Coronavirus (COVID-19) cases by state/province. Data source: [Johns Hopkins University Center for Systems Science and Engineering](https://systems.jhu.edu/research/public-health/ncov/)
-    - Another interesting data source for US tracking, by state, is [covidtracking.com](http://covidtracking.com/)
-    - [Coronavirus model update: Background, assumptions, and room for improvement](https://statmodeling.stat.columbia.edu/2020/03/09/coronavirus-model-update-background-assumptions-and-room-for-improvement/)
-    - Why it's important to stop the spread of the virus, from [Carl T. Bergstrom](https://twitter.com/CT_Bergstrom/status/1236427814393409536)
+The schedule for TA office hours is provided [in this section of the Course Calendar](https://github.com/THOMASELOVE/2020-432/blob/master/calendar.md#ta-office-hours).
 
-![](https://github.com/THOMASELOVE/2020-432/blob/master/classes/class15/Bergstrom_Kim.jpg)
-
-
-## One Last Thing
-
-The map below [appeared in an article on CNBC.com](https://www.cnbc.com/2020/02/26/people-skipping-medically-necessary-drugs-because-they-cost-too-much.html) on 2020-02-26.
-
-![](https://github.com/THOMASELOVE/2020-432/blob/master/classes/class13/figures/cnbc_map_original.PNG)
-
-[Alyssa Keiko](https://twitter.com/alyssakeiko/status/1233092947987529728) tweeted it out, saying "I have a lot of questions about if anyone looked at this map before during or after its making"
-
-Any thoughts as to what happened here?
-
-.
-
-.
-
-.
-
-.
-
-.
-
-[Sam Ventura on Twitter](https://twitter.com/stat_sam/status/1233191157053693953?s=11) has the answer, I think...
-
-![](https://github.com/THOMASELOVE/2020-432/blob/master/classes/class13/figures/sam_ventura_2020.PNG)
-
-If you're concerned about Alabama, later in that thread, Sam reminds us that 
-
-> Wyoming + 1 = Alabama, if you go 'round the corner.
-
-By 2020-02-28, CNBC corrected the map, which now looks like this:
-
-![](https://github.com/THOMASELOVE/2020-432/blob/master/classes/class13/figures/cnbc_map_corrected.PNG)
