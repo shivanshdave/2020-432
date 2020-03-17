@@ -4,7 +4,7 @@ Note that this homework is **completely optional**. If you choose to do it, it m
 
 ## What are we doing?
 
-Your main job is to select a data source from either [the Tidy Tuesday collection](https://github.com/rfordatascience/tidytuesday), or from one of the many available sources of information related to the COVID-19 pandemic, or from any other completely available public source that you can provide access to, and to either:
+Your main job is to select a data source from either [the Tidy Tuesday collection](https://github.com/rfordatascience/tidytuesday), or from [one of the many available sources of information related to the COVID-19 pandemic](https://github.com/THOMASELOVE/2020-432/blob/master/covid19resources.md), or from any other completely available public source that you can provide access to, and to either:
 
 **Option A**. Create an attractively formatted HTML document (developed using R Markdown) to pull in the data a source on the web, and then present some key element of that data in the form of an effective visualization, accompanied by the results of an appropriate statistical model (which need not be a model using regression,) or 
 
