@@ -22,7 +22,7 @@ Slides in PDF | Slides in R Markdown | Need Help?
 
 Teaching Assistant Office Hours will be held virtually starting 2020-03-18 and running through 2020-05-01 via [Zoom](https://case.edu/utech/help/knowledge-base/zoom/zoom-information).
 
-- Details on how to access the Zoom office hours coming soon.
+- Details on how to access the Zoom office hours were sent to your email on 2020-03-17, under the subject line: "Office Hours for 432: Connecting to Zoom TA Office Hours in Spring 2020 (IMPORTANT)"
 - You can also submit questions via `431-help` at any time.
 
 The schedule for TA office hours is provided [in this section of the Course Calendar](https://github.com/THOMASELOVE/2020-432/blob/master/calendar.md#ta-office-hours).
