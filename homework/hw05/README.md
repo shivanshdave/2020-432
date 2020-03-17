@@ -58,4 +58,6 @@ The TAs will be happy to review your work on Homework 5 at any time from now up 
 
 ## Submitting the Homework
 
-Submit Homework 5 via Canvas at any time before the deadline, which is 2020-05-04 at 5 PM. This is an individual assignment.
+Submit Homework 5 via Canvas at any time before the deadline, which is 2020-05-04 at 5 PM. This is an individual assignment, so the final products in your submission must be unique to you, although you are welcome to work in an informal group of any size on the same data set, but build visualizations/models/apps using different elements in your submissions. 
+
+If you have any questions about Homework 5, please let us know at `431-help`.
