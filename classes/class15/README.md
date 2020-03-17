@@ -25,7 +25,10 @@ Teaching Assistant Office Hours will be held virtually starting 2020-03-18 and r
 
 The schedule for TA office hours is provided [in this section of the Course Calendar](https://github.com/THOMASELOVE/2020-432/blob/master/calendar.md#ta-office-hours).
 
-## Links
+## Announcements
 
-- [Data and Resources related to COVID-19](https://github.com/THOMASELOVE/2020-432/blob/master/covid19resources.md)
+1. I am compiling some [Data and Resources related to COVID-19](https://github.com/THOMASELOVE/2020-432/blob/master/covid19resources.md) to help you with Homework 5, and to point you to some potentially useful materials.
+2. Updating R. R version 3.6.3 is now available. [I encourage you to upgrade](https://github.com/THOMASELOVE/2020-432/blob/master/software.md). At the least, you should [update your R packages](https://github.com/THOMASELOVE/2020-432/blob/master/software.md).
+    - The `countreg` package: To build rootograms to visualize the results of regression models on count outcomes, I have decided to use the `countreg` package, which is available **on R-Forge only**. To install `countreg`, type `install.packages("countreg", repos="http://R-Forge.R-project.org")` into the R Console within R Studio.
+
 
