@@ -50,7 +50,7 @@ Successful completion of this assignment will result in a 2 to 4 point bonus for
 
 - Good work on each of the five tasks in this homework will result in a 2 point bonus in your overall course grade.
     - "Good work" means that we can use your code to replicate your work exactly, and that we understand the steps involved, and that your visualization is attractive and useful and supported by your model, and/or your app works and/or the animated visualization is attractive and effective, and that you've completed a coherent discussion and a summary using complete English sentences.
-- Exceptionally strong work may result in an additional 1-2 points of bonus credit, at Dr. Love's discretion.
+- Especially strong work on this assignment will result in an additional 1-2 points of bonus credit, at Dr. Love's discretion.
 
 ## Reviewing Your Work
 
