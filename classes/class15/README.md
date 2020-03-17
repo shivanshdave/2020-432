@@ -25,3 +25,7 @@ Teaching Assistant Office Hours will be held virtually starting 2020-03-18 and r
 
 The schedule for TA office hours is provided [in this section of the Course Calendar](https://github.com/THOMASELOVE/2020-432/blob/master/calendar.md#ta-office-hours).
 
+## Links
+
+- [Data and Resources related to COVID-19](https://github.com/THOMASELOVE/2020-432/blob/master/covid19resources.md)
+
