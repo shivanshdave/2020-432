@@ -2,7 +2,7 @@
 
 Note that this homework is **completely optional**. 
 
-- If you wish to do it for credit, it needs to be completed (by sending an email with the link to Dr. Love) by 5 PM on 2020-05-04. 
+- If you wish to do it, it needs to be completed (by sending an Dr. Love via email with the subject line: `Homework 6: My Website` to Dr. Love by 5 PM on 2020-05-04. 
 - If you already have a web presence that is working well for you, you are welcome to revise it in light of some of the guidance provided here, but this is really designed for people who have no current presence online.
 - If you are a student in the MS or PhD program in PQHS, I would hope you will take advantage of this opportunity.
 
@@ -24,5 +24,7 @@ The TAs will be happy to review your work on Homework 6 at any time from now up 
 
 ## Submitting the Homework
 
-Submit Homework 6 by sending the link of your website (and any special information you want to pass along) to Dr. Love via email with the subject line: `Homework 6: My Website` by 5 PM on 2020-05-04. This is an individual assignment.
+Submit Homework 6 by sending the link of your website (and any special information you want to pass along) to Dr. Love via email with the subject line: `Homework 6: My Website` by 5 PM on 2020-05-04. 
+
+This is an individual assignment, but if you want to work together as a group to help each other get a website up and running, that would be terrific.
 
