@@ -16,7 +16,12 @@ Your task is to build a web presence for yourself on the Internet using R Markdo
 
 ## Why do it?
 
-Successful completion of this assignment will result in a 2 to 4 point bonus for your course grade, depending on how robust your work is.
+Successful completion of this assignment will result in a 2 to 4 point bonus for your course grade, depending on how robust your work is. 
+
+- If your site works, and accomplishes the general goal of getting a little bit of your work "out there" in a reasonable way, that's all we're looking for. 
+- There's no need to include all of the things that are possible. 
+- We'd be very happy with a modest meaningful step in the right direction. 
+- There's also no need to spend any money to make this happen.
 
 ## Reviewing Your Work
 
