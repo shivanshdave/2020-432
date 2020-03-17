@@ -2,11 +2,15 @@
 
 This is where information on the course quizzes will appear. Information about Quiz 1 is now available.
 
-- Students will complete 3 quizzes this semester. The dates are:
+- Students will complete 2 quizzes this semester. The dates are:
     - Quiz 1 will be available at 5 PM 2020-02-26, and is due at 2 PM on 2020-03-02.
-    - Quiz 2 will be available at 5 PM 2020-03-26, and is due at 2 PM on 2020-03-30.
-    - Quiz 3 will be available at 5 PM 2020-04-23, and is due at 2 PM on 2020-04-29.
+    - Quiz 2 will be available at 5 PM 2020-04-03, and will be due on 2020-04-20.
+    - Quiz 3 is cancelled.
 - Quizzes in 432 are open-book, take-home affairs. Some are longer than others. Dr. Love reserves the right to make some Quizzes count more than others in determining your final Quiz grade at the end of the semester.
+
+# Quiz 2 Details
+
+will appear soon.
 
 # Quiz 1 Details
 
