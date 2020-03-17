@@ -2,6 +2,7 @@
 
 - All classes will now be delivered remotely, through the [Zoom platform](https://case.edu/utech/help/knowledge-base/zoom/zoom-information).
 - **ART** refers to David Spiegelhalter's *The Art of Statistics*.
+- Plans for the remainder of the course are [in this Google Doc](http://bit.ly/432-next-steps).
 - To contact the TAs (and Dr. Love) at any time, email `431-help` at `case dot edu`.
 
 Session | Date | Materials 
