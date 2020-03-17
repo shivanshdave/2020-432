@@ -4,9 +4,15 @@ Note that this homework is **completely optional** and is due to Canvas by 5 PM 
 
 ## What are we doing?
 
-Your main job is to select a data source from either [the Tidy Tuesday collection](https://github.com/rfordatascience/tidytuesday), or from one of the many available sources of information related to the COVID-19 pandemic, and create an attractively formatted document (developed using R Markdown) to pull in the data a source on the web, and then present some key element of that data in the form of an effective visualization, accompanied by the results of an appropriate statistical model (which need not be a model using regression.) 
+Your main job is to select a data source from either [the Tidy Tuesday collection](https://github.com/rfordatascience/tidytuesday), or from one of the many available sources of information related to the COVID-19 pandemic, and to either:
 
-## Parts of the Homework
+a. create an attractively formatted HTML document (developed using R Markdown) to pull in the data a source on the web, and then present some key element of that data in the form of an effective visualization, accompanied by the results of an appropriate statistical model (which need not be a model using regression,) or 
+
+b. build an attractive and effective animated visualization using `gganimate`, or some other package for animating a visualization, or
+
+c. build an attractive and effective Shiny app to permit the user to explore some interesting data.
+
+## Parts of the Homework (if you choose option a.)
 
 Your presentation should be brief and focused, and use code-folding set by default to show. You should also provide clear and complete access to your data source. Your presentation should be divided into the following parts:
 
