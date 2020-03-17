@@ -10,6 +10,7 @@ Note that this homework is **completely optional**.
 
 Your task is to build a web presence for yourself on the Internet using R Markdown, and specifically a tool called blogdown. The model we're going for is [this one from Wyatt Bensken](https://wyattbensken.com/) (who is a second year PhD student in Epidemiology & Biostatistics and took this course last year.) Ideally, you would include as part of your projects your Project 1 (and perhaps also your Project 2) from this class.
 
+- I'd hoped to have Wyatt come and visit the class, but of course that's not possible now, so [he posted a YouTube video for you](https://www.youtube.com/watch?v=ZBxCk7P9wqE&feature=youtu.be) describing his motivation for doing the work.
 - Wyatt [wrote a blog post describing his approach to building his site](https://wyattbensken.com/post/building-website/) which is a strong starting point.
     - Here's [Dan Quintana's 2018 YouTube video](https://www.youtube.com/watch?v=ox_Ue9yzf-0) on "How to make a personal academic website for free using R and the blogdown package" which is certainly worth a look. [Dan's 2019 tutorial](https://www.dsquintana.blog/free-website-in-r-easy/) is one of Wyatt's key references. 
 - Another good source is [blogdown: Creating Websites with R Markdown](https://bookdown.org/yihui/blogdown/) which describes a lot of available options.
