@@ -5,6 +5,7 @@
 The course uses R, R Studio and R Markdown, as were used in 431. Get your software up to date on a laptop you can bring to class, for best results. We'll hope you have all of this done before the first class, but if you have problems, we can deal with them at that session. You'll need to have all of this accomplished in order to do your first homework assignment. If you need additional help, we recommend [Dr. Love's 431 instructions](https://github.com/THOMASELOVE/2019-431/tree/master/SOFTWARE), or [these Stat 545 instructions](https://stat545.com/block000_r-rstudio-install.html).
 
 1. Download R (R 3.6.2 or later) from https://cran.case.edu/. R 4.0.0 is expected to be released during the semester.
+    - Note that R 3.6.3 is now available.
 2. Download R Studio Desktop (open source edition: version 1.2.5033 or later is OK) from https://www.rstudio.com/products/rstudio/download/#download.
 3. Install the necessary R software packages we'll use, as listed below.
 
@@ -35,7 +36,7 @@ Note: If you want to install a single package, you can do so by finding the word
 
 ## A Special Note on the `countreg` package
 
-To build rootograms to visualize the results of regression models on count outcomes, I may decide to use the `countreg` package, which is currently available **on R-Forge only**. 
+To build rootograms to visualize the results of regression models on count outcomes, I have decided to use the `countreg` package, which is currently available **on R-Forge only**. 
 
 To install `countreg`, type `install.packages("countreg", repos="http://R-Forge.R-project.org")` into the R Console within R Studio.
 
