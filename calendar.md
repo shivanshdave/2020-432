@@ -1,6 +1,7 @@
 # Revised Course Calendar for 432 in Spring 2020 
 
 - All classes will now be delivered remotely, through the [Zoom platform](https://case.edu/utech/help/knowledge-base/zoom/zoom-information).
+    - Follow the link sent to your email on 2020-03-17 to register for the 432 Class Meetings with Dr. Love for the rest of the semester. The email's subject line is "Invitation to Register for Zoom CLASS MEETINGS for 432 with Professor Love (IMPORTANT)".
 - **ART** refers to David Spiegelhalter's *The Art of Statistics*.
 - Plans for the remainder of the course are [in this Google Doc](http://bit.ly/432-next-steps).
 - To contact the TAs (and Dr. Love) at any time, email `431-help` at `case dot edu`.
