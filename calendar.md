@@ -40,7 +40,9 @@ plus the two *optional* homeworks:
 
 ## TA Office Hours
 
-Teaching Assistant Office Hours will be held virtually through 2020-05-01 via the [Zoom platform](https://case.edu/utech/help/knowledge-base/zoom/zoom-information). Email `431-help` if you have questions, which will also remain open through 2020-05-01.
+Teaching Assistant Office Hours will be held virtually through 2020-05-01 via the [Zoom platform](https://case.edu/utech/help/knowledge-base/zoom/zoom-information). Details on how to access the Zoom office hours were sent to your email on 2020-03-17, under the subject line: "**Office Hours for 432: Connecting to Zoom TA Office Hours in Spring 2020 (IMPORTANT)**"
+
+Email `431-help` if you have questions, which will also remain open through 2020-05-01.
 
 Date | 10:15 - 11:30 AM | 11:30 AM - 12:45 PM | 1:00 - 2:15 PM | 2:30 - 3:45 PM | 4:00 - 5:15 PM
 ----------: | :--------: | :--------: | :--------: | :--------: | :--------:  
