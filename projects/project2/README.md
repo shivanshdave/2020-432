@@ -9,7 +9,7 @@
 3. The Project 2 (recorded) Video Presentation, due 2020-05-04.
 4. The End-of-Term Google Form, also due 2020-05-04.
 
-If you choose, you can work with a partner for deliverables 1, 2 and 3. If so, you'll need to specify this in the [Proposal Google Form](http://bit.ly/432-2020-project2-proposal-form). Everyone will complete the End-of-Term Google Form on their own.
+You are permitted to work alone or with a partner for deliverables 1, 2 and 3. Everyone will complete the End-of-Term Google Form on their own.
 
 -----------
 
