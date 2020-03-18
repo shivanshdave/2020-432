@@ -26,11 +26,11 @@ Successful completion of this assignment will result in a 2 to 4 point bonus for
 
 ## Reviewing Your Work
 
-The TAs will be happy to review your work on Homework 6 at any time from now up through 2020-04-24, and they will try to provide suggestions for improvements. Several of them have built websites of their own recently. The TAs can help you with this via `431-help`, or via virtual office hours.
+The TAs will be happy to review your work on Homework 6 at any time from now up through 2020-05-01, and they will try to provide suggestions for improvements. Several of them have built websites of their own recently. The TAs can help you with this via `431-help`, or via virtual office hours.
 
 ## Submitting the Homework
 
-Submit Homework 6 by sending the link of your website (and any special information you want to pass along) to Dr. Love via email with the subject line: `Homework 6: My Website` by 5 PM on 2020-05-04. 
+Submit Homework 6 by sending the link of your website (and any special information you want to pass along) to Dr. Love via email with the subject line: `Homework 6: My Website` by the deadline specified on [the Course Calendar](https://github.com/THOMASELOVE/2020-432/blob/master/calendar.md).
 
 This is an individual assignment, but if you want to work together as a group to help each other get a website up and running, that would be terrific.
 
