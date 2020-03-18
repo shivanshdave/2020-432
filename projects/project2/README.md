@@ -6,8 +6,8 @@
 
 1. The [Project 2 Proposal Google Form](https://github.com/THOMASELOVE/2020-432/blob/master/projects/project2/README.md#the-project-2-proposal-google-form), due 2020-04-01.
 2. The [Main Project 2 Document](https://github.com/THOMASELOVE/2020-432/blob/master/projects/project2/README.md#the-main-project-2-document) (which includes R Markdown and HTML files, plus an tidied .Rds file), due 2020-05-04.
-3. The Project 2 Video Presentation, due 2020-05-04.
-4. The End-of-Term Google Form, also due 2020-05-04.
+3. The [Project 2 Video Presentation](https://github.com/THOMASELOVE/2020-432/blob/master/projects/project2/README.md#the-project-2-video-presentation), due 2020-05-04.
+4. The [End-of-Term Google Form](https://github.com/THOMASELOVE/2020-432/tree/master/projects/project2#the-end-of-term-google-form), also due 2020-05-04.
 
 You are permitted to work alone or with a partner for deliverables 1, 2 and 3. Everyone will complete the End-of-Term Google Form on their own.
 
