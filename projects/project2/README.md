@@ -116,13 +116,13 @@ Other sources students have used successfully in the past and that I’m happy t
 
 The Main Document includes an R Markdown file, an HTML file and an Rds tidy data set.  
 
-**Submission Details**
+### Submission Details
 
 - The deadline is noon on 2020-05-04, and your Main Document materials will be submitted through the `Project 2 Main Document` link via Canvas.
 - The Canvas link should appear on 2020-04-01, and you may submit your Main Document at any time before the deadline once that link is live. 
 - If you are working with a partner, one of you should submit the materials to Canvas, and the other partner should submit a note to Canvas indicating that their partner will submit the materials on time.
 
-## General Requirements for your R Markdown and HTML Materials
+### General Requirements for your R Markdown and HTML Materials
 
 Your R Markdown document must create an HTML result which:
 
@@ -172,7 +172,7 @@ By the end of this section, make it completely clear to the reader why your chos
 
 ## Section 4 should be labeled Ingesting and Tidying the Data
 
-Begin this section by loading in the data you will use.
+Begin this section by loading in the data you will use. You should use an R Project to do the work, and use the `here` package to simplify the data load-in.
 
 Next, we want to see the work required to manage and tidy the data into the form you used for your analyses. 
 
@@ -193,10 +193,10 @@ The next to last subsection of Section 4 should be a listing of your final analy
       - As it will be a tibble, this listing should provide Dr. Love (in the HTML) with a correct count of the number of rows and number of columns in your analytic data set.
 - Your final analytic tibble as shown in this Section and used in the codebook and analyses that follow must contain between 250 and 10,000 observations on between 5 and 15 variables, excluding the row identifiers (like subject IDs) although your original raw data set may contain more than 10,000 observations and/or more than 15 non-identification variables, so long as you prune it down to fit within that limit in this Section.
 
-The final subsection of Section 4 should be a single line of code where you save the final analytic tibble to an .Rds file. Call this subsection **Saving the Analytic Tibble**.
+The final subsection of Section 4 should be a single line of code where you use the `here` package and the `saveRDS` function to save the final analytic tibble to an .Rds file. Call this subsection **Saving the Analytic Tibble**.
 
-- If Dr. Love is permitted to have access to your data, you will then provide that .Rds file to him as part of your Canvas submission at the end oft he term.
-- If Dr. Love is not permitted to have access to your data, you will need to provide an .Rds file containing two randomly selected and de-identified rows from your tibble.
+- If Dr. Love is permitted to have access to your data, you will then provide that .Rds file to him as part of your submission.
+- If Dr. Love is not permitted to have access to your data, you will need to submit an .Rds file containing two randomly selected and de-identified rows from your tibble. Contact `431-help` if you require assistance building this.
 
 ## Section 5 should be labeled Codebook
 
