@@ -105,8 +105,8 @@ Other sources students have used successfully in the past and that I’m happy t
 - No projects on coronavirus or COVID-19, please. If it is important to you to do work in that area, please do it in the setting of [Homework 5](https://github.com/THOMASELOVE/2020-432/tree/master/homework/hw05).
 - No hierarchical or nested data. Do not submit a plan to work with data that really require the use of multi-level models. Contact `431-help` to ask before submitting the proposal if you're not sure if a particular data set will be a problem in this regard.
 - No data stored as part of any R package, without Dr. Love’s express approval (send email to request approval before submitting the proposal form.)
-- You are not allowed to use data from a textbook or other educational resource for learning statistics, data science or related methods (online or otherwise.)
-- You are not allowed to use data Dr. Love or Dr. Briggs or any other faculty member at CWRU has provided to you for educational purposes.
+- You are not allowed to use data sourced from a textbook or other educational resource for learning statistics, data science or related methods.
+- You are not allowed to use data any faculty member at CWRU has provided to you for educational (non-research) purposes.
 - You cannot reuse the data from your 432 Project 1, although you can use related data to answer new questions. You are welcome to reuse data you used in your 431 project to study new questions if it is otherwise suitable and you haven’t used it in Project 1 for 432.
 - Dr. Love is pretty tired of data from Kaggle, from the UC Irvine Machine Learning Repository, from the Cleveland Clinic Lerner College Repository and data from data analysis competitions. Avoid those unless you can make a very strong argument for their relevance to a question of real interest to you.
 
