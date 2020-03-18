@@ -120,31 +120,24 @@ The Main Document includes an R Markdown file, an HTML file and an Rds tidy data
 
 - The deadline is noon on 2020-05-04, and your Main Document materials will be submitted through the `Project 2 Main Document` link via Canvas.
 - The Canvas link should appear on 2020-04-01, and you may submit your Main Document at any time before the deadline once that link is live. 
-- **Working with a Partner?** If you are working with a partner, one of you should submit the materials to Canvas, and the other partner should submit a note to Canvas indicating that their partner will submit the materials on time.
-      - If you commit in the [Proposal Google Form](http://bit.ly/432-2020-project2-proposal-form) to working with a partner, we will generally expect you to maintain that approach through the entire Project, barring extraordinary circumstances. If a change is required, email Dr. Love as soon as possible.
+- If you are working with a partner, one of you should submit the materials to Canvas, and the other partner should submit a note to Canvas indicating that their partner will submit the materials on time.
 
 ## General Requirements for your R Markdown and HTML Materials
 
-A key deliverable for Project 2 is an R Markdown document (and HTML result) which includes the eight sections described below. 
-Your R Markdown document must create an HTML result containing:
+Your R Markdown document must create an HTML result which:
 
-- a meaningful title (of 100 characters or less) that describes your research question, 
-- attractive HTML formatting (the approaches used in any of the Project 1 templates would be fine in terms of formatting) 
-- an automated table of contents (so that `toc: TRUE` should be in your YAML materials) 
-- should use **code-folding** in the HTML result (add code\_folding: show to your YAML)
-- should use the **tidyverse** for data management, almost without exception
-- use appropriate subsection headings (which you identify with hashtags on new lines in your R Markdown file) and with numbers     automatically applied by R to match the section numbering specified below.
-- Be sure that `number_sections: true` is in your YAML section at the top of your R Markdown file.
-      - To create a numbered section called “Data Source”, use the code `# Data Source` preceded and followed by a blank line in your R Markdown file
-      - To create a numbered subsection called “First Source”, use the code `## First Source` preceded and followed by a blank line in your R Markdown file
-      - To create an unnumbered subsection called “Packages”, you could use the code `## Packages {-}` preceded and followed by a blank line in your R Markdown file, but we think all subsections should be numbered in Project 2.
-- use `comment = NA` in the setup chunk to avoid R output being preceded by hashtags `##`
-
-Run the work using **R version 3.6.2** or later, please.
+- includes a meaningful title (of 100 characters or less) that describes your research question, 
+- uses attractive HTML formatting (the approaches used in any of the [Project 1 templates](https://github.com/THOMASELOVE/2020-432/tree/master/projects/project1/templates) would be good choices in terms of formatting) 
+- incorporates an automated table of contents (so that `toc: TRUE` should be in your YAML materials) 
+- uses automatically numbered headings for sections and subsections (so that `number_sections: true` should be in your YAML, too) Markdown file. Note that the eight required section headings and all of your subsection headings should be identified with hashtage on new lines in your R Markdown file, preceded and followed by blank lines. 
+- uses **code-folding** in the HTML result (so that `code_folding: show` should be in your YAML, as well)
+- displays the use of the **tidyverse** for data management, almost without exception
+- uses `comment = NA` in the setup chunk to avoid R output being preceded by hashtags `##`
+- is developed using **R version 3.6.2** or later, please.
 
 ## The Eight Sections of Your Main Document
 
-Next, I'll describe the eight sections of your main document.
+Next, I'll describe the eight sections of your main document. Your eight section headings should match the section numbering and labels specified below.
 
 ## Section 1 should be labeled Preliminaries
 
