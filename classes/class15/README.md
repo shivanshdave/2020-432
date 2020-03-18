@@ -18,6 +18,8 @@ Slides in PDF | Slides in R Markdown | Need Help?
 ------------: | :------------------: | ---------------------------
 [Class 15 Slides](https://github.com/THOMASELOVE/2020-432/blob/master/classes/class15/432_2020_slides15.pdf) | [Class 15 RMD file](https://github.com/THOMASELOVE/2020-432/blob/master/classes/class15/432_2020_slides15.Rmd) | Email **431-help at case dot edu**
 
+There is a [Minute Paper after Class 15](http://bit.ly/432-2020-minute-15). Please complete it after class and by noon 2020-03-20 if possible, please.
+
 ## Virtual TA Office Hours via Zoom
 
 Teaching Assistant Office Hours will be held virtually starting 2020-03-18 and running through 2020-05-01 via [Zoom](https://case.edu/utech/help/knowledge-base/zoom/zoom-information).
@@ -30,8 +32,9 @@ The schedule for TA office hours is provided [in this section of the Course Cale
 ## How Has the Course Changed, besides Remote Delivery?
 
 1. I've updated the [Course Calendar](https://github.com/THOMASELOVE/2020-432/blob/master/calendar.md).
-    - There will be four more Minute Papers this semester, as indicated there.
-2. I've added detailed [Hints for Homework 4](https://github.com/THOMASELOVE/2020-432/blob/master/homework/hw04/homework4_hints_2020-03-16.pdf) and relaxed the deadline for Homework 4 to 2020-03-25.
+    - The next two items are the [Minute Paper after Class 15] (by tomorrow at noon) and [Homework 4](https://github.com/THOMASELOVE/2020-432/tree/master/homework/hw04) for 2020-03-25.
+    - There will be four more Minute Papers this semester, as indicated there, but the deadline is just to let Dr. Love have a time when he can write up a response.
+2. I've added detailed [Hints for Homework 4](https://github.com/THOMASELOVE/2020-432/blob/master/homework/hw04/homework4_hints_2020-03-16.pdf) and relaxed the deadline for [Homework 4](https://github.com/THOMASELOVE/2020-432/tree/master/homework/hw04) to 2020-03-25.
     - If you want to request a regrade on Homeworks 1-4, [the form is now available](http://bit.ly/432-2020-homework-regrade-requests) through 2020-04-24.
 3. Complete [Project 2 instructions](https://github.com/THOMASELOVE/2020-432/tree/master/projects/project2) are now available, as is the [Proposal Google Form](http://bit.ly/432-2020-project2-proposal-form) that's due April 1. 
     - The [other three deliverables](https://github.com/THOMASELOVE/2020-432/tree/master/projects/project2) for Project 2 are now due on 2020-05-04. 
@@ -50,6 +53,7 @@ The schedule for TA office hours is provided [in this section of the Course Cale
     - The `countreg` package: To build rootograms to visualize the results of regression models on count outcomes, I have decided to use the `countreg` package, which is available **on R-Forge only**. To install `countreg`, type `install.packages("countreg", repos="http://R-Forge.R-project.org")` into the R Console within R Studio.
 3. **Updating R Studio is purely optional.** The new version of R Studio (version 1.3.xxxx) is [available for preview](https://rstudio.com/products/rstudio/download/preview/). It has [many nice new features](https://rstudio.com/products/rstudio/download/preview-release-notes/), but like all preview versions, installing it may require subsequent re-installs later to fix issues. If you're someone who's comfortable dealing with those sorts of issues, feel free to upgrade, but continuing with version 1.2.5033 for the rest of the semester is an equally fine choice.
     - There's a Google Doc describing [the revised grading plan](http://bit.ly/432-2020-grading-plan) available.
+4. **There is a Minute Paper after Today's Class** We'd appreciate it you completed the form at http://bit.ly/432-2020-minute-15 before noon on Friday 2020-03-20.
     
 ## What Hasn't Happened Yet?
 
