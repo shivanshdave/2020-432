@@ -23,7 +23,7 @@ Class 23 | 04-16 | Retrospective Design / Thinking about Power
 -- | 04-20 | [Quiz 2](https://github.com/THOMASELOVE/2020-432/tree/master/quizzes/quiz2) will be due at 10 AM.
 Class 24 | 04-21 | Dealing with Hierarchical Data: An Introduction
 Class 25 | 04-23 | Catchup and wrapup of **ART** Chapters 1-14
--- | 04-24 | (*Optional*) Fill out [this Google Form](http://bit.ly/432-2020-homework-regrade-requests) to request a regrade on Homework 1-4. 
+-- | 04-24 | (*Optional*) Complete [this Google Form](http://bit.ly/432-2020-homework-regrade-requests) by 5 PM to request a regrade on Homeworks 1-4.
 
 ## All five remaining deliverables are due at NOON on Monday 2020-05-04.
 
