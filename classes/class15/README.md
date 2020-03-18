@@ -32,7 +32,7 @@ The schedule for TA office hours is provided [in this section of the Course Cale
 1. I've updated the [Course Calendar](https://github.com/THOMASELOVE/2020-432/blob/master/calendar.md)
 2. I've added detailed [Hints for Homework 4](https://github.com/THOMASELOVE/2020-432/blob/master/homework/hw04/homework4_hints_2020-03-16.pdf) and pushed the deadline for Homework 4 back by a couple of days to 2020-03-25.
     - If you want to request a regrade on Homeworks 1-4, [the form is now available](http://bit.ly/432-2020-homework-regrade-requests) through 2020-04-24.
-3. Complete [Project 2 instructions] are now available, as is the [Proposal Google Form](http://bit.ly/432-2020-project2-proposal-form) that's due April 1. 
+3. Complete [Project 2 instructions](https://github.com/THOMASELOVE/2020-432/tree/master/projects/project2) are now available, as is the [Proposal Google Form](http://bit.ly/432-2020-project2-proposal-form) that's due April 1. 
     - The other three deliverables associated with Project 2 are now due on 2020-05-04. 
     - I've scaled back the requirements quite a bit, and provided more guidance than I'd originally planned.
 4. [Quiz 2](https://github.com/THOMASELOVE/2020-432/tree/master/quizzes/quiz2) has been pushed back so that you'll receive it 2020-04-03 and it's due on 2020-04-20. 
