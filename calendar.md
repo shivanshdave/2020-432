@@ -9,17 +9,21 @@
 Session | Date | Materials 
 --------: | :-----: | ----------------------------------------------------------------------
 [Class 15](https://github.com/THOMASELOVE/2020-432/tree/master/classes/class15) | 03-19 | Our New Plan, Robust Linear Models, Exact Logistic Regression
+-- | 03-20 | Minute Paper after Class 15 due at Noon.
 Class 16 | 03-24 | Regression on a Count outcome
 -- | 03-25 | [Homework 4](https://github.com/THOMASELOVE/2020-432/tree/master/homework/hw04) due to Canvas at 5 PM. Don't miss [the Hints](https://github.com/THOMASELOVE/2020-432/blob/master/homework/hw04/homework4_hints_2020-03-16.pdf).
 Class 17 | 03-26 | Regression on an Ordinal Multi-categorical outcome
+-- | 03-27 | Minute Paper after Class 17 due at Noon.
 Class 18 | 03-31 | Regression on an Nominal Multi-categorical outcome
 -- | 04-01 | [Project 2 Proposal Google Form](http://bit.ly/432-2020-project2-proposal-form) due at Noon. [Project 2 instructions are here](https://github.com/THOMASELOVE/2020-432/tree/master/projects/project2).
 Class 19 | 04-02 | Catchup, Be sure you've read **ART** through Chapter 11
 -- | 04-03 | [Quiz 2](https://github.com/THOMASELOVE/2020-432/tree/master/quizzes/quiz2) will be made available.
 Class 20 | 04-07 | Dealing with Time-to-event (survival) data; Kaplan-Meier curves
 Class 21 | 04-09 | Fitting Cox regression models for time-to-event data
+-- | 04-10 | Minute Paper after Class 21 due at Noon.
 Class 22 | 04-14 | The problems with p values, **ART** Chapters 12-13
 Class 23 | 04-16 | Retrospective Design / Thinking about Power
+-- | 04-17 | Minute Paper after Class 23 due at Noon.
 -- | 04-20 | [Quiz 2](https://github.com/THOMASELOVE/2020-432/tree/master/quizzes/quiz2) will be due at 10 AM.
 Class 24 | 04-21 | Dealing with Hierarchical Data: An Introduction
 Class 25 | 04-23 | Catchup and wrapup of **ART** Chapters 1-14
