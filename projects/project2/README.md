@@ -24,6 +24,13 @@ On the basis of this submission, we will either approve or reject your Project 2
 - If you commit in the Proposal Google Form to working with a partner, we will generally expect you to maintain that approach through the entire Project, barring extraordinary circumstances. If a change is required, email Dr. Love as soon as possible.
 - **Everyone** needs to submit the Google Form on time, including both members of a partnership. You and your partner should give identical answers to the questions where that is appropriate.
 
+Below, you'll find subsections providing:
+
+1. Advice on Developing a Research Question
+2. Several Sample Research Questions from Last Year's Class
+3. Suggested Data Sources
+4. Data Set Specifications, Requirements and Restrictions
+
 ## Advice on Developing a Research Question
 
 Straightforward questions with a clear link to models we’ve studied or studying are the best option.
@@ -38,7 +45,9 @@ Jeff Leek, in his book [How to be a Modern Scientist](https://leanpub.com/modern
 
 I’ll add that your research question needs to be reasonable and plausible given the constraints on your time and energy. This is the time to develop something that can work in this setting, not try to boil the ocean. 
 
-To help guide your thinking, here are seven lightly edited successful research questions (*in your submission, you'd have to include more specific information where I've used parentheses and italics*) from last year's projects...
+### Sample Research Questions from Last Year
+
+To help guide your thinking, here are seven lightly edited successful research questions (*in your submission, you'd have to include more specific information where I've used parentheses and italics*) from last year's projects. You are welcome to use a similar question in your submission, but it cannot be identical to these.
 
 1. How effectively can we predict whether a county is in the upper third vs. lower third of violent crime rates based on that county's drug overdose rate, race-ethnicity mix, household income and educational attainment?
 2. Do patients (*with this diagnosis*) receiving (*treatment A, B or C*) exhibit meaningfully different survival rates, after adjusting for (*the presence or absence of several genetic mutations*) and (*several variables related to their clinical history*)?
@@ -88,31 +97,40 @@ Other sources students have used successfully in the past and that I’m happy t
 
 -----------
 
-# The Main Project 2 Document and its Eight Sections
+# The Main Project 2 Document
 
 The Main Document includes an R Markdown file, an HTML file and an Rds tidy data set. The deadline is noon on 2020-05-04, and your Main Document materials will be submitted through the `Project 2 Main Document` link via Canvas. The Canvas link should appear on 2020-04-01, and you may submit your Main Document at any time before the deadline once that link is live. If you are working with a partner, one of you should submit the materials to Canvas, and the other partner should submit a note to Canvas indicating that their partner will submit the materials on time.
+
+## General Requirements for your R Markdown and HTML Materials
 
 A key deliverable for Project 2 is an R Markdown document (and HTML result) which includes the eight sections described below. 
 Your R Markdown document must create an HTML result containing:
 
 - a meaningful title (of 80 characters or less) that describes your research question, 
-- an automated table of contents, and 
 - attractive HTML formatting (the approaches used in any of the Project 1 templates would be fine in terms of formatting) 
-- load the tidyverse last, and not anywhere else, and avoid loading other packages that are loaded already by the tidyverse. The     complete list of packages that the tidyverse loads is [the set of core packages listed at this link](https://www.tidyverse.org/packages/).
+- an automated table of contents (so that `toc: TRUE` should be in your YAML materials) 
 - should use **code-folding** in the HTML result (add code\_folding: show to your YAML)
 - should use the **tidyverse** for data management, almost without exception
 - use appropriate subsection headings (which you identify with hashtags on new lines in your R Markdown file) and with numbers     automatically applied by R to match the section numbering specified below.
-- Be sure `number_sections: true` is in your YAML section at the top of your R Markdown file.
+- Be sure that `number_sections: true` is in your YAML section at the top of your R Markdown file.
       - To create a numbered section called “Data Source”, use the code `# Data Source` preceded and followed by a blank line in your R Markdown file
       - To create a numbered subsection called “First Source”, use the code `## First Source` preceded and followed by a blank line in your R Markdown file
-      - To create an unnumbered section called “Packages”, use the code `# Packages {-}` preceded and followed by a blank line in your R Markdown file
-- use `message = FALSE` in the code chunk where the packages are listed to eliminate the messages in the HTML showing warnings about when packages were built or how objects were masked
+      - To create an unnumbered subsection called “Packages”, you could use the code `## Packages {-}` preceded and followed by a blank line in your R Markdown file, but we think all subsections should be numbered in Project 2.
 - use `comment = NA` in the setup chunk to avoid R output being preceded by hashtags `##`
-- be run using **R version 3.6.2** or later, as demonstrated in your session information section.
+
+Run the work using **R version 3.6.2** or later, please.
+
+## The Eight Sections of Your Main Document
+
+Next, I'll describe the eight sections of your main document.
 
 ## Section 1 should be labeled Preliminaries
 
 Here, you will load all necessary R packages for the work you are doing.
+
+- Use `message = FALSE` in the code chunk where the packages are listed to eliminate the messages in the HTML showing warnings about when packages were built or how objects were masked
+- Load the `here` package first and the `tidyverse` package last, and avoid loading other packages that are loaded already by the tidyverse.
+      - The complete list of packages that the tidyverse loads is [the set of core packages listed at this link](https://www.tidyverse.org/packages/).
 
 ## Section 2 should be labeled Research Question
 
