@@ -129,8 +129,8 @@ Your R Markdown document must create an HTML result which:
 - includes a meaningful title (of 100 characters or less) that describes your research question, 
 - uses attractive HTML formatting (the approaches used in any of the [Project 1 templates](https://github.com/THOMASELOVE/2020-432/tree/master/projects/project1/templates) would be good choices in terms of formatting) 
 - incorporates an automated table of contents (so that `toc: TRUE` should be in your YAML materials) 
-- uses automatically numbered headings for sections and subsections (so that `number_sections: true` should be in your YAML, too) Markdown file. Note that the eight required section headings and all of your subsection headings should be identified with hashtage on new lines in your R Markdown file, preceded and followed by blank lines. 
-- uses **code-folding** in the HTML result (so that `code_folding: show` should be in your YAML, as well)
+- uses automatically numbered headings for sections and subsections (so that `number_sections: true` should be in your YAML, too.)
+- uses code-folding (so that `code_folding: show` should be in your YAML, as well)
 - displays the use of the **tidyverse** for data management, almost without exception
 - uses `comment = NA` in the setup chunk to avoid R output being preceded by hashtags `##`
 - is developed using **R version 3.6.2** or later, please.
