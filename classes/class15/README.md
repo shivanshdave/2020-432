@@ -44,7 +44,11 @@ The schedule for TA office hours is provided [in this section of the Course Cale
 
 ## What Hasn't Happened Yet?
 
-Grading on Project 1 has taken a back seat. I completed initial portfolio review for every project, and final portfolio review for a few before things got a bit out of control. I have also reviewed a couple of the project posters. I will complete all of the remaining portfolio reviews first, then move to the posters. It's going to take quite a while. Right now, I'm aiming to be done by 2020-03-31.
+Grading on Project 1 has taken a back seat. 
+
+- I completed initial portfolio review for every project, and final portfolio review for a few before things got a bit out of control. I have also reviewed only a couple of the project posters. 
+- I will complete all of the remaining portfolio reviews first, then move to the posters. 
+- It's going to take quite a while, and I'll have to update you further at our next class.
 
 ## Announcements
 
