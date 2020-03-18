@@ -32,6 +32,9 @@ The Project 2 Proposal Google Form is available now at http://bit.ly/432-2020-pr
 4. The **research question** (and any critical background) for your Project 2.
       - Details on research questions and examples of old effective questions are available later on this page.
       - The instructions on the form say "Your research question should focus the study, determine the methodology, and guide all stages of your data acquisition and analyses, as well as your presentation and reporting. Don't be unrealistic and claim you'll boil the ocean. A single clearly phrased question (and a question ends with a question mark) that links clearly to your data set is what you're looking for. The question must be one that lends itself well to the use of a regression model (you are welcome to adapt any regression modeling strategy connected to the 432 course) to develop an answer. Don't just list broad categories of things you want to explore. Make a commitment to a specific question you will try to address with the data. Then, after specifying the question, feel free to provide whatever background you feel is necessary for Dr. Love and the TAs to understand what you are asking and why the data you propose to use are suitable. Do not use jargon in your response and do not assume we know anything about your topic of interest that hasn't been discussed already in 431-432."
+      - After stating the question, provide as much background as is necessary for an intelligent person not familiar with the field of interest that encompasses your research question.
+      - For example, if your question is about genomics, do not assume the reader has a substantial education in genomics.  If your question is about sports, do not assume the reader is a sports fan. Avoid field-specific jargon.
+      - Assume that your reader has as clear an understanding as you do of all of the material we’ve discussed in our 431 and 432 classes.
       - The Form restricts the length of this response to 4000 characters, but we expect that most of you will need about half of that.
 
 The Form also has a place for other comments or questions for Dr. Love about your Project 2.
@@ -51,6 +54,10 @@ Below, you'll find subsections providing:
 4. Data Set Specifications, Requirements and Restrictions
 
 ## Advice on Developing a Research Question
+
+- A question is expressed so as to elicit information, and **ends with a question mark**. 
+- The question must be one that lends itself well to the use of a regression model (you are welcome to adapt any regression modeling strategy connected to the 432 course) to develop an answer.
+- You can study anything you like, so long as you steer clear of things that Dr. Love thinks are inappropriate for a course project.
 
 Straightforward questions with a clear link to models we’ve studied or studying are the best option.
 
@@ -137,21 +144,20 @@ Your R Markdown document must create an HTML result which:
 
 ## The Eight Sections of Your Main Document
 
-Next, I'll describe the eight sections of your main document. Your eight section headings should match the section numbering and labels specified below.
+Your HTML document's eight section headings should match the section numbering and labels specified below.
 
 ## Section 1 should be labeled Preliminaries
 
 Here, you will load all necessary R packages for the work you are doing.
 
 - Use `message = FALSE` in the code chunk where the packages are listed to eliminate the messages in the HTML showing warnings about when packages were built or how objects were masked
-- Load the `here` package first and the `tidyverse` package last, and avoid loading other packages that are loaded already by the tidyverse.
-      - The complete list of packages that the tidyverse loads is [the set of core packages listed at this link](https://www.tidyverse.org/packages/).
+- Load the `here` package first and the `tidyverse` package last, and avoid loading other packages that are loaded already by the tidyverse. Loading tidyverse loads [the "core" packages listed here](https://www.tidyverse.org/packages/).
 
 ## Section 2 should be labeled Research Question
 
-Here, you will identify and describe a researchable question that is amenable to study using statistical tools that are associated with the 432 course.
+Here, you will identify and describe a researchable question that is amenable to study using statistical tools that are associated with the 432 course. All of the advice from the Proposal Form applies here.
 
-- A question is expressed so as to elicit information, and ends with a question mark. Make the question the high point of this Section.
+- A question is expressed so as to elicit information, and ends with a question mark. 
 - The question must be one that lends itself well to the use of a regression model (you are welcome to adapt any regression modeling strategy connected to the 432 course) to develop an answer.
 
 You can study anything you like, so long as you steer clear of things that Dr. Love thinks are inappropriate for a course project.
@@ -159,6 +165,7 @@ Before stating the question, provide as much background as is necessary for an i
 
 - For example, if your question is about genomics, do not assume the reader has a substantial education in genomics.  If your question is about sports, do not assume the reader is a sports fan. Avoid field-specific jargon.
 - Assume that your reader has as clear an understanding as you do of all of the material we’ve discussed in our 431 and 432 classes.
+- Make the question the most important part of this Section, and be sure to state it carefully.
 
 ## Section 3 should be labeled Data Source (or Sources)
 
@@ -168,7 +175,7 @@ Here, you must completely identify the source(s) of the data, so that Dr. Love u
 - Should the data not be available online, you must provide a detailed description of where the data come from, how it was gathered, and any restrictions that apply (for instance, if the data are not available to the public, be sure that we know that.) 
 - You must also provide in this section evidence that you have any and all necessary approvals to use your data in a Project for this course.
 
-By the end of this section, make it completely clear to the reader why your chosen data is worthy of exploration in the context of your question.
+By the end of this section, be sure that you have made clear to the reader why your chosen data is worthy of exploration in the context of your reserch question.
 
 ## Section 4 should be labeled Ingesting and Tidying the Data
 
@@ -180,11 +187,13 @@ Next, we want to see the work required to manage and tidy the data into the form
 - Use subsections to delineate the management tasks you perform, and provide guidance in English in between the code chunks that helps the reader understand what you are doing every step of the way.
 - If you have a categorical variable in your final analytic tibble, each category in that variable should happen in at least 25 rows of your data. If that's not the case, you'll have to collapse some categories together.
 - At least one of the variables (outcome or predictor) you are studying must be quantitative, and at least one must be categorical with 3 or more categories.
-- On Dealing with Missingness
-      - If you have missing data in an outcome or key predictor variable, we want you to drop those values from your data set in this tidying process.
-      - If you have missing data in any other variable, we want you to discuss here whether a missing at random assumption is reasonable.
-            - If so, we want you to use multiple imputation in generating your final analyses (although you are encouraged to consider simple imputation or complete case approaches in your intermediate analytic steps.)
-            - If not, we suggest you reduce the scope of your data set to eliminate either the observations that are not missing at random, or to eliminate the variables containing those missing values.
+
+On Dealing with Missingness
+
+- If you have missing data in an outcome or key predictor variable, we want you to drop those values from your data set in this tidying process.
+- If you have missing data in any other variable, we want you to discuss here whether a missing at random assumption is reasonable.
+- If so, we want you to use multiple imputation in generating your final analyses (although you are encouraged to consider simple imputation or complete case approaches in your intermediate analytic steps.)
+- If not, we suggest you reduce the scope of your data set to eliminate either the observations that are not missing at random, or to eliminate the variables containing those missing values.
 
 The next to last subsection of Section 4 should be a listing of your final analytic data set (just type its name) to prove that you have generated a tibble in R. Call this subsection **Listing the Analytic Tibble**
 
