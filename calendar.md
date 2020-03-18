@@ -8,7 +8,7 @@
 
 Session | Date | Materials 
 --------: | :-----: | ----------------------------------------------------------------------
-Class 15 | 03-19 | Our New Plan, Robust Linear Models, Exact Logistic Regression
+[Class 15](https://github.com/THOMASELOVE/2020-432/tree/master/classes/class15) | 03-19 | Our New Plan, Robust Linear Models, Exact Logistic Regression
 Class 16 | 03-24 | Regression on a Count outcome
 -- | 03-25 | [Homework 4](https://github.com/THOMASELOVE/2020-432/tree/master/homework/hw04) due to Canvas at 5 PM. Don't miss [the Hints](https://github.com/THOMASELOVE/2020-432/blob/master/homework/hw04/homework4_hints_2020-03-16.pdf).
 Class 17 | 03-26 | Regression on an Ordinal Multi-categorical outcome
@@ -27,7 +27,7 @@ Class 25 | 04-23 | Catchup and wrapup of **ART** Chapters 1-14
 
 ## All five remaining deliverables are due at NOON on Monday 2020-05-04.
 
-You are welcome, in fact encouraged to submit any or all of these earlier than the final deadline. This includes the three remaining things for Project 2:
+You are welcome, in fact encouraged to submit any or all of these earlier than the final deadline. This includes the three remaining deliverables described in the [Project 2 instructions](https://github.com/THOMASELOVE/2020-432/tree/master/projects/project2).
 
 - [Project 2](https://github.com/THOMASELOVE/2020-432/tree/master/projects/project2) Main Document (R markdown and HTML and R data set files)
 - [Project 2](https://github.com/THOMASELOVE/2020-432/tree/master/projects/project2) Video Presentation
