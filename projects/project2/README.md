@@ -21,7 +21,7 @@ The Project 2 Proposal Google Form is available now at http://bit.ly/432-2020-pr
 - The things you will need in order to complete the form are:
 
 1. A **decision** about whether you are going to work alone or with a partner on Project 2. 
-      - If you are working in a group of 2, exactly one of you will fill out the form. There is a question on the form which allows you to tell us who your partner is, if you have one.
+      - If you are working in a group of two people, exactly one of you will fill out the form. There is a question on the form which allows you to tell us who your partner is, if you have one.
 2. A **title** for your Project 2.
       - The instructions say "Please provide a real title, not something like "Project 2 for 432" but something that actually describes the work you're doing. Restrict the length of your title to 100 characters or fewer, including spaces in the count."
 3. The **data source(s)** for your Project 2.
