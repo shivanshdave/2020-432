@@ -60,3 +60,12 @@ Grading on Project 1 has taken a back seat.
 - It's going to take quite a while, and I'll have to update you further at our next class.
 
 I also haven't gotten around to [updating the Course Notes](https://thomaselove.github.io/2020-432-book/), but I will, soon.
+
+## One Last Thing
+
+Good luck to you all in these new circumstances, and as we say around my house:
+
+> Now's a good time to wash your hands.
+
+
+
