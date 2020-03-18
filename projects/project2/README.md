@@ -1,6 +1,6 @@
 # Project 2 for 432
 
-# This material is a work in progress. There will be a final version posted before class on Thursday 2020-03-19.
+# This material is a work in progress. There will be a final version posted before class on Thursday 2020-03-19. Do not rely on what you see below yet.
 
 # The Four Deliverables
 
@@ -13,7 +13,12 @@
 
 # The Project 2 Proposal Google Form
 
-*Details to come.*
+You will be filling out a project 2 proposal Google Form (due date is 2020-04-01) to provide basic information on your title, research questions and data source(s). **We will post the form by class time on 2020-03-19.**
+
+On the basis of this submission, we will either approve or reject your Project 2 idea. Once we approve your idea, you’re all set.
+
+- If we cannot approve your proposal, we’ll tell you why, and you’ll then edit your response and re-submit.
+- The main reason why we don’t approve projects is that we don’t understand your description of your data set, or how your research question can be addressed using your data set - so focus on making those descriptions and questions as clear as possible.
 
 ## Advice on Developing a Research Question
 
@@ -209,11 +214,6 @@ If you’re working as a pair, each of you must submit the end-of-term Google Fo
 
 -----------
 
-# Grading Project 2
-
-All students who complete all Project 2 elements on time, while attending to each of the requirements listed above will earn an A grade on Project 2.
-
 # Questions?
 
 Questions about Project 2 should be directed to `431-help`.
-
