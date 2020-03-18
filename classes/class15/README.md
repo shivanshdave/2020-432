@@ -29,7 +29,8 @@ The schedule for TA office hours is provided [in this section of the Course Cale
 
 ## How Has the Course Changed, besides Remote Delivery?
 
-1. I've updated the [Course Calendar](https://github.com/THOMASELOVE/2020-432/blob/master/calendar.md)
+1. I've updated the [Course Calendar](https://github.com/THOMASELOVE/2020-432/blob/master/calendar.md).
+    - There will be four more Minute Papers this semester, as indicated there.
 2. I've added detailed [Hints for Homework 4](https://github.com/THOMASELOVE/2020-432/blob/master/homework/hw04/homework4_hints_2020-03-16.pdf) and pushed the deadline for Homework 4 back by a couple of days to 2020-03-25.
     - If you want to request a regrade on Homeworks 1-4, [the form is now available](http://bit.ly/432-2020-homework-regrade-requests) through 2020-04-24.
 3. Complete [Project 2 instructions](https://github.com/THOMASELOVE/2020-432/tree/master/projects/project2) are now available, as is the [Proposal Google Form](http://bit.ly/432-2020-project2-proposal-form) that's due April 1. 
@@ -40,6 +41,10 @@ The schedule for TA office hours is provided [in this section of the Course Cale
 5. [Homework 5](https://github.com/THOMASELOVE/2020-432/tree/master/homework/hw05) is now optional, and due 2020-05-04 if you want to do it. I hope you will enjoy it.
 6. [Homework 6](https://github.com/THOMASELOVE/2020-432/tree/master/homework/hw06) is also optional, and also due 2020-05-04 if you want to do it. I hope you will enjoy it.
 7. I have also revised the plan for determining course grades, and [discuss the new approach here](http://bit.ly/432-2020-grading-plan).
+
+## What Hasn't Happened Yet?
+
+Grading on Project 1 has taken a back seat. I completed initial portfolio review for every project, and final portfolio review for a few before things got a bit out of control. I have also reviewed a couple of the project posters. I will complete all of the remaining portfolio reviews first, then move to the posters. It's going to take quite a while. Right now, I'm aiming to be done by 2020-03-31.
 
 ## Announcements
 
