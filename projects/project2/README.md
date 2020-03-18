@@ -214,6 +214,23 @@ If you’re working as a pair, each of you must submit the end-of-term Google Fo
 
 -----------
 
+# Grading Project 2
+
+Project 2 will be graded on a scale from 0 to 100. Students meeting the minimum requirements expressed above successfully and on-time, will receive a minimum score of 85. This includes:
+
+- 10 points for successful completion of the Project 2 Proposal Google Form, due 2020-04-01.
+- 40 points for on-time complete submission of all necessary files (.Rmd, .HTML, .Rds) associated with the Main Project 2 Document so that Dr. Love can successfully review them
+- 25 points for on-time complete submission of the Video Presentation materials so that Dr. Love can successfully review your work
+- 10 points for on-time completion of the End-of-Term Google Form
+
+To get to the maximum score of 100, Dr. Love will award up to 15 additional points for especially thoughtful and effective work on:
+
+- the main document 
+- the video presentation and/or
+- the end-of-term Google Form.
+
+-----------
+
 # Questions?
 
 Questions about Project 2 should be directed to `431-help`.
