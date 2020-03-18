@@ -2,7 +2,7 @@
 
 Note that this homework is **completely optional**. 
 
-- If you wish to do it, it needs to be completed (by sending an Dr. Love via email with the subject line: `Homework 6: My Website` to Dr. Love by 5 PM on 2020-05-04. 
+- If you wish to do it, it needs to be completed (by sending an Dr. Love via email with the subject line: `432 Homework 6: My Website` to Dr. Love by the deadline specified on [the Course Calendar](https://github.com/THOMASELOVE/2020-432/blob/master/calendar.md).
 - If you already have a web presence that is working well for you, you are welcome to revise it in light of some of the guidance provided here, but this is really designed for people who have no current presence online.
 - If you are a student in the MS or PhD program in PQHS, I would hope you will take advantage of this opportunity.
 
