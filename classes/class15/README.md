@@ -27,10 +27,24 @@ Teaching Assistant Office Hours will be held virtually starting 2020-03-18 and r
 
 The schedule for TA office hours is provided [in this section of the Course Calendar](https://github.com/THOMASELOVE/2020-432/blob/master/calendar.md#ta-office-hours).
 
+## How Has the Course Changed, besides Remote Delivery?
+
+1. I've updated the [Course Calendar](https://github.com/THOMASELOVE/2020-432/blob/master/calendar.md)
+2. I've added detailed [Hints for Homework 4](https://github.com/THOMASELOVE/2020-432/blob/master/homework/hw04/homework4_hints_2020-03-16.pdf) and pushed the deadline for Homework 4 back by a couple of days to 2020-03-25.
+    - If you want to request a regrade on Homeworks 1-4, [the form is now available](http://bit.ly/432-2020-homework-regrade-requests) through 2020-04-24.
+3. Complete [Project 2 instructions] are now available, as is the [Proposal Google Form](http://bit.ly/432-2020-project2-proposal-form) that's due April 1. 
+    - The other three deliverables associated with Project 2 are now due on 2020-05-04. 
+    - I've scaled back the requirements quite a bit, and provided more guidance than I'd originally planned.
+4. [Quiz 2](https://github.com/THOMASELOVE/2020-432/tree/master/quizzes/quiz2) has been pushed back so that you'll receive it 2020-04-03 and it's due on 2020-04-20. 
+    - I've [provided some information](https://github.com/THOMASELOVE/2020-432/tree/master/quizzes/quiz2) about what will be involved.
+5. [Homework 5](https://github.com/THOMASELOVE/2020-432/tree/master/homework/hw05) is now optional, and due 2020-05-04 if you want to do it. I hope you will enjoy it.
+6. [Homework 6](https://github.com/THOMASELOVE/2020-432/tree/master/homework/hw06) is also optional, and also due 2020-05-04 if you want to do it. I hope you will enjoy it.
+
 ## Announcements
 
 1. **COVID-19** I am compiling some [Data and Resources related to COVID-19](https://github.com/THOMASELOVE/2020-432/blob/master/covid19resources.md) to help you with Homework 5, and to point you to some potentially useful materials.
 2. **Updating R seems like a good idea now.** Version 3.6.3 of R is now available. [I encourage you to upgrade](https://github.com/THOMASELOVE/2020-432/blob/master/software.md). At the least, you should [update your R packages](https://github.com/THOMASELOVE/2020-432/blob/master/software.md).
     - The `countreg` package: To build rootograms to visualize the results of regression models on count outcomes, I have decided to use the `countreg` package, which is available **on R-Forge only**. To install `countreg`, type `install.packages("countreg", repos="http://R-Forge.R-project.org")` into the R Console within R Studio.
 3. **Updating R Studio is purely optional.** The new version of R Studio (version 1.3.xxxx) is [available for preview](https://rstudio.com/products/rstudio/download/preview/). It has [many nice new features](https://rstudio.com/products/rstudio/download/preview-release-notes/), but like all preview versions, installing it may require subsequent re-installs later to fix issues. If you're someone who's comfortable dealing with those sorts of issues, feel free to upgrade, but continuing with version 1.2.5033 for the rest of the semester is an equally fine choice.
-
+    - There's a Google Doc describing [the revised grading plan](http://bit.ly/432-2020-grading-plan) available.
+    
