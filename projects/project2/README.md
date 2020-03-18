@@ -95,10 +95,10 @@ Other sources students have used successfully in the past and that I’m happy t
 
 - Dr. Love strongly prefers that you use data that can be shared with anyone in the world, but this is not mandatory.
 - You will need special approval from Dr. Love (email him to ask for it before submitting the Proposal Form) to do a project that does not have between 250 and 10,000 observations. Anything in that range is fine, and if your data include meaningfully more than 10,000 observations, but you plan to sample down to 10,000, that will be OK. You will just need to let Dr. Love know that in the proposal form.
-- Repeating a few things from the Tidying Data section...
-      - Your final analytic tibble must contain at least 250 observations (with complete data) and at most 10,000 observations on between 5 and 15 variables, excluding the row identifiers (like subject IDs.) 
-      - If you have a categorical variable in your final analytic tibble, each category in that variable should happen in at least 25 rows of your data. If that's not the case, you'll have to collapse some categories together.
-      - At least one of the variables (outcome or predictor) you are studying must be quantitative, and at least one must be categorical with 3 or more categories.
+- Your final analytic tibble (on which you will do all of your analyses) must contain at least 250 observations (with complete data) and at most 10,000 observations on between 5 and 15 variables, excluding the row identifiers (like subject IDs.) 
+- Each categorical variable in your final analytic tibble should have each of its categories (levels) occur in at least 25 rows of your data. If that's not the case, you'll have to collapse some categories together.
+- At least one of the variables (whether it plays the role of outcome or predictor in your analyses) in your final analytic tibble must be quantitative.
+- At least one of the variables (whether it plays the role of outcome or predictor in your analyses) in your final analytic tibble must be categorical and include 3 or more categories (levels).
 
 ## Some Restrictions (What data are you *not* allowed to use?)
 
