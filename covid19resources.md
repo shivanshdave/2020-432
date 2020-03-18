@@ -16,3 +16,4 @@
 - Predictive Healthcare team at University of Pennsylvania's School of Medicine: [COVID-19 Hospital Impact Model for Epidemics](http://penn-chime.phl.io/)
 - Screencast by David Robinson on YouTube: [Cleaning and exploring the COVID-19 Open Research Dataset](https://www.youtube.com/watch?v=-5HYdBq_PTM)
     > I (David) show how to open and explore the CORD-19 dataset of scientific publications related to COVID-19 (coronavirus). This includes parsing json files with jsonlite, rectangling the data with tidyr's hoist and unnest_wider, and doing named entity recognition by combining tidytext with the spacyr package and scispacy models.
+    - The [CORD data set is housed by Kaggle as part of a research challenge here](https://www.kaggle.com/allen-institute-for-ai/CORD-19-research-challenge).
