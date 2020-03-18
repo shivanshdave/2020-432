@@ -35,8 +35,8 @@ You are welcome, in fact encouraged to submit any or all of these earlier than t
 
 plus the two *optional* homeworks:
 
-- (*optional*) [Homework 5](https://github.com/THOMASELOVE/2020-432/tree/master/homework/hw05)
-- (*optional*) [Homework 6](https://github.com/THOMASELOVE/2020-432/tree/master/homework/hw06)
+- (*optional*) [Homework 5](https://github.com/THOMASELOVE/2020-432/tree/master/homework/hw05) which you submit via Canvas
+- (*optional*) [Homework 6](https://github.com/THOMASELOVE/2020-432/tree/master/homework/hw06) which you submit by sending an email to Dr. Love with the subject line "432 Homework 6: My Website".
 
 ## TA Office Hours
 
