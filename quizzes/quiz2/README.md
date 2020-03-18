@@ -1,7 +1,7 @@
 # 432 Quiz 2 Information
 
 Detailed information about Quiz 2 will appear here by 2020-04-03. 
-The quiz will be due at 10 AM on 2020-04-20, as is indicated on the Calendar.
+The quiz will be due according to the time and date specified on [the Calendar](https://github.com/THOMASELOVE/2020-432/blob/master/calendar.md).
 
 The quiz will cover materials associated with Classes 1-22 of 432, with the Course Notes and other materials we've provided by the end of Class 22, and with Chapters 1-13 of David Spiegelhalter's *The Art of Statistics*.
 
