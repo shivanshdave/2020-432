@@ -19,6 +19,7 @@ On the basis of this submission, we will either approve or reject your Project 2
 
 - If we cannot approve your proposal, we’ll tell you why, and you’ll then edit your response and re-submit.
 - The main reason why we don’t approve projects is that we don’t understand your description of your data set, or how your research question can be addressed using your data set - so focus on making those descriptions and questions as clear as possible.
+- If you commit in the Proposal Google Form to working with a partner, we will generally expect you to maintain that approach through the entire Project, barring extraordinary circumstances. If a change is required, email Dr. Love as soon as possible.
 
 ## Advice on Developing a Research Question
 
@@ -74,6 +75,8 @@ Other sources students have used successfully in the past and that I’m happy t
 -----------
 
 # The Main Project 2 Document and its Eight Sections
+
+The Main Document includes an R Markdown file, an HTML file and an Rds tidy data set. The deadline is noon on 2020-05-04, and your Main Document materials will be submitted through the `Project 2 Main Document` link via Canvas. The Canvas link should appear on 2020-04-01, and you may submit your Main Document at any time before the deadline once that link is live. If you are working with a partner, one of you should submit the materials to Canvas, and the other partner should submit a note to Canvas indicating that their partner will submit the materials on time.
 
 A key deliverable for Project 2 is an R Markdown document (and HTML result) which includes the eight sections described below. 
 Your R Markdown document must create an HTML result containing:
@@ -187,17 +190,21 @@ Here, you will include the R session information, using `sessioninfo::session_in
 
 # The Project 2 (Recorded) Video Presentation
 
-This is a short pre-recorded video presentation where you display and discuss whatever you feel are the most important parts of Sections 6 and 7 of your document. The deadline is also 2020-05-04, submitted via Canvas.
+This is a short pre-recorded video presentation where you display and discuss whatever you feel are the most important parts of Sections 6 and 7 of your document. The deadline is noon on 2020-05-04, and your Video Presentation materials will be submitted through the `Project 2 Video Presentation goes here` link via Canvas. The Canvas link should appear on 2020-04-01, and you may submit your Presentation materials at any time before the deadline once that link is live.
 
-- **Working Alone?** Your presentation should be 3-4 minutes in length.
-- **Working with a Partner?** You will provide two separate presentations (one from each of you) each of 3-4 minutes in length, along with a written note indicating which of your two presentations should be watched first. 
+- **Working Alone?** Your presentation should be 3-4 minutes in length. 
+      - Be sure your name and the date is included in your filename, as in `video_jane_smith_2020-05-04.mp4`.
+- **Working with a Partner?** One of you will provide two separate presentations (one from each of you) each of 3-4 minutes in length, along with a written note indicating which of your two presentations should be watched first. 
+      - The other partner need only submit a note to Canvas indicating that their partner will submit the materials on time.
+      - Be sure the name of the person giving the presentation in each video is specified in the filename for that video.
 
 At a minimum, your presentation should specify your research question, highlight key findings, demonstrate the model you developed, and answer the research question. 
 
 - Given the short length of the presentation, that’s probably all you’ll be able to do.
 - The first thing you will do on any recording is introduce yourself by name.
-- After that, I don’t need to be able to see your face - so it’s fine (and appropriate) to show results from a slide deck or from your portfolio. Be sure I can see and hear your video clearly.
-- If you use **slides** rather than your main document in your presentation, please submit them via Canvas as well so that I can follow along.
+- Although it's nice to see you at the beginning, if possible, I don’t need to be able to see your face so long as your name is included in the filename, so it’s fine (and appropriate) to show results from a slide deck or from your portfolio. Be sure I can see and hear your video clearly.
+- If you use **slides** or anything other than your main document in your presentation, please submit those materials via Canvas as part of your video presentation materials so that I can follow along in case it's hard to see in the video.
+- If you are working with a partner, one of you should present part of this work, and the other should present the rest, so that if I watch the two videos back-to-back, I get the experience of watching a thorough single presentation related to the same research question done by two people in different places.
 
 -----------
 
