@@ -245,9 +245,9 @@ Here, you will include the R session information, using `sessioninfo::session_in
 
 -----------
 
-# The Project 2 (Recorded) Video Presentation
+# The Project 2 Video Presentation
 
-This is a short pre-recorded video presentation where you display and discuss whatever you feel are the most important parts of Sections 6 and 7 of your document. The deadline is noon on 2020-05-04, and your Video Presentation materials will be submitted through the `Project 2 Video Presentation goes here` link via Canvas. The Canvas link should appear on 2020-04-01, and you may submit your Presentation materials at any time before the deadline once that link is live.
+This is a short **recorded** video presentation where you display and discuss whatever you feel are the most important parts of Sections 6 and 7 of your document. The deadline is noon on 2020-05-04, and your Video Presentation materials will be submitted through the `Project 2 Video Presentation goes here` link via Canvas. The Canvas link should appear on 2020-04-01, and you may submit your Presentation materials at any time before the deadline once that link is live.
 
 - **Working Alone?** Your presentation should be 3-4 minutes in length. 
       - Be sure your name and the date is included in your filename, as in `video_jane_smith_2020-05-04.mp4`.
