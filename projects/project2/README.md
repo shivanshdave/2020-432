@@ -22,6 +22,7 @@ The Project 2 Proposal Google Form is available now at http://bit.ly/432-2020-pr
 
 1. A **decision** about whether you are going to work alone or with a partner on Project 2. 
       - If you are working in a group of two people, exactly one of you will fill out the form. There is a question on the form which allows you to tell us who your partner is, if you have one.
+      - If you commit in the [Proposal Google Form](http://bit.ly/432-2020-project2-proposal-form) to working with a partner, we will generally expect you to maintain that approach through the entire Project, barring extraordinary circumstances. If a change is required, email Dr. Love as soon as possible.
 2. A **title** for your Project 2.
       - The instructions say "Please provide a real title, not something like "Project 2 for 432" but something that actually describes the work you're doing. Restrict the length of your title to 100 characters or fewer, including spaces in the count."
 3. The **data source(s)** for your Project 2.
@@ -33,13 +34,12 @@ The Project 2 Proposal Google Form is available now at http://bit.ly/432-2020-pr
       - The instructions on the form say "Your research question should focus the study, determine the methodology, and guide all stages of your data acquisition and analyses, as well as your presentation and reporting. Don't be unrealistic and claim you'll boil the ocean. A single clearly phrased question (and a question ends with a question mark) that links clearly to your data set is what you're looking for. The question must be one that lends itself well to the use of a regression model (you are welcome to adapt any regression modeling strategy connected to the 432 course) to develop an answer. Don't just list broad categories of things you want to explore. Make a commitment to a specific question you will try to address with the data. Then, after specifying the question, feel free to provide whatever background you feel is necessary for Dr. Love and the TAs to understand what you are asking and why the data you propose to use are suitable. Do not use jargon in your response and do not assume we know anything about your topic of interest that hasn't been discussed already in 431-432."
       - The Form restricts the length of this response to 4000 characters, but we expect that most of you will need about half of that.
 
-The form also has a place for other comments or questions for Dr. Love about your Project 2.
+The Form also has a place for other comments or questions for Dr. Love about your Project 2.
 
-When we receive your Proposal Form, we will either approve or reject your Project 2 idea. Once we approve your idea, you’re all set.
+When we receive your [Proposal Form](http://bit.ly/432-2020-project2-proposal-form), we will either approve or reject your Project 2 idea. Once we approve your idea, you’re all set.
 
 - If we cannot approve your proposal, we’ll tell you why, and you’ll then edit your response and re-submit.
 - The main reason why we don’t approve projects is that we don’t understand your description of your data set, or how your research question can be addressed using your data set - so focus on making those descriptions and questions as clear as possible.
-- If you commit in the Proposal Google Form to working with a partner, we will generally expect you to maintain that approach through the entire Project, barring extraordinary circumstances. If a change is required, email Dr. Love as soon as possible.
 
 ## Advice for the Proposal
 
@@ -117,7 +117,14 @@ Other sources students have used successfully in the past and that I’m happy t
 
 # The Main Project 2 Document
 
-The Main Document includes an R Markdown file, an HTML file and an Rds tidy data set. The deadline is noon on 2020-05-04, and your Main Document materials will be submitted through the `Project 2 Main Document` link via Canvas. The Canvas link should appear on 2020-04-01, and you may submit your Main Document at any time before the deadline once that link is live. If you are working with a partner, one of you should submit the materials to Canvas, and the other partner should submit a note to Canvas indicating that their partner will submit the materials on time.
+The Main Document includes an R Markdown file, an HTML file and an Rds tidy data set.  
+
+**Submission Details**
+
+- The deadline is noon on 2020-05-04, and your Main Document materials will be submitted through the `Project 2 Main Document` link via Canvas.
+- The Canvas link should appear on 2020-04-01, and you may submit your Main Document at any time before the deadline once that link is live. 
+- **Working with a Partner?** If you are working with a partner, one of you should submit the materials to Canvas, and the other partner should submit a note to Canvas indicating that their partner will submit the materials on time.
+      - If you commit in the [Proposal Google Form](http://bit.ly/432-2020-project2-proposal-form) to working with a partner, we will generally expect you to maintain that approach through the entire Project, barring extraordinary circumstances. If a change is required, email Dr. Love as soon as possible.
 
 ## General Requirements for your R Markdown and HTML Materials
 
