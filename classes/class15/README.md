@@ -42,14 +42,6 @@ The schedule for TA office hours is provided [in this section of the Course Cale
 6. [Homework 6](https://github.com/THOMASELOVE/2020-432/tree/master/homework/hw06) is also optional, and also due 2020-05-04 if you want to do it. I hope you will enjoy it.
 7. I have also revised the plan for determining course grades, and [discuss the new approach here](http://bit.ly/432-2020-grading-plan).
 
-## What Hasn't Happened Yet?
-
-Grading on Project 1 has taken a back seat. 
-
-- I completed initial portfolio review for every project, and final portfolio review for a few before things got a bit out of control. I have also reviewed only a couple of the project posters. 
-- I will complete all of the remaining portfolio reviews first, then move to the posters. 
-- It's going to take quite a while, and I'll have to update you further at our next class.
-
 ## Announcements
 
 1. **COVID-19** I am compiling some [Data and Resources related to COVID-19](https://github.com/THOMASELOVE/2020-432/blob/master/covid19resources.md) to help you with Homework 5, and to point you to some potentially useful materials.
@@ -58,3 +50,12 @@ Grading on Project 1 has taken a back seat.
 3. **Updating R Studio is purely optional.** The new version of R Studio (version 1.3.xxxx) is [available for preview](https://rstudio.com/products/rstudio/download/preview/). It has [many nice new features](https://rstudio.com/products/rstudio/download/preview-release-notes/), but like all preview versions, installing it may require subsequent re-installs later to fix issues. If you're someone who's comfortable dealing with those sorts of issues, feel free to upgrade, but continuing with version 1.2.5033 for the rest of the semester is an equally fine choice.
     - There's a Google Doc describing [the revised grading plan](http://bit.ly/432-2020-grading-plan) available.
     
+## What Hasn't Happened Yet?
+
+Grading on Project 1 has taken a back seat. 
+
+- I completed initial portfolio review for every project, and final portfolio review for a few before things got a bit out of control. I have also reviewed only a couple of the project posters. 
+- I will complete all of the remaining portfolio reviews first, then move to the posters. 
+- It's going to take quite a while, and I'll have to update you further at our next class.
+
+I also haven't gotten around to updating the Course Notes, but I will, eventually.
