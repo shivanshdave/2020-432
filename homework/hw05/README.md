@@ -1,6 +1,8 @@
 # 432 Homework 5 
 
-Note that this homework is **completely optional**. If you choose to do it, it must be received on Canvas by 5 PM on 2020-05-04. 
+Note that this homework is **completely optional**. 
+
+If you choose to do it, it must be received on Canvas by the deadline specified on [the Course Calendar](https://github.com/THOMASELOVE/2020-432/blob/master/calendar.md).
 
 ## What are we doing?
 
@@ -58,6 +60,8 @@ The TAs will be happy to review your work on Homework 5 at any time from now up 
 
 ## Submitting the Homework
 
-Submit Homework 5 via Canvas at any time before the deadline, which is 2020-05-04 at 5 PM. This is an individual assignment, so the final products in your submission must be unique to you, although you are welcome to work in an informal group of any size on the same data set, but build visualizations/models/apps using different elements in your submissions. 
+Submit Homework 5 via Canvas at any time before the deadline specified on [the Course Calendar](https://github.com/THOMASELOVE/2020-432/blob/master/calendar.md).
+
+- This is an individual assignment, so the final products in your submission must be unique to you, although you are welcome to work in an informal group of any size on the same data set, but build visualizations/models/apps using different elements in your submissions. 
 
 If you have any questions about Homework 5, please let us know at `431-help`.
