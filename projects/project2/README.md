@@ -1,6 +1,6 @@
 # Project 2 for 432
 
-# This material is a work in progress. There will be a final version posted before class on Thursday 2020-03-19. Do not rely on what you see below yet.
+# This material is work in progress. There will be a final version posted before class on Thursday 2020-03-19. Do not rely on what you see below yet.
 
 # The Four Deliverables
 
