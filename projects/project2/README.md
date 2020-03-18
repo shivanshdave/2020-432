@@ -15,14 +15,29 @@ If you choose, you can work with a partner for deliverables 1, 2 and 3. If so, y
 
 # The Project 2 Proposal Google Form
 
-You will be filling out a project 2 proposal Google Form (due date is 2020-04-01 at the time specified on the [Course Calendar](https://github.com/THOMASELOVE/2020-432/blob/master/calendar.md)) to provide basic information on your title which must be meaningful and contain at most 100 characters), your research question and your data source(s). **We will post the form by class time on 2020-03-19.**
+The Project 2 Proposal Google Form is available now at http://bit.ly/432-2020-project2-proposal-form.
 
-On the basis of this submission, we will either approve or reject your Project 2 idea. Once we approve your idea, you’re all set.
+You will need to complete this form by 2020-04-01 at the time specified on the [Course Calendar](https://github.com/THOMASELOVE/2020-432/blob/master/calendar.md). The things you will need in order to complete the form are:
+
+1. A **decision** about whether you are going to work alone or with a partner on Project 2. If you are working in a group of 2, exactly one of you will fill out the form. There is a question on the form which allows you to tell us who your partner is, if you have one.
+2. A **title** for your Project 2.
+      - The instructions say "Please provide a real title, not something like "Project 2 for 432" but something that actually describes the work you're doing. Restrict the length of your title to 100 characters or fewer, including spaces in the count."
+3. The **data source(s)** for your Project 2.
+      - Details on what sort of data you can use, etc. are available later on this page.
+      - The instructions on the form say "If you are using more than one source of data, specify them all. Include a URL for any source available on the internet. You need to specify the number of observations in your data, and the key variables that relate to the research question(s) you will specify below. So, you should tell me something about where the data come from, and specify its size, and the key variables that are discussed in your research questions. Follow the Project 2 instructions."
+      - The Form restricts the length of this response to 4000 characters, but we expect that most of you will need about half of that.
+4. The **research question** (and any critical background) for your Project 2.
+      - Details on research questions and examples of old effective questions are available later on this page.
+      - The instructions on the form say "Your research question should focus the study, determine the methodology, and guide all stages of your data acquisition and analyses, as well as your presentation and reporting. Don't be unrealistic and claim you'll boil the ocean. A single clearly phrased question (and a question ends with a question mark) that links clearly to your data set is what you're looking for. The question must be one that lends itself well to the use of a regression model (you are welcome to adapt any regression modeling strategy connected to the 432 course) to develop an answer. Don't just list broad categories of things you want to explore. Make a commitment to a specific question you will try to address with the data. Then, after specifying the question, feel free to provide whatever background you feel is necessary for Dr. Love and the TAs to understand what you are asking and why the data you propose to use are suitable. Do not use jargon in your response and do not assume we know anything about your topic of interest that hasn't been discussed already in 431-432."
+      - The Form restricts the length of this response to 4000 characters, but we expect that most of you will need about half of that.
+
+The form also has a place for other comments or questions for Dr. Love about your Project 2.
+
+On the basis of your submitted Proposal Form, we will either approve or reject your Project 2 idea. Once we approve your idea, you’re all set.
 
 - If we cannot approve your proposal, we’ll tell you why, and you’ll then edit your response and re-submit.
 - The main reason why we don’t approve projects is that we don’t understand your description of your data set, or how your research question can be addressed using your data set - so focus on making those descriptions and questions as clear as possible.
 - If you commit in the Proposal Google Form to working with a partner, we will generally expect you to maintain that approach through the entire Project, barring extraordinary circumstances. If a change is required, email Dr. Love as soon as possible.
-- If you are working in a team of two, a question will ask you to identify your partner. If you are working with a partner, **exactly one of you** should complete this form.
 
 Below, you'll find subsections providing:
 
@@ -56,7 +71,6 @@ To help guide your thinking, here are seven lightly edited successful research q
 5. What can a model tell us about how hospital efficiency of care (a composite measure incorporating information from ER wait times, purchasing, and percent of personnel who receive the flu vaccine) and hygiene and contamination concerns (including rates of staph infection, C diff, and sepsis/blood infections) are associated with rates of post-surgery complications after serious cardiac events?
 6. Can neuronal activity (captured as new activation, sustained activity, or inactive) be predicted effectively from other cell characteristics like age, RNA production, chromatin relaxation, spatial position, and sex?
 7. How strong is the association between marijuana exposure and depression among females ages 20-45 participating in NHANES 2015-16 after adjusting for age, sleep hours, annual family income, health insurance coverage, and number of kids who are 5-year-old or younger in the household?
-
 
 ## Suggested Data Sources
 
