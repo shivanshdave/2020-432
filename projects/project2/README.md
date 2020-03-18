@@ -9,7 +9,7 @@
 3. The Project 2 (recorded) Video Presentation, due 2020-05-04.
 4. The End-of-Term Google Form, also due 2020-05-04.
 
-If you choose, you can work with a partner for deliverables 1, 2 and 3. If so, you'll need to specify this in the Proposal Google Form. Everyone will complete the End-of-Term Google Form on their own.
+If you choose, you can work with a partner for deliverables 1, 2 and 3. If so, you'll need to specify this in the [Proposal Google Form](http://bit.ly/432-2020-project2-proposal-form). Everyone will complete the End-of-Term Google Form on their own.
 
 -----------
 
@@ -17,7 +17,8 @@ If you choose, you can work with a partner for deliverables 1, 2 and 3. If so, y
 
 The Project 2 Proposal Google Form is available now at http://bit.ly/432-2020-project2-proposal-form.
 
-You will need to complete this form by 2020-04-01 at the time specified on the [Course Calendar](https://github.com/THOMASELOVE/2020-432/blob/master/calendar.md). The things you will need in order to complete the form are:
+- You need to complete this form by 2020-04-01 at the time specified on the [Course Calendar](https://github.com/THOMASELOVE/2020-432/blob/master/calendar.md). 
+- The things you will need in order to complete the form are:
 
 1. A **decision** about whether you are going to work alone or with a partner on Project 2. If you are working in a group of 2, exactly one of you will fill out the form. There is a question on the form which allows you to tell us who your partner is, if you have one.
 2. A **title** for your Project 2.
@@ -33,11 +34,13 @@ You will need to complete this form by 2020-04-01 at the time specified on the [
 
 The form also has a place for other comments or questions for Dr. Love about your Project 2.
 
-On the basis of your submitted Proposal Form, we will either approve or reject your Project 2 idea. Once we approve your idea, you’re all set.
+When we receive your Proposal Form, we will either approve or reject your Project 2 idea. Once we approve your idea, you’re all set.
 
 - If we cannot approve your proposal, we’ll tell you why, and you’ll then edit your response and re-submit.
 - The main reason why we don’t approve projects is that we don’t understand your description of your data set, or how your research question can be addressed using your data set - so focus on making those descriptions and questions as clear as possible.
 - If you commit in the Proposal Google Form to working with a partner, we will generally expect you to maintain that approach through the entire Project, barring extraordinary circumstances. If a change is required, email Dr. Love as soon as possible.
+
+## Advice for the Proposal
 
 Below, you'll find subsections providing:
 
