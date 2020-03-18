@@ -1,7 +1,5 @@
 # Project 2 for 432
 
-# This material is work in progress. There will be a final version posted before class on Thursday 2020-03-19. Do not rely on what you see below yet.
-
 # The Four Deliverables
 
 1. The [Project 2 Proposal Google Form](https://github.com/THOMASELOVE/2020-432/blob/master/projects/project2/README.md#the-project-2-proposal-google-form), due 2020-04-01.
