@@ -36,8 +36,9 @@ The schedule for TA office hours is provided [in this section of the Course Cale
 3. Complete [Project 2 instructions](https://github.com/THOMASELOVE/2020-432/tree/master/projects/project2) are now available, as is the [Proposal Google Form](http://bit.ly/432-2020-project2-proposal-form) that's due April 1. 
     - The [other three deliverables](https://github.com/THOMASELOVE/2020-432/tree/master/projects/project2) for Project 2 are now due on 2020-05-04. 
     - I've scaled back the requirements quite a bit, and provided more guidance than I'd originally planned.
-4. [Quiz 2](https://github.com/THOMASELOVE/2020-432/tree/master/quizzes/quiz2) has been pushed back so that you'll receive it 2020-04-03 and it's due on 2020-04-20. There will not be a Quiz 3.
+4. [Quiz 2](https://github.com/THOMASELOVE/2020-432/tree/master/quizzes/quiz2) has been pushed back so that you'll receive it 2020-04-03 and it's due on 2020-04-20. 
     - I've [provided some information](https://github.com/THOMASELOVE/2020-432/tree/master/quizzes/quiz2) about what will be involved in Quiz 2.
+    - There will not be a Quiz 3.
 5. [Homework 5](https://github.com/THOMASELOVE/2020-432/tree/master/homework/hw05) is now optional, and due 2020-05-04 if you want to do it. I hope you will enjoy it.
 6. [Homework 6](https://github.com/THOMASELOVE/2020-432/tree/master/homework/hw06) is also optional, and also due 2020-05-04 if you want to do it. I hope you will enjoy it.
 7. I have also revised the plan for determining course grades, and [discuss the new approach here](http://bit.ly/432-2020-grading-plan).
