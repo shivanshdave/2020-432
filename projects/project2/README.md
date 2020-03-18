@@ -198,9 +198,8 @@ On Dealing with Missingness
 The next to last subsection of Section 4 should be a listing of your final analytic data set (just type its name) to prove that you have generated a tibble in R. Call this subsection **Listing the Analytic Tibble**
 
 - This tibble should include any columns of identifying information for the subjects that you deem necessary, plus the variables you intend to use in your Data Analysis.
-- Your tibble listing must be the result of a single line of code where you call the name of the data set. You cannot manipulate it in any way.
-      - As it will be a tibble, this listing should provide Dr. Love (in the HTML) with a correct count of the number of rows and number of columns in your analytic data set.
-- Your final analytic tibble as shown in this Section and used in the codebook and analyses that follow must contain between 250 and 10,000 observations on between 5 and 15 variables, excluding the row identifiers (like subject IDs) although your original raw data set may contain more than 10,000 observations and/or more than 15 non-identification variables, so long as you prune it down to fit within that limit in this Section.
+- Your tibble listing must be the result of a single line of code where you call the name of the data set. You cannot manipulate it in any way. As it will be a tibble, this listing should print only the first 10 rows of the data, and will also provide Dr. Love (in the HTML) with a correct count of the number of rows and number of columns in your analytic data set.
+- Your final analytic tibble must contain between 250 and 10,000 observations on between 5 and 15 variables, excluding the row identifiers (like subject IDs.)
 
 The final subsection of Section 4 should be a single line of code where you use the `here` package and the `saveRDS` function to save the final analytic tibble to an .Rds file. Call this subsection **Saving the Analytic Tibble**.
 
@@ -209,12 +208,12 @@ The final subsection of Section 4 should be a single line of code where you use 
 
 ## Section 5 should be labeled Codebook
 
-Produce a codebook for the variables that you intend to use in your Data Analysis. For each variable, provide the following in an attractive and user-friendly format:
+For each variable in your Analytic Tibble, provide the following in an attractive and user-friendly format:
 
-- its name in the tibble you printed at the end of Section 4; be sure that every variable in the Codebook is in the Analytic Tibble
-- a description of what the variable means, in English, with appropriate units of measurement specified, or in the case of categorical variables, a description of each possible level of the variable
+- the variable's name in the Analytic Tibble you printed at the end of Section 4
 - the type of variable (quantitative, count, binary, ordered multi-categorical, unordered multi-categorical, or censored time-to-event)
-the number of missing values contained in the Analytic Tibble for that variable.
+- a description of what the variable means, in English, with appropriate units of measurement specified, or in the case of categorical variables, specify each possible level of the variable
+- the number of missing values of that variable in the Analytic Tibble.
 
 ## Section 6 should be labeled Data Analysis
 
@@ -234,9 +233,9 @@ End this section with a clear description of the final model you settle on, reme
 
 Here, you will describe, in complete English sentences, what you have learned about your research question by doing the work in the previous sections. 
 
-- Be sure to begin your Conclusions section by restating the research question in new words and then providing a clear answer (which is not likely to be a completely definitive answer) to your question.
-- The remainder of the Conclusions section should discuss the strengths and limitations of your approach, and also comment on possible next steps and describe what you would now do differently in studying this question (if anything) having gone through this experience. 
-- A good Conclusions section will likely require between 250 and 500 words.
+- Be sure to begin your Conclusions section by restating the research question and then providing a clear answer (which is not likely to be a completely definitive answer) to your question, which is the result of the analytic work you've done.
+- The remainder of the Conclusions section should discuss the strengths and limitations of your approach, comment on possible next steps and describe what you would now do differently in studying this question (if anything) having gone through this experience. 
+- We expect that a good Conclusions section will require between 250 and 500 words.
  
 ## Section 8 should be labeled Session Information
 
@@ -246,34 +245,41 @@ Here, you will include the R session information, using `sessioninfo::session_in
 
 # The Project 2 Video Presentation
 
-This is a short **recorded** video presentation where you display and discuss whatever you feel are the most important parts of Sections 6 and 7 of your document. The deadline is noon on 2020-05-04, and your Video Presentation materials will be submitted through the `Project 2 Video Presentation goes here` link via Canvas. The Canvas link should appear on 2020-04-01, and you may submit your Presentation materials at any time before the deadline once that link is live.
+This is a short **recorded** video presentation where you display and discuss whatever you feel are the most important parts of Sections 6 and 7 of your Main Document. 
 
-- **Working Alone?** Your presentation should be 3-4 minutes in length. 
-      - Be sure your name and the date is included in your filename, as in `video_jane_smith_2020-05-04.mp4`.
-- **Working with a Partner?** One of you will provide two separate presentations (one from each of you) each of 3-4 minutes in length, along with a written note indicating which of your two presentations should be watched first. 
-      - The other partner need only submit a note to Canvas indicating that their partner will submit the materials on time.
-      - Be sure the name of the person giving the presentation in each video is specified in the filename for that video.
+### Submission
+
+The deadline for this presentation is also noon on 2020-05-04.
+
+- Your Video Presentation materials will be submitted through the `Project 2 Video Presentation goes here` link via Canvas. 
+- The Canvas link should appear on 2020-04-01, and you may submit your Presentation materials at any time before the deadline once that link is live.
+- **Working Alone?** Your presentation should be 3-4 minutes in length. Be sure your name and the date is included in your filename, as in `video_jane_smith_2020-05-04.mp4`.
+- **Working with a Partner?** One of you will provide two separate presentations (one from each of you) each of 3-4 minutes in length, along with a written note indicating which of your two presentations should be watched first. The other partner need only submit a note to Canvas indicating that their partner will submit the materials on time. Be sure the name of the person giving the presentation in each video is specified in the filename for that video.
 
 At a minimum, your presentation should specify your research question, highlight key findings, demonstrate the model you developed, and answer the research question. 
 
 - Given the short length of the presentation, that’s probably all you’ll be able to do.
 - The first thing you will do on any recording is introduce yourself by name.
-- Although it's nice to see you at the beginning, if possible, I don’t need to be able to see your face so long as your name is included in the filename, so it’s fine (and appropriate) to show results from a slide deck or from your portfolio. Be sure I can see and hear your video clearly.
-- If you use **slides** or anything other than your main document in your presentation, please submit those materials via Canvas as part of your video presentation materials so that I can follow along in case it's hard to see in the video.
-- If you are working with a partner, one of you should present part of this work, and the other should present the rest, so that if I watch the two videos back-to-back, I get the experience of watching a thorough single presentation related to the same research question done by two people in different places.
+- Although it's nice to see you, if possible, I don’t need to be able to see your face, so it’s fine (and appropriate) to show results from a slide deck or from your portfolio. Be sure I can see and hear your video clearly.
+- If you use **slides** or anything other than your main document HTML file in your presentation, please submit those materials via Canvas as part of your video presentation materials so that I can follow along in case it's hard to see in the video.
+- If you are working with a partner, one of you should present part of this work, and the other should present the rest, so that when I watch the two videos back-to-back, I get the experience of watching a thorough single presentation related to the same research question done by two people in different places.
 
 -----------
 
 # The End-of-Term Google Form
 
-You will complete an end-of-term Google Form also due 2020-05-04, where you will be ...
+You will complete an end-of-term Google Form also due 2020-05-04, where you will be asked...
 
-1. asked to summarize the key finding of your study briefly in your own well-chosen set of 50 or fewer words, and 
-2. asked about the most important thing you’ve learned in 432, 
-3. asked about the next step you’re most eager to take in developing yourself as a data scientist, and 
-4. asked about the most important piece of advice you wished you’d heard when starting the 431-432 sequence. 
+1. to summarize the key finding of your study briefly in your own well-chosen set of 50 or fewer words, and 
+2. about the most important thing you’ve learned in 432, 
+3. about the next step you’re most eager to take in developing yourself as a data scientist, and 
+4. about the most important piece of advice you wished you’d heard when starting the 431-432 sequence. 
 
-If you’re working as a pair, each of you must submit the end-of-term Google Form separately. We will post the end-of-term Google Form by mid-April.
+and maybe about some other things.
+
+If you’re working as a pair, each of you must submit the end-of-term Google Form separately. 
+
+We will post the end-of-term Google Form in April.
 
 -----------
 
@@ -282,9 +288,9 @@ If you’re working as a pair, each of you must submit the end-of-term Google Fo
 Project 2 will be graded on a scale from 0 to 100. Students meeting the minimum requirements expressed above successfully and on-time, will receive a minimum score of 85. This includes:
 
 - 10 points for successful completion of the Project 2 Proposal Google Form, due 2020-04-01.
-- 40 points for on-time complete submission of all necessary files (.Rmd, .HTML, .Rds) associated with the Main Project 2 Document so that Dr. Love can successfully review them
-- 25 points for on-time complete submission of the Video Presentation materials so that Dr. Love can successfully review your work
-- 10 points for on-time completion of the End-of-Term Google Form
+- 40 points for on-time complete submission of all necessary files (.Rmd, .HTML, .Rds) associated with the Main Project 2 Document so that Dr. Love can successfully review them.
+- 25 points for on-time complete submission of the Video Presentation materials so that Dr. Love can successfully review them.
+- 10 points for on-time completion of the End-of-Term Google Form.
 
 To get to the maximum score of 100, Dr. Love will award up to 15 additional points for especially thoughtful and effective work on:
 
