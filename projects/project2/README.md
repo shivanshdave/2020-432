@@ -103,7 +103,7 @@ Other sources students have used successfully in the past and that I’m happy t
 ## Some Restrictions (What data are you *not* allowed to use?)
 
 - No projects on coronavirus or COVID-19, please. If it is important to you to do work in that area, please do it in the setting of [Homework 5](https://github.com/THOMASELOVE/2020-432/tree/master/homework/hw05).
-- No hierarchical data. Do not submit a plan to work with data that really require the use of multi-level models.
+- No hierarchical or nested data. Do not submit a plan to work with data that really require the use of multi-level models. Contact `431-help` to ask before submitting the proposal if you're not sure if a particular data set will be a problem in this regard.
 - No data stored as part of any R package, without Dr. Love’s express approval (send email to request approval before submitting the proposal form.)
 - You are not allowed to use data from a textbook or other educational resource for learning statistics, data science or related methods (online or otherwise.)
 - You are not allowed to use data Dr. Love or Dr. Briggs or any other faculty member at CWRU has provided to you for educational purposes.
