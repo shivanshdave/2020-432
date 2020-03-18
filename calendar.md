@@ -13,18 +13,30 @@ Class 16 | 03-24 | Regression on a Count outcome
 -- | 03-25 | [Homework 4](https://github.com/THOMASELOVE/2020-432/tree/master/homework/hw04) due to Canvas at 5 PM. Don't miss [the Hints](https://github.com/THOMASELOVE/2020-432/blob/master/homework/hw04/homework4_hints_2020-03-16.pdf).
 Class 17 | 03-26 | Regression on an Ordinal Multi-categorical outcome
 Class 18 | 03-31 | Regression on an Nominal Multi-categorical outcome
--- | 04-01 | Project 2 Proposal due at 2 PM.
+-- | 04-01 | [Project 2](https://github.com/THOMASELOVE/2020-432/tree/master/projects/project2) Proposal Google Form due at 2 PM.
 Class 19 | 04-02 | Catchup, Be sure you've read **ART** through Chapter 11
--- | 04-03 | Quiz 2 will be made available.
+-- | 04-03 | [Quiz 2](https://github.com/THOMASELOVE/2020-432/tree/master/quizzes/quiz2) will be made available.
 Class 20 | 04-07 | Dealing with Time-to-event (survival) data; Kaplan-Meier curves
 Class 21 | 04-09 | Fitting Cox regression models for time-to-event data
 Class 22 | 04-14 | The problems with p values, **ART** Chapters 12-13
 Class 23 | 04-16 | Retrospective Design / Thinking about Power
--- | 04-20 | Quiz 2 will be due at 10 AM.
+-- | 04-20 | [Quiz 2](https://github.com/THOMASELOVE/2020-432/tree/master/quizzes/quiz2) will be due at 10 AM.
 Class 24 | 04-21 | Dealing with Hierarchical Data: An Introduction
 Class 25 | 04-23 | Catchup and wrapup of **ART** Chapters 1-14
--- | 05-01 | Project 2 due.
--- | 05-04 | All optional work ([Homework 5](https://github.com/THOMASELOVE/2020-432/tree/master/homework/hw05) and [Homework 6](https://github.com/THOMASELOVE/2020-432/tree/master/homework/hw05)) is due.
+-- | 04-24 | (*Optional*) Fill out [this Google Form](http://bit.ly/432-2020-homework-regrade-requests) to request a regrade on Homework 1-4. 
+
+## All five remaining deliverables are due at NOON on Monday 2020-05-04.
+
+You are welcome, in fact encouraged to submit any or all of these earlier than the final deadline. This includes the three remaining things for Project 2:
+
+- [Project 2](https://github.com/THOMASELOVE/2020-432/tree/master/projects/project2) Main Document (R markdown and HTML and R data set files)
+- [Project 2](https://github.com/THOMASELOVE/2020-432/tree/master/projects/project2) Video Presentation
+- [Project 2](https://github.com/THOMASELOVE/2020-432/tree/master/projects/project2) End-of-Term Google Form
+
+plus the two *optional* homeworks:
+
+- (*optional*) [Homework 5](https://github.com/THOMASELOVE/2020-432/tree/master/homework/hw05)
+- (*optional*) [Homework 6](https://github.com/THOMASELOVE/2020-432/tree/master/homework/hw06)
 
 ## TA Office Hours
 
