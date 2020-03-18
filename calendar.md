@@ -8,7 +8,7 @@
 
 Session | Date | Materials 
 --------: | :-----: | ----------------------------------------------------------------------
-[Class 15](https://github.com/THOMASELOVE/2020-432/tree/master/classes/class15) | 03-19 | Our New Plan, Robust Linear Models, Exact Logistic Regression
+[Class 15](https://github.com/THOMASELOVE/2020-432/tree/master/classes/class15) | 03-19 | Our New Plan, Robust Linear Models
 -- | 03-20 | [Minute Paper after Class 15](http://bit.ly/432-2020-minute-15) by Noon, if possible, please.
 Class 16 | 03-24 | Regression on a Count outcome
 -- | 03-25 | [Homework 4](https://github.com/THOMASELOVE/2020-432/tree/master/homework/hw04) due to Canvas at 5 PM. Don't miss [the Hints](https://github.com/THOMASELOVE/2020-432/blob/master/homework/hw04/homework4_hints_2020-03-16.pdf).
