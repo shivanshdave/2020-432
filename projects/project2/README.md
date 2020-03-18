@@ -15,14 +15,14 @@ If you choose, you can work with a partner for deliverables 1, 2 and 3. If so, y
 
 # The Project 2 Proposal Google Form
 
-You will be filling out a project 2 proposal Google Form (due date is 2020-04-01 at the time specified on the [Course Calendar](https://github.com/THOMASELOVE/2020-432/blob/master/calendar.md)) to provide basic information on your title, research questions and data source(s). **We will post the form by class time on 2020-03-19.**
+You will be filling out a project 2 proposal Google Form (due date is 2020-04-01 at the time specified on the [Course Calendar](https://github.com/THOMASELOVE/2020-432/blob/master/calendar.md)) to provide basic information on your title which must be meaningful and contain at most 100 characters), your research question and your data source(s). **We will post the form by class time on 2020-03-19.**
 
 On the basis of this submission, we will either approve or reject your Project 2 idea. Once we approve your idea, you’re all set.
 
 - If we cannot approve your proposal, we’ll tell you why, and you’ll then edit your response and re-submit.
 - The main reason why we don’t approve projects is that we don’t understand your description of your data set, or how your research question can be addressed using your data set - so focus on making those descriptions and questions as clear as possible.
 - If you commit in the Proposal Google Form to working with a partner, we will generally expect you to maintain that approach through the entire Project, barring extraordinary circumstances. If a change is required, email Dr. Love as soon as possible.
-- **Everyone** needs to submit the Google Form on time, including both members of a partnership. You and your partner should give identical answers to the questions where that is appropriate.
+- If you are working in a team of two, a question will ask you to identify your partner. If you are working with a partner, **exactly one of you** should complete this form.
 
 Below, you'll find subsections providing:
 
@@ -76,9 +76,9 @@ Other sources students have used successfully in the past and that I’m happy t
 ## Data Set Specifications/Requirements
 
 - Dr. Love strongly prefers that you use data that can be shared with anyone in the world, but this is not mandatory.
-- You will need special approval from Dr. Love (email him to ask for it before submitting the Proposal Form) to do a project that does not have between 250 and 10,000 observations. Anything in that range is fine, and if your data include meaningfully more than 10,000 observations, it’s OK to start by sampling them.
+- You will need special approval from Dr. Love (email him to ask for it before submitting the Proposal Form) to do a project that does not have between 250 and 10,000 observations. Anything in that range is fine, and if your data include meaningfully more than 10,000 observations, but you plan to sample down to 10,000, that will be OK. You will just need to let Dr. Love know that in the proposal form.
 - Repeating a few things from the Tidying Data section...
-      - Your final analytic tibble must contain between 250 and 10,000 observations on between 5 and 15 variables, excluding the row identifiers (like subject IDs.) 
+      - Your final analytic tibble must contain at least 250 observations (with complete data) and at most 10,000 observations on between 5 and 15 variables, excluding the row identifiers (like subject IDs.) 
       - If you have a categorical variable in your final analytic tibble, each category in that variable should happen in at least 25 rows of your data. If that's not the case, you'll have to collapse some categories together.
       - At least one of the variables (outcome or predictor) you are studying must be quantitative, and at least one must be categorical with 3 or more categories.
 
@@ -106,7 +106,7 @@ The Main Document includes an R Markdown file, an HTML file and an Rds tidy data
 A key deliverable for Project 2 is an R Markdown document (and HTML result) which includes the eight sections described below. 
 Your R Markdown document must create an HTML result containing:
 
-- a meaningful title (of 80 characters or less) that describes your research question, 
+- a meaningful title (of 100 characters or less) that describes your research question, 
 - attractive HTML formatting (the approaches used in any of the Project 1 templates would be fine in terms of formatting) 
 - an automated table of contents (so that `toc: TRUE` should be in your YAML materials) 
 - should use **code-folding** in the HTML result (add code\_folding: show to your YAML)
