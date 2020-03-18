@@ -9,17 +9,20 @@
 3. The Project 2 (recorded) Video Presentation, due 2020-05-04.
 4. The End-of-Term Google Form, also due 2020-05-04.
 
+If you choose, you can work with a partner for deliverables 1, 2 and 3. If so, you'll need to specify this in the Proposal Google Form. Everyone will complete the End-of-Term Google Form on their own.
+
 -----------
 
 # The Project 2 Proposal Google Form
 
-You will be filling out a project 2 proposal Google Form (due date is 2020-04-01) to provide basic information on your title, research questions and data source(s). **We will post the form by class time on 2020-03-19.**
+You will be filling out a project 2 proposal Google Form (due date is 2020-04-01 at the time specified on the [Course Calendar](https://github.com/THOMASELOVE/2020-432/blob/master/calendar.md)) to provide basic information on your title, research questions and data source(s). **We will post the form by class time on 2020-03-19.**
 
 On the basis of this submission, we will either approve or reject your Project 2 idea. Once we approve your idea, you’re all set.
 
 - If we cannot approve your proposal, we’ll tell you why, and you’ll then edit your response and re-submit.
 - The main reason why we don’t approve projects is that we don’t understand your description of your data set, or how your research question can be addressed using your data set - so focus on making those descriptions and questions as clear as possible.
 - If you commit in the Proposal Google Form to working with a partner, we will generally expect you to maintain that approach through the entire Project, barring extraordinary circumstances. If a change is required, email Dr. Love as soon as possible.
+- **Everyone** needs to submit the Google Form on time, including both members of a partnership. You and your partner should give identical answers to the questions where that is appropriate.
 
 ## Advice on Developing a Research Question
 
@@ -34,6 +37,17 @@ Jeff Leek, in his book [How to be a Modern Scientist](https://leanpub.com/modern
 - that you want to work on.
 
 I’ll add that your research question needs to be reasonable and plausible given the constraints on your time and energy. This is the time to develop something that can work in this setting, not try to boil the ocean. 
+
+To help guide your thinking, here are seven lightly edited successful research questions (*in your submission, you'd have to include more specific information where I've used parentheses and italics*) from last year's projects...
+
+1. How effectively can we predict whether a county is in the upper third vs. lower third of violent crime rates based on that county's drug overdose rate, race-ethnicity mix, household income and educational attainment?
+2. Do patients (*with this diagnosis*) receiving (*treatment A, B or C*) exhibit meaningfully different survival rates, after adjusting for (*the presence or absence of several genetic mutations*) and (*several variables related to their clinical history*)?
+3. How effectively can we predict the number of days in the past 30 where a person with a diabetes diagnosis was in poor physical health based on that person's age, sex, race-ethnicity, and (several measures related to social determinants of health)?
+4. Does the amount of public transit available (buses and trains per square mile) provide useful information when predicting a city's prevalence of adults receiving primary care within the past year, afer adjusting for (specified covariates)? 
+5. What can a model tell us about how hospital efficiency of care (a composite measure incorporating information from ER wait times, purchasing, and percent of personnel who receive the flu vaccine) and hygiene and contamination concerns (including rates of staph infection, C diff, and sepsis/blood infections) are associated with rates of post-surgery complications after serious cardiac events?
+6. Can neuronal activity (captured as new activation, sustained activity, or inactive) be predicted effectively from other cell characteristics like age, RNA production, chromatin relaxation, spatial position, and sex?
+7. How strong is the association between marijuana exposure and depression among females ages 20-45 participating in NHANES 2015-16 after adjusting for age, sleep hours, annual family income, health insurance coverage, and number of kids who are 5-year-old or younger in the household?
+
 
 ## Suggested Data Sources
 
