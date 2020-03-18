@@ -6,7 +6,7 @@
 
 1. The Project 2 Proposal Google Form, due 2020-04-01.
 2. The Main Project 2 Document (which includes R Markdown and HTML files, plus an tidied .Rds file), due 2020-05-04.
-3. The Project 2 (pre-recorded) Video Presentation, due 2020-05-04.
+3. The Project 2 (recorded) Video Presentation, due 2020-05-04.
 4. The End-of-Term Google Form, also due 2020-05-04.
 
 -----------
@@ -180,12 +180,40 @@ Here, you will include the R session information, using `sessioninfo::session_in
 
 -----------
 
+# The Project 2 (Recorded) Video Presentation
+
+This is a short pre-recorded video presentation where you display and discuss whatever you feel are the most important parts of Sections 6 and 7 of your document. The deadline is also 2020-05-04, submitted via Canvas.
+
+- **Working Alone?** Your presentation should be 3-4 minutes in length.
+- **Working with a Partner?** You will provide two separate presentations (one from each of you) each of 3-4 minutes in length, along with a written note indicating which of your two presentations should be watched first. 
+
+At a minimum, your presentation should specify your research question, highlight key findings, demonstrate the model you developed, and answer the research question. 
+
+- Given the short length of the presentation, that’s probably all you’ll be able to do.
+- The first thing you will do on any recording is introduce yourself by name.
+- After that, I don’t need to be able to see your face - so it’s fine (and appropriate) to show results from a slide deck or from your portfolio. Be sure I can see and hear your video clearly.
+- If you use **slides** rather than your main document in your presentation, please submit them via Canvas as well so that I can follow along.
 
 -----------
 
-# Additional Advice for the Proposal
+# The End-of-Term Google Form
 
+You will complete an end-of-term Google Form also due 2020-05-04, where you will be ...
 
+1. asked to summarize the key finding of your study briefly in your own well-chosen set of 50 or fewer words, and 
+2. asked about the most important thing you’ve learned in 432, 
+3. asked about the next step you’re most eager to take in developing yourself as a data scientist, and 
+4. asked about the most important piece of advice you wished you’d heard when starting the 431-432 sequence. 
 
+If you’re working as a pair, each of you must submit the end-of-term Google Form separately. We will post the end-of-term Google Form by mid-April.
 
+-----------
+
+# Grading Project 2
+
+All students who complete all Project 2 elements on time, while attending to each of the requirements listed above will earn an A grade on Project 2.
+
+# Questions?
+
+Questions about Project 2 should be directed to `431-help`.
 
