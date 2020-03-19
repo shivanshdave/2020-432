@@ -18,7 +18,8 @@ Slides in PDF | Slides in R Markdown | Need Help?
 ------------: | :------------------: | ---------------------------
 [Class 15 Slides](https://github.com/THOMASELOVE/2020-432/blob/master/classes/class15/432_2020_slides15.pdf) | [Class 15 RMD file](https://github.com/THOMASELOVE/2020-432/blob/master/classes/class15/432_2020_slides15.Rmd) | Email **431-help at case dot edu**
 
-There is a [Minute Paper after Class 15](http://bit.ly/432-2020-minute-15). Please complete it after class and by noon 2020-03-20.
+- There is a [Minute Paper after Class 15](http://bit.ly/432-2020-minute-15). Please complete it after class and by noon 2020-03-20.
+- [Here is the Google Doc](https://docs.google.com/document/d/1T4NWe46wTDPsJ2CXX9yDumfR3ogv2f4iiR9aXcFIsog/edit?usp=sharing) that I am using during today's class (as needed) to take notes. If something happens in Zoom preventing you from using the chat feature, or you cannot get my attention, try [typing into the document](https://docs.google.com/document/d/1T4NWe46wTDPsJ2CXX9yDumfR3ogv2f4iiR9aXcFIsog/edit?usp=sharing).
 
 ## Virtual TA Office Hours via Zoom
 
