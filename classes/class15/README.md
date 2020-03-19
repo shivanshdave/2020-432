@@ -67,9 +67,9 @@ I also haven't gotten around to [updating the Course Notes](https://thomaselove.
 
 ## One Last Thing
 
-Good luck to you all in these new circumstances, and as we say around my house:
+Good luck to you all in these new circumstances, and as we say a lot around my house these days:
 
-> Now's a good time to wash your hands.
+> Now would be a good time to wash your hands.
 
 
 
