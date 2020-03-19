@@ -18,7 +18,7 @@ Slides in PDF | Slides in R Markdown | Need Help?
 ------------: | :------------------: | ---------------------------
 [Class 15 Slides](https://github.com/THOMASELOVE/2020-432/blob/master/classes/class15/432_2020_slides15.pdf) | [Class 15 RMD file](https://github.com/THOMASELOVE/2020-432/blob/master/classes/class15/432_2020_slides15.Rmd) | Email **431-help at case dot edu**
 
-There is a [Minute Paper after Class 15](http://bit.ly/432-2020-minute-15). Please complete it after class and by noon 2020-03-20 if possible, please.
+There is a [Minute Paper after Class 15](http://bit.ly/432-2020-minute-15). Please complete it after class and by noon 2020-03-20.
 
 ## Virtual TA Office Hours via Zoom
 
@@ -33,12 +33,12 @@ The schedule for TA office hours is provided [in this section of the Course Cale
 
 1. I've updated the [Course Calendar](https://github.com/THOMASELOVE/2020-432/blob/master/calendar.md).
     - The next two items are the [Minute Paper after Class 15] (by tomorrow at noon) and [Homework 4](https://github.com/THOMASELOVE/2020-432/tree/master/homework/hw04) for 2020-03-25.
-    - There will be four more Minute Papers this semester, as indicated there, but the deadline is just to let Dr. Love have a time when he can write up a response.
+    - There will be four more Minute Papers this semester. For each, there is a deadline, after which Dr. Love will craft a response, but the submission of Minute Papers is now optional.
 2. I've added detailed [Hints for Homework 4](https://github.com/THOMASELOVE/2020-432/blob/master/homework/hw04/homework4_hints_2020-03-16.pdf) and relaxed the deadline for [Homework 4](https://github.com/THOMASELOVE/2020-432/tree/master/homework/hw04) to 2020-03-25.
     - If you want to request a regrade on Homeworks 1-4, [the form is now available](http://bit.ly/432-2020-homework-regrade-requests) through 2020-04-24.
 3. Complete [Project 2 instructions](https://github.com/THOMASELOVE/2020-432/tree/master/projects/project2) are now available, as is the [Proposal Google Form](http://bit.ly/432-2020-project2-proposal-form) that's due April 1. 
     - The [other three deliverables](https://github.com/THOMASELOVE/2020-432/tree/master/projects/project2) for Project 2 are now due on 2020-05-04. 
-    - I've scaled back the requirements quite a bit, and provided more guidance than I'd originally planned.
+    - The document is long, so this may not be obvious, but in fact I've scaled back the requirements quite a bit, and provided more guidance than I'd originally planned. I've also changed the grading structure for this project.
 4. [Quiz 2](https://github.com/THOMASELOVE/2020-432/tree/master/quizzes/quiz2) has been pushed back so that you'll receive it 2020-04-03 and it's due on 2020-04-20. 
     - I've [provided some information](https://github.com/THOMASELOVE/2020-432/tree/master/quizzes/quiz2) about what will be involved in Quiz 2.
     - There will not be a Quiz 3.
