@@ -33,7 +33,7 @@ The schedule for TA office hours is provided [in this section of the Course Cale
 
 1. I've updated the [Course Calendar](https://github.com/THOMASELOVE/2020-432/blob/master/calendar.md).
     - The next two items are the [Minute Paper after Class 15](http://bit.ly/432-2020-minute-15) (by tomorrow at noon) and [Homework 4](https://github.com/THOMASELOVE/2020-432/tree/master/homework/hw04) for 2020-03-25.
-    - There will be four more Minute Papers this semester. For each, there is a deadline, after which Dr. Love will craft a response, but the submission of Minute Papers is now optional.
+    - Submission of Minute Papers is now optional. It can only help you, and us, to do them. Dr. Love will craft a response at some point after the "deadline."
 2. I've added detailed [Hints for Homework 4](https://github.com/THOMASELOVE/2020-432/blob/master/homework/hw04/homework4_hints_2020-03-16.pdf) and relaxed the deadline for [Homework 4](https://github.com/THOMASELOVE/2020-432/tree/master/homework/hw04) to 2020-03-25.
     - If you want to request a regrade on Homeworks 1-4, [the form is now available](http://bit.ly/432-2020-homework-regrade-requests) through 2020-04-24.
 3. Complete [Project 2 instructions](https://github.com/THOMASELOVE/2020-432/tree/master/projects/project2) are now available, as is the [Proposal Google Form](http://bit.ly/432-2020-project2-proposal-form) that's due April 1. 
