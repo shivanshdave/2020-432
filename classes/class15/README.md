@@ -10,7 +10,7 @@
 
 ## Plans for the Rest of the Semester
 
-Here is a [Google Doc](http://bit.ly/432-next-steps) containing (and amplifying on) the emails I've sent this week.
+Here is a [Google Doc](http://bit.ly/432-next-steps) containing (and amplifying on) the emails I've sent this week. I won't update it again after noon today.
 
 ## Today's Slides
 
