@@ -9,6 +9,7 @@
 - Centers for Disease Control and Prevention [Coronavirus (COVID-19) page](https://www.cdc.gov/coronavirus/2019-ncov/index.html)
     - Data on [Cases in the U.S.](https://www.cdc.gov/coronavirus/2019-ncov/cases-updates/cases-in-us.html)
 - Our World in Data: [Coronavirus Disease (COVID-19) Statistics and Research](https://ourworldindata.org/coronavirus) by Max Roser, Hannah Ritchie and Esteban Ortiz-Ospina
+- Novel Corona Virus 2019 Dataset: Day level information on covid-19 affected cases [hosted at Kaggle](https://www.kaggle.com/sudalairajkumar/novel-corona-virus-2019-dataset)
 - [The COVID Tracking project](https://covidtracking.com/)
 - Bob Winkelman and Colin Waltz
     - [Shiny App exploring US COVID-19 Data](https://rdwinkelman.shinyapps.io/US_COVID_Explorer/)
