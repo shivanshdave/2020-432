@@ -13,7 +13,9 @@
 - Bob Winkelman and Colin Waltz
     - [Shiny App exploring US COVID-19 Data](https://rdwinkelman.shinyapps.io/US_COVID_Explorer/)
     - [Exploring the Temporal Evolution of COVID-19 Caases in the US](https://rpubs.com/rdwinkelman/covid19_us_spread_gif)
+- [COVID-19 Real Time Tracker for US and Canada](https://coronavirus.1point3acres.com/en) built by first generation Chinese immigrants
 - Predictive Healthcare team at University of Pennsylvania's School of Medicine: [COVID-19 Hospital Impact Model for Epidemics](http://penn-chime.phl.io/)
+- COVID-19 modeling reports from Imperial College, UK: Report 9: [Impact of non-pharmaceutical interventions (NPIs) to reduce COVID-19 mortality and healthcare demand](https://www.imperial.ac.uk/mrc-global-infectious-disease-analysis/news--wuhan-coronavirus/)
 - Screencast by David Robinson on YouTube: [Cleaning and exploring the COVID-19 Open Research Dataset](https://www.youtube.com/watch?v=-5HYdBq_PTM)
     > I (David) show how to open and explore the CORD-19 dataset of scientific publications related to COVID-19 (coronavirus). This includes parsing json files with jsonlite, rectangling the data with tidyr's hoist and unnest_wider, and doing named entity recognition by combining tidytext with the spacyr package and scispacy models.
     - The [CORD data set is housed by Kaggle as part of a research challenge here](https://www.kaggle.com/allen-institute-for-ai/CORD-19-research-challenge).
