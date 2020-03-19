@@ -61,7 +61,7 @@ Grading on Project 1 has taken a back seat.
 
 - I completed initial portfolio review for every project, and final portfolio review for a few before things got a bit out of control. I have also reviewed a couple of the project posters. 
 - I will complete all of the remaining portfolio reviews first, then move to the posters. 
-- It's going to take quite a while, and I'll have to update you further at our next class.
+- It's going to take quite a while (at least a week) to get all of that done, and I'll have to update you further at our next class.
 
 I also haven't gotten around to [updating the Course Notes](https://thomaselove.github.io/2020-432-book/), but I will, soon.
 
