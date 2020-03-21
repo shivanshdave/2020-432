@@ -10,5 +10,16 @@ PDF of Slides | .Rmd of Slides | Need Help? | Notes during Class
 
 - Once Zoom processes this class, Dr. Love will [*link to the recordings*]
 
+## Announcements
+
+1. I revised the [Hint for Homework 4](https://github.com/THOMASELOVE/2020-432/blob/master/homework/hw04/homework4_hints_2020-03-21.pdf) on 2020-03-21 to clarify that we only use the simple imputation in Question 4 and 5, but not in the remainder of the Homework.
+
+2. To install the `countreg` package we'll need to build rootograms to visualize the results of regression models on count outcomes, type `install.packages("countreg", repos="http://R-Forge.R-project.org")` into the R Console within R Studio.
+
+3. Feedback on the Minute Paper after Class 15 will be posted when available.
+
+4. The Class Notes will be revised as soon as possible.
+
+5. Project 1 grading continues. Details will be posted.
 
 
