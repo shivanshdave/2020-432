@@ -13,7 +13,7 @@
 - [The COVID Tracking project](https://covidtracking.com/)
 - Bob Winkelman and Colin Waltz
     - [Shiny App exploring US COVID-19 Data](https://rdwinkelman.shinyapps.io/US_COVID_Explorer/)
-    - [Exploring the Temporal Evolution of COVID-19 Caases in the US](https://rpubs.com/rdwinkelman/covid19_us_spread_gif)
+    - [Exploring the Temporal Evolution of COVID-19 Cases in the US](https://rpubs.com/rdwinkelman/covid19_us_spread_gif)
 - [COVID-19 Real Time Tracker for US and Canada](https://coronavirus.1point3acres.com/en) built by first generation Chinese immigrants
 - Predictive Healthcare team at University of Pennsylvania's School of Medicine: [COVID-19 Hospital Impact Model for Epidemics](http://penn-chime.phl.io/)
 - COVID-19 modeling reports from Imperial College, UK: Report 9: [Impact of non-pharmaceutical interventions (NPIs) to reduce COVID-19 mortality and healthcare demand](https://www.imperial.ac.uk/mrc-global-infectious-disease-analysis/news--wuhan-coronavirus/)
