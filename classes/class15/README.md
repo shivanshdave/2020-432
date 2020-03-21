@@ -12,14 +12,15 @@
 
 Here is a [Google Doc](http://bit.ly/432-next-steps) containing (and amplifying on) the emails I've sent this week. I won't update it again after noon today.
 
-## Today's Slides
+## Today's Materials
 
-Slides in PDF | Slides in R Markdown | Need Help? | Links for class recordings
-------------: | :------------------: | --------------------------- | ------------------------
-[Class 15 Slides](https://github.com/THOMASELOVE/2020-432/blob/master/classes/class15/432_2020_slides15.pdf) | [Class 15 RMD file](https://github.com/THOMASELOVE/2020-432/blob/master/classes/class15/432_2020_slides15.Rmd) | Email **431-help at case dot edu** | [Zoom video, audio only, chat](https://cwru.zoom.us/rec/share/7sloMerV6EpIGq_oywLcY-kMA7X0X6a80CAervoPykzUaspmFA5rtyXt8WLFa-XX?startTime=1584637216000)
+PDF of Slides | .Rmd of Slides | Need Help? | Notes during Class
+------------: | :------------------: | --------------------------- | :------------------------:
+[Class 16 Slides](https://github.com/THOMASELOVE/2020-432/blob/master/classes/class15/432_2020_slides15.pdf) | [Class 16 RMD](https://github.com/THOMASELOVE/2020-432/blob/master/classes/class15/432_2020_slides15.Rmd) | Email **431-help at case dot edu** or attend [TA office hours](https://github.com/THOMASELOVE/2020-432/blob/master/calendar.md#ta-office-hours) | [Google Doc](https://docs.google.com/document/d/1T4NWe46wTDPsJ2CXX9yDumfR3ogv2f4iiR9aXcFIsog/edit?usp=sharing)
 
-- There is a [Minute Paper after Class 15](http://bit.ly/432-2020-minute-15). Please complete it after class and by noon 2020-03-20.
-- [Here is the Google Doc](https://docs.google.com/document/d/1T4NWe46wTDPsJ2CXX9yDumfR3ogv2f4iiR9aXcFIsog/edit?usp=sharing) that I am using during today's class (as needed) to take notes. If something happens in Zoom preventing you from using the chat feature, or you cannot get my attention, try [typing into the document](https://docs.google.com/document/d/1T4NWe46wTDPsJ2CXX9yDumfR3ogv2f4iiR9aXcFIsog/edit?usp=sharing).
+- Zoom has processed this class. [Obtain the video recording, audio-only recording and chat here]((https://cwru.zoom.us/rec/share/7sloMerV6EpIGq_oywLcY-kMA7X0X6a80CAervoPykzUaspmFA5rtyXt8WLFa-XX?startTime=1584637216000)
+
+- There is a [Minute Paper after Class 15](http://bit.ly/432-2020-minute-15). Please complete it after class and before Sunday 2020-03-22.
 
 ## Virtual TA Office Hours via Zoom
 
