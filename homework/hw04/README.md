@@ -1,7 +1,7 @@
 432 Homework 4
 ================
 
-# [Hints for Homework 4 (very important) are now available](https://github.com/THOMASELOVE/2020-432/blob/master/homework/hw04/homework4_hints_2020-03-16.pdf).
+# [Hints for Homework 4 (very important) were revised 2020-03-21](https://github.com/THOMASELOVE/2020-432/blob/master/homework/hw04/homework4_hints_2020-03-21.pdf).
 
 This version of Homework 4 was built 2020-02-28 16:09:14
 
@@ -233,6 +233,6 @@ preferred way for you to do this is:
 sessioninfo::session_info()
 ```
 
-# Again, please review the [Hints for Homework 4](https://github.com/THOMASELOVE/2020-432/blob/master/homework/hw04/homework4_hints_2020-03-16.pdf) before submitting your work.
+# Again, please review the [revised Hints for Homework 4](https://github.com/THOMASELOVE/2020-432/blob/master/homework/hw04/homework4_hints_2020-03-21.pdf) before submitting your work.
 
 ### This is the end of Homework 4.
