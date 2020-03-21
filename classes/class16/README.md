@@ -6,7 +6,7 @@ Information on connecting to class and to TA office hours via Zoom was emailed 2
 
 PDF of Slides | .Rmd of Slides | Need Help? | Notes during Class
 ------------: | :------------------: | --------------------------- | ------------------------
-[Class 16 Slides](https://github.com/THOMASELOVE/2020-432/blob/master/classes/class16/432_2020_slides16.pdf) | [Class 16 RMD file](https://github.com/THOMASELOVE/2020-432/blob/master/classes/class16/432_2020_slides16.Rmd) | Email **431-help at case dot edu** or attend [TA office hours](https://github.com/THOMASELOVE/2020-432/blob/master/calendar.md#ta-office-hours) | [Google Doc](https://docs.google.com/document/d/1VpnXK654mVLJKMnbxMyhvLSEaOwyZhO2itaMf1a3N4U/edit?usp=sharing)
+[Class 16 Slides](https://github.com/THOMASELOVE/2020-432/blob/master/classes/class16/432_2020_slides16.pdf) | [Class 16 RMD](https://github.com/THOMASELOVE/2020-432/blob/master/classes/class16/432_2020_slides16.Rmd) | Email **431-help at case dot edu** or attend [TA office hours](https://github.com/THOMASELOVE/2020-432/blob/master/calendar.md#ta-office-hours) | [Google Doc](https://docs.google.com/document/d/1VpnXK654mVLJKMnbxMyhvLSEaOwyZhO2itaMf1a3N4U/edit?usp=sharing)
 
 - When class is complete and processed by Zoom, Dr. Love will [link to Zoom's video recording, audio-only recording and chat]
 
