@@ -24,6 +24,8 @@ PDF of Slides | .Rmd of Slides | Need Help? | Notes during Class
 
 ## Upcoming Deliverables
 
+Day | Date  | Description and Deadline
+--: | ----: | ----------------------------------------------------------------------------------------------
 Wed | 03-25 | [Homework 4](https://github.com/THOMASELOVE/2020-432/tree/master/homework/hw04) due to Canvas at 5 PM. Don't miss [the revised Hints](https://github.com/THOMASELOVE/2020-432/blob/master/homework/hw04/homework4_hints_2020-03-21.pdf).
 Sat | 03-28 | Minute Paper after Class 17 deadline is 9 AM. Dr. Love will write up the feedback over the weekend.
 Wed | 04-01 | [Project 2 Proposal Google Form](http://bit.ly/432-2020-project2-proposal-form) due at Noon. [Project 2 instructions are here](https://github.com/THOMASELOVE/2020-432/tree/master/projects/project2).
