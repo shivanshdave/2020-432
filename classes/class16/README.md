@@ -22,6 +22,13 @@ PDF of Slides | .Rmd of Slides | Need Help? | Notes during Class
 
 5. Project 1 grading continues. Details will be posted.
 
+6. I've had to change the 432 Class Zoom sessions to no longer allow you to sign in before I do. 
+    - I will try to open each session at least 15 minutes before class, and I will definitely stay on the line until everyone else is gone after class. 
+    - I did this because every time someone logged in to the Class Session, on a day other than Tuesday or Thursday, or earlier than (say) 12:30 on those days, several things happened. 
+        - I received an email telling me you're logged in and waiting for me.
+        - Zoom began recording your visit and then when you logged out, Zoom wasted time and resources processing a recording of your looking around, which I couldn't delete until it finished processing. 
+        - This led to extensive delays in processing our actual class recordings, which I hope this change will alleviate. 
+
 ## Upcoming Deliverables (see the [Calendar](https://github.com/THOMASELOVE/2020-432/blob/master/calendar.md) for a complete list)
 
 Day | Date  | Description and Deadline
