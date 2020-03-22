@@ -2,35 +2,34 @@
 
 ## Today's Materials
 
-Information on connecting to class and to TA office hours via Zoom was emailed 2020-03-17. For details, [visit this link](https://github.com/THOMASELOVE/2020-432/blob/master/zoom.md).
+Information on connecting to class and to TA office hours via Zoom was emailed 2020-03-17. For details, [visit this link](https://github.com/THOMASELOVE/2020-432/blob/master/zoom.md). 
 
 PDF of Slides | .Rmd of Slides | Need Help? | Notes during Class
 ------------: | :------------------: | --------------------------- | :------------------------:
 [Class 16 Slides](https://github.com/THOMASELOVE/2020-432/blob/master/classes/class16/432_2020_slides16.pdf) | [Class 16 RMD](https://github.com/THOMASELOVE/2020-432/blob/master/classes/class16/432_2020_slides16.Rmd) | Email **431-help at case dot edu** or attend [TA office hours](https://github.com/THOMASELOVE/2020-432/blob/master/calendar.md#ta-office-hours) | [Google Doc](https://docs.google.com/document/d/1VpnXK654mVLJKMnbxMyhvLSEaOwyZhO2itaMf1a3N4U/edit?usp=sharing)
 
 - Once Zoom processes this class, Dr. Love will [**link to the recordings here**]
+- Please do not assume we know what you're going through. If you're having trouble with anything related to the course, large or small, please ask.
+- The Google Doc of Notes During Class is a place for you to communicate with us (and Dr. Love to remind himself of things) during class, especially if you cannot connect to the Zoom Chat.
 
 ## Announcements
 
 1. I revised the [Hint for Homework 4](https://github.com/THOMASELOVE/2020-432/blob/master/homework/hw04/homework4_hints_2020-03-21.pdf) on 2020-03-21 to clarify that we only use the simple imputation in Question 4 and 5, but not in the remainder of the Homework.
 
-2. To install the `countreg` package we'll need to build rootograms to visualize the results of regression models on count outcomes, type `install.packages("countreg", repos="http://R-Forge.R-project.org")` into the R Console within R Studio.
-
-3. [Feedback on the Minute Paper after Class 15](https://bit.ly/432-2020-minute-15-feedback) is now available.
+2. [Feedback on the Minute Paper after Class 15](https://bit.ly/432-2020-minute-15-feedback) is now available.
     - Thanks for responding.
     - One question I want to be sure to addresss was "... if we're presenting with a partner, are the two presentations supposed to complement each other or should they describe the same information, but in our own separate words (as if we were presenting alone)?"
      - The former. In your video presentation, we want one of you to give the first half of the full presentation, and the other to give the second half. You're not giving two different versions of the same material - you're each presenting half of the complete presentation.
 
-4. The Class Notes will be revised as soon as possible.
+3. I've had to change the 432 Class Zoom sessions to no longer allow you to sign in before I do. 
+    - I will try to open each session at about 12:45 PM, and I will stay on the line until everyone else is gone after class. I changed this to stop accidental log-ins to reduce the delay in Zoom processing the recordings.
+
+4. Chapters 19 and 20 of the [Class Notes](https://thomaselove.github.io/2020-432-book/) will appear as soon as possible.
 
 5. Project 1 grading continues. Details will be posted.
 
-6. I've had to change the 432 Class Zoom sessions to no longer allow you to sign in before I do. 
-    - I will try to open each session at least 15 minutes before class, and I will definitely stay on the line until everyone else is gone after class. 
-    - I did this because every time someone logged in to the Class Session, on a day other than Tuesday or Thursday, or earlier than (say) 12:30 on those days, several things happened. 
-        - I received an email telling me you're logged in and waiting for me.
-        - Zoom began recording your visit and then when you logged out, Zoom wasted time and resources processing a recording of your looking around, which I couldn't delete until it finished processing. 
-        - This led to extensive delays in processing our actual class recordings, which I hope this change will alleviate. 
+6. To install the `countreg` package we'll need to build rootograms to visualize the results of regression models on count outcomes, type `install.packages("countreg", repos="http://R-Forge.R-project.org")` into the R Console within R Studio.
+
 
 ## Upcoming Deliverables (see the [Calendar](https://github.com/THOMASELOVE/2020-432/blob/master/calendar.md) for a complete list)
 
