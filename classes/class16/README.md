@@ -10,7 +10,7 @@ PDF of Slides | .Rmd of Slides | Need Help? | Notes during Class
 
 - Once Zoom processes this class, Dr. Love will [**link to the recordings here**]
 - Please do not assume we know what you're going through. If you're having trouble with anything related to the course, large or small, please ask.
-- The Google Doc of Notes During Class is a place for you to communicate with us (and Dr. Love to remind himself of things) during class, especially if you cannot connect to the Zoom Chat.
+- The Google Doc of Notes During Class linked above is a place for you to communicate with Dr. Love and the rest of us (and for Dr. Love to remind himself of things) during class, especially if you cannot connect to the Zoom Chat.
 
 ## Announcements
 
