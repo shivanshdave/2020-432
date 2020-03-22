@@ -1,4 +1,4 @@
-# 432 Spring 2020 Class 15: 2020-03-19
+# 432 Spring 2020 Class 16: 2020-03-24
 
 ## Today's Materials
 
@@ -16,7 +16,10 @@ PDF of Slides | .Rmd of Slides | Need Help? | Notes during Class
 
 2. To install the `countreg` package we'll need to build rootograms to visualize the results of regression models on count outcomes, type `install.packages("countreg", repos="http://R-Forge.R-project.org")` into the R Console within R Studio.
 
-3. Feedback on the Minute Paper after Class 15 will be posted when available.
+3. [Feedback on the Minute Paper after Class 15](https://bit.ly/432-2020-minute-15-feedback) is now available.
+    - Thanks for responding.
+    - One question I want to be sure to addresss was "... if we're presenting with a partner, are the two presentations supposed to complement each other or should they describe the same information, but in our own separate words (as if we were presenting alone)?"
+     - The former. In your video presentation, we want one of you to give the first half of the full presentation, and the other to give the second half. You're not giving two different versions of the same material - you're each presenting half of the complete presentation.
 
 4. The Class Notes will be revised as soon as possible.
 
