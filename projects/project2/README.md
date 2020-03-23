@@ -251,8 +251,8 @@ The deadline for this presentation is also noon on 2020-05-04.
 
 - Your Video Presentation materials will be submitted through the `Project 2 Video Presentation goes here` link via Canvas. 
 - The Canvas link should appear on 2020-04-01, and you may submit your Presentation materials at any time before the deadline once that link is live.
-- **Working Alone?** Your presentation should be 3-4 minutes in length. Be sure your name and the date is included in your filename, as in `video_jane_smith_2020-05-04.mp4`.
-- **Working with a Partner?** One of you will provide two separate presentations (one from each of you) each of 3-4 minutes in length, along with a written note indicating which of your two presentations should be watched first. The other partner need only submit a note to Canvas indicating that their partner will submit the materials on time. Be sure the name of the person giving the presentation in each video is specified in the filename for that video.
+- **Working Alone?** Your presentation should be between 3 and 5 minutes in length. Be sure your name and the date is included in your filename, as in `video_jane_smith_2020-05-04.mp4`.
+- **Working with a Partner?** One of you will provide two separate presentations (one from each of you) each of 3-4 minutes in length, so that the total length is 6-8 minutes for your group, along with a written note indicating which of your two presentations should be watched first. The other partner need only submit a note to Canvas indicating that their partner will submit the materials on time. Be sure the name of the person giving the presentation in each video is specified in the filename for that video.
 
 At a minimum, your presentation should specify your research question, highlight key findings, demonstrate the model you developed, and answer the research question. 
 
@@ -260,7 +260,7 @@ At a minimum, your presentation should specify your research question, highlight
 - The first thing you will do on any recording is introduce yourself by name.
 - Although it's nice to see you, if possible, I don’t need to be able to see your face, so it’s fine (and appropriate) to show results from a slide deck or from your portfolio. Be sure I can see and hear your video clearly.
 - If you use **slides** or anything other than your main document HTML file in your presentation, please submit those materials via Canvas as part of your video presentation materials so that I can follow along in case it's hard to see in the video.
-- If you are working with a partner, one of you should present part of this work, and the other should present the rest, so that when I watch the two videos back-to-back, I get the experience of watching a thorough single presentation related to the same research question done by two people in different places.
+- If you are working with a partner, one of you should present the first half of your presentation, and the other should present the second half of your joint presentation, so that when I watch the two videos back-to-back, I get the experience of watching a thorough single presentation related to the same research question done by two people in different places.
 
 -----------
 
