@@ -27,7 +27,7 @@ PDF of Slides | .Rmd of Slides | Notes during Class | Need Help?
 
 5. Chapters 19 and 20 of the [Class Notes](https://thomaselove.github.io/2020-432-book/) will appear as soon as possible.
 
-6. Project 1 grading continues. Details will be posted.
+6. Project 1 grading continues. I am hoping to have grades for you all by class time Thursday. It won't be sooner than that.
 
 7. To install the `countreg` package we'll need to build rootograms to visualize the results of regression models on count outcomes, type `install.packages("countreg", repos="http://R-Forge.R-project.org")` into the R Console within R Studio.
 
