@@ -24,7 +24,7 @@ PDF of Slides | .Rmd of Slides | Notes during Class | Need Help?
     - I've also adjusted the time limit for the video presentations [in the Project 2 Instructions](https://github.com/THOMASELOVE/2020-432/blob/master/projects/project2/README.md) to give you 3-5 minutes if you're working alone, and a total of 6-8 minutes (3-4 minutes each) if you are working with a partner.
 
 4. I've had to change the 432 Class Zoom sessions to no longer allow you to sign in before I do. 
-    - I will try to open each session at about 12:45 PM, and I will stay on the line until everyone else is gone after class. I changed this to stop accidental log-ins to reduce the delay in Zoom processing the recordings.
+    - I will try to open each session at about 12:45 PM, and I will stay on the line until everyone else is gone after class. I changed this to stop accidental log-ins, and reduce the delay in Zoom processing the recordings.
 
 5. Chapters 19 and 20 of the [Class Notes](https://thomaselove.github.io/2020-432-book/) will appear as soon as possible.
 
