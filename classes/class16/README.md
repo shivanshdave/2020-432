@@ -31,6 +31,9 @@ PDF of Slides | .Rmd of Slides | Notes during Class | Need Help?
 
 7. To install the `countreg` package we'll need to build rootograms to visualize the results of regression models on count outcomes, type `install.packages("countreg", repos="http://R-Forge.R-project.org")` into the R Console within R Studio.
 
+8. I am currently more-or-less out of the "looking at COVID-19 data" business for a while, but I want to pass along [Mine Cetinkaya-Rundel's covid19-r repository](https://github.com/mine-cetinkaya-rundel/covid19-r/blob/master/README.md) gathers analyses on and representations of COVID-19 data in R.
+    - A post I found interesting: ["Ten Considerations Before You Create Another Chart About COVID-19"](https://medium.com/nightingale/ten-considerations-before-you-create-another-chart-about-covid-19-27d3bd691be8)
+
 
 ## Upcoming Deliverables (see the [Calendar](https://github.com/THOMASELOVE/2020-432/blob/master/calendar.md) for a complete list)
 
