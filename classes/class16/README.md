@@ -21,7 +21,7 @@ PDF of Slides | .Rmd of Slides | Notes during Class | Need Help?
     - Thanks for responding.
     - One question I want to be sure to addresss was "... if we're presenting with a partner, are the two presentations supposed to complement each other or should they describe the same information, but in our own separate words (as if we were presenting alone)?"
         - The former. In your video presentation, we want one of you to give the first half of the full presentation, and the other to give the second half. You're not giving two different versions of the same material - you're each presenting half of the complete presentation.
-    - I've also adjusted the time limit for the video presentations to give you up to 5 minutes each whether working alone or with a partner.
+    - I've also adjusted the time limit for the video presentations [in the Project 2 Instructions](https://github.com/THOMASELOVE/2020-432/blob/master/projects/project2/README.md) to give you 3-5 minutes if you're working alone, and a total of 6-8 minutes (3-4 minutes each) if you are working with a partner.
 
 4. I've had to change the 432 Class Zoom sessions to no longer allow you to sign in before I do. 
     - I will try to open each session at about 12:45 PM, and I will stay on the line until everyone else is gone after class. I changed this to stop accidental log-ins to reduce the delay in Zoom processing the recordings.
