@@ -16,7 +16,7 @@
     - [Exploring the Temporal Evolution of COVID-19 Cases in the US](https://rpubs.com/rdwinkelman/covid19_us_spread_gif)
 - [COVID-19 Real Time Tracker for US and Canada](https://coronavirus.1point3acres.com/en) built by first generation Chinese immigrants
 - [Mine Cetinkaya-Rundel's covid19-r repository](https://github.com/mine-cetinkaya-rundel/covid19-r/blob/master/README.md) with a collection of analyses on and representations of COVID-19 data in R.
-    - One link I found interesting is [this post on "Ten Considerations Before You Create Another Chart About COVID-19"](https://medium.com/nightingale/ten-considerations-before-you-create-another-chart-about-covid-19-27d3bd691be8)
+    - A post I found interesting: ["Ten Considerations Before You Create Another Chart About COVID-19"](https://medium.com/nightingale/ten-considerations-before-you-create-another-chart-about-covid-19-27d3bd691be8)
 - Predictive Healthcare team at University of Pennsylvania's School of Medicine: [COVID-19 Hospital Impact Model for Epidemics](http://penn-chime.phl.io/)
 - COVID-19 modeling reports from Imperial College, UK: Report 9: [Impact of non-pharmaceutical interventions (NPIs) to reduce COVID-19 mortality and healthcare demand](https://www.imperial.ac.uk/mrc-global-infectious-disease-analysis/news--wuhan-coronavirus/)
 - Screencast by David Robinson on YouTube: [Cleaning and exploring the COVID-19 Open Research Dataset](https://www.youtube.com/watch?v=-5HYdBq_PTM)
