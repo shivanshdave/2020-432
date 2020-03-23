@@ -15,7 +15,7 @@
     - [Shiny App exploring US COVID-19 Data](https://rdwinkelman.shinyapps.io/US_COVID_Explorer/)
     - [Exploring the Temporal Evolution of COVID-19 Cases in the US](https://rpubs.com/rdwinkelman/covid19_us_spread_gif)
 - [COVID-19 Real Time Tracker for US and Canada](https://coronavirus.1point3acres.com/en) built by first generation Chinese immigrants
-- [Mine Cetinkaya-Rundel's covid19-r repository](https://github.com/mine-cetinkaya-rundel/covid19-r/blob/master/README.md) with a collection of analyses on and representations of COVID-19 data in R.
+- [Mine Cetinkaya-Rundel's covid19-r repository](https://github.com/mine-cetinkaya-rundel/covid19-r/blob/master/README.md) gathers analyses on and representations of COVID-19 data in R.
     - A post I found interesting: ["Ten Considerations Before You Create Another Chart About COVID-19"](https://medium.com/nightingale/ten-considerations-before-you-create-another-chart-about-covid-19-27d3bd691be8)
 - Predictive Healthcare team at University of Pennsylvania's School of Medicine: [COVID-19 Hospital Impact Model for Epidemics](http://penn-chime.phl.io/)
 - COVID-19 modeling reports from Imperial College, UK: Report 9: [Impact of non-pharmaceutical interventions (NPIs) to reduce COVID-19 mortality and healthcare demand](https://www.imperial.ac.uk/mrc-global-infectious-disease-analysis/news--wuhan-coronavirus/)
