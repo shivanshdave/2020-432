@@ -28,10 +28,11 @@ PDF of Slides | .Rmd of Slides | Notes during Class | Need Help?
     - A student asked about the choice of transformation in Question 5, specifically why I suggest the use of the logarithm instead of the inverse square root. [I wrote a long answer](https://github.com/THOMASELOVE/2020-432/blob/master/homework/hw04/question5_discussion.md) with some generally useful advice. 
     - [TL;DR](https://www.howtogeek.com/435266/what-does-tldr-mean-and-how-do-you-use-it/)? Box-Cox point estimate isn't that critical. All models are wrong, some are useful, and the log is more useful (easier to interpret) than the inverse square root. 
 
-5. I added Chapter 19 (Regression Models for Count Outcomes) to the [Class Notes](https://thomaselove.github.io/2020-432-book).
+5. I added Chapter 19 (Regression Models for Count Outcomes) and Chapter 20 to the [Class Notes](https://thomaselove.github.io/2020-432-book).
     - [Chapter 19](https://thomaselove.github.io/2020-432-book/modeling-a-count-outcome-in-ohio-smart.html) goes into more extensive detail on the models we'll discuss today provides even more options.
     - [Chapter 19](https://thomaselove.github.io/2020-432-book/modeling-a-count-outcome-in-ohio-smart.html) doesn't cover cross-validation for models with count outcomes. That's only in today's slides.
     - I also revised Section 11.7.3 to fix a typo (replaced MSE with MAE.)
+    - [Chapter 20](https://thomaselove.github.io/2020-432-book/modeling-an-ordinal-categorical-outcome-in-ohio-smart.html) illustrates approaches for modeling ordinal multi-categorical outcomes, which will be our next topic. 
 
 6. Project 1 grading continues. I am hoping to have grades for all by the end of this week, and I'm very grateful to the TAs for helping me with the posters. Further bulletins as events warrant, but it won't be sooner than Thursday.
 
