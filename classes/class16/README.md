@@ -8,7 +8,7 @@ PDF of Slides | .Rmd of Slides | Notes during Class | Need Help?
 ------------: | :------------------: | :---------------------------: | :------------------------:
 [Class 16 Slides](https://github.com/THOMASELOVE/2020-432/blob/master/classes/class16/432_2020_slides16.pdf) | [Class 16 RMD](https://github.com/THOMASELOVE/2020-432/blob/master/classes/class16/432_2020_slides16.Rmd) | [Google Doc](https://docs.google.com/document/d/1VpnXK654mVLJKMnbxMyhvLSEaOwyZhO2itaMf1a3N4U/edit?usp=sharing) | Email **431-help at case dot edu** or attend [TA office hours](https://github.com/THOMASELOVE/2020-432/blob/master/calendar.md#ta-office-hours)
 
-- Once Zoom processes this class, Dr. Love will [**link to the recordings here**]
+- Zoom has finished its processing! [The link to the Class 16 recording is here](https://cwru.zoom.us/rec/share/_MYkcvL3qX9OQ6v9xxD-QKUBT6K0T6a8gXIX_aFYz0rVtLcAVvL8jxx-SZ5BiNld?startTime=1585069253000).
 - The [Google Doc of Notes During Class](https://docs.google.com/document/d/1VpnXK654mVLJKMnbxMyhvLSEaOwyZhO2itaMf1a3N4U/edit?usp=sharing) is a place for you to communicate with Dr. Love and the rest of us (and for Dr. Love to remind himself of things) during class, especially if you cannot connect to the Zoom Chat.
 
 ## Announcements
