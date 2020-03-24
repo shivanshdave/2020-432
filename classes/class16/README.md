@@ -26,8 +26,8 @@ PDF of Slides | .Rmd of Slides | Notes during Class | Need Help?
 
 4. I revised the [Hint for Homework 4](https://github.com/THOMASELOVE/2020-432/blob/master/homework/hw04/homework4_hints_2020-03-21.pdf) on 2020-03-21 to clarify that we only use the simple imputation in Question 4 and 5, but not in the remainder of the Homework.
 
-5. I added Chapter 19 to the [Class Notes](https://thomaselove.github.io/2020-432-book).
-    - Chapter 19 goes into more extensive detail on the models we'll discuss today and some additional options.
+5. I added Chapter 19 (Regression Models for Count Outcomes) to the [Class Notes](https://thomaselove.github.io/2020-432-book).
+    - Chapter 19 goes into more extensive detail on the models we'll discuss today provides even more options.
     - Chapter 19 doesn't cover cross-validation for models with count outcomes. That's only in today's slides.
     - I also revised Section 11.7.3 to fix a typo (replaced MSE with MAE.)
 
