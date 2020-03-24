@@ -30,7 +30,7 @@ PDF of Slides | .Rmd of Slides | Notes during Class | Need Help?
 
 6. Project 1 grading continues. I am hoping to have grades for you all by class time Thursday. It won't be sooner than that.
 
-7. To install the `countreg` package we'll need to build rootograms to visualize the results of regression models on count outcomes, type `install.packages("countreg", repos="http://R-Forge.R-project.org")` into the R Console within R Studio.
+7. To install the `countreg` package we'll use to build rootograms for count outcome model results today, type `install.packages("countreg", repos="http://R-Forge.R-project.org")` into the R Console within R Studio.
 
 8. I am trying to stay out of the "looking at COVID-19 data" business myself, but I added several things to [our resources list](https://github.com/THOMASELOVE/2020-432/blob/master/covid19resources.md) that I encourage you to look at if you're interested.
 
