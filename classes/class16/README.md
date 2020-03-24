@@ -26,9 +26,12 @@ PDF of Slides | .Rmd of Slides | Notes during Class | Need Help?
 4. I've had to change the 432 Class Zoom sessions to no longer allow you to sign in before I do. 
     - I will try to open each session at about 12:45 PM, and I will stay on the line until everyone else is gone after class. I changed this to stop accidental log-ins, and reduce the delay in Zoom processing the recordings.
 
-5. Chapters 19 and 20 of the [Class Notes](https://thomaselove.github.io/2020-432-book/) will appear as soon as possible.
+5. I added Chapter 19 to the [Class Notes](https://thomaselove.github.io/2020-432-book).
+    - Chapter 19 goes into more extensive detail on the models we'll discuss today and some additional options.
+    - Chapter 19 doesn't cover cross-validation for models with count outcomes. That's only in today's slides.
+    - I also revised Section 11.7.3 to fix a typo (replaced MSE with MAE.)
 
-6. Project 1 grading continues. I am hoping to have grades for you all by class time Thursday. It won't be sooner than that.
+6. Project 1 grading continues. I am hoping to have grades for you all by Thursday, and I'm very grateful to the TAs for helping me with the posters. Further bulletins as events warrant.
 
 7. To install the `countreg` package we'll use to build rootograms for count outcome model results today, type `install.packages("countreg", repos="http://R-Forge.R-project.org")` into the R Console within R Studio.
 
