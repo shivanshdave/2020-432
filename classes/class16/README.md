@@ -15,7 +15,8 @@ PDF of Slides | .Rmd of Slides | Notes during Class | Need Help?
 
 1. Please do not assume we know what you're going through. If you're having trouble with anything related to the course, large or small, please ask.
 
-2. I revised the [Hint for Homework 4](https://github.com/THOMASELOVE/2020-432/blob/master/homework/hw04/homework4_hints_2020-03-21.pdf) on 2020-03-21 to clarify that we only use the simple imputation in Question 4 and 5, but not in the remainder of the Homework.
+2. I've had to change the 432 Class Zoom sessions to no longer allow you to sign in before I do. 
+    - I will try to open each session at about 12:45 PM, and I will stay on the line until everyone else is gone after class. I changed this to stop accidental log-ins, and reduce the delay in Zoom processing the recordings.
 
 3. [Feedback on the Minute Paper after Class 15](https://bit.ly/432-2020-minute-15-feedback) is now available.
     - Thanks for responding.
@@ -23,15 +24,14 @@ PDF of Slides | .Rmd of Slides | Notes during Class | Need Help?
         - The former. In your video presentation, we want one of you to give the first half of the full presentation, and the other to give the second half. You're not giving two different versions of the same material - you're each presenting half of the complete presentation.
     - I've also adjusted the time limit for the video presentations [in the Project 2 Instructions](https://github.com/THOMASELOVE/2020-432/blob/master/projects/project2/README.md) to give you 3-5 minutes if you're working alone, and a total of 6-8 minutes (3-4 minutes each) if you are working with a partner.
 
-4. I've had to change the 432 Class Zoom sessions to no longer allow you to sign in before I do. 
-    - I will try to open each session at about 12:45 PM, and I will stay on the line until everyone else is gone after class. I changed this to stop accidental log-ins, and reduce the delay in Zoom processing the recordings.
+4. I revised the [Hint for Homework 4](https://github.com/THOMASELOVE/2020-432/blob/master/homework/hw04/homework4_hints_2020-03-21.pdf) on 2020-03-21 to clarify that we only use the simple imputation in Question 4 and 5, but not in the remainder of the Homework.
 
 5. I added Chapter 19 to the [Class Notes](https://thomaselove.github.io/2020-432-book).
     - Chapter 19 goes into more extensive detail on the models we'll discuss today and some additional options.
     - Chapter 19 doesn't cover cross-validation for models with count outcomes. That's only in today's slides.
     - I also revised Section 11.7.3 to fix a typo (replaced MSE with MAE.)
 
-6. Project 1 grading continues. I am hoping to have grades for you all by Thursday, and I'm very grateful to the TAs for helping me with the posters. Further bulletins as events warrant.
+6. Project 1 grading continues. I am hoping to have grades for all by the end of this week, and I'm very grateful to the TAs for helping me with the posters. Further bulletins as events warrant, but it won't be sooner than Thursday.
 
 7. To install the `countreg` package we'll use to build rootograms for count outcome model results today, type `install.packages("countreg", repos="http://R-Forge.R-project.org")` into the R Console within R Studio.
 
