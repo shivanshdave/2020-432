@@ -681,7 +681,7 @@ mosaic::favstats(~ diff, data = temp_check)
 vuong(mod_3, mod_5)
 ```
 
-There's some evidence `mod_5` (Hurdle) fits better than `mod_3` (ZIP) in our training sample.
+There's some evidence `mod_3` (ZIP) fits better than `mod_5` (Hurdle) in our training sample.
 
 # `mod_6`: Negative Binomial-Logistic Hurdle Model
 
@@ -713,8 +713,8 @@ countreg::rootogram(mod_6, max = 90,
 ```{r, echo = FALSE}
 par(mfrow = c(2,1))
 
-countreg::rootogram(mod_3, max = 90,
-                    main = "ZINB mod_3")
+countreg::rootogram(mod_4, max = 90,
+                    main = "ZINB mod_4")
 countreg::rootogram(mod_6, max = 90,
                     main = "NB-Logistic Hurdle mod_6")
 
