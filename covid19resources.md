@@ -30,4 +30,4 @@
 - My friend from graduate school, Alan Salzberg, weighs in with "[It's All About Stopping Exponential Growth](https://salthillstatistics.com/posts/59)".
 - Several posters have linked to this [Epidemic Calculator](http://gabgoh.github.io/COVID/index.html) by Gabriel Goh (and others) which lets you play around with various simulations. If you like it, great. I make no claims about its accuracy.
 - FiveThirtyEight, unsurprisingly, is producing more and more material on the [impact (politically, economically and otherwise) of the novel Coronavirus](https://fivethirtyeight.com/tag/coronavirus/).
-
+- Weichuan Dong, a spatial analyst in PQHS here at CWRU posted this [public Tableau dashboard of US state responses](https://fivethirtyeight.com/tag/coronavirus/). He'd be interested in hearing any suggestions you have - you can send them to 431-help if you like, and we'll be sure to get them to Weichuan.
