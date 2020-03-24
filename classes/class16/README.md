@@ -25,6 +25,7 @@ PDF of Slides | .Rmd of Slides | Notes during Class | Need Help?
     - I've also adjusted the time limit for the video presentations [in the Project 2 Instructions](https://github.com/THOMASELOVE/2020-432/blob/master/projects/project2/README.md) to give you 3-5 minutes if you're working alone, and a total of 6-8 minutes (3-4 minutes each) if you are working with a partner.
 
 4. I revised the [Hint for Homework 4](https://github.com/THOMASELOVE/2020-432/blob/master/homework/hw04/homework4_hints_2020-03-21.pdf) on 2020-03-21 to clarify that we only use the simple imputation in Question 4 and 5, but not in the remainder of the Homework.
+    - A student asked a question about the choice of transformation in Question 5. [I wrote a long answer](https://github.com/THOMASELOVE/2020-432/blob/master/homework/hw04/question5_discussion.md) that may interest you.
 
 5. I added Chapter 19 (Regression Models for Count Outcomes) to the [Class Notes](https://thomaselove.github.io/2020-432-book).
     - [Chapter 19](https://thomaselove.github.io/2020-432-book/modeling-a-count-outcome-in-ohio-smart.html) goes into more extensive detail on the models we'll discuss today provides even more options.
@@ -35,7 +36,7 @@ PDF of Slides | .Rmd of Slides | Notes during Class | Need Help?
 
 7. To install the `countreg` package we'll use to build rootograms for count outcome model results today, type `install.packages("countreg", repos="http://R-Forge.R-project.org")` into the R Console within R Studio.
 
-8. I am trying to stay out of the "looking at COVID-19 data" business myself, but I added several things to [our resources list](https://github.com/THOMASELOVE/2020-432/blob/master/covid19resources.md) that I encourage you to look at if you're interested.
+8. I am not deeply in the "looking at COVID-19 data" business myself, but I added several things to [our resources list](https://github.com/THOMASELOVE/2020-432/blob/master/covid19resources.md) that I encourage you to look at if you're interested.
 
 ## Upcoming Deliverables (see the [Calendar](https://github.com/THOMASELOVE/2020-432/blob/master/calendar.md) for a complete list)
 
