@@ -26,7 +26,7 @@ PDF of Slides | .Rmd of Slides | Notes during Class | Need Help?
 
 4. I revised the [Hint for Homework 4](https://github.com/THOMASELOVE/2020-432/blob/master/homework/hw04/homework4_hints_2020-03-21.pdf) on 2020-03-21 to clarify that we only use the simple imputation in Question 4 and 5, but not in the remainder of the Homework.
     - A student asked a question about the choice of transformation in Question 5, basically about why I suggest the use of the logarithm instead of the inverse square root. [I wrote a long answer](https://github.com/THOMASELOVE/2020-432/blob/master/homework/hw04/question5_discussion.md) that I hope contains some generally useful advice. 
-    - All models are wrong, some are useful, and the log is more interpretable than the inverse square root.
+    - [TL;DR](https://www.howtogeek.com/435266/what-does-tldr-mean-and-how-do-you-use-it/)? Box-Cox point estimate isn't that critical. All models are wrong, some are useful, and the log is more useful (easier to interpret) than the inverse square root. 
 
 5. I added Chapter 19 (Regression Models for Count Outcomes) to the [Class Notes](https://thomaselove.github.io/2020-432-book).
     - [Chapter 19](https://thomaselove.github.io/2020-432-book/modeling-a-count-outcome-in-ohio-smart.html) goes into more extensive detail on the models we'll discuss today provides even more options.
