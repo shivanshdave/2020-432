@@ -33,4 +33,4 @@
 - Weichuan Dong, a spatial analyst in PQHS here at CWRU posted this [public Tableau dashboard of US state responses](https://fivethirtyeight.com/tag/coronavirus/). He'd be interested in hearing any suggestions you have - you can send them to 431-help if you like, and we'll be sure to get them to Weichuan.
 - [This tweet from JD Long on 2020-03-24](https://twitter.com/CMastication/status/1242392769127157761?s=20) highlights a visualization of the outbreak by @shinyps that I agree does several things well.
 
-
+![](https://github.com/THOMASELOVE/2020-432/blob/master/classes/class16/figures/shinyps1_2020-03-23_image.PNG)
