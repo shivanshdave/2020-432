@@ -21,7 +21,7 @@ PDF of Slides | .Rmd of Slides | Notes during Class | Need Help?
 3. [Feedback on the Minute Paper after Class 15](https://bit.ly/432-2020-minute-15-feedback) is now available.
     - Thanks for responding.
     - One question I want to be sure to addresss was "... if we're presenting with a partner, are the two presentations supposed to complement each other or should they describe the same information, but in our own separate words (as if we were presenting alone)?"
-        - The former. In your video presentation, we want one of you to give the first half of the full presentation, and the other to give the second half. You're not giving two different versions of the same material - you're each presenting half of the complete presentation.
+        - The former. They should complement each other. In your video presentation, we want one of you to give the first half of the full presentation, and the other to give the second half. You're not giving two different versions of the same material - you're each presenting half of your group's complete presentation.
     - I've also adjusted the time limit for the video presentations [in the Project 2 Instructions](https://github.com/THOMASELOVE/2020-432/blob/master/projects/project2/README.md) to give you 3-5 minutes if you're working alone, and a total of 6-8 minutes (3-4 minutes each) if you are working with a partner.
 
 4. I revised the [Hint for Homework 4](https://github.com/THOMASELOVE/2020-432/blob/master/homework/hw04/homework4_hints_2020-03-21.pdf) on 2020-03-21 to clarify that we only use the simple imputation in Question 4 and 5, but not in the remainder of the Homework.
