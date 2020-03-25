@@ -62,7 +62,7 @@ the Personal Health Records data set.
     from 2012. You’ll find a [description of the study
     here](https://www.lerner.ccf.org/qhs/datasets/PHR.docx) and a
     [description of the data set
-    here](https://www.lerner.ccf.org/qhs/datasets/PHR.docx) and you’ll
+    here](https://www.lerner.ccf.org/qhs/datasets/PHRDataDictionary.docx) and you’ll
     be able to download the `phr.csv` data set once you’ve successfully
     registered.
 
