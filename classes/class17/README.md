@@ -15,20 +15,22 @@ PDF of Slides | .Rmd of Slides | Notes during Class | Need Help?
 
 1. There is a [Minute Paper after Class 17](https://bit.ly/432-2020-minute-17). Dr. Love will provide feedback if you complete this before 9 AM Sunday 2020-03-29.
 
-2. **Homework 4**: A draft ([in PDF](https://github.com/THOMASELOVE/2020-432/blob/master/homework/hw04/sketch_hw4.pdf) and [R Markdown](https://github.com/THOMASELOVE/2020-432/blob/master/homework/hw04/sketch_hw4.Rmd) of the answer sketch and rubric is available now. Grading should take about a week.
-    - We may augment the sketch and rubric next week to address some common concerns, specifically regarding alternate approaches to dealing with missingness, or the impact of small changes on the way in which multiple imputation is used.
+2. The most important upcoming deliverable is the [Project 2 Proposal Google Form](http://bit.ly/432-2020-project2-proposal-form), which is due at **noon on Wednesday 2020-04-01**. If you haven't gotten started on identifying your research question and data, please start as soon as possible.  The full [Project 2 instructions are here](https://github.com/THOMASELOVE/2020-432/tree/master/projects/project2).
 
 3. **Project 1 Grading**. Dr. Love will provide an update.
 
-4. [Homework 6](https://github.com/THOMASELOVE/2020-432/tree/master/homework/hw06) (Build Your Website with Blogdown) might be a little more inspiring if you saw [some examples of the sites built by fellow students at CWRU using blogdown](https://github.com/THOMASELOVE/2020-432/blob/master/homework/hw06/links.md).
+4. **Homework 4**: A draft ([in PDF](https://github.com/THOMASELOVE/2020-432/blob/master/homework/hw04/sketch_hw4.pdf) and [R Markdown](https://github.com/THOMASELOVE/2020-432/blob/master/homework/hw04/sketch_hw4.Rmd) of the answer sketch and rubric is available now. Grading should take about a week.
+    - We may augment the sketch and rubric next week to address some common concerns, specifically regarding alternate approaches to dealing with missingness, or the impact of small changes on the way in which multiple imputation is used.
 
-5. We'll start today's session with **Slide 70** from the [Class 16 Slides](https://github.com/THOMASELOVE/2020-432/blob/master/classes/class16/432_2020_slides16.pdf), and then move on to Class 17 materials.
+5. [Homework 6](https://github.com/THOMASELOVE/2020-432/tree/master/homework/hw06) (Build Your Website with Blogdown) might be a little more inspiring if you saw [some examples of the sites built by fellow students at CWRU using blogdown](https://github.com/THOMASELOVE/2020-432/blob/master/homework/hw06/links.md).
 
-6. We talked about hanging **rootograms** last time as a means of understanding the fit of count outcome models, like Poisson or Negative Binomial regressions. If you want some more information, a key paper is Kleiber C Zeileis A "[Visualizing Count Data Regressions Using Rootograms](https://arxiv.org/pdf/1605.01311)".
+6. We'll start today's session with **Slide 70** from the [Class 16 Slides](https://github.com/THOMASELOVE/2020-432/blob/master/classes/class16/432_2020_slides16.pdf), and then move on to Class 17 materials.
 
-7. Alison Hill gave a very interesting talk at the R Studio 2019 conference on [Making Slides for HTML with R Markdown](https://arm.rbind.io/slides/xaringan.html). There's a lot to unpack, but these are impressive tools.
+7. We talked about hanging **rootograms** last time as a means of understanding the fit of count outcome models, like Poisson or Negative Binomial regressions. If you want some more information, a key paper is Kleiber C Zeileis A "[Visualizing Count Data Regressions Using Rootograms](https://arxiv.org/pdf/1605.01311)".
 
-8. There are some new things posted on our [COVID-19 resources page](https://github.com/THOMASELOVE/2020-432/blob/master/covid19resources.md).
+8. Alison Hill gave a very interesting talk at the R Studio 2019 conference on [Making Slides for HTML with R Markdown](https://arm.rbind.io/slides/xaringan.html). There's a lot to unpack, but these are impressive tools.
+
+9. There are some new things posted on our [COVID-19 resources page](https://github.com/THOMASELOVE/2020-432/blob/master/covid19resources.md).
 
 ![](https://github.com/THOMASELOVE/2020-432/blob/master/classes/class17/figures/murray_2020-03-26.png)
 
