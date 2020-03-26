@@ -37,7 +37,7 @@
 
 - From [Ellie Murray, 2020-03-26](https://twitter.com/EpiEllie/status/1243170268568264704)
 
-![]()
+![](https://github.com/THOMASELOVE/2020-432/blob/master/classes/class17/figures/murray_2020-03-26.png)
 
 - [Cleveland Recovers](https://cleveland.recovers.org/): Cleveland Pandemic Response - COVID19 Community Hub
 - [How the Pandemic will End](https://www.theatlantic.com/health/archive/2020/03/how-will-coronavirus-end/608719/) by Ed Yong in *The Atlantic*.
