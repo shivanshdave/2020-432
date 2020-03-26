@@ -22,7 +22,8 @@ PDF of Slides | .Rmd of Slides | Notes during Class | Need Help?
 4. **Homework 4**: A draft ([in PDF](https://github.com/THOMASELOVE/2020-432/blob/master/homework/hw04/sketch_hw4.pdf) and [R Markdown](https://github.com/THOMASELOVE/2020-432/blob/master/homework/hw04/sketch_hw4.Rmd) of the answer sketch and rubric is available. Grading will take a week.
     - We may augment the sketch and rubric next week to address some common concerns, specifically regarding alternate approaches to dealing with missingness, or the impact of small changes on the way in which multiple imputation is used.
 
-5. [Homework 6](https://github.com/THOMASELOVE/2020-432/tree/master/homework/hw06) (Build Your Website with Blogdown) might be a little more inspiring if you saw [some examples of the sites built by fellow students at CWRU using blogdown](https://github.com/THOMASELOVE/2020-432/blob/master/homework/hw06/links.md).
+5. [Homework 6](https://github.com/THOMASELOVE/2020-432/tree/master/homework/hw06) (Build Your Website with Blogdown) might be a little more inspiring if you look at [some examples of the sites built by fellow students at CWRU using blogdown](https://github.com/THOMASELOVE/2020-432/blob/master/homework/hw06/links.md). 
+    - I'll do a similar thing with [Homework 5](https://github.com/THOMASELOVE/2020-432/tree/master/homework/hw05) submissions after I have more than a couple of those.
 
 6. We'll start today's session with **Slide 70** from the [Class 16 Slides](https://github.com/THOMASELOVE/2020-432/blob/master/classes/class16/432_2020_slides16.pdf), and then move on to Class 17 materials.
 
