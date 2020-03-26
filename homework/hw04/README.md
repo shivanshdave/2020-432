@@ -1,7 +1,13 @@
 432 Homework 4
 ================
 
-# [Hints for Homework 4 (very important) were revised 2020-03-21](https://github.com/THOMASELOVE/2020-432/blob/master/homework/hw04/homework4_hints_2020-03-21.pdf).
+# Post-Deadline Materials
+
+1. A draft version ([in PDF](https://github.com/THOMASELOVE/2020-432/blob/master/homework/hw04/sketch_hw4.pdf) and [R Markdown](https://github.com/THOMASELOVE/2020-432/blob/master/homework/hw04/sketch_hw4.Rmd) of the answer sketch and rubric is available now. We may augment this later to address some common concerns, specifically regarding alternate approaches to dealing with missingness, or the impact of small changes on the way in which multiple imputation is used.
+2. We anticipate that Homework 4 Grades will be available on Thursday 2020-04-02.
+
+
+## [Hints for Homework 4 (very important) were revised 2020-03-21](https://github.com/THOMASELOVE/2020-432/blob/master/homework/hw04/homework4_hints_2020-03-21.pdf).
 
 This version of Homework 4 was built 2020-02-28 16:09:14
 
