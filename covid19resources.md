@@ -32,5 +32,9 @@
 - FiveThirtyEight, unsurprisingly, is producing more and more material on the [impact (politically, economically and otherwise) of the novel Coronavirus](https://fivethirtyeight.com/tag/coronavirus/).
 - Weichuan Dong, a spatial analyst in PQHS here at CWRU posted this [public Tableau dashboard of US state responses](https://fivethirtyeight.com/tag/coronavirus/). He'd be interested in hearing any suggestions you have.
 - [This tweet from JD Long on 2020-03-24](https://twitter.com/CMastication/status/1242392769127157761?s=20) highlights a [visualization of the outbreak by @shinyps](https://twitter.com/shinyps1/status/1242324692620345345/photo/1) that I agree does several things well.
-- [Cleveland Recovers](https://cleveland.recovers.org/): Cleveland Pandemic Response - COVID19 Community Hub
 
+### Since 2020-03-24
+
+- [Cleveland Recovers](https://cleveland.recovers.org/): Cleveland Pandemic Response - COVID19 Community Hub
+- [How the Pandemic will End](https://www.theatlantic.com/health/archive/2020/03/how-will-coronavirus-end/608719/) by Ed Yong in *The Atlantic*.
+- [Trump Wants to "Reopen America." Here’s What Happens if We Do.](https://www.nytimes.com/interactive/2020/03/25/opinion/coronavirus-trump-reopen-america.html) by Nicholas Kristof and Stuart A. Thompson. Model created with Gabriel Goh, Steven De Keninck, Ashleigh Tuite and David N. Fisman, *New York Times* 2020-03-25.
