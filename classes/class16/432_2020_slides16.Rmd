@@ -761,7 +761,7 @@ bind_rows(mod_1_summary, mod_2_summary,
 vuong(mod_4, mod_6)
 ```
 
-There's some evidence `mod_4` (ZINB) fits better than `mod_6` (NB Hurdle) in our training sample.
+There's some evidence `mod_4` (ZINB) fits better than `mod_6` (NB Hurdle) in our training sample, but not to a statistically significant degree, based on the large *p* value.
 
 # Cross-Validation
 
