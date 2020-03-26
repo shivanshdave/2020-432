@@ -19,11 +19,13 @@ PDF of Slides | .Rmd of Slides | Notes during Class | Need Help?
 
 3. Project 1 Grading. Dr. Love will provide an update.
 
-4. We'll start today's session with **Slide 70** from the [Class 16 Slides](https://github.com/THOMASELOVE/2020-432/blob/master/classes/class16/432_2020_slides16.pdf), and then move on to Class 17 materials.
+4. [Homework 6](https://github.com/THOMASELOVE/2020-432/tree/master/homework/hw06) (Build Your Website with Blogdown) might be a little more inspiring if you saw [some examples of the sites built by fellow students at CWRU using blogdown](https://github.com/THOMASELOVE/2020-432/blob/master/homework/hw06/links.md).
 
-5. We talked about hanging **rootograms** last time as a means of understanding the fit of count outcome models, like Poisson or Negative Binomial regressions. If you want some more information, a key paper is Kleiber C Zeileis A "[Visualizing Count Data Regressions Using Rootograms](https://arxiv.org/pdf/1605.01311)".
+5. We'll start today's session with **Slide 70** from the [Class 16 Slides](https://github.com/THOMASELOVE/2020-432/blob/master/classes/class16/432_2020_slides16.pdf), and then move on to Class 17 materials.
 
-6. Alison Hill gave a very interesting talk at the R Studio 2019 conference on [Making Slides for HTML with R Markdown](https://arm.rbind.io/slides/xaringan.html). There's a lot to unpack, but these are impressive tools.
+6. We talked about hanging **rootograms** last time as a means of understanding the fit of count outcome models, like Poisson or Negative Binomial regressions. If you want some more information, a key paper is Kleiber C Zeileis A "[Visualizing Count Data Regressions Using Rootograms](https://arxiv.org/pdf/1605.01311)".
+
+7. Alison Hill gave a very interesting talk at the R Studio 2019 conference on [Making Slides for HTML with R Markdown](https://arm.rbind.io/slides/xaringan.html). There's a lot to unpack, but these are impressive tools.
 
 ## Improving/Augmenting Your Visualizations
 
