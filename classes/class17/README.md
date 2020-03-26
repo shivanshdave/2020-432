@@ -28,6 +28,8 @@ PDF of Slides | .Rmd of Slides | Notes during Class | Need Help?
 
 7. Alison Hill gave a very interesting talk at the R Studio 2019 conference on [Making Slides for HTML with R Markdown](https://arm.rbind.io/slides/xaringan.html). There's a lot to unpack, but these are impressive tools.
 
+8. There are some new things posted on our [COVID-19 resources page](https://github.com/THOMASELOVE/2020-432/blob/master/covid19resources.md).
+
 ## Improving/Augmenting Your Visualizations
 
 Visualizing data can be extremely difficult. Even *The Economist* has an interesting history in this regard, as Sarah Leo writes in [Mistakes, we've drawn a few](https://medium.economist.com/mistakes-weve-drawn-a-few-8cdd8a42d368?gi=79a4498d7670). 
@@ -40,3 +42,13 @@ Visualizing data can be extremely difficult. Even *The Economist* has an interes
 Of course, if you really do a good job, it's always possible you'll be rewarded [with a parade](https://twitter.com/DapperHistorian/status/1111007778469040133)!
 
 ![](https://github.com/THOMASELOVE/2020-432/blob/master/classes/class17/figures/parade.png)
+
+## Upcoming Deliverables (see the [Calendar](https://github.com/THOMASELOVE/2020-432/blob/master/calendar.md) for a complete list)
+
+Day | Date  | Description and Deadline
+:--: | ----: | ----------------------------------------------------------------------------------------------
+Sun | 03-29 | Minute Paper after Class 17 deadline is 9 AM. Dr. Love will write up the feedback on Sunday.
+Wed | 04-01 | [Project 2 Proposal Google Form](http://bit.ly/432-2020-project2-proposal-form) due at Noon. [Project 2 instructions are here](https://github.com/THOMASELOVE/2020-432/tree/master/projects/project2).
+Thu | 04-02 | Be sure you've read **ART** through Chapter 11 before Class.
+Fri | 04-03 | [Quiz 2](https://github.com/THOMASELOVE/2020-432/tree/master/quizzes/quiz2) will be made available (it's due 2020-04-20)
+
