@@ -30,6 +30,8 @@ PDF of Slides | .Rmd of Slides | Notes during Class | Need Help?
 
 8. There are some new things posted on our [COVID-19 resources page](https://github.com/THOMASELOVE/2020-432/blob/master/covid19resources.md).
 
+![](https://github.com/THOMASELOVE/2020-432/blob/master/classes/class17/figures/murray_2020-03-26.png)
+
 ## Improving/Augmenting Your Visualizations
 
 Visualizing data can be extremely difficult. Even *The Economist* has an interesting history in this regard, as Sarah Leo writes in [Mistakes, we've drawn a few](https://medium.economist.com/mistakes-weve-drawn-a-few-8cdd8a42d368?gi=79a4498d7670). 
