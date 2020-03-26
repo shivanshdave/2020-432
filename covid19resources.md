@@ -37,4 +37,5 @@
 
 - [Cleveland Recovers](https://cleveland.recovers.org/): Cleveland Pandemic Response - COVID19 Community Hub
 - [How the Pandemic will End](https://www.theatlantic.com/health/archive/2020/03/how-will-coronavirus-end/608719/) by Ed Yong in *The Atlantic*.
+- From Frank Harrell: [Resources for COVID-19 Randomized Clinical Trial Design](http://hbiostat.org/proj/covid19/)
 - [Trump Wants to "Reopen America." Here’s What Happens if We Do.](https://www.nytimes.com/interactive/2020/03/25/opinion/coronavirus-trump-reopen-america.html) by Nicholas Kristof and Stuart A. Thompson. Model created with Gabriel Goh, Steven De Keninck, Ashleigh Tuite and David N. Fisman, *New York Times* 2020-03-25.
