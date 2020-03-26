@@ -8,7 +8,7 @@ PDF of Slides | .Rmd of Slides | Notes during Class | Need Help?
 ------------: | :------------------: | :---------------------------: | :------------------------:
 [Class 17 Slides](https://github.com/THOMASELOVE/2020-432/blob/master/classes/class17/432_2020_slides17.pdf) | [Class 17 RMD](https://github.com/THOMASELOVE/2020-432/blob/master/classes/class17/432_2020_slides17.Rmd) | [Google Doc](https://docs.google.com/document/d/1VpnXK654mVLJKMnbxMyhvLSEaOwyZhO2itaMf1a3N4U/edit?usp=sharing) | Email **431-help at case dot edu** or attend [TA office hours](https://github.com/THOMASELOVE/2020-432/blob/master/calendar.md#ta-office-hours)
 
-- [The Zoom recording for Class 17 is here. Content starts at 13:40](https://cwru.zoom.us/rec/share/6ZdKPu7c1WFLa42O513weoUvQrbleaa80yAf-aUMyQ7MlaQPbw27pmaKmhQz3Ao?startTime=1585241209000).
+- [The Zoom recording for Class 17 is now available!](https://cwru.zoom.us/rec/share/6ZdKPu7c1WFLa42O513weoUvQrbleaa80yAf-aUMyQ7MlaQPbw27pmaKmhQz3Ao?startTime=1585241209000). The class starts 13 minutes and 35 seconds (roughly) into the video.
 - The [Google Doc of Notes During Class](https://docs.google.com/document/d/1VpnXK654mVLJKMnbxMyhvLSEaOwyZhO2itaMf1a3N4U/edit?usp=sharing) is a place for you to communicate with Dr. Love and the rest of us (and for Dr. Love to remind himself of things) during class, especially if you cannot connect to the Zoom Chat. I'll also leave some follow-up there after each class as needed, on things that come up in the chat, etc.
 
 ## Announcements
