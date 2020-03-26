@@ -13,7 +13,7 @@ PDF of Slides | .Rmd of Slides | Notes during Class | Need Help?
 
 ## Announcements
 
-1. There is a Minute Paper after Class 17. Details to come.
+1. There is a [Minute Paper after Class 17](https://bit.ly/432-2020-minute-17). Dr. Love will provide feedback if you complete this before 9 AM Sunday 2020-03-29.
 
 2. The Homework 4 Answer Sketch and Grading Rubric will be posted as soon as we have everyone's assignment.
 
