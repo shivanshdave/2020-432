@@ -20,10 +20,10 @@ Class 19 | 04-02 | Catchup, Be sure you've read **ART** through Chapter 11
 -- | 04-03 | [Quiz 2](https://github.com/THOMASELOVE/2020-432/tree/master/quizzes/quiz2) will be made available.
 Class 20 | 04-07 | Dealing with Time-to-event (survival) data; Kaplan-Meier curves
 Class 21 | 04-09 | Fitting Cox regression models for time-to-event data
--- | 04-10 | Minute Paper after Class 21 due at Noon.
+-- | 04-12 | Minute Paper after Class 21. Submit before 9 AM Sunday to make the feedback.
 Class 22 | 04-14 | The problems with p values, **ART** Chapters 12-13
 Class 23 | 04-16 | Retrospective Design / Thinking about Power
--- | 04-17 | Minute Paper after Class 23 due at Noon.
+-- | 04-17 | Minute Paper after Class 23. Submit before 9 AM Sunday to make the feedback.
 -- | 04-20 | [Quiz 2](https://github.com/THOMASELOVE/2020-432/tree/master/quizzes/quiz2) will be due at 10 AM.
 Class 24 | 04-21 | Dealing with Hierarchical Data: An Introduction
 Class 25 | 04-23 | Catchup and wrapup of **ART** Chapters 1-14
