@@ -15,7 +15,8 @@ PDF of Slides | .Rmd of Slides | Notes during Class | Need Help?
 
 1. There is a [Minute Paper after Class 17](https://bit.ly/432-2020-minute-17). Dr. Love will provide feedback if you complete this before 9 AM Sunday 2020-03-29.
 
-2. The Homework 4 Answer Sketch and Grading Rubric will be posted as soon as we have everyone's assignment.
+2. Homework 4: A draft version ([in PDF](https://github.com/THOMASELOVE/2020-432/blob/master/homework/hw04/sketch_hw4.pdf) and [R Markdown](https://github.com/THOMASELOVE/2020-432/blob/master/homework/hw04/sketch_hw4.Rmd) of the answer sketch and rubric is available now. 
+    - We may augment this later to address some common concerns, specifically regarding alternate approaches to dealing with missingness, or the impact of small changes on the way in which multiple imputation is used.
 
 3. Project 1 Grading. Dr. Love will provide an update.
 
