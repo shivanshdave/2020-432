@@ -2,11 +2,13 @@
 
 At some point, you will receive access to a sheet from me that summarizes our feedback on your Project 1. When that becomes available, this material will be useful to you in interpreting what you receive.
 
-# 1. Basic Summaries of Minimum Requirments that forced Dr. Love to look closely at what you did
+# 1. Basic Summaries of Minimum Requirements 
+
+Some of this stuff is here because writing it down forced Dr. Love to look closely at everything you did in the portfolios.
 
 ## "Basics Complete"
 
-This is the result of an initial minimal check. It was Yes if your project was ON TIME and included:
+This is the result of an initial "minimal check" of all on-time projects. It should Yes if your project was ON TIME and included:
 
 - R Markdown of your portfolio
 - HTML of your portfolio
