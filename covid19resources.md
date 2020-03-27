@@ -1,6 +1,6 @@
 # Data and Resources related to COVID-19
 
-## Things posted prior to 2020-03-21 by TEL
+## Things posted prior to 2020-03-27 by TEL
 
 - Health Policy Institute of Ohio: [Coronavirus (COVID-19) in Ohio Latest News](https://www.healthpolicyohio.org/coronavirus-covid-19-in-ohio/)
 - Johns Hopkins University [Coronavirus Resource Center](https://coronavirus.jhu.edu/)
@@ -22,9 +22,6 @@
 - Screencast by David Robinson on YouTube: [Cleaning and exploring the COVID-19 Open Research Dataset](https://www.youtube.com/watch?v=-5HYdBq_PTM)
     > I (David) show how to open and explore the CORD-19 dataset of scientific publications related to COVID-19 (coronavirus). This includes parsing json files with jsonlite, rectangling the data with tidyr's hoist and unnest_wider, and doing named entity recognition by combining tidytext with the spacyr package and scispacy models.
     - The [CORD data set is housed by Kaggle as part of a research challenge here](https://www.kaggle.com/allen-institute-for-ai/CORD-19-research-challenge).
-
-### Things posted since 2020-03-21
-
 - [Mine Cetinkaya-Rundel's covid19-r repository](https://github.com/mine-cetinkaya-rundel/covid19-r/blob/master/README.md) gathers analyses on and representations of COVID-19 data in R.
     - A post that Mine links to that I found interesting: ["Ten Considerations Before You Create Another Chart About COVID-19"](https://medium.com/nightingale/ten-considerations-before-you-create-another-chart-about-covid-19-27d3bd691be8)
 - My friend from graduate school, Alan Salzberg, weighs in with "[It's All About Stopping Exponential Growth](https://salthillstatistics.com/posts/59)".
@@ -32,9 +29,6 @@
 - FiveThirtyEight, unsurprisingly, is producing more and more material on the [impact (politically, economically and otherwise) of the novel Coronavirus](https://fivethirtyeight.com/tag/coronavirus/).
 - Weichuan Dong, a spatial analyst in PQHS here at CWRU posted this [public Tableau dashboard of US state responses](https://public.tableau.com/profile/weichuan.dong#!/vizhome/USGovernorsResponsesonCoronavirus/GovernorTwitter). He'd be interested in hearing any suggestions you have.
 - [This tweet from JD Long on 2020-03-24](https://twitter.com/CMastication/status/1242392769127157761?s=20) highlights a [visualization of the outbreak by @shinyps](https://twitter.com/shinyps1/status/1242324692620345345/photo/1) that I agree does several things well.
-
-### Since 2020-03-24
-
 - From [Ellie Murray, 2020-03-26](https://twitter.com/EpiEllie/status/1243170268568264704)
 
 ![](https://github.com/THOMASELOVE/2020-432/blob/master/classes/class17/figures/murray_2020-03-26.png)
@@ -44,4 +38,7 @@
 - From Frank Harrell: [Resources for COVID-19 Randomized Clinical Trial Design](http://hbiostat.org/proj/covid19/)
 - [Trump Wants to "Reopen America." Here’s What Happens if We Do.](https://www.nytimes.com/interactive/2020/03/25/opinion/coronavirus-trump-reopen-america.html) by Nicholas Kristof and Stuart A. Thompson. Model created with Gabriel Goh, Steven De Keninck, Ashleigh Tuite and David N. Fisman, *New York Times* 2020-03-25.
 
+## Since 2020-03-26
+
+- [Bill Petti's Shiny app for COVID-19 data and charts](https://billpetti.shinyapps.io/covid_19_country_state_dashboard/)
 
