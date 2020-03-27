@@ -115,6 +115,20 @@ Other sources students have used successfully in the past and that I’m happy t
 - You cannot reuse the data from your 432 Project 1, although you can use related data to answer new questions. You are welcome to reuse data you used in your 431 project to study new questions if it is otherwise suitable and you haven’t used it in Project 1 for 432.
 - Dr. Love is pretty tired of data sourced from Kaggle, from the UC Irvine Machine Learning Repository, from the Cleveland Clinic Lerner College Repository and data from data analysis competitions. Avoid those unless you can make a very strong argument for their relevance to a question of real interest to you.
 
+## What kinds of outcomes/models are appropriate for Project 2?
+
+I can think of six good choices:
+
+1. Quantitative outcome leading to linear regression
+2. Binary outcome leading to logistic regression 
+3. Count outcome leading to a Poisson or Negative Binomial regression (with or without hurdle or zero-inflation augmentations), or a tobit (censored) regression
+4. Ordered multi-categorical outcome leading to a proportional odds logistic regression
+5. Unordered multi-categorical outcome leading to a multinomial regression
+6. Survival (time-to-event) outcome with right-censoring, leading to a Cox proportional hazards regression 
+
+Any of those six would be fine, assuming the other elements of the proposal worked out well.
+
+
 -----------
 
 # The Main Project 2 Document
