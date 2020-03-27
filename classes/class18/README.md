@@ -13,18 +13,11 @@ PDF of Slides | .Rmd of Slides | Notes during Class | Need Help?
 
 ## Announcements
 
-1. From my email on Friday: a student had asked:
+1. From my email on Friday: a student asked
 
 > For our project 2, what kinds of outcomes / models are appropriate?
 
-- I can think of six good choices, and they are:
-    1. Quantitative outcome leading to linear regression
-    2. Binary outcome leading to logistic regression 
-    3. Count outcome leading to a Poisson or Negative Binomial regression (with or without hurdle or zero-inflation augmentations) - also OK to consider a censored (tobit) model here as described in the Course Notes but not in class (at least not yet)
-    4. Ordered multi-categorical outcome leading to a proportional odds logistic regression
-    5. Unordered multi-categorical outcome leading to a multinomial regression
-    6. Survival (time-to-event) outcome with right-censoring, leading to a Cox proportional hazards regression (will be discussed but not yet discussed)
-- I can't think of another good option, but any of those six would be fine, assuming the other elements of the proposal worked out well.
+- I identified six broad types of outcomes and models [in this section of the Project 2 instructions](https://github.com/THOMASELOVE/2020-432/blob/master/projects/project2/README.md#what-kinds-of-outcomesmodels-are-appropriate-for-project-2).
 
 2. More to come.
 
