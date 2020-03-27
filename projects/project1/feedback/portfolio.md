@@ -228,4 +228,4 @@ Projects | 5 | 11 | 10 | 7 | 5
 
 - The appropriate scale is PERCENT = `3 x PORTFOLIO + 25`, and **not** `100 x (PORTFOLIO/25)`.
     - This accounts for the fact that most students turned in the proposal on time and received full marks there. 
-- The "Grade" above applies that PERCENT to our usual scale where A ranges from 85-100, B from 70-84, and below 70 is a problem.
+- The "Grade" above applied PERCENT to the scale where A ranges from 85-100, B from 70-84, and below 70 is a problem.
