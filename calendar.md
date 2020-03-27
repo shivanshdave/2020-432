@@ -14,7 +14,7 @@ Session | Date | Materials
 -- | 03-25 | [Homework 4](https://github.com/THOMASELOVE/2020-432/tree/master/homework/hw04) due to Canvas at 5 PM. Don't miss [the revised Hints](https://github.com/THOMASELOVE/2020-432/blob/master/homework/hw04/homework4_hints_2020-03-21.pdf).
 [Class 17](https://github.com/THOMASELOVE/2020-432/tree/master/classes/class17) | 03-26 | Regression on an Ordinal Multi-categorical outcome
 -- | 03-29 | [Minute Paper after Class 17](https://bit.ly/432-2020-minute-17). Submit before 9 AM Sunday to make the feedback.
-Class 18 | 03-31 | Regression on an Nominal Multi-categorical outcome
+[Class 18](https://github.com/THOMASELOVE/2020-432/tree/master/classes/class18) | 03-31 | Regression on an Nominal Multi-categorical outcome
 -- | 04-01 | [Project 2 Proposal Google Form](http://bit.ly/432-2020-project2-proposal-form) due at Noon. [Project 2 instructions are here](https://github.com/THOMASELOVE/2020-432/tree/master/projects/project2).
 Class 19 | 04-02 | Catchup, Be sure you've read **ART** through Chapter 11
 -- | 04-03 | [Quiz 2](https://github.com/THOMASELOVE/2020-432/tree/master/quizzes/quiz2) will be made available.
