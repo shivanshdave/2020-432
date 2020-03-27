@@ -41,4 +41,4 @@
 ## Since 2020-03-26
 
 - [Bill Petti's Shiny app for COVID-19 data and charts](https://billpetti.shinyapps.io/covid_19_country_state_dashboard/)
-
+- [Johns Hopkins CSSE's data repository for COVID-19](https://github.com/CSSEGISandData/COVID-19)
