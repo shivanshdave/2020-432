@@ -15,7 +15,17 @@ PDF of Slides | .Rmd of Slides | Notes during Class | Need Help?
 
 1. Details to come.
 
+## Upcoming Deliverables (see the [Calendar](https://github.com/THOMASELOVE/2020-432/blob/master/calendar.md) for a complete list)
+
+Day | Date  | Description and Deadline
+:--: | ----: | ----------------------------------------------------------------------------------------------
+Wed | 04-01 | [Project 2 Proposal Google Form](http://bit.ly/432-2020-project2-proposal-form) due at Noon. [Project 2 instructions are here](https://github.com/THOMASELOVE/2020-432/tree/master/projects/project2).
+Thu | 04-02 | Be sure you've read **ART** through Chapter 11 before Class.
+Fri | 04-03 | [Quiz 2](https://github.com/THOMASELOVE/2020-432/tree/master/quizzes/quiz2) will be made available (it's due 2020-04-20)
+
 ## One Last Thing
+
+To come.
 
 ## Cat Pictures
 
