@@ -71,6 +71,34 @@ Less than five projects loaded the following packages...
     - 1 each used macOS Catalina 10.15, macOS Catalina 10.15.1, macOS Mojave 10.14, macOS Mojave 10.14.2, macOS Mojave 10.14.4 and macOS Sierra 10.12.6
 - 1 used Ubuntu 19.10
 
+## Lines in portfolio
+
+This was, of course, mostly something I collected to force me to open all of your R Markdown files for the portfolio. In all, students produced **36,710** lines of code, just in the portfolios alone. Here's a stem and leaf plot, sort of...
+
+```
+ 3 | 65
+ 4 |
+ 5 | 35 49 55 58
+ 6 | 24 44 50 81 93
+ 7 | 29 55 82
+ 8 | 51 61 67 90 94
+ 9 | 11 15 19 35 66 98
+10 | 01 10 82 83 97
+11 | 17 35 44
+12 | 
+13 | 83 
+14 | 11 18 
+15 | 02
+16 | 
+.
+.
+.
+20 | 75
+21 | 25
+```
+
+So the mean was 966, and the standard deviation 378.
+
 # 2. Description of the Linear Regression Modeling Work (Section/Task 10)
 
 There are brief notes in the following areas, all derived from reading the Portfolio HTML document.
