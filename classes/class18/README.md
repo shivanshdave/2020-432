@@ -19,3 +19,5 @@ PDF of Slides | .Rmd of Slides | Notes during Class | Need Help?
 
 ## Cat Pictures
 
+![](https://github.com/THOMASELOVE/2020-432/blob/master/classes/class18/alexander.jpg)
+![](https://github.com/THOMASELOVE/2020-432/blob/master/classes/class18/fuzzington.jpg)
