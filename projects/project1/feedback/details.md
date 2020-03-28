@@ -1,6 +1,6 @@
 # Project 1: Explaining the Feedback Sheet
 
-On Saturday 2020-03-28, you will receive access to a document from me (via email) that summarizes our feedback on your Project 1. When that becomes available, this material will be useful to you in interpreting what you receive.
+Early in the morning of Saturday 2020-03-28, I sent you a document from me (via email) that summarizes our feedback on your Project 1. The material on this page should be useful to you in interpreting what you receive.
 
 I would very much appreciate it if you would do me one favor: I will be happy to address any of your questions about this feedback but **please wait until AFTER class on Tuesday 2020-03-31 to send any questions you have about Project 1 feedback**, please. Thanks.
 
