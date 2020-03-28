@@ -2,6 +2,8 @@
 
 On Saturday 2020-03-28, you will receive access to a document from me (via email) that summarizes our feedback on your Project 1. When that becomes available, this material will be useful to you in interpreting what you receive.
 
+I would very much appreciate it if you would do me one favor: I will be happy to address any of your questions about this feedback but **please wait until AFTER class on Tuesday 2020-03-31 to send any questions you have about Project 1 feedback**, please. Thanks.
+
 # 1. Basic Summaries of Minimum Requirements 
 
 Some of this stuff is here because writing it down forced Dr. Love to look closely at everything you did in the portfolios.
