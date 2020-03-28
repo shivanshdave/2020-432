@@ -325,17 +325,19 @@ The poster comments were written by the TAs and by Dr. Love. There's no clear in
 
 # 6. Scores
 
+- The score on the proposal was out of a possible 25 points.
+    - Successful on-time submission of the proposal got you the full 25 points.
 - The score on the portfolio was out of 25 points.
 - The score on the poster was out of 50 points.
-- The score on the proposal was also out of 25 points.
+    - Dr. Love determined the grades on the portfolio and the poster based on his overall assessment of each, independently. 
 - The overall score on the project is the sum of those three subscores, so the maximum possible score was 100 points.
+
+## Class-Wide Performance
 
 The strongest project received a score of 94.
 
 - As with the rest of the course, a grade of 85-100 should be thought of as some form of an A.
 - A grade of 70-84 should be thought of as some form of a B.
-
-## Class-Wide Performance
 
 Portfolio Score | 22 or 23 | 20 or 21 | 18 or 19 | 16 or 17 | 15 or below
 -----: | :---: | :---: | :---: | :---: | :---:  
@@ -351,3 +353,5 @@ Project 1 Score | 90-94 | 85-89 | 80-84 | 75-80 | below 75
 -----: | :---: | :---: | :---: | :---: | :---:  
 Projects | 6 | 6 | 12 | 9 | 5
 "Grade" | A | A- | B+ | B | B- or lower
+
+For details on how the Project 1 score is incorporated into your class grade at the Midterm and overall, [visit this link](http://bit.ly/432-2020-grading-plan).
