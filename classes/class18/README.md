@@ -20,8 +20,8 @@ PDF of Slides | .Rmd of Slides | Notes during Class | Need Help?
 - I identified six broad types of outcomes and models [in this section of the Project 2 instructions](https://github.com/THOMASELOVE/2020-432/blob/master/projects/project2/README.md#what-kinds-of-outcomesmodels-are-appropriate-for-project-2).
 
 2. Project 1 feedback went out to you via email on Saturday 2020-03-28.
-  - Extensive details on the Projects and that feedback [are available here](https://github.com/THOMASELOVE/2020-432/blob/master/projects/project1/feedback/details.md).
-  - Remember that the grading structure for this course is described at http://bit.ly/432-2020-grading-plan. You should now have all of the information you need to calculate your mid-term percentage and your mid-term grade based on those results.
+  - Extensive details on the Project 1 feedback and the Projects themselves [are available here](https://github.com/THOMASELOVE/2020-432/blob/master/projects/project1/feedback/details.md).
+  - Remember that the grading structure for this course is described at http://bit.ly/432-2020-grading-plan. You should now have all of the information you need to calculate your mid-term percentage and your mid-term grade.
 
 ## Upcoming Deliverables (see the [Calendar](https://github.com/THOMASELOVE/2020-432/blob/master/calendar.md) for a complete list)
 
