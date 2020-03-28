@@ -241,21 +241,113 @@ Projects | Comment
 28 | OK, and appropriate back-transformation is part of the nomogram.
 8 | Missed the opportunity to include the back-transformation to a statement about the probability of the outcome in the nomogram itself.
 
+# 4. Poster Questions
+
+The poster issues posted to the feedback sheet begin with a series of 29 questions that Dr. Love asked of himself and (in most cases) two of the TAs. Remember that the TAs only read the posters, not the portfolios. Dr. Love read both. Consensus responses are posted to the feedback sheet for these 29 items.
+
+Possible responses for questions 1-26 listed below are:
+
+- Yes, definitely.
+- Somewhat, but there are some issues.
+- No, not really.
+
+## Data Source Questions
+
+1. Are sufficient details provided for you to understand where the data come from?
+2. Is this section concise, containing no extraneous information?
+
+## Project Objectives section
+
+3. Is a question is posed for the Linear Model that you understand?
+4. Is a question is posed for the Logistic Model that you understand?
+
+## "The Data" section
+
+5. Do you have a clear understanding of who the subjects in the study are?
+6. Do you have a clear understanding of what variables are available?
+7. Is the section attractively formatted?
+
+## Linear Regression section
+
+8. Do you have a clear understanding of what the outcome is?
+9. Do you have a clear understanding of the predictors included in the final model?
+10. Do you have a clear understanding about why the final model was selected?
+11. Is there at least one useful table or graph?
+12. Is there a clear and correct description of an effect size for at least one predictor?
+13. Did the project author(s) make good decisions about what to include or exclude?
+
+## Logistic Regression section
+
+14. Do you have a clear understanding of what the outcome is?
+15. Do you have a clear understanding of the predictors included in the final model?
+16. Do you have a clear understanding about why the final model was selected?
+17. Is there at least one useful table or graph?
+18. Is there a clear and correct description of an effect size for at least one predictor?
+19. Did the project author(s) make good decisions about what to include or exclude?
+
+## Key Findings section
+
+20. Does this section clearly answer the Question about Linear Regression posed in the Objectives?]
+21. Does this section clearly answer the Question about Logistic Regression posed in the Objectives?]
+22. Does the poster provide at least one potential next step to improve the modeling or the data?]
+
+## Discussion section
+
+23. Does the discussion section clearly address... What was substantially harder or easier than you expected, and why?
+24. address... What do you wish you’d known at the start of this process that you know now, and why?
+25. address... What was the most confusing part of doing the project, and how did you get past it?
+26. address... What was the most useful thing you learned while doing the project, and why?
+
+## General Questions
+
+27. Were there formatting problems in the poster?
+    - No, the poster is beautifully formatted.
+    - Yes, but just one or two.
+    - Yes, several problems.
+
+28. Were there spelling, grammatical or typographical errors in the poster?
+    - No, the poster is essentially free of these mistakes.
+    - Yes, but just one or two.
+    - Yes, several problems.
+
+29. Which best describes the decisions made by the poster's author(s) regarding what to include and what not to include?
+    - They made generally strong decisions about what to include and what not to include.
+    - They made some mistakes, and more often they included material that was not helpful.
+    - They made some mistakes, and more often they left out things that should have been included.    
+
 # 4. Comments on the Portfolio
 
 The portfolio comments were written by Dr. Love, alone.
 
-# 5. Portfolio Score
+# 5. Comments on the Poster
 
-The score on the portfolio was out of a maximum of 25 points.
+The poster comments were written by the TAs and by Dr. Love. There's no clear indication of who wrote what. Sorry.
+
+# 6. Scores
+
+- The score on the portfolio was out of 25 points.
+- The score on the poster was out of 50 points.
+- The score on the proposal was also out of 25 points.
+- The overall score on the project is the sum of those three subscores, so the maximum possible score was 100 points.
+
+The strongest project received a score of 94.
+
+- As with the rest of the course, a grade of 85-100 should be thought of as some form of an A.
+- A grade of 70-84 should be thought of as some form of a B.
+
+## Class-Wide Performance
 
 Portfolio Score | 22 or 23 | 20 or 21 | 18 or 19 | 16 or 17 | 15 or below
 -----: | :---: | :---: | :---: | :---: | :---:  
 Projects | 5 | 11 | 10 | 7 | 5
 "Grade" | A | A- | B+ | B | B- or lower
 
-**Please** interpret your score on the portfolio in context. 
+Poster Score | 44 or 46 | 40 or 42 | 36 or 38 | 32 or 34 | 30 or below
+-----: | :---: | :---: | :---: | :---: | :---:  
+Projects | 6 | 8 | 12 | 7 | 5
+"Grade" | A | A- | B+ | B | B- or lower
 
-- The appropriate scale is PERCENT = `3 x PORTFOLIO + 25`, and **not** `100 x (PORTFOLIO/25)`.
-    - This accounts for the fact that most students turned in the proposal on time and received full marks there. 
-- The "Grade" above applied PERCENT to the scale where A ranges from 85-100, B from 70-84, and below 70 is a problem.
+Project 1 Score | 90-94 | 85-89 | 80-84 | 75-80 | below 75
+-----: | :---: | :---: | :---: | :---: | :---:  
+Projects | 6 | 6 | 12 | 9 | 5
+"Grade" | A | A- | B+ | B | B- or lower
