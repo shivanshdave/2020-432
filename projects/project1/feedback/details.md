@@ -1,6 +1,6 @@
 # Project 1: Explaining the Feedback Sheet
 
-At some point, you will receive access to a sheet from me that summarizes our feedback on your Project 1. When that becomes available, this material will be useful to you in interpreting what you receive.
+On Saturday 2020-03-28, you will receive access to a document from me (via email) that summarizes our feedback on your Project 1. When that becomes available, this material will be useful to you in interpreting what you receive.
 
 # 1. Basic Summaries of Minimum Requirements 
 
@@ -99,7 +99,7 @@ This was, of course, mostly something I collected to force me to open all of you
 
 So the mean was 966, and the standard deviation 378.
 
-# 2. Description of the Linear Regression Modeling Work (Section/Task 10)
+# 2. Description of the Linear Regression Modeling Work (Portfolio Section/Task 10)
 
 There are brief notes in the following areas, all derived from reading the Portfolio HTML document.
 
@@ -173,7 +173,7 @@ Projects | Comment
 11 | Nomogram doesn't provide a needed back-transformation to the original outcome
 9 | OK, and model did not use an outcome transformation.
 
-# 3. Description of the Logistic Regression Modeling Work (Section/Task 11)
+# 3. Description of the Logistic Regression Modeling Work (Portfolio Section/Task 11)
 
 Again, there are brief notes in the following areas, all derived from reading the Portfolio HTML document.
 
@@ -355,3 +355,7 @@ Projects | 6 | 6 | 12 | 9 | 5
 "Grade" | A | A- | B+ | B | B- or lower
 
 For details on how the Project 1 score is incorporated into your class grade at the Midterm and overall, [visit this link](http://bit.ly/432-2020-grading-plan).
+
+Thank you all for your hard work on your project.
+
+
