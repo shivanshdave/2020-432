@@ -10,6 +10,7 @@
     - What to do if you have tested positive for COVID
     - What to do if you are feeling sick but haven't been (or can't get) tested
     - What to do if you have been in contact with someone with known or suspected COVID
+- Coursera Course on "[Fighting COVID-19 with Epidemiology](https://www.coursera.org/learn/covid19-epidemiology)" starts 2020-03-31 online.
 - [Bill Petti's Shiny app for COVID-19 data and charts](https://billpetti.shinyapps.io/covid_19_country_state_dashboard/)
 - [Johns Hopkins CSSE's data repository for COVID-19](https://github.com/CSSEGISandData/COVID-19)
 - Jesse Burk-Rafel's [summary of all current COVID19 Clinical Trials](http://bit.ly/COVIDtrials) at http://bit.ly/COVIDtrials.
