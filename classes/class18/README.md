@@ -25,6 +25,11 @@ PDF of Slides | .Rmd of Slides | Notes during Class | Need Help?
 
 3. Feedback on the [Minute Paper after Class 17 is available here](http://bit.ly/432-2020-minute-17-feedback).
 
+## References from Today's Slides
+
+- https://onlinecourses.science.psu.edu/stat504/node/226
+- https://stats.idre.ucla.edu/r/dae/multinomial-logistic-regression/
+
 ## Upcoming Deliverables (see the [Calendar](https://github.com/THOMASELOVE/2020-432/blob/master/calendar.md) for a complete list)
 
 Day | Date  | Description and Deadline
