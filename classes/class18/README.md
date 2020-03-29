@@ -23,6 +23,8 @@ PDF of Slides | .Rmd of Slides | Notes during Class | Need Help?
   - Extensive details on the Project 1 feedback and the Projects themselves [are available here](https://github.com/THOMASELOVE/2020-432/blob/master/projects/project1/feedback/details.md).
   - Remember that the grading structure for this course is described at http://bit.ly/432-2020-grading-plan. You should now have all of the information you need to calculate your mid-term percentage and your mid-term grade.
 
+3. Feedback on the [Minute Paper after Class 17 is available here](http://bit.ly/432-2020-minute-17-feedback).
+
 ## Upcoming Deliverables (see the [Calendar](https://github.com/THOMASELOVE/2020-432/blob/master/calendar.md) for a complete list)
 
 Day | Date  | Description and Deadline
