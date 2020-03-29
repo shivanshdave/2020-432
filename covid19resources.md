@@ -42,3 +42,4 @@
 
 - [Bill Petti's Shiny app for COVID-19 data and charts](https://billpetti.shinyapps.io/covid_19_country_state_dashboard/)
 - [Johns Hopkins CSSE's data repository for COVID-19](https://github.com/CSSEGISandData/COVID-19)
+- [We’re Sharing Coronavirus Case Data for Every U.S. County](https://www.nytimes.com/article/coronavirus-county-data-us.html) *NY Times* 2020-03-28.
