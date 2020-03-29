@@ -40,6 +40,14 @@
 
 ## Since 2020-03-26
 
+![](https://github.com/eleanormurray/COVID_19/blob/master/5Tips_forEveryone/5Tips_English.jpg)
+
+- [COVID-19 Info Posters](https://github.com/eleanormurray/COVID_19) by Dr Ellie Murray in collaboration with Dr Benjamin Linas and the Boston Medical Center.
+    - Five Tips for Everyone
+    - What to do if you're waiting for a COVID test result
+    - What to do if you have tested positive for COVID
+    - What to do if you are feeling sick but haven't been (or can't get) tested
+    - What to do if you have been in contact with someone with known or suspected COVID
 - [Bill Petti's Shiny app for COVID-19 data and charts](https://billpetti.shinyapps.io/covid_19_country_state_dashboard/)
 - [Johns Hopkins CSSE's data repository for COVID-19](https://github.com/CSSEGISandData/COVID-19)
 - Jesse Burk-Rafel's [summary of all current COVID19 Clinical Trials](http://bit.ly/COVIDtrials) at http://bit.ly/COVIDtrials.
