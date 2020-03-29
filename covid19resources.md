@@ -42,8 +42,8 @@
 
 ![](https://github.com/eleanormurray/COVID_19/blob/master/5Tips_forEveryone/5Tips_English.jpg)
 
-- [COVID-19 Info Posters](https://github.com/eleanormurray/COVID_19) by Dr Ellie Murray in collaboration with Dr Benjamin Linas and the Boston Medical Center.
-    - Five Tips for Everyone
+- [COVID-19 Info Posters](https://github.com/eleanormurray/COVID_19) by Dr Ellie Murray in collaboration with Dr Benjamin Linas and the Boston Medical Center. In many, many languages, now.
+    - Five Tips for Everyone (shown above)
     - What to do if you're waiting for a COVID test result
     - What to do if you have tested positive for COVID
     - What to do if you are feeling sick but haven't been (or can't get) tested
