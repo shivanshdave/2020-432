@@ -22,9 +22,13 @@ PDF of Slides | .Rmd of Slides | Notes during Class | Need Help?
 2. Project 1 feedback went out to you via email on Saturday 2020-03-28.
     - Extensive details on the Project 1 feedback and the Projects themselves [are available here](https://github.com/THOMASELOVE/2020-432/blob/master/projects/project1/feedback/details.md).
     - Remember that the grading structure for this course is described at http://bit.ly/432-2020-grading-plan. You should now have all of the information you need to calculate your mid-term percentage and your mid-term grade.
-        - If you turn in a complete Quiz 2 and a complete Project 2 on time, your grade will not decrease from your mid-term grade. If you cannot turn those items in on time, contact Dr. Love (as soon as you can) and we'll work something out.
+        - If you turn in a complete Quiz 2 and a complete Project 2 on time, your grade will only improve from your mid-term grade. 
 
-3. Feedback on the [Minute Paper after Class 17 is available here](http://bit.ly/432-2020-minute-17-feedback).
+3. An important note that I want to emphasize.
+
+Thanks to COVID-19, or life in general, some of you will not be able to complete one or both of Project 2 and Quiz 2 on time. If you cannot turn those items in on time, let Dr. Love know, as soon as you can, *before* the deadline for the Quiz or the Project, and he'll pass along the alternative assignments he has created. There are separate alternative assignments (they each take an estimated 60 minutes to do) for Project 2 and Quiz 2. Just let him know which one you need, or if you need both.
+
+3.. Feedback on the [Minute Paper after Class 17 is available here](http://bit.ly/432-2020-minute-17-feedback).
     - I want to be sure I hear from each of you every week, so if you don't complete the Minute Paper, I'll be emailing you to get a reply.
 
 ## References from Today's Slides
