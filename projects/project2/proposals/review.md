@@ -3,12 +3,12 @@
 ## Approved
 
 Code | Investigator(s) | Title
----: | --------------- | ----------------------------------------------------------------------------------------------
-14 | Emily Hannon | Hantavirus Ecology Among Neotropical Mammals (unpublished data)
-15 | Logan Harper | Predicting length of stay for sarcoidosis patients using the National Hospital Discharge Survey
-16 | Vanessa Ho | County-Level Firearm Fatalities and Risky Behavior (County Health Rankings)
-25 | Anna Miller | Predicting Skipped Meals in U.S. Families using the National Health Interview Survey
-41 | Wayne Tsuang | Social determinants of influenza vaccination rates among Medicare patients (via County Health Rankings)
+:---: | --------------- | ----------------------------------------------------------------------------------------------
+14 | **Emily Hannon** | Hantavirus Ecology Among Neotropical Mammals (unpublished data)
+15 | **Logan Harper** | Predicting length of stay for sarcoidosis patients using the National Hospital Discharge Survey
+16 | **Vanessa Ho** | County-Level Firearm Fatalities and Risky Behavior (County Health Rankings)
+25 | **Anna Miller** | Predicting Skipped Meals in U.S. Families using the National Health Interview Survey
+41 | **Wayne Tsuang** | Social determinants of influenza vaccination rates among Medicare patients (via County Health Rankings)
 
 
 ## Under Review
