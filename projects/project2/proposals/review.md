@@ -22,6 +22,6 @@ Code | Investigator(s) | Title
 - SEER = Surveillance, Epidemiology and End Results program
 - TCGA = The Cancer Genome Atlas
 
-## Under Review
+## Under Review, Under Revision or Not Yet Submitted
 
-Everyone else, once they submit the Google Form.
+Everyone else.
