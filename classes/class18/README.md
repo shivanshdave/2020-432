@@ -36,8 +36,8 @@ Thanks to COVID-19, or life in general, some of you will not be able to complete
     - I want to be sure I hear from each of you every week, so if you don't complete the Minute Paper, I'll be emailing you to get a reply.
     
 5. Homework 4 grades are now posted to http://bit.ly/432-2020-grades. I'm not planning to build a revision to the [Answer Sketch](https://github.com/THOMASELOVE/2020-432/tree/master/homework/hw04) now, since the only things I really have to add are:
-    - I don't really know why some people got slightly different multiple imputation results than I did.
-    - Once I did the simple imputation, I should have used it in the Spearman rho-square plot.
+    - I don't really know why some people got slightly different multiple imputation results than I did with "the same" code, except that if you impute things in a different order, or if you convert things to factors, things can change a little. But why you got different answers with identical code on different laptops? I don't know.
+    - Once I did the simple imputation, I should have used it in the Spearman rho-square plot, but I didn't in building the Hints so I stuck with that poor decision.
 
 ## COVID-19
 
