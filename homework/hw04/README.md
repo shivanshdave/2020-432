@@ -3,7 +3,7 @@
 
 # Post-Deadline Materials
 
-1. A draft version ([in PDF](https://github.com/THOMASELOVE/2020-432/blob/master/homework/hw04/sketch_hw4.pdf) and [R Markdown](https://github.com/THOMASELOVE/2020-432/blob/master/homework/hw04/sketch_hw4.Rmd) of the answer sketch and rubric is available now. We may augment this later to address some common concerns, specifically regarding alternate approaches to dealing with missingness, or the impact of small changes on the way in which multiple imputation is used.
+1. A ([PDF](https://github.com/THOMASELOVE/2020-432/blob/master/homework/hw04/sketch_hw4.pdf) and [R Markdown](https://github.com/THOMASELOVE/2020-432/blob/master/homework/hw04/sketch_hw4.Rmd) of the answer sketch and rubric is available now. 
 2. Grades are now posted to http://bit.ly/432-2020-grades. Check your email for your HW-Code.
 
 ## [Hints for Homework 4 (very important) were revised 2020-03-21](https://github.com/THOMASELOVE/2020-432/blob/master/homework/hw04/homework4_hints_2020-03-21.pdf).
