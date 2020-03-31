@@ -578,15 +578,32 @@ gator2_fit_LS %>% group_by(food) %>%
               mean(bird), mean(other))
 ```
 
-## Turn Wide Data into Long
+```{r}
+
+```
+
+## Turn Wide Data into Long (current approach)
 
 ```{r}
-gator2_fitLSlong <- 
+gator2_fitLSlong <-
+  pivot_longer(gator2_fit_LS, 
+               cols = fish:other, 
+               names_to = "response",
+               values_to = "prob")
+
+head(gator2_fitLSlong,3)
+```
+
+
+## Turn Wide Data into Long (old approach, still in Notes)
+
+```{r}
+gator2_fitLSlong_old <- 
     gather(gator2_fit_LS, key = response, 
            value = prob, 
            fish:other, factor_key = TRUE)
 
-head(gator2_fitLSlong,3)
+head(gator2_fitLSlong_old,3)
 ```
 
 ## Graphing the Model's Response Probabilities
