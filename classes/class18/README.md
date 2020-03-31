@@ -23,9 +23,14 @@ PDF of Slides | .Rmd of Slides | Notes during Class | Need Help?
     - Extensive details on the Project 1 feedback and the Projects themselves [are available here](https://github.com/THOMASELOVE/2020-432/blob/master/projects/project1/feedback/details.md).
     - Remember that the grading structure for this course is described at http://bit.ly/432-2020-grading-plan. You should now have all of the information you need to calculate your mid-term percentage and your mid-term grade.
 
-3. An important note that I want to emphasize.
+3. An important note (updated in [the grading plan](http://bit.ly/432-2020-grading-plan)) that I want to emphasize.
 
-Thanks to COVID-19, or life in general, some of you will not be able to complete one or both of Project 2 and Quiz 2 on time. If you cannot turn those items in on time, let Dr. Love know, as soon as you can, and he'll pass along the emergency alternative assignments he has created. There are separate alternative assignments (each is capped at 60 minutes of your time) for Project 2 and Quiz 2. Just let Dr. Love know which one you need, or if you need both, as the need arises. Each of the alternate assignments will be due at noon on 2020-05-04, and can be done by you as early as tomorrow. Each requires only material we've discussed before April. Completing these assignments will be treated as sufficient for your grade to only improve from where it was at the Midterm.
+Thanks to COVID-19, or life in general, some of you will not be able to complete one or both of Project 2 and Quiz 2 on time. I would strongly prefer that you do something to finish out the semester, even if you find yourself in an impossibly difficult situation as things move forward. If you cannot turn one or both of those items in on time, let Dr. Love know, as soon as you can, and he'll pass along the emergency alternate assignments he has created. 
+
+- There are separate alternative assignments (each is capped at 60 minutes of your time) for Project 2 and Quiz 2. Just let Dr. Love know which one you need, or if you need both, as the need arises. 
+- Each of the alternate assignments will be due at noon on 2020-05-04, and can be done by you as early as tomorrow, as each requires only material we've discussed before April.
+- Completing these assignments will be treated as sufficient for your grade to only improve from where it was at the Midterm.
+- I guarantee that doing the actual assignments will improve your grade more than doing the alternates, but at least this way some improvement from the Midterm is possible even if you cannot complete the real assignments.
 
 4. Feedback on the [Minute Paper after Class 17 is available here](http://bit.ly/432-2020-minute-17-feedback).
     - I want to be sure I hear from each of you every week, so if you don't complete the Minute Paper, I'll be emailing you to get a reply.
