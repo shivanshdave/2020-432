@@ -506,7 +506,7 @@ anova(fit_SAT, fit_GLS)
 
 ```{r}
 tidy(fit_LS, exponentiate = FALSE) %>% 
-  slice(1:4) %>% kable(digits = 3)
+  slice(1:5) %>% kable(digits = 3)
 ```
 
 
