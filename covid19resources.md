@@ -16,6 +16,9 @@
 - Jesse Burk-Rafel's [summary of all current COVID19 Clinical Trials](http://bit.ly/COVIDtrials) at http://bit.ly/COVIDtrials.
     - includes Google Sheet and Infographic.
 - [We’re Sharing Coronavirus Case Data for Every U.S. County](https://www.nytimes.com/article/coronavirus-county-data-us.html) *NY Times* 2020-03-28.
+- [University of Washington COVID-19 model dashboard](https://covid19.healthdata.org/projections)
+    - "The charts show projected hospital resource use based on COVID-19 deaths."
+
 
 ## Things posted prior to 2020-03-27 by TEL
 
