@@ -3,7 +3,7 @@
 ## Approved Proposals
 
 Code | Investigator(s) | Title
----: | --------------- | ----------------------------------------------------------------------------------------------
+---: | :---: | ----------------------------------------------------------------------------------------------
 03 08 | **Fatima Asad** & **Basma Dahash** | Predicting survival in Kentucky residents with malignant colon cancer (SEER)
 14 | **Emily Hannon** | Hantavirus Ecology Among Neotropical Mammals (unpublished data)
 15 | **Logan Harper** | Predicting length of stay for sarcoidosis patients (National Hospital Discharge Survey)
