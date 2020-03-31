@@ -35,6 +35,14 @@ Thanks to COVID-19, or life in general, some of you will not be able to complete
 4. Feedback on the [Minute Paper after Class 17 is available here](http://bit.ly/432-2020-minute-17-feedback).
     - I want to be sure I hear from each of you every week, so if you don't complete the Minute Paper, I'll be emailing you to get a reply.
 
+## COVID-19
+
+There's a lot of new stuff on our [COVID-19 Resources page](https://github.com/THOMASELOVE/2020-432/blob/master/covid19resources.md).
+
+You might want to check out the latest [XKCD: Pathogen Resistance](https://xkcd.com/2287/)
+
+![](https://imgs.xkcd.com/comics/pathogen_resistance.png)
+
 ## References from Today's Slides
 
 - https://onlinecourses.science.psu.edu/stat504/node/226
@@ -48,11 +56,7 @@ Wed | 04-01 | [Project 2 Proposal Google Form](http://bit.ly/432-2020-project2-p
 Thu | 04-02 | Be sure you've read **ART** through Chapter 11 before Class.
 Fri | 04-03 | [Quiz 2](https://github.com/THOMASELOVE/2020-432/tree/master/quizzes/quiz2) will be made available (it's due 2020-04-20)
 
-## One Last Thing
-
-There's a lot of new stuff on our [COVID-19 Resources page](https://github.com/THOMASELOVE/2020-432/blob/master/covid19resources.md).
-
-## Cat Pictures
+## One Last Thing: Cat Pictures
 
 ![](https://github.com/THOMASELOVE/2020-432/blob/master/classes/class18/alexander.jpg)
 ![](https://github.com/THOMASELOVE/2020-432/blob/master/classes/class18/fuzzington.jpg)
