@@ -6,7 +6,7 @@ Code | Investigator(s) | Title
 :---: | :---: | ----------------------------------------------------------------------------------------------
 02 12 | **Ebtesam Alshehri** & **Carolyn Goldschmidt** | Investigating the impact of smoking on cognition and thalamic atrophy in Multiple Sclerosis patients
 03 08 | **Fatima Asad** & **Basma Dahash** | Predicting survival in Kentucky residents with malignant colon cancer (SEER)
-04 | **Ife Babatunde** | Influence of Non-pharmacological factors on psychiatric medication adherence
+04 | **Ife Babatunde** | Influence of Non-pharmacological factors on psychiatric medication adherence (ICPSR)
 06 26 | **Sofija Conic** & **Shayan Monabbati** | Predicting the Recurrence of Non-Small Cell Lung Cancer in TCGA Data
 07 13 | **Lauren Cruz** & **Kara Hageman** | Cardiovascular Disease Risk Factors and Cancer Diagnosis (NHANES)
 14 | **Emily Hannon** | Hantavirus Ecology Among Neotropical Mammals (unpublished data)
@@ -15,6 +15,7 @@ Code | Investigator(s) | Title
 17 | **Jason Huang** | Do people get bigger guns for safety concerns? (GSS)
 22 | **Noah Lorincz-Comi** | Predicting Clinical Response to Clozapine from Duration of Untreated Psychosis (unpublished data)
 25 | **Anna Miller** | Predicting Skipped Meals in U.S. Families (National Health Interview Survey)
+28 | **Troy Neptune** | Predicting Public Trust in Science Based on Demographics via the General Social Survey
 30 | **Jasmine Olvany** | Uncovering the target population for consumption of the arts (Amer Housing Survey)
 33 | **Vineet Punia** | News Reports and Twitter Mentions in Neurological Research
 35 | **Abigail Rippin** | Weight concerns and college performance in female Brazilian and Portuguese college students
@@ -29,6 +30,7 @@ Code | Investigator(s) | Title
 - 500C = 500 Cities Data
 - CHR = County Health Rankings
 - GSS = General Social Survey
+- ICPSR = Study archived at ICPSR
 - MIMI-III = Medical Information Mart for Intensive Care
 - SEER = Surveillance, Epidemiology and End Results program
 - TCGA = The Cancer Genome Atlas
@@ -37,6 +39,7 @@ Code | Investigator(s) | Title
 
 Code | Investigator(s) | Title
 :---: | :---: | ----------------------------------------------------------------------------------------------
+01 29 | **Hussam Alqahtani** & **Kimberly Noriega** | Predicting the Effects of Prenatal Care on Birth Weight (via ICPSR)
 05 34 | **Rebeka Bordi** & **Sangeetha Raghupathy** | Cadmium Exposure and Systolic Blood Pressure in NHANES participants 
 11 | **Farrah Gao** | Predicting the number of naps a person takes on workdays (Nat'l Sleep Foundation)
 18 | **Jazmine Kirkland** | Using Mothers’ Perceptions of Neighborhood Disorder to Explore Maternal Caretaking Abilities
@@ -45,26 +48,23 @@ Code | Investigator(s) | Title
 23 47 | **Yuxuan Luo** & **Siyu Wang** | Predicting survival in breast cancer patients using VEGF-related proteins with prognostic factors
 43 | **Vachan Vadmal** | Accident-Related Incident Rates in 500 US Cities (500C)
 
-## Google Form Received, Under Review (in order of receipt)
+## Google Form Received, Under Review
 
 Code | Investigator(s) | Title
 :---: | :---: | ----------------------------------------------------------------------------------------------
-20 | **Yufei Li** | Predicting Number of Children People Have
-48 | **Jakob Woerner** | Assessing the relationship of MPO gene mutation with Leukemia disease and demographic information
-36 | **Abby Roche** | Can volunteerism predict general happiness in US adults?
-28 | **Troy Neptune** | Predicting Public Trust in Science Based on Demographics Obtained Through the General Social Survey
-38 | **Matt Siuba** | Predicting Attitudes on Government-Funded Healthcare
-24 | **Stephanie Merlino Barr** | Differences in perception of risk in smoking and vaping nicotine among 12th graders
-01 29 | **Hussam Alqahtani** & **Kimberly Noriega** | Predicting the Effects of Prenatal Care on Birth Weight
+09 | **Shivansh Dave** | Predicting social engagement using socioeconomic conditions of aging citizens from CogEcon data
 10 | **Joshua Froess** | Predicting Depression in People Over the Age of 50
+20 | **Yufei Li** | Predicting Number of Children People Have
+24 | **Stephanie Merlino Barr** | Differences in perception of risk in smoking and vaping nicotine among 12th graders
+36 | **Abby Roche** | Can volunteerism predict general happiness in US adults?
+38 | **Matt Siuba** | Predicting Attitudes on Government-Funded Healthcare
 44 | **Rajeev Varkey** | Predicting Prediabetes in the US Based on Diet and  Social Determinants of Health
-
+48 | **Jakob Woerner** | Assessing the relationship of MPO gene mutation with Leukemia disease and demographic information
 
 ## Google Form Not Yet Received by Dr. Love
 
 Code | Investigator
 :---: | :---:
-09 | Shivansh Dave
 27 39 | Ryan Moore & Khaled Shorbaji
 39 | Claire Sonneborn
 
