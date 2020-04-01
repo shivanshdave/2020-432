@@ -5,9 +5,11 @@
 Code | Investigator(s) | Title
 :---: | :---: | ----------------------------------------------------------------------------------------------
 03 08 | **Fatima Asad** & **Basma Dahash** | Predicting survival in Kentucky residents with malignant colon cancer (SEER)
+06 26 | **Sofija Conic** & **Shayan Monabbati** | Predicting the Recurrence of Non-Small Cell Lung Cancer in TCGA Data
 14 | **Emily Hannon** | Hantavirus Ecology Among Neotropical Mammals (unpublished data)
 15 | **Logan Harper** | Predicting length of stay for sarcoidosis patients (National Hospital Discharge Survey)
 16 | **Vanessa Ho** | County-Level Firearm Fatalities and Risky Behavior (CHR)
+17 | **Jason Huang** | Do people get bigger guns for safety concerns? (GSS)
 22 | **Noah Lorincz-Comi** | Predicting Clinical Response to Clozapine from Duration of Untreated Psychosis (unpublished data)
 25 | **Anna Miller** | Predicting Skipped Meals in U.S. Families (National Health Interview Survey)
 40 42 | **Alena Sorensen** & **Emily Tyszka** | Understanding Job Satisfaction Through the Lens of Interpersonal Relationships (GSS)
