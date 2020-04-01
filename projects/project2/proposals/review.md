@@ -65,7 +65,6 @@ Code | Investigator(s) | Title
 Code | Investigator
 :---: | :---:
 09 | Shivansh Dave
-27 | Ryan Moore
-37 | Khaled Shorbaji
+27 39 | Ryan Moore & Khaled Shorbaji
 39 | Claire Sonneborn
 
