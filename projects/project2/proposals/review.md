@@ -7,6 +7,7 @@ Code | Investigator(s) | Title
 02 12 | **Ebtesam Alshehri** & **Carolyn Goldschmidt** | Investigating the impact of smoking on cognition and thalamic atrophy in Multiple Sclerosis patients
 03 08 | **Fatima Asad** & **Basma Dahash** | Predicting survival in Kentucky residents with malignant colon cancer (SEER)
 04 | **Ife Babatunde** | Influence of Non-pharmacological factors on psychiatric medication adherence (ICPSR)
+05 34 | **Rebeka Bordi** & **Sangeetha Raghupathy** | Cadmium Exposure and Systolic Blood Pressure in NHANES participants 
 06 26 | **Sofija Conic** & **Shayan Monabbati** | Predicting the Recurrence of Non-Small Cell Lung Cancer in TCGA Data
 07 13 | **Lauren Cruz** & **Kara Hageman** | Cardiovascular Disease Risk Factors and Cancer Diagnosis (NHANES)
 14 | **Emily Hannon** | Hantavirus Ecology Among Neotropical Mammals (unpublished data)
@@ -40,7 +41,7 @@ Code | Investigator(s) | Title
 Code | Investigator(s) | Title
 :---: | :---: | ----------------------------------------------------------------------------------------------
 01 29 | **Hussam Alqahtani** & **Kimberly Noriega** | Predicting the Effects of Prenatal Care on Birth Weight (via ICPSR)
-05 34 | **Rebeka Bordi** & **Sangeetha Raghupathy** | Cadmium Exposure and Systolic Blood Pressure in NHANES participants 
+09 | **Shivansh Dave** | Predicting social engagement using socioeconomic conditions of aging citizens from CogEcon data
 11 | **Farrah Gao** | Predicting the number of naps a person takes on workdays (Nat'l Sleep Foundation)
 18 | **Jazmine Kirkland** | Using Mothers’ Perceptions of Neighborhood Disorder to Explore Maternal Caretaking Abilities
 19 32 | **Ani Kumar** & **Div Patel** | Predictors of aortic valve replacement among patients undergoing balloon aortic valvuloplasty
@@ -52,7 +53,6 @@ Code | Investigator(s) | Title
 
 Code | Investigator(s) | Title
 :---: | :---: | ----------------------------------------------------------------------------------------------
-09 | **Shivansh Dave** | Predicting social engagement using socioeconomic conditions of aging citizens from CogEcon data
 10 | **Joshua Froess** | Predicting Depression in People Over the Age of 50
 20 | **Yufei Li** | Predicting Number of Children People Have
 24 | **Stephanie Merlino Barr** | Differences in perception of risk in smoking and vaping nicotine among 12th graders
