@@ -12,6 +12,7 @@ Code | Investigator(s) | Title
 17 | **Jason Huang** | Do people get bigger guns for safety concerns? (GSS)
 22 | **Noah Lorincz-Comi** | Predicting Clinical Response to Clozapine from Duration of Untreated Psychosis (unpublished data)
 25 | **Anna Miller** | Predicting Skipped Meals in U.S. Families (National Health Interview Survey)
+30 | **Jasmine Olvany** | Uncovering the target population for consumption of the arts (Amer Housing Survey)
 40 42 | **Alena Sorensen** & **Emily Tyszka** | Understanding Job Satisfaction Through the Lens of Interpersonal Relationships (GSS)
 41 | **Wayne Tsuang** | Social determinants of influenza vaccination rates among Medicare patients (CHR)
 45 | **Anastasia Vassiliou** | Interest in International Issues in the US (via GSS)
@@ -28,7 +29,6 @@ Code | Investigator(s) | Title
 
 Code | Investigator(s) | Title
 :---: | :---: | ----------------------------------------------------------------------------------------------
-30 | **Jasmine Olvany** | Uncovering the target population for consumption of the arts
 07 13 | **Lauren Cruz** & **Kara Hageman** | Cardiovascular Disease Risk Factors Association with Cancer Diagnosis 
 05 34 | **Rebeka Bordi** & **Sangeetha Raghupathy** | Cadmium Exposure and Systolic Blood Pressure in NHANES participants 
 21 31 | **Shiying Liu** & **Yiheng Pan** | Predicting patient’s organ failure rate based on the demographics and vital signs
