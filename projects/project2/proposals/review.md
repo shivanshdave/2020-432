@@ -48,18 +48,17 @@ Code | Investigator(s) | Title
 10 | **Joshua Froess** | Predicting Depression in People Over the Age of 50
 33 | **Vineet Punia** | Analysis of the newsworthiness of neurological research
 19 32 | **Ani Kumar** & **Div Patel** | Predictors of aortic valve replacement among patients undergoing balloon aortic valvuloplasty
+02 12 | **Ebtesam Alshehri** & **Carolyn Goldschmidt** | Investigating the impact of smoking on cognition and thalamic atrophy in Multiple Sclerosis patients
+44 | **Rajeev Varkey** | Predicting Prediabetes in the US Based on Diet and  Social Determinants of Health ?
 
 
-## Google Form Not Received by Dr. Love as of 11:35 AM
+## Google Form Not Yet Received by Dr. Love
 
 Code | Investigator
 :---: | :---:
-02 | Ebtesam Alshehri
 09 | Shivansh Dave
-12 | Carolyn Goldschmidt
 27 | Ryan Moore
 37 | Khaled Shorbaji
 39 | Claire Sonneborn
 43 | Vachan Vadmal
-44 | Rajeev Varkey
 
