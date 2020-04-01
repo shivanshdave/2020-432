@@ -22,16 +22,22 @@ Code | Investigator(s) | Title
 
 - CHR = County Health Rankings
 - GSS = General Social Survey
+- MIMI-III = Medical Information Mart for Intensive Care
 - SEER = Surveillance, Epidemiology and End Results program
 - TCGA = The Cancer Genome Atlas
+
+## Revise and Resubmit Requested
+
+Code | Investigator(s) | Title
+:---: | :---: | ----------------------------------------------------------------------------------------------
+07 13 | **Lauren Cruz** & **Kara Hageman** | Cardiovascular Disease Risk Factors and Cancer Diagnosis (NHANES)
+05 34 | **Rebeka Bordi** & **Sangeetha Raghupathy** | Cadmium Exposure and Systolic Blood Pressure in NHANES participants 
+21 31 | **Shiying Liu** & **Yiheng Pan** | Predicting Sequential Organ Failure Assessment (SOFA) score with demographics and vital signs (MIMI-III)
 
 ## Google Form Received, Under Review (in order of receipt)
 
 Code | Investigator(s) | Title
 :---: | :---: | ----------------------------------------------------------------------------------------------
-07 13 | **Lauren Cruz** & **Kara Hageman** | Cardiovascular Disease Risk Factors Association with Cancer Diagnosis 
-05 34 | **Rebeka Bordi** & **Sangeetha Raghupathy** | Cadmium Exposure and Systolic Blood Pressure in NHANES participants 
-21 31 | **Shiying Liu** & **Yiheng Pan** | Predicting patient’s organ failure rate based on the demographics and vital signs
 11 | **Farrah Gao** | Predicting the number of naps a person takes on workdays
 49 | **Victor Zhou** | Effect of attending Job training programs on employment status among refugees in the U.S.
 23 47 | **Yuxuan Luo** & **Siyu Wang** | Predicting survival in breast cancer patients using VEGF-related proteins with prognostic factors
