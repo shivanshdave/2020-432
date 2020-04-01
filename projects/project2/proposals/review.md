@@ -1,5 +1,7 @@
 # Project 2 Proposal Status
 
+There will be 38 proposals in all, it appears.
+
 ## Approved Proposals
 
 Code | Investigator(s) | Title
@@ -14,12 +16,15 @@ Code | Investigator(s) | Title
 15 | **Logan Harper** | Predicting length of stay for sarcoidosis patients (National Hospital Discharge Survey)
 16 | **Vanessa Ho** | County-Level Firearm Fatalities and Risky Behavior (CHR)
 17 | **Jason Huang** | Do people get bigger guns for safety concerns? (GSS)
+20 | **Yufei Li** | Predicting Number of Children People Have (GSS)
 22 | **Noah Lorincz-Comi** | Predicting Clinical Response to Clozapine from Duration of Untreated Psychosis (unpublished data)
 25 | **Anna Miller** | Predicting Skipped Meals in U.S. Families (National Health Interview Survey)
 28 | **Troy Neptune** | Predicting Public Trust in Science Based on Demographics via the General Social Survey
 30 | **Jasmine Olvany** | Uncovering the target population for consumption of the arts (Amer Housing Survey)
 33 | **Vineet Punia** | News Reports and Twitter Mentions in Neurological Research
 35 | **Abigail Rippin** | Weight concerns and college performance in female Brazilian and Portuguese college students
+36 | **Abby Roche** | Can volunteerism predict general happiness in US adults? (GSS)
+38 | **Matt Siuba** | Predicting Attitudes on Government-Funded Healthcare (GSS)
 40 42 | **Alena Sorensen** & **Emily Tyszka** | Understanding Job Satisfaction Through the Lens of Interpersonal Relationships (GSS)
 41 | **Wayne Tsuang** | Social determinants of influenza vaccination rates among Medicare patients (CHR)
 45 | **Anastasia Vassiliou** | Interest in International Issues in the US (via GSS)
@@ -31,8 +36,10 @@ Code | Investigator(s) | Title
 - 500C = 500 Cities Data
 - CHR = County Health Rankings
 - GSS = General Social Survey
+- H&RS = Health and Retirement Study
 - ICPSR = Study archived at ICPSR
 - MIMI-III = Medical Information Mart for Intensive Care
+- NHANES = National Health and Nutrition Examination Survey
 - SEER = Surveillance, Epidemiology and End Results program
 - TCGA = The Cancer Genome Atlas
 
@@ -42,23 +49,20 @@ Code | Investigator(s) | Title
 :---: | :---: | ----------------------------------------------------------------------------------------------
 01 29 | **Hussam Alqahtani** & **Kimberly Noriega** | Predicting the Effects of Prenatal Care on Birth Weight (via ICPSR)
 09 | **Shivansh Dave** | Predicting social engagement using socioeconomic conditions of aging citizens from CogEcon data
+10 | **Joshua Froess** | Predicting Depression in People Over the Age of 50 (H&RS)
 11 | **Farrah Gao** | Predicting the number of naps a person takes on workdays (Nat'l Sleep Foundation)
 18 | **Jazmine Kirkland** | Using Mothers’ Perceptions of Neighborhood Disorder to Explore Maternal Caretaking Abilities
 19 32 | **Ani Kumar** & **Div Patel** | Predictors of aortic valve replacement among patients undergoing balloon aortic valvuloplasty
 21 31 | **Shiying Liu** & **Yiheng Pan** | Predicting Sequential Organ Failure Assessment (SOFA) score with demographics and vital signs (MIMI-III)
 23 47 | **Yuxuan Luo** & **Siyu Wang** | Predicting survival in breast cancer patients using VEGF-related proteins with prognostic factors
 43 | **Vachan Vadmal** | Accident-Related Incident Rates in 500 US Cities (500C)
+44 | **Rajeev Varkey** | Predicting Prediabetes in the US Based on Diet and Social Determinants of Health (NHANES)
 
 ## Google Form Received, Under Review
 
 Code | Investigator(s) | Title
 :---: | :---: | ----------------------------------------------------------------------------------------------
-10 | **Joshua Froess** | Predicting Depression in People Over the Age of 50
-20 | **Yufei Li** | Predicting Number of Children People Have
 24 | **Stephanie Merlino Barr** | Differences in perception of risk in smoking and vaping nicotine among 12th graders
-36 | **Abby Roche** | Can volunteerism predict general happiness in US adults?
-38 | **Matt Siuba** | Predicting Attitudes on Government-Funded Healthcare
-44 | **Rajeev Varkey** | Predicting Prediabetes in the US Based on Diet and  Social Determinants of Health
 48 | **Jakob Woerner** | Assessing the relationship of MPO gene mutation with Leukemia disease and demographic information
 
 ## Google Form Not Yet Received by Dr. Love
