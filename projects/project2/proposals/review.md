@@ -6,6 +6,7 @@ Code | Investigator(s) | Title
 :---: | :---: | ----------------------------------------------------------------------------------------------
 02 12 | **Ebtesam Alshehri** & **Carolyn Goldschmidt** | Investigating the impact of smoking on cognition and thalamic atrophy in Multiple Sclerosis patients
 03 08 | **Fatima Asad** & **Basma Dahash** | Predicting survival in Kentucky residents with malignant colon cancer (SEER)
+04 | **Ife Babatunde** | Influence of Non-pharmacological factors on psychiatric medication adherence
 06 26 | **Sofija Conic** & **Shayan Monabbati** | Predicting the Recurrence of Non-Small Cell Lung Cancer in TCGA Data
 07 13 | **Lauren Cruz** & **Kara Hageman** | Cardiovascular Disease Risk Factors and Cancer Diagnosis (NHANES)
 14 | **Emily Hannon** | Hantavirus Ecology Among Neotropical Mammals (unpublished data)
@@ -39,6 +40,7 @@ Code | Investigator(s) | Title
 05 34 | **Rebeka Bordi** & **Sangeetha Raghupathy** | Cadmium Exposure and Systolic Blood Pressure in NHANES participants 
 11 | **Farrah Gao** | Predicting the number of naps a person takes on workdays (Nat'l Sleep Foundation)
 18 | **Jazmine Kirkland** | Using Mothers’ Perceptions of Neighborhood Disorder to Explore Maternal Caretaking Abilities
+19 32 | **Ani Kumar** & **Div Patel** | Predictors of aortic valve replacement among patients undergoing balloon aortic valvuloplasty
 21 31 | **Shiying Liu** & **Yiheng Pan** | Predicting Sequential Organ Failure Assessment (SOFA) score with demographics and vital signs (MIMI-III)
 23 47 | **Yuxuan Luo** & **Siyu Wang** | Predicting survival in breast cancer patients using VEGF-related proteins with prognostic factors
 43 | **Vachan Vadmal** | Accident-Related Incident Rates in 500 US Cities (500C)
@@ -50,13 +52,11 @@ Code | Investigator(s) | Title
 20 | **Yufei Li** | Predicting Number of Children People Have
 48 | **Jakob Woerner** | Assessing the relationship of MPO gene mutation with Leukemia disease and demographic information
 36 | **Abby Roche** | Can volunteerism predict general happiness in US adults?
-04 | **Ife Babatunde** | Influence of Non-pharmacological factors on psychiatric medication adherence
 28 | **Troy Neptune** | Predicting Public Trust in Science Based on Demographics Obtained Through the General Social Survey
 38 | **Matt Siuba** | Predicting Attitudes on Government-Funded Healthcare
 24 | **Stephanie Merlino Barr** | Differences in perception of risk in smoking and vaping nicotine among 12th graders
 01 29 | **Hussam Alqahtani** & **Kimberly Noriega** | Predicting the Effects of Prenatal Care on Birth Weight
 10 | **Joshua Froess** | Predicting Depression in People Over the Age of 50
-19 32 | **Ani Kumar** & **Div Patel** | Predictors of aortic valve replacement among patients undergoing balloon aortic valvuloplasty
 44 | **Rajeev Varkey** | Predicting Prediabetes in the US Based on Diet and  Social Determinants of Health
 
 
