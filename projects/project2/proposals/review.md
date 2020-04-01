@@ -21,8 +21,10 @@ Code | Investigator(s) | Title
 20 | **Yufei Li** | Predicting Number of Children People Have (GSS)
 21 31 | **Shiying Liu** & **Yiheng Pan** | Predicting Sequential Organ Failure Assessment (SOFA) score with demographics and vital signs (MIMI-III)
 22 | **Noah Lorincz-Comi** | Predicting Clinical Response to Clozapine from Duration of Untreated Psychosis (unpublished data)
+23 47 | **Yuxuan Luo** & **Siyu Wang** | Predicting survival in breast cancer patients using VEGF-related proteins with prognostic factors
 24 | **Stephanie Merlino Barr** | Differences in perception of risk in smoking and vaping nicotine among 12th graders (via ICPSR)
 25 | **Anna Miller** | Predicting Skipped Meals in U.S. Families (National Health Interview Survey)
+27 39 | **Ryan Moore & Khaled Shorbaji** | Predicting in-hospital mortality rate of elderly patients after coronary artery bypass grafting
 28 | **Troy Neptune** | Predicting Public Trust in Science Based on Demographics via the General Social Survey
 30 | **Jasmine Olvany** | Uncovering the target population for consumption of the arts (Amer Housing Survey)
 33 | **Vineet Punia** | News Reports and Twitter Mentions in Neurological Research
@@ -56,7 +58,6 @@ Code | Investigator(s) | Title
 11 | **Farrah Gao** | Predicting the number of naps a person takes on workdays (Nat'l Sleep Foundation)
 18 | **Jazmine Kirkland** | Using Mothers’ Perceptions of Neighborhood Disorder to Explore Maternal Caretaking Abilities
 19 32 | **Ani Kumar** & **Div Patel** | Predictors of aortic valve replacement among patients undergoing balloon aortic valvuloplasty
-23 47 | **Yuxuan Luo** & **Siyu Wang** | Predicting survival in breast cancer patients using VEGF-related proteins with prognostic factors
 43 | **Vachan Vadmal** | Accident-Related Incident Rates in 500 US Cities (500C)
 44 | **Rajeev Varkey** | Predicting Prediabetes in the US Based on Diet and Social Determinants of Health (NHANES)
 
@@ -64,6 +65,5 @@ Code | Investigator(s) | Title
 
 Code | Investigator
 :---: | :---:
-27 39 | Ryan Moore & Khaled Shorbaji
 39 | Claire Sonneborn
 
