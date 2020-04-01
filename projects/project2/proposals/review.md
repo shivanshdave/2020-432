@@ -23,6 +23,7 @@ Code | Investigator(s) | Title
 
 ### Abbreviations
 
+- 500C = 500 Cities Data
 - CHR = County Health Rankings
 - GSS = General Social Survey
 - MIMI-III = Medical Information Mart for Intensive Care
@@ -37,6 +38,7 @@ Code | Investigator(s) | Title
 11 | **Farrah Gao** | Predicting the number of naps a person takes on workdays (Nat'l Sleep Foundation)
 21 31 | **Shiying Liu** & **Yiheng Pan** | Predicting Sequential Organ Failure Assessment (SOFA) score with demographics and vital signs (MIMI-III)
 23 47 | **Yuxuan Luo** & **Siyu Wang** | Predicting survival in breast cancer patients using VEGF-related proteins with prognostic factors
+43 | **Vachan Vadmal** | Accident-Related Incident Rates in 500 US Cities (500C)
 
 ## Google Form Received, Under Review (in order of receipt)
 
@@ -56,7 +58,6 @@ Code | Investigator(s) | Title
 19 32 | **Ani Kumar** & **Div Patel** | Predictors of aortic valve replacement among patients undergoing balloon aortic valvuloplasty
 02 12 | **Ebtesam Alshehri** & **Carolyn Goldschmidt** | Investigating the impact of smoking on cognition and thalamic atrophy in Multiple Sclerosis patients
 44 | **Rajeev Varkey** | Predicting Prediabetes in the US Based on Diet and  Social Determinants of Health
-43 | **Vachan Vadmal** | Explaining Societal Trends with Transportation
 
 
 ## Google Form Not Yet Received by Dr. Love
