@@ -17,6 +17,7 @@ Code | Investigator(s) | Title
 41 | **Wayne Tsuang** | Social determinants of influenza vaccination rates among Medicare patients (CHR)
 45 | **Anastasia Vassiliou** | Interest in International Issues in the US (via GSS)
 46 | **Gi-Ming Wang** | Impact of NF1 and PT53 Mutations on Survival Time of Brain Lower Grade Glioma (TCGA via cBioPortal)
+49 | **Victor Zhou** | Effect of attending Job training programs on employment status among refugees in the U.S. (Annual Survey of Refugees)
 
 ### Abbreviations
 
@@ -30,16 +31,15 @@ Code | Investigator(s) | Title
 
 Code | Investigator(s) | Title
 :---: | :---: | ----------------------------------------------------------------------------------------------
-07 13 | **Lauren Cruz** & **Kara Hageman** | Cardiovascular Disease Risk Factors and Cancer Diagnosis (NHANES)
 05 34 | **Rebeka Bordi** & **Sangeetha Raghupathy** | Cadmium Exposure and Systolic Blood Pressure in NHANES participants 
+07 13 | **Lauren Cruz** & **Kara Hageman** | Cardiovascular Disease Risk Factors and Cancer Diagnosis (NHANES)
+11 | **Farrah Gao** | Predicting the number of naps a person takes on workdays (Nat'l Sleep Foundation)
 21 31 | **Shiying Liu** & **Yiheng Pan** | Predicting Sequential Organ Failure Assessment (SOFA) score with demographics and vital signs (MIMI-III)
 
 ## Google Form Received, Under Review (in order of receipt)
 
 Code | Investigator(s) | Title
 :---: | :---: | ----------------------------------------------------------------------------------------------
-11 | **Farrah Gao** | Predicting the number of naps a person takes on workdays
-49 | **Victor Zhou** | Effect of attending Job training programs on employment status among refugees in the U.S.
 23 47 | **Yuxuan Luo** & **Siyu Wang** | Predicting survival in breast cancer patients using VEGF-related proteins with prognostic factors
 35 | **Abigail Rippin** | Do weight concerns effect college performance in female students?
 20 | **Yufei Li** | Predicting Number of Children People Have.
@@ -56,6 +56,7 @@ Code | Investigator(s) | Title
 19 32 | **Ani Kumar** & **Div Patel** | Predictors of aortic valve replacement among patients undergoing balloon aortic valvuloplasty
 02 12 | **Ebtesam Alshehri** & **Carolyn Goldschmidt** | Investigating the impact of smoking on cognition and thalamic atrophy in Multiple Sclerosis patients
 44 | **Rajeev Varkey** | Predicting Prediabetes in the US Based on Diet and  Social Determinants of Health ?
+43 | **Vachan Vadmal** | Explaining Societal Trends with Transportation
 
 
 ## Google Form Not Yet Received by Dr. Love
@@ -66,5 +67,4 @@ Code | Investigator
 27 | Ryan Moore
 37 | Khaled Shorbaji
 39 | Claire Sonneborn
-43 | Vachan Vadmal
 
