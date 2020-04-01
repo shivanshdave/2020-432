@@ -42,7 +42,7 @@ Code | Investigator(s) | Title
 :---: | :---: | ----------------------------------------------------------------------------------------------
 23 47 | **Yuxuan Luo** & **Siyu Wang** | Predicting survival in breast cancer patients using VEGF-related proteins with prognostic factors
 35 | **Abigail Rippin** | Do weight concerns effect college performance in female students?
-20 | **Yufei Li** | Predicting Number of Children People Have.
+20 | **Yufei Li** | Predicting Number of Children People Have
 48 | **Jakob Woerner** | Assessing the relationship of MPO gene mutation with Leukemia disease and demographic information
 18 | **Jazmine Kirkland** | Using Mothers’ Perceptions of Neighborhood Disorder to Explore Maternal Caretaking Abilities
 36 | **Abby Roche** | Can volunteerism predict general happiness in US adults?
@@ -55,7 +55,7 @@ Code | Investigator(s) | Title
 33 | **Vineet Punia** | Analysis of the newsworthiness of neurological research
 19 32 | **Ani Kumar** & **Div Patel** | Predictors of aortic valve replacement among patients undergoing balloon aortic valvuloplasty
 02 12 | **Ebtesam Alshehri** & **Carolyn Goldschmidt** | Investigating the impact of smoking on cognition and thalamic atrophy in Multiple Sclerosis patients
-44 | **Rajeev Varkey** | Predicting Prediabetes in the US Based on Diet and  Social Determinants of Health ?
+44 | **Rajeev Varkey** | Predicting Prediabetes in the US Based on Diet and  Social Determinants of Health
 43 | **Vachan Vadmal** | Explaining Societal Trends with Transportation
 
 
