@@ -6,6 +6,7 @@ Code | Investigator(s) | Title
 :---: | :---: | ----------------------------------------------------------------------------------------------
 03 08 | **Fatima Asad** & **Basma Dahash** | Predicting survival in Kentucky residents with malignant colon cancer (SEER)
 06 26 | **Sofija Conic** & **Shayan Monabbati** | Predicting the Recurrence of Non-Small Cell Lung Cancer in TCGA Data
+07 13 | **Lauren Cruz** & **Kara Hageman** | Cardiovascular Disease Risk Factors and Cancer Diagnosis (NHANES)
 14 | **Emily Hannon** | Hantavirus Ecology Among Neotropical Mammals (unpublished data)
 15 | **Logan Harper** | Predicting length of stay for sarcoidosis patients (National Hospital Discharge Survey)
 16 | **Vanessa Ho** | County-Level Firearm Fatalities and Risky Behavior (CHR)
@@ -13,6 +14,7 @@ Code | Investigator(s) | Title
 22 | **Noah Lorincz-Comi** | Predicting Clinical Response to Clozapine from Duration of Untreated Psychosis (unpublished data)
 25 | **Anna Miller** | Predicting Skipped Meals in U.S. Families (National Health Interview Survey)
 30 | **Jasmine Olvany** | Uncovering the target population for consumption of the arts (Amer Housing Survey)
+35 | **Abigail Rippin** | Weight concerns and college performance in female Brazilian and Portuguese college students
 40 42 | **Alena Sorensen** & **Emily Tyszka** | Understanding Job Satisfaction Through the Lens of Interpersonal Relationships (GSS)
 41 | **Wayne Tsuang** | Social determinants of influenza vaccination rates among Medicare patients (CHR)
 45 | **Anastasia Vassiliou** | Interest in International Issues in the US (via GSS)
@@ -32,16 +34,14 @@ Code | Investigator(s) | Title
 Code | Investigator(s) | Title
 :---: | :---: | ----------------------------------------------------------------------------------------------
 05 34 | **Rebeka Bordi** & **Sangeetha Raghupathy** | Cadmium Exposure and Systolic Blood Pressure in NHANES participants 
-07 13 | **Lauren Cruz** & **Kara Hageman** | Cardiovascular Disease Risk Factors and Cancer Diagnosis (NHANES)
 11 | **Farrah Gao** | Predicting the number of naps a person takes on workdays (Nat'l Sleep Foundation)
 21 31 | **Shiying Liu** & **Yiheng Pan** | Predicting Sequential Organ Failure Assessment (SOFA) score with demographics and vital signs (MIMI-III)
+23 47 | **Yuxuan Luo** & **Siyu Wang** | Predicting survival in breast cancer patients using VEGF-related proteins with prognostic factors
 
 ## Google Form Received, Under Review (in order of receipt)
 
 Code | Investigator(s) | Title
 :---: | :---: | ----------------------------------------------------------------------------------------------
-23 47 | **Yuxuan Luo** & **Siyu Wang** | Predicting survival in breast cancer patients using VEGF-related proteins with prognostic factors
-35 | **Abigail Rippin** | Do weight concerns effect college performance in female students?
 20 | **Yufei Li** | Predicting Number of Children People Have
 48 | **Jakob Woerner** | Assessing the relationship of MPO gene mutation with Leukemia disease and demographic information
 18 | **Jazmine Kirkland** | Using Mothers’ Perceptions of Neighborhood Disorder to Explore Maternal Caretaking Abilities
