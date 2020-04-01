@@ -17,7 +17,7 @@ PDF of Slides | .Rmd of Slides | Notes during Class | Need Help?
 1. [Project 2 Proposal Review information is available](https://github.com/THOMASELOVE/2020-432/blob/master/projects/project2/proposals/review.md). I believe there will be 38 projects in total.
     - Please edit your response to the Google Form to make revisions in light of my comments if I've requested that of you.
 
-2. [Quiz 2](https://github.com/THOMASELOVE/2020-432/tree/master/quizzes/quiz2) will be made available on Friday at 5 PM. I will send out an email when you can access the Quiz materials.
+2. [Quiz 2](https://github.com/THOMASELOVE/2020-432/tree/master/quizzes/quiz2) will be made available on Friday at 5 PM. I will send out an email when you can access the Quiz materials. The Quiz is due at 10 AM on 2020-04-20.
 
 3. There is no Minute Paper this week. The next minute paper will be after Class 21, and is due at 9 AM Sunday 2020-04-12. 
 
