@@ -24,6 +24,42 @@ Code | Investigator(s) | Title
 - SEER = Surveillance, Epidemiology and End Results program
 - TCGA = The Cancer Genome Atlas
 
-## Under Review, Under Revision or Not Yet Submitted
+## Google Form Received, Under Review (in order of receipt)
 
-Everyone else.
+Code | Investigator(s) | Title
+:---: | :---: | ----------------------------------------------------------------------------------------------
+30 | **Jasmine Olvany** | Uncovering the target population for consumption of the arts
+07 13 | **Lauren Cruz** & **Kara Hageman** | Cardiovascular Disease Risk Factors Association with Cancer Diagnosis 
+05 34 | **Rebeka Bordi** & **Sangeetha Raghupathy** | Cadmium Exposure and Systolic Blood Pressure in NHANES participants 
+21 31 | **Shiying Liu** & **Yiheng Pan** | Predicting patient’s organ failure rate based on the demographics and vital signs
+11 | **Farrah Gao** | Predicting the number of naps a person takes on workdays
+49 | **Victor Zhou** | Effect of attending Job training programs on employment status among refugees in the U.S.
+23 47 | **Yuxuan Luo** & **Siyu Wang** | Predicting survival in breast cancer patients using VEGF-related proteins with prognostic factors
+35 | **Abigail Rippin** | Do weight concerns effect college performance in female students?
+20 | **Yufei Li** | Predicting Number of Children People Have.
+48 | **Jakob Woerner** | Assessing the relationship of MPO gene mutation with Leukemia disease and demographic information
+18 | **Jazmine Kirkland** | Using Mothers’ Perceptions of Neighborhood Disorder to Explore Maternal Caretaking Abilities
+36 | **Abby Roche** | Can volunteerism predict general happiness in US adults?
+04 | **Ife Babatunde** | Influence of Non-pharmacological factors on psychiatric medication adherence
+28 | **Troy Neptune** | Predicting Public Trust in Science Based on Demographics Obtained Through the General Social Survey
+38 | **Matt Siuba** | Predicting Attitudes on Government-Funded Healthcare
+24 | **Stephanie Merlino Barr** | Differences in perception of risk in smoking and vaping nicotine among 12th graders
+01 29 | **Hussam Alqahtani** & **Kimberly Noriega** | Predicting the Effects of Prenatal Care on Birth Weight
+10 | **Joshua Froess** | Predicting Depression in People Over the Age of 50
+33 | **Vineet Punia** | Analysis of the newsworthiness of neurological research
+
+## Google Form Not Received by Dr. Love as of 11 AM
+
+Code | Investigator
+:---: | :---:
+02 | Ebtesam Alshehri
+09 | Shivansh Dave
+12 | Carolyn Goldschmidt
+19 | Ani Kumar
+27 | Ryan Moore
+32 | Div Patel
+37 | Khaled Shorbaji
+39 | Claire Sonneborn
+43 | Vachan Vadmal
+44 | Rajeev Varkey
+
