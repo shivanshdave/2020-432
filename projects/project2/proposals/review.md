@@ -22,6 +22,7 @@ Code | Investigator(s) | Title
 15 | **Logan Harper** | Predicting length of stay for sarcoidosis patients (National Hospital Discharge Survey)
 16 | **Vanessa Ho** | County-Level Firearm Fatalities and Risky Behavior (CHR)
 17 | **Jason Huang** | Do people get bigger guns for safety concerns? (GSS)
+18 | **Jazmine Kirkland** | Using Mothers’ Perceptions of Neighborhood Disorder to Explore Maternal Caretaking Abilities
 19 32 | **Ani Kumar** & **Div Patel** | Predictors of aortic valve replacement among patients undergoing balloon aortic valvuloplasty
 20 | **Yufei Li** | Predicting Number of Children People Have (GSS)
 21 31 | **Shiying Liu** & **Yiheng Pan** | Predicting Sequential Organ Failure Assessment (SOFA) score with demographics and vital signs (MIMI-III)
@@ -59,8 +60,7 @@ Code | Investigator(s) | Title
 
 Code | Investigator(s) | Title
 :---: | :---: | ----------------------------------------------------------------------------------------------
-18 | **Jazmine Kirkland** | Using Mothers’ Perceptions of Neighborhood Disorder to Explore Maternal Caretaking Abilities
-43 | **Vachan Vadmal** | Accident-Related Incident Rates in 500 US Cities (500C)
+43 | **Vachan Vadmal** | Automobile Accident Related Incidence Rates in the US by County (CHR)
 44 | **Rajeev Varkey** | Predicting Prediabetes in the US Based on Diet and Social Determinants of Health (NHANES)
 
 ## Google Form Not Yet Received by Dr. Love
