@@ -33,7 +33,11 @@ PDF of Slides | .Rmd of Slides | Notes during Class | Need Help?
 
 6. If you plan to request a regrade for Homework 1-4, please [fill out the form](http://bit.ly/432-2020-homework-regrade-requests) this weekend (you have until 2020-04-24 but we might as well get this out of the way.)
 
-7. Remember, most of us are not working from home, **we are at our home during a crisis trying to work**. The TAs and I would like to help you. If you have questions or need some help, please let us know.
+7. You may be interested in [this webinar series](https://statds.org/events/webinar_dsa2020/index.html) which "aims to promptly
+disseminate the newest data science methods, tools, and findings in response to the outbreak of COVID-19, facilitate the exchange of
+research ideas, and engage collaborations between data scientists and field experts worldwide to solve the COVID-19 crisis."
+
+8. Remember, most of us are not working from home, **we are at our home during a crisis trying to work**. The TAs and I would like to help you. If you have questions or need some help, please let us know.
 
 ## Upcoming Deliverables (see the [Calendar](https://github.com/THOMASELOVE/2020-432/blob/master/calendar.md) for a complete list)
 
