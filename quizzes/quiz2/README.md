@@ -5,7 +5,7 @@ The quiz will be due according to the time and date specified on [the Calendar](
 
 The quiz will cover materials associated with Classes 1-22 of 432, with the Course Notes and other materials we've provided by the end of Class 22, and with Chapters 1-13 of David Spiegelhalter's *The Art of Statistics*.
 
-- The quiz will be taken using a Google Form.
+- The quiz will be taken using [the Google Form](http://bit.ly/432-2020-quiz2-answer-form) at http://bit.ly/432-2020-quiz2-answer-form.
 - You will be provided with a PDF copy of the Quiz, as you were in Quiz 1.
 
 The quiz will be worth 100 points in total, but the highest possible score will actually be 105 points.
