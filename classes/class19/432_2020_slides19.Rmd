@@ -123,7 +123,8 @@ exp(coef(model.A))
 exp(confint(model.A))
 ```
 
-## `tidy` for `polr` models exponentiates by default...
+
+## `tidy` for `polr` models...
 
 ```{r, eval = FALSE}
 tidy(model.A, conf.int = TRUE)
@@ -131,6 +132,21 @@ tidy(model.A, conf.int = TRUE)
 
 ```{r, echo = FALSE}
 a <- tidy(model.A, conf.int = TRUE) 
+
+a %>% select(term, estimate, std.error, statistic) %>%
+  kable(digits = 3)
+
+a %>% select(term, conf.low, conf.high, coefficient_type) %>% kable(digits = 3) 
+```
+
+## `tidy` for `polr` models, exponentiated..
+
+```{r, eval = FALSE}
+tidy(model.A, exponentiate = TRUE, conf.int = TRUE)
+```
+
+```{r, echo = FALSE}
+a <- tidy(model.A, exponentiate = TRUE, conf.int = TRUE) 
 
 a %>% select(term, estimate, std.error, statistic) %>%
   kable(digits = 3)
