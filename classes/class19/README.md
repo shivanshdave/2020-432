@@ -14,6 +14,8 @@ PDF of Slides | .Rmd of Slides | Notes during Class | Need Help?
 
 ## Announcements
 
+![](https://github.com/THOMASELOVE/2020-432/blob/master/classes/class19/figures/rq.png)
+
 1. [Project 2 Proposal Review information is available](https://github.com/THOMASELOVE/2020-432/blob/master/projects/project2/proposals/review.md). I believe there will be 38 projects in total.
     - Please edit your response to the Google Form to make revisions in light of my comments if I've requested that of you.
 
@@ -23,13 +25,15 @@ PDF of Slides | .Rmd of Slides | Notes during Class | Need Help?
     - Thanks to Abby Roche for reminding me of the power of this message. 
     - Reading Tukey's [The Future of Data Analysis](https://projecteuclid.org/euclid.aoms/1177704711) is always a good idea.
 
-3. [Quiz 2](https://github.com/THOMASELOVE/2020-432/tree/master/quizzes/quiz2) will be made available on Friday at 5 PM. I will send out an email when you can access the Quiz materials. The Quiz is due at 10 AM on 2020-04-20.
+3. [A checklist of 12 Things I Want To See In Your Project 2 is available](https://github.com/THOMASELOVE/2020-432/blob/master/projects/project2/README.md#new-advice-is-there-anything-specific-you-want-to-see-in-project-2). I wrote this up last year, made some tiny changes to reflect the differences in your project so perhaps you'll find it helpful.
 
-4. There is no Minute Paper this week. The next minute paper will be after Class 21, and is due at 9 AM Sunday 2020-04-12. 
+4. [Quiz 2](https://github.com/THOMASELOVE/2020-432/tree/master/quizzes/quiz2) will be made available on Friday at 5 PM. I will send out an email when you can access the Quiz materials. The Quiz is due at 10 AM on 2020-04-20.
 
-5. If you plan to request a regrade for Homework 1-4, please [fill out the form](http://bit.ly/432-2020-homework-regrade-requests) this weekend (you have until 2020-04-24 but we might as well get this out of the way.)
+5. There is no Minute Paper this week. The next minute paper will be after Class 21, and is due at 9 AM Sunday 2020-04-12. 
 
-6. Remember, most of us are not working from home, **we are at our home during a crisis trying to work**. The TAs and I would like to help you. If you have questions or need some help, please let us know.
+6. If you plan to request a regrade for Homework 1-4, please [fill out the form](http://bit.ly/432-2020-homework-regrade-requests) this weekend (you have until 2020-04-24 but we might as well get this out of the way.)
+
+7. Remember, most of us are not working from home, **we are at our home during a crisis trying to work**. The TAs and I would like to help you. If you have questions or need some help, please let us know.
 
 ## Upcoming Deliverables (see the [Calendar](https://github.com/THOMASELOVE/2020-432/blob/master/calendar.md) for a complete list)
 
