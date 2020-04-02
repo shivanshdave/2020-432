@@ -34,6 +34,12 @@ Tue | 04-14 | Be sure you've read **ART** Chapters 12-13
 Sun | 04-19 | Minute Paper after Class 23. Submit before 9 AM Sunday to make the feedback.
 Mon | 04-20 | [Quiz 2](https://github.com/THOMASELOVE/2020-432/tree/master/quizzes/quiz2) will be due at 10 AM.
 
+## From Today's Slides
+
+- The Strength of Evidence vs. Quality of Question plot comes from this [2019 blog post from Roger Peng](https://simplystatistics.org/2019/04/17/tukey-design-thinking-and-better-questions/). 
+    - Thanks to Abby Roche for reminding me of the power of this message. 
+    - Reading Tukey's [The Future of Data Analysis](https://projecteuclid.org/euclid.aoms/1177704711) is always a good idea.
+
 ## One Last Thing
 
 We'll discuss the [IHME (University of Washington) COVID-19 Projections](https://covid19.healthdata.org/projections) a bit, and in particular, I'm going to use [some of these tweets from Carl T. Bergstrom](https://twitter.com/CT_Bergstrom/status/1244815009303023616?s=20) to motivate our discussion, and try to help you spread the word to people who haven't caught on to the distinction between the UW model and other models (like the initial Imperial College projections - see [Report 9 here](https://www.imperial.ac.uk/mrc-global-infectious-disease-analysis/covid-19/).)
