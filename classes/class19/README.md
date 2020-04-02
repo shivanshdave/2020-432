@@ -14,8 +14,15 @@ PDF of Slides | .Rmd of Slides | Notes during Class | Need Help?
 
 ## Announcements
 
+![](https://github.com/THOMASELOVE/2020-432/blob/master/classes/class19/figures/peng_2019-04-17.png) from [Roger Peng](https://simplystatistics.org/2019/04/17/tukey-design-thinking-and-better-questions/)
+
 1. [Project 2 Proposal Review information is available](https://github.com/THOMASELOVE/2020-432/blob/master/projects/project2/proposals/review.md). I believe there will be 38 projects in total.
     - Please edit your response to the Google Form to make revisions in light of my comments if I've requested that of you.
+
+2. The Strength of Evidence vs. Quality of Question plot comes from this [2019 blog post from Roger Peng](https://simplystatistics.org/2019/04/17/tukey-design-thinking-and-better-questions/). 
+    - Thanks to Abby Roche for reminding me of the power of this message. 
+    - Reading Tukey's [The Future of Data Analysis](https://projecteuclid.org/euclid.aoms/1177704711) is always a good idea.
+
 
 2. [Quiz 2](https://github.com/THOMASELOVE/2020-432/tree/master/quizzes/quiz2) will be made available on Friday at 5 PM. I will send out an email when you can access the Quiz materials. The Quiz is due at 10 AM on 2020-04-20.
 
@@ -34,11 +41,6 @@ Tue | 04-14 | Be sure you've read **ART** Chapters 12-13
 Sun | 04-19 | Minute Paper after Class 23. Submit before 9 AM Sunday to make the feedback.
 Mon | 04-20 | [Quiz 2](https://github.com/THOMASELOVE/2020-432/tree/master/quizzes/quiz2) will be due at 10 AM.
 
-## From Today's Slides
-
-- The Strength of Evidence vs. Quality of Question plot comes from this [2019 blog post from Roger Peng](https://simplystatistics.org/2019/04/17/tukey-design-thinking-and-better-questions/). 
-    - Thanks to Abby Roche for reminding me of the power of this message. 
-    - Reading Tukey's [The Future of Data Analysis](https://projecteuclid.org/euclid.aoms/1177704711) is always a good idea.
 
 ## One Last Thing
 
