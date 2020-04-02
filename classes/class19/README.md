@@ -14,23 +14,22 @@ PDF of Slides | .Rmd of Slides | Notes during Class | Need Help?
 
 ## Announcements
 
-![](https://github.com/THOMASELOVE/2020-432/blob/master/classes/class19/figures/peng_2019-04-17.png) from [Roger Peng](https://simplystatistics.org/2019/04/17/tukey-design-thinking-and-better-questions/)
-
 1. [Project 2 Proposal Review information is available](https://github.com/THOMASELOVE/2020-432/blob/master/projects/project2/proposals/review.md). I believe there will be 38 projects in total.
     - Please edit your response to the Google Form to make revisions in light of my comments if I've requested that of you.
+
+![](https://github.com/THOMASELOVE/2020-432/blob/master/classes/class19/figures/peng_2019-04-17.png) from [Roger Peng](https://simplystatistics.org/2019/04/17/tukey-design-thinking-and-better-questions/)
 
 2. The Strength of Evidence vs. Quality of Question plot comes from this [2019 blog post from Roger Peng](https://simplystatistics.org/2019/04/17/tukey-design-thinking-and-better-questions/). 
     - Thanks to Abby Roche for reminding me of the power of this message. 
     - Reading Tukey's [The Future of Data Analysis](https://projecteuclid.org/euclid.aoms/1177704711) is always a good idea.
 
+3. [Quiz 2](https://github.com/THOMASELOVE/2020-432/tree/master/quizzes/quiz2) will be made available on Friday at 5 PM. I will send out an email when you can access the Quiz materials. The Quiz is due at 10 AM on 2020-04-20.
 
-2. [Quiz 2](https://github.com/THOMASELOVE/2020-432/tree/master/quizzes/quiz2) will be made available on Friday at 5 PM. I will send out an email when you can access the Quiz materials. The Quiz is due at 10 AM on 2020-04-20.
+4. There is no Minute Paper this week. The next minute paper will be after Class 21, and is due at 9 AM Sunday 2020-04-12. 
 
-3. There is no Minute Paper this week. The next minute paper will be after Class 21, and is due at 9 AM Sunday 2020-04-12. 
+5. If you plan to request a regrade for Homework 1-4, please [fill out the form](http://bit.ly/432-2020-homework-regrade-requests) this weekend (you have until 2020-04-24 but we might as well get this out of the way.)
 
-4. If you plan to request a regrade for Homework 1-4, please [fill out the form](http://bit.ly/432-2020-homework-regrade-requests) this weekend (you have until 2020-04-24 but we might as well get this out of the way.)
-
-5. Remember, most of us are not working from home, we are at our home during a crisis trying to work. The TAs and I would like to help you. If you have questions or need some help, please let us know.
+6. Remember, most of us are not working from home, **we are at our home during a crisis trying to work**. The TAs and I would like to help you. If you have questions or need some help, please let us know.
 
 ## Upcoming Deliverables (see the [Calendar](https://github.com/THOMASELOVE/2020-432/blob/master/calendar.md) for a complete list)
 
@@ -44,4 +43,4 @@ Mon | 04-20 | [Quiz 2](https://github.com/THOMASELOVE/2020-432/tree/master/quizz
 
 ## One Last Thing
 
-We'll discuss the [IHME (University of Washington) COVID-19 Projections](https://covid19.healthdata.org/projections) a bit, and in particular, I'm going to use [some of these tweets from Carl T. Bergstrom](https://twitter.com/CT_Bergstrom/status/1244815009303023616?s=20) to motivate our discussion, and try to help you spread the word to people who haven't caught on to the distinction between the UW model and other models (like the initial Imperial College projections - see [Report 9 here](https://www.imperial.ac.uk/mrc-global-infectious-disease-analysis/covid-19/).)
+If we have time, we'll discuss the [IHME (University of Washington) COVID-19 Projections](https://covid19.healthdata.org/projections) a bit, and in particular [some of these tweets from Carl T. Bergstrom](https://twitter.com/CT_Bergstrom/status/1244815009303023616?s=20) are motivating my thoughts. I want to try to help you spread the word to people who haven't caught on to the distinction between the UW model and other models (like the initial Imperial College projections - see [Report 9 here](https://www.imperial.ac.uk/mrc-global-infectious-disease-analysis/covid-19/).)
