@@ -4,6 +4,8 @@
 
 ## Since 2020-03-27
 
+- [IHME (University of Washington) COVID-19 Projections](https://covid19.healthdata.org/projections), and some of [these tweets from Carl T. Bergstrom](https://twitter.com/CT_Bergstrom/status/1244815009303023616?s=20) are motivating my thoughts. 
+    - I want to try to help you spread the word to people who haven't caught on to the distinction between the UW model and other models (like the initial Imperial College projections - see [Report 9 here](https://www.imperial.ac.uk/mrc-global-infectious-disease-analysis/covid-19/).)
 - [Why It’s So Freaking Hard To Make A Good COVID-19 Model](https://fivethirtyeight.com/features/why-its-so-freaking-hard-to-make-a-good-covid-19-model/) at 538.
 - [COVID-19 Info Posters](https://github.com/eleanormurray/COVID_19) by Dr Ellie Murray in collaboration with Dr Benjamin Linas and the Boston Medical Center. In many, many languages, now.
     - Five Tips for Everyone (shown above)
