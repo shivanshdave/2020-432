@@ -4,6 +4,7 @@
 
 ## Since 2020-03-27
 
+- [Why It’s So Freaking Hard To Make A Good COVID-19 Model](https://fivethirtyeight.com/features/why-its-so-freaking-hard-to-make-a-good-covid-19-model/) at 538.
 - [COVID-19 Info Posters](https://github.com/eleanormurray/COVID_19) by Dr Ellie Murray in collaboration with Dr Benjamin Linas and the Boston Medical Center. In many, many languages, now.
     - Five Tips for Everyone (shown above)
     - What to do if you're waiting for a COVID test result
