@@ -9,6 +9,8 @@
 
 You are permitted to work alone or with a partner for deliverables 1, 2 and 3. Everyone will complete the End-of-Term Google Form on their own.
 
+## NEW! [A checklist of sorts is available].
+
 -----------
 
 # The Project 2 Proposal Google Form
@@ -52,6 +54,8 @@ Below, you'll find subsections providing:
 4. Data Set Specifications, Requirements and Restrictions
 
 ## Advice on Developing a Research Question
+
+![](https://github.com/THOMASELOVE/2020-432/blob/master/classes/class19/figures/rq.png)
 
 - A question is expressed so as to elicit information, and **ends with a question mark**. 
 - The question must be one that lends itself well to the use of a regression model (you are welcome to adapt any regression modeling strategy connected to the 432 course) to develop an answer.
@@ -312,6 +316,27 @@ To get to the maximum score of 100, Dr. Love will award up to 15 additional poin
 
 -----------
 
+## NEW ADVICE! Is there anything specific you want to see in Project 2? 
+
+Sure. There are about a dozen things. I want to see...
+
+1. a clear statement of your research question, preceded by an appropriate (but not at all lengthy) background section motivating the question.
+2. a clear description of the data to be used, with careful attention to cleaning the data to make the follow-up analyses as straightforward as possible.
+3. the use of techniques from the 431-432 sequence for every stage of the data science process, from data ingest and tidying through the cycle of transformation, visualization and modeling, and then finally a careful communication of the end result.
+4. the use of regression methods (which can include OLS, logistic models, and the more recently discussed methods for count, multi-categorical and (soon) survival outcomes) that are directly applicable to the research questions you posed at the start.
+5. the use of appropriate tools for diagnosing the quality of those models, including visualizations and summary statistics.
+6. identification and comparison of candidate models to address your research question(s) if there are real choices to be made (if you have a clear model in mind at the start, there's no need to use "best subsets" or something just to artificially create a competitor.)
+7. validation of your models in an appropriate way if prediction is relevant to your research question(s), as I expect it will be.
+8. clear evidence that you have thought hard, and well, about what pieces of output, specifically, think in terms of creating meaningful annotations for every single scrap of output that you generate and present: if you cannot think of anything to say about a piece of output easily, why are you including it?
+9. a clear re-statement of the research question you asked at the start, now with conclusions that answer those questions (at least partially.)
+10. a clear statement of the limitations of your approach, and
+11. a clear statement about useful next steps that you would like to try on the data, moving forward
+12. an extremely well-organized presentation of the portfolio, well-labeled, with good headings used throughout and making good use of the technology to create a table of contents that helps guide us to specific elements of your work quickly.
+
+-----------
+
 # Questions?
 
 Questions about Project 2 should be directed to `431-help`.
+
+
