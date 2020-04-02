@@ -1,5 +1,7 @@
 # Project 2 Proposal Status
 
+![](https://github.com/THOMASELOVE/2019-432/blob/master/slides/class21/figures/rq.png) from [Maatern van Smeden](https://twitter.com/MaartenvSmeden/status/1086940134065479680)
+
 There will be 38 proposals in all, it appears.
 
 ## Approved Proposals
@@ -14,10 +16,12 @@ Code | Investigator(s) | Title
 06 26 | **Sofija Conic** & **Shayan Monabbati** | Predicting the Recurrence of Non-Small Cell Lung Cancer in TCGA Data
 07 13 | **Lauren Cruz** & **Kara Hageman** | Cardiovascular Disease Risk Factors and Cancer Diagnosis (NHANES)
 10 | **Joshua Froess** | Predicting Depression in People Over the Age of 50 (H&RS)
+11 | **Farrah Gao** | Predicting the number of naps a person takes on workdays (Nat'l Sleep Foundation)
 14 | **Emily Hannon** | Hantavirus Ecology Among Neotropical Mammals (unpublished data)
 15 | **Logan Harper** | Predicting length of stay for sarcoidosis patients (National Hospital Discharge Survey)
 16 | **Vanessa Ho** | County-Level Firearm Fatalities and Risky Behavior (CHR)
 17 | **Jason Huang** | Do people get bigger guns for safety concerns? (GSS)
+19 32 | **Ani Kumar** & **Div Patel** | Predictors of aortic valve replacement among patients undergoing balloon aortic valvuloplasty
 20 | **Yufei Li** | Predicting Number of Children People Have (GSS)
 21 31 | **Shiying Liu** & **Yiheng Pan** | Predicting Sequential Organ Failure Assessment (SOFA) score with demographics and vital signs (MIMI-III)
 22 | **Noah Lorincz-Comi** | Predicting Clinical Response to Clozapine from Duration of Untreated Psychosis (unpublished data)
@@ -55,9 +59,7 @@ Code | Investigator(s) | Title
 Code | Investigator(s) | Title
 :---: | :---: | ----------------------------------------------------------------------------------------------
 09 | **Shivansh Dave** | Predicting social engagement using socioeconomic conditions of aging citizens from CogEcon data
-11 | **Farrah Gao** | Predicting the number of naps a person takes on workdays (Nat'l Sleep Foundation)
 18 | **Jazmine Kirkland** | Using Mothers’ Perceptions of Neighborhood Disorder to Explore Maternal Caretaking Abilities
-19 32 | **Ani Kumar** & **Div Patel** | Predictors of aortic valve replacement among patients undergoing balloon aortic valvuloplasty
 43 | **Vachan Vadmal** | Accident-Related Incident Rates in 500 US Cities (500C)
 44 | **Rajeev Varkey** | Predicting Prediabetes in the US Based on Diet and Social Determinants of Health (NHANES)
 
