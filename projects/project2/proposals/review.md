@@ -15,6 +15,7 @@ Code | Investigator(s) | Title
 05 34 | **Rebeka Bordi** & **Sangeetha Raghupathy** | Cadmium Exposure and Systolic Blood Pressure in NHANES participants 
 06 26 | **Sofija Conic** & **Shayan Monabbati** | Predicting the Recurrence of Non-Small Cell Lung Cancer in TCGA Data
 07 13 | **Lauren Cruz** & **Kara Hageman** | Cardiovascular Disease Risk Factors and Cancer Diagnosis (NHANES)
+09 | **Shivansh Dave** | Predicting health status using socioeconomic conditions of aging citizens from CogEcon data (Michigan H&RS)
 10 | **Joshua Froess** | Predicting Depression in People Over the Age of 50 (H&RS)
 11 | **Farrah Gao** | Predicting the number of naps a person takes on workdays (Nat'l Sleep Foundation)
 14 | **Emily Hannon** | Hantavirus Ecology Among Neotropical Mammals (unpublished data)
@@ -58,7 +59,6 @@ Code | Investigator(s) | Title
 
 Code | Investigator(s) | Title
 :---: | :---: | ----------------------------------------------------------------------------------------------
-09 | **Shivansh Dave** | Predicting social engagement using socioeconomic conditions of aging citizens from CogEcon data
 18 | **Jazmine Kirkland** | Using Mothers’ Perceptions of Neighborhood Disorder to Explore Maternal Caretaking Abilities
 43 | **Vachan Vadmal** | Accident-Related Incident Rates in 500 US Cities (500C)
 44 | **Rajeev Varkey** | Predicting Prediabetes in the US Based on Diet and Social Determinants of Health (NHANES)
