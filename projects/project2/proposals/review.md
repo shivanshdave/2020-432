@@ -37,8 +37,10 @@ Code | Investigator(s) | Title
 35 | **Abigail Rippin** | Weight concerns and college performance in female Brazilian and Portuguese college students
 36 | **Abby Roche** | Can volunteerism predict general happiness in US adults? (GSS)
 38 | **Matt Siuba** | Predicting Attitudes on Government-Funded Healthcare (GSS)
+39 | **Claire Sonneborn** | Predicting physical activity of retirees based on high school sports participation (H&RS)
 40 42 | **Alena Sorensen** & **Emily Tyszka** | Understanding Job Satisfaction Through the Lens of Interpersonal Relationships (GSS)
 41 | **Wayne Tsuang** | Social determinants of influenza vaccination rates among Medicare patients (CHR)
+43 | **Vachan Vadmal** | Automobile Accident Related Incidence Rates in the US by County (CHR)
 45 | **Anastasia Vassiliou** | Interest in International Issues in the US (via GSS)
 46 | **Gi-Ming Wang** | Impact of NF1 and PT53 Mutations on Survival Time of Brain Lower Grade Glioma (TCGA via cBioPortal)
 48 | **Jakob Woerner** | Assessing the relationship of MPO gene mutation with Leukemia disease and demographic information
@@ -56,16 +58,9 @@ Code | Investigator(s) | Title
 - SEER = Surveillance, Epidemiology and End Results program
 - TCGA = The Cancer Genome Atlas
 
-## Revise and Resubmit Requested
+## Under Revision
 
 Code | Investigator(s) | Title
 :---: | :---: | ----------------------------------------------------------------------------------------------
-43 | **Vachan Vadmal** | Automobile Accident Related Incidence Rates in the US by County (CHR)
 44 | **Rajeev Varkey** | Predicting Prediabetes in the US Based on Diet and Social Determinants of Health (NHANES)
-
-## Google Form Not Yet Received by Dr. Love
-
-Code | Investigator
-:---: | :---:
-39 | Claire Sonneborn
 
