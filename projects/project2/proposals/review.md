@@ -1,10 +1,6 @@
 # Project 2 Proposal Status
 
-![](https://github.com/THOMASELOVE/2019-432/blob/master/slides/class21/figures/rq.png) from [Maatern van Smeden](https://twitter.com/MaartenvSmeden/status/1086940134065479680)
-
-There will be 38 proposals in all, it appears.
-
-## Approved Proposals
+## All 38 Project Proposals are Approved. Thanks, everyone!
 
 Code | Investigator(s) | Title
 :---: | :---: | ----------------------------------------------------------------------------------------------
@@ -41,6 +37,7 @@ Code | Investigator(s) | Title
 40 42 | **Alena Sorensen** & **Emily Tyszka** | Understanding Job Satisfaction Through the Lens of Interpersonal Relationships (GSS)
 41 | **Wayne Tsuang** | Social determinants of influenza vaccination rates among Medicare patients (CHR)
 43 | **Vachan Vadmal** | Automobile Accident Related Incidence Rates in the US by County (CHR)
+44 | **Rajeev Varkey** | Predicting Prediabetes in the US Based on Diet and  Social Determinants of Health (NHANES)
 45 | **Anastasia Vassiliou** | Interest in International Issues in the US (via GSS)
 46 | **Gi-Ming Wang** | Impact of NF1 and PT53 Mutations on Survival Time of Brain Lower Grade Glioma (TCGA via cBioPortal)
 48 | **Jakob Woerner** | Assessing the relationship of MPO gene mutation with Leukemia disease and demographic information
@@ -58,9 +55,5 @@ Code | Investigator(s) | Title
 - SEER = Surveillance, Epidemiology and End Results program
 - TCGA = The Cancer Genome Atlas
 
-## Under Revision
-
-Code | Investigator(s) | Title
-:---: | :---: | ----------------------------------------------------------------------------------------------
-44 | **Rajeev Varkey** | Predicting Prediabetes in the US Based on Diet and Social Determinants of Health (NHANES)
+![](https://github.com/THOMASELOVE/2019-432/blob/master/slides/class21/figures/rq.png) from [Maatern van Smeden](https://twitter.com/MaartenvSmeden/status/1086940134065479680)
 
