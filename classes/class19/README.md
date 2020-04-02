@@ -52,3 +52,5 @@ Mon | 04-20 | [Quiz 2](https://github.com/THOMASELOVE/2020-432/tree/master/quizz
 ## One Last Thing
 
 If we have time, we'll discuss the [IHME (University of Washington) COVID-19 Projections](https://covid19.healthdata.org/projections) a bit, and in particular [some of these tweets from Carl T. Bergstrom](https://twitter.com/CT_Bergstrom/status/1244815009303023616?s=20) are motivating my thoughts. I want to try to help you spread the word to people who haven't caught on to the distinction between the UW model and other models (like the initial Imperial College projections - see [Report 9 here](https://www.imperial.ac.uk/mrc-global-infectious-disease-analysis/covid-19/).)
+
+The 538 article I mentioned is [Why It’s So Freaking Hard To Make A Good COVID-19 Model](https://fivethirtyeight.com/features/why-its-so-freaking-hard-to-make-a-good-covid-19-model/).
