@@ -9,6 +9,7 @@ Quiz 2 is due at 10 AM on 2020-04-20, as is specified on [the Calendar](https://
 The quiz will cover materials associated with Classes 1-22 of 432, with the Course Notes and other materials we've provided by the end of Class 22, and with Chapters 1-13 of David Spiegelhalter's *The Art of Statistics*.
 
 - The quiz will be taken using [the Google Form](http://bit.ly/432-2020-quiz2-answer-form) at http://bit.ly/432-2020-quiz2-answer-form.
+    - **Note** In the Google Form, in item 9, choice d, `dad.ht` is shown with a hyperlink. I can't get Google Form not to create that link, but it doesn't go anywhere and you should ignore the hyperlink. `dad.ht` is just the name of a variable in the data set.
 - In our **shared Google Drive**, you will find a folder called **Quiz 2**. There you will find 
     - a subfolder called data with four data sets that should help you complete the Quiz
         - The data files are called `quiz2_q09.Rds`, `quiz2_q18.csv`, `quiz2_q22.Rds` and `smart_oh14.Rds`.
