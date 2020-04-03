@@ -27,7 +27,7 @@ The quiz will be treated as if it is worth 100 points in total, but the highest 
 
 ## Getting Help
 
-Once the Quiz is available, your questions about Quiz items should be asked exclusively via email to 431-help. 
+All questions about the Quiz should be asked exclusively via email to 431-help. 
 
 - There, Dr. Love and the TAs will answer questions of clarification regarding the Quiz items to the extent that we can without giving away the correct response.
 - While we won't directly answer any of the items on the Quiz, you can create items of your own that are similar (but not the same) as items on the Quiz, and we will (within reason) try to help you with those.
