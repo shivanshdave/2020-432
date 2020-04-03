@@ -14,7 +14,7 @@ The quiz will cover materials associated with Classes 1-22 of 432, with the Cour
         - The data files are called `quiz2_q09.Rds`, `quiz2_q18.csv`, `quiz2_q22.Rds` and `smart_oh14.Rds`.
     - a PDF copy of the Quiz, which is 37 pages long, and which contains all 24 items, and detailed instructions, including a list of R packages I used in developing the answers to the Quiz.
     - a 6-minute video recording of Dr. Love walking through the instructions for the Quiz
-    - a Google Doc containing Key Links for Quiz 2 including to this page, to the recording of Dr. Love talking about the Quiz, and to [the Google Form](http://bit.ly/432-2020-quiz2-answer-form).
+    - a Google Doc containing Key Links for Quiz 2 including to this page and to [the Google Form](http://bit.ly/432-2020-quiz2-answer-form).
 
 ## Grading
 
