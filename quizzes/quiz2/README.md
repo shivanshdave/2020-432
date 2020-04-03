@@ -1,17 +1,22 @@
 # 432 Quiz 2 Information
 
-Detailed information about Quiz 2 will appear here by 2020-04-03. 
-The quiz will be due at 10 AM on 2020-04-20, as is specified on [the Calendar](https://github.com/THOMASELOVE/2020-432/blob/master/calendar.md).
+## Deadline
+
+Quiz 2 is due at 10 AM on 2020-04-20, as is specified on [the Calendar](https://github.com/THOMASELOVE/2020-432/blob/master/calendar.md).
+
+## Instructions and Links to Resources
 
 The quiz will cover materials associated with Classes 1-22 of 432, with the Course Notes and other materials we've provided by the end of Class 22, and with Chapters 1-13 of David Spiegelhalter's *The Art of Statistics*.
 
 - The quiz will be taken using [the Google Form](http://bit.ly/432-2020-quiz2-answer-form) at http://bit.ly/432-2020-quiz2-answer-form.
-- In our shared Google Drive, you will find a folder called Quiz 2. There you will find 
+- In our **shared Google Drive**, you will find a folder called **Quiz 2**. There you will find 
     - a subfolder called data with four data sets that should help you complete the Quiz
         - The data files are called `quiz2_q09.Rds`, `quiz2_q18.csv`, `quiz2_q22.Rds` and `smart_oh14.Rds`.
     - a PDF copy of the Quiz, which is 37 pages long, and which contains all 24 items, and detailed instructions, including a list of R packages I used in developing the answers to the Quiz.
     - a 6-minute video recording of Dr. Love walking through the instructions for the Quiz
     - a Google Doc containing Key Links for Quiz 2 including to this page, to the recording of Dr. Love talking about the Quiz, and to [the Google Form](http://bit.ly/432-2020-quiz2-answer-form).
+
+## Grading
 
 The quiz will be treated as if it is worth 100 points in total, but the highest possible score will actually be 105 points.
 
@@ -19,6 +24,8 @@ The quiz will be treated as if it is worth 100 points in total, but the highest 
     - The first 23 items are short answer / multiple choice questions, worth 3 points.
     - Item 24 is a short essay, worth 6 points. You will write this essay into a Word document, Google Doc or PDF file which you will save and then upload to the Google Form. At the top of the essay file, you should place your name, and the title "432 Quiz 2 Item 24" There is no need to use R Markdown to write the essay.
 - Students will receive 30 points for on-time submission of the quiz.
+
+## Getting Help
 
 Once the Quiz is available, your questions about Quiz items should be asked exclusively via email to 431-help. 
 
