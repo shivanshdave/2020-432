@@ -28,3 +28,4 @@ Mon | 04-20 | [Quiz 2](https://github.com/THOMASELOVE/2020-432/tree/master/quizz
 2. If you haven't already done so, please verify that you can access the Google Form for [Quiz 2](https://github.com/THOMASELOVE/2020-432/tree/master/quizzes/quiz2) and the shared drive containing my video recording, the four data sets, and the PDF file containing the instructions and items. 
     - Please let us know at `431-help` if you have any questions or are having any problems accessing the materials. 
 3. The **survminer** package is where you can find the **ggsurvplot** approach we'll take today. For more customization of plots like the Kaplan-Meier curves we'll build today, visit https://rpkgs.datanovia.com/survminer/.
+4. More to come.
