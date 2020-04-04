@@ -18,8 +18,8 @@ Session | Date | Materials
 -- | 04-01 | [Project 2 Proposal Google Form](http://bit.ly/432-2020-project2-proposal-form) due at Noon. [Project 2 instructions are here](https://github.com/THOMASELOVE/2020-432/tree/master/projects/project2).
 [Class 19](https://github.com/THOMASELOVE/2020-432/tree/master/classes/class19) | 04-02 | Project 2 Discussion, Be sure you've read **ART** through Chapter 11
 -- | 04-03 | [Quiz 2](https://github.com/THOMASELOVE/2020-432/tree/master/quizzes/quiz2) will be made available.
-Class 20 | 04-07 | Dealing with Time-to-event (survival) data; Kaplan-Meier curves
-Class 21 | 04-09 | Fitting Cox regression models for time-to-event data
+[Class 20](https://github.com/THOMASELOVE/2020-432/tree/master/classes/class20) | 04-07 | Dealing with Time-to-event (survival) data; Kaplan-Meier curves
+[Class 21](https://github.com/THOMASELOVE/2020-432/tree/master/classes/class21) | 04-09 | Fitting Cox regression models for time-to-event data
 -- | 04-12 | Minute Paper after Class 21. Submit before 9 AM Sunday to make the feedback.
 Class 22 | 04-14 | The problems with p values, **ART** Chapters 12-13
 Class 23 | 04-16 | Retrospective Design / Thinking about Power
