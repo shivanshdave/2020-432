@@ -23,4 +23,5 @@ Mon | 04-20 | [Quiz 2](https://github.com/THOMASELOVE/2020-432/tree/master/quizz
 
 ## Announcements
 
-1. More to come.
+1. There will be a Minute Paper after today's class. Complete it by Sunday at 9 AM to make the feedback.
+2. More to come.
