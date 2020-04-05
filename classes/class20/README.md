@@ -28,6 +28,10 @@ Mon | 04-20 | [Quiz 2](https://github.com/THOMASELOVE/2020-432/tree/master/quizz
 - The possible values. A quantitative outcome is any quantity - it includes ratios, percentages, fractions, decimal places, negative numbers, anything that can be expressed on a continuous scale in addition to counts. Counts are a subset of quantities - they start at 0 and increase by integers, so those are the only possible values. 
 - A Poisson distribution, for instance, would be an option to use in modeling a count. A Normal distribution is what we typically use for other types of quantitative outcomes.
 
+> Am I right in thinking that you don't want us to impute an outcome in Project 2?
+
+That's correct. I do not. If you have a key predictor that your research question is focused on (for instance, did receipt of this treatment affect the outcome, adjusting for these covariates), I am reluctant to have you impute that "treatment" either. I'm happiest when you're only imputing variables you are adjusting for as covariates in your models.
+
 > I am pondering how to move forward with missingness in my data. The codebook suggests that some subgroups (they specifically highlighted black males) tend to not respond to questions regarding high risk behaviors in similar surveys. I am looking at illicit drug use in my model, and there is missingness in the variables I am using. In the Project 2 instructions, you write: If missingness is not random, we suggest you reduce the scope of your data set to eliminate either the observations that are not missing at random, or to eliminate the variables containing those missing values. Can you provide some insight on how to move forward with the missingness here? 
 
 - "Missing at random" isn't a great name, as we discussed. It doesn't mean "missing arbitrarily" but rather it means that the missingness can be fully accounted for by variables where complete information is available. 
