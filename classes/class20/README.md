@@ -25,13 +25,14 @@ Mon | 04-20 | [Quiz 2](https://github.com/THOMASELOVE/2020-432/tree/master/quizz
 
 > What's the difference between a count outcome and a quantitative outcome?
 
-- The possible values. A quantitative outcome is any quantity - it includes ratios, percentages, fractions, decimal places, negative numbers, anything that can be expressed on a continuous scale in addition to counts. Counts are a subset of quantities - they start at 0 and increase by integers, so those are the only possible values. A Poisson distribution, for instance, would be an option to use in modeling a count. A Normal distribution is what we typically use for other types of quantitative outcomes.
+- The possible values. A quantitative outcome is any quantity - it includes ratios, percentages, fractions, decimal places, negative numbers, anything that can be expressed on a continuous scale in addition to counts. Counts are a subset of quantities - they start at 0 and increase by integers, so those are the only possible values. 
+- A Poisson distribution, for instance, would be an option to use in modeling a count. A Normal distribution is what we typically use for other types of quantitative outcomes.
 
 > I am pondering how to move forward with missingness in my data. The codebook suggests that some subgroups (they specifically highlighted black males) tend to not respond to questions regarding high risk behaviors in similar surveys. I am looking at illicit drug use in my model, and there is missingness in the variables I am using. In the Project 2 instructions, you write: If missingness is not random, we suggest you reduce the scope of your data set to eliminate either the observations that are not missing at random, or to eliminate the variables containing those missing values. Can you provide some insight on how to move forward with the missingness here? 
 
-- If black males are less likely to respond, then that should indicate that your imputation would have to include both race and sex in the process. Since you have both race and sex in your data, that shouldn't be a problem. 
 - "Missing at random" isn't a great name, as we discussed. It doesn't mean "missing arbitrarily" but rather it means that the missingness can be fully accounted for by variables where complete information is available. 
 - "Missing not at random" means that the missingness depends on things we DON'T have in our data set.
+- If black males are believed to be less likely to respond, then your imputation models should include both race and sex. If each of those variables in is your data, then imputation may be reasonable. If they're not, then you have a real problem, and would need to, for instance, select a different set of variables to study. That's the kind of thing you want to talk to us about at `431-help`. 
 
 ## Announcements
 
