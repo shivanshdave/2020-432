@@ -51,6 +51,7 @@ Sure, but can we ask you to make it as easy as possible on us. What we want to b
 ## Announcements
 
 1. If you haven't already done so, please verify that you can access the Google Form for [Quiz 2](https://github.com/THOMASELOVE/2020-432/tree/master/quizzes/quiz2) and the shared drive containing my video recording, the four data sets, and the PDF file containing the instructions and items. 
+    - Look at the email stream with the subject heading "432 Quiz 2 is now available to you" which I sent on 2020-04-03, and be sure to read the second email I sent at 11 AM on 2020-04-03 to provide the Google Drive direct link. I sent it again today, in the same link.
     - Please let us know at `431-help` if you have any questions or are having any problems accessing the materials. 
 
 2. The **survminer** package is where you can find the **ggsurvplot** approach we'll take today. For more customization of plots like the Kaplan-Meier curves we'll build today, visit https://rpkgs.datanovia.com/survminer/. 
