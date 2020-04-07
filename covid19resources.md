@@ -11,16 +11,16 @@
 - There's a lot of good data science work being done related to COVID-19, and, as Mark Alan Fontana points out, [a lot of scary stuff, too](https://twitter.com/metamaf/status/1245816735309193216).
 - Rob Hyndman on [Why log ratios are useful for tracking COVID-19](https://robjhyndman.com/hyndsight/logratios-covid19/) shows how to use the new `tidycovid19` package to build graphs like this:
     
-![]()
+![](https://github.com/THOMASELOVE/2020-432/blob/master/classes/class20/figures/hyndman1.png)
 
 - In that same post, Rob discusses why per capita numbers aren't shown instead, and describes the value of looking at log ratios.
 - Rob also links to Kieran Healy's [Get Your Epidemiology from Epidemiologists](https://kieranhealy.org/blog/archives/2020/03/21/covid-19-tracking/) post, which shows R code to create this plot:
 
-![]()
+![](https://github.com/THOMASELOVE/2020-432/blob/master/classes/class20/figures/covid_cumulative_22-03-20.png)
     
 - Kieran Healy also has a very interesting post called [A COVID Small Multiple](https://kieranhealy.org/blog/archives/2020/03/27/a-covid-small-multiple/) which shows you how to build this...
     
-![]
+![](https://github.com/THOMASELOVE/2020-432/blob/master/classes/class20/figures/cov_case_sm.png)
 
 ## Things Posted During the Week of 2020-03-27
 
