@@ -1,8 +1,28 @@
 # Data and Resources related to COVID-19
 
-![](https://github.com/eleanormurray/COVID_19/blob/master/5Tips_forEveryone/5Tips_English.jpg)
+## Posted 2020-04-06
 
-## Since 2020-03-27
+- FiveThirtyEight Video Podcast: [Why Forecasting COVID-19 Is Harder Than Forecasting Elections](https://fivethirtyeight.com/videos/why-forecasting-covid-19-is-harder-than-forecasting-elections/) by Galen Druke, Laura Bronner and Maggie Koerth (from 2020-04-03). Related FiveThirtyEight pieces include:
+    - [Why It’s So Freaking Hard To Make A Good COVID-19 Model](https://fivethirtyeight.com/features/why-its-so-freaking-hard-to-make-a-good-covid-19-model/) by Maggie Koerth, Laura Bronner and Jasmine Mithani (2020-03-31)
+    - [When Is It Safe To Go Outside?](https://fivethirtyeight.com/features/a-crowded-park-isnt-much-safer-than-a-crowded-movie-theater/) by Kaleigh Rogers (2020-04-01)
+    - [Science Has No Clear Answers On The Coronavirus. Face Masks Are No Exception](https://fivethirtyeight.com/features/science-has-no-clear-answers-on-the-coronavirus-face-masks-are-no-exception/) by Maggie Koerth (2020-04-06)
+    - [Coronavirus Case Counts Are Meaningless *Unless you know something about testing. And even then, it gets complicated*.](https://fivethirtyeight.com/features/coronavirus-case-counts-are-meaningless/) by Nate Silver (2020-04-04)
+    - [Best-Case And Worst-Case Coronavirus Forecasts Are Very Far Apart](https://fivethirtyeight.com/features/best-case-and-worst-case-coronavirus-forecasts-are-very-far-apart/) by Jay Boice and Anna Wiederkehr (2020-04-02)
+- There's a lot of good data science work being done related to COVID-19, and, as Mark Alan Fontana points out, [a lot of scary stuff, too](https://twitter.com/metamaf/status/1245816735309193216).
+- Rob Hyndman on [Why log ratios are useful for tracking COVID-19](https://robjhyndman.com/hyndsight/logratios-covid19/) shows how to use the new `tidycovid19` package to build graphs like this:
+    
+![]()
+
+- In that same post, Rob discusses why per capita numbers aren't shown instead, and describes the value of looking at log ratios.
+- Rob also links to Kieran Healy's [Get Your Epidemiology from Epidemiologists](https://kieranhealy.org/blog/archives/2020/03/21/covid-19-tracking/) post, which shows R code to create this plot:
+
+![]()
+    
+- Kieran Healy also has a very interesting post called [A COVID Small Multiple](https://kieranhealy.org/blog/archives/2020/03/27/a-covid-small-multiple/) which shows you how to build this...
+    
+![]
+
+## Things Posted During the Week of 2020-03-27
 
 - [IHME (University of Washington) COVID-19 Projections](https://covid19.healthdata.org/projections), and some of [these tweets from Carl T. Bergstrom](https://twitter.com/CT_Bergstrom/status/1244815009303023616?s=20) are motivating my thoughts. 
     - I want to try to help you spread the word to people who haven't caught on to the distinction between the UW model and other models (like the initial Imperial College projections - see [Report 9 here](https://www.imperial.ac.uk/mrc-global-infectious-disease-analysis/covid-19/).)
