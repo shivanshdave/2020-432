@@ -1,6 +1,6 @@
 # Data and Resources related to COVID-19
 
-## Posted 2020-04-06
+## Posted during the week of 2020-04-06
 
 - FiveThirtyEight Video Podcast: [Why Forecasting COVID-19 Is Harder Than Forecasting Elections](https://fivethirtyeight.com/videos/why-forecasting-covid-19-is-harder-than-forecasting-elections/) by Galen Druke, Laura Bronner and Maggie Koerth (from 2020-04-03). Related FiveThirtyEight pieces include:
     - [Why It’s So Freaking Hard To Make A Good COVID-19 Model](https://fivethirtyeight.com/features/why-its-so-freaking-hard-to-make-a-good-covid-19-model/) by Maggie Koerth, Laura Bronner and Jasmine Mithani (2020-03-31)
