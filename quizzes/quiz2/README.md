@@ -16,6 +16,7 @@ The quiz will cover materials associated with Classes 1-22 of 432, with the Cour
     - a PDF copy of the Quiz, which is 37 pages long, and which contains all 24 items, and detailed instructions, including a list of R packages I used in developing the answers to the Quiz.
     - a 6-minute video recording of Dr. Love walking through the instructions for the Quiz
     - a Google Doc containing Key Links for Quiz 2 including to this page and to [the Google Form](http://bit.ly/432-2020-quiz2-answer-form).
+- Look at the email stream with the subject heading "432 Quiz 2 is now available to you" which I sent on 2020-04-03, and be sure to read the second email I sent at 11 AM on 2020-04-03 to provide the Google Drive direct link, if you're not finding it on your own.
 
 ## Grading
 
