@@ -304,7 +304,7 @@ To obtain a significance test comparing these two survival curves, we turn to a 
 survdiff(surv_100 ~ ex100$sex)
 ```
 
-At usual $\alpha$ levels, there's no significant difference between the survival curves stratified by sex.
+At usual $\alpha$ levels, there's a statistically significant difference (p = 0.011) between the survival curves stratified by sex.
 
 ## Alternative log rank tests
 
@@ -461,7 +461,7 @@ If $S(t)$ is the survival function, and time $t$ is taken to be continuous, then
 Consider a subject in the `survex` study who has a survival time of 4 years. 
 
 - For this subject to die at 4 years, they had to survive for the first 3 years. 
-- The subject's hazard at 4 years is the failure rate "per year" conditional on the subject being hemorrhage-free for the first 3 years.
+- The subject's hazard at 4 years is the failure rate "per year" conditional on the subject being alive through the first 3 years.
 
 ## Plotting the Cumulative Hazard Function
 
