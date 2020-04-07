@@ -65,6 +65,6 @@ Sure, but can we ask you to make it as easy as possible on us. What we want to b
 
 I had some fun taking the [Statistical "Which Character" Personality Quiz](https://openpsychometrics.org/tests/characters/) which is part of an [Open-Source Psychometrics Project](https://openpsychometrics.org/). It attempts to compare your self-description on several traits to a selection of just over 500 fictional characters and matches you to the "most similar" one. One thing I like about it is that it is [well-documented](https://openpsychometrics.org/tests/characters/development/). 
 
-- Using their recommended list of items (28), I matched best (according to a Pearson correlation) with [Sam Seaborn](https://en.wikipedia.org/wiki/Sam_Seaborn) from *The West Wing*, which is probably more an indication of how I feel about myself than anything else. It's a better fit in some ways than others. Still, I'll take it.
+- Using their recommended list of 28 items, I matched best (according to a Pearson correlation) with [Sam Seaborn](https://en.wikipedia.org/wiki/Sam_Seaborn) from *The West Wing*, which is probably more an indication of how I feel about myself than anything else. It's a better fit in some ways than others. Still, I'll take it.
 - When they say I have an 86% match with Sam, this essentially means that they took my Pearson correlation (on a scale from -1 to +1) and added 1, and then multiplied by 50. So my Pearson correlation with Sam was actually *r = +0.72*, so our R-square is 52%.
 
