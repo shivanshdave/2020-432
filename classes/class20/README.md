@@ -23,6 +23,8 @@ Mon | 04-20 | [Quiz 2](https://github.com/THOMASELOVE/2020-432/tree/master/quizz
 
 ## Recent Q & A (Questions edited a bit.)
 
+Note: We're storing all questions and answers of relevance to Project 2 [at the bottom of the Project 2 instructions, too](https://github.com/THOMASELOVE/2020-432/blob/master/projects/project2/README.md#questions-and-answers).
+
 > What's the difference between a count outcome and a quantitative outcome?
 
 - The possible values. A quantitative outcome is any quantity - it includes ratios, percentages, fractions, decimal places, negative numbers, anything that can be expressed on a continuous scale in addition to counts. Counts are a subset of quantities - they start at 0 and increase by integers, so those are the only possible values. 
