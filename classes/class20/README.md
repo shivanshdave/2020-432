@@ -58,3 +58,13 @@ Sure, but can we ask you to make it as easy as possible on us. What we want to b
     - For instance, they provide a [PDF cheat sheet](https://rpkgs.datanovia.com/survminer/survminer_cheatsheet.pdf) which was pretty helpful to me.
     - In today's slides, I'll make reference to [this PDF guide by David Diez on Survival Analysis in R from OpenIntro](https://www.openintro.org/book/surv_in_r/), which I also recommend, and which provides the `OISurv` package.
     - Materials on time-to-event outcomes are found in Chapters 22 and 23 of our [Course Notes](https://thomaselove.github.io/2020-432-book/exploring-time-to-event-survival-data.html).
+    
+3. Happiness is a challenging thing to find these days. I enjoyed the [2019 World Happiness Report](https://en.wikipedia.org/wiki/World_Happiness_Report) a year ago, and kept meaning to discuss it with you. [The data available in the full report](https://worldhappiness.report/ed/2019/) or even just on [the Wikipedia page](https://en.wikipedia.org/wiki/World_Happiness_Report) might be a nice source for visualizations and modeling in Homework 5, should you decide to pursue that.
+
+## One Last Thing
+
+I had some fun taking the [Statistical "Which Character" Personality Quiz](https://openpsychometrics.org/tests/characters/) which is part of an [Open-Source Psychometrics Project](https://openpsychometrics.org/). It attempts to compare your self-description on several traits to a selection of just over 500 fictional characters and matches you to the "most similar" one. One thing I like about it is that it is [well-documented](https://openpsychometrics.org/tests/characters/development/). 
+
+- Using their recommended list of items (28), I matched best (according to a Pearson correlation) with Sam Seaborn from *The West Wing*, which is probably more an indication of how I feel about myself than anything else. Still, I'll take it.
+- When they say I have an 86% match with Sam, this essentially means that they took my Pearson correlation (on a scale from -1 to +1) and added 1, and then multiplied by 50. So my Pearson correlation with Sam was actually *r = +0.72*.
+
