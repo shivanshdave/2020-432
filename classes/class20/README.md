@@ -38,6 +38,14 @@ That's correct. I do not. If you have a key predictor that your research questio
 - "Missing not at random" means that the missingness depends on things we DON'T have in our data set.
 - If black males are believed to be less likely to respond, then your imputation models should include both race and sex. If each of those variables in is your data, then imputation may be reasonable. If they're not, then you have a real problem, and would need to, for instance, select a different set of variables to study. That's the kind of thing you want to talk to us about at `431-help`. 
 
+> Can you help me with (some particular situation) related to my project?
+
+Sure, but can we ask you to make it as easy as possible on us. What we want to be able to do is look at R output in addition to R code. We need to be able to recreate exactly (and I mean exactly) what you're looking at. With imputation involved, this becomes very challenging. What we want to see is what the implications of various decisions you have already made are, and what the implications would be of various suggestions for going forward in order to help you make sense of your data. 
+
+1. The best solution is to settle on a version of your data set that you're happy with, then actively **save it as an Rds file within your R Markdown** so we know where in your file you created what you send to us, then send us the R Markdown, HTML result and R data set files, along with your questions. 
+2. The second best solution is to send us the **raw `.csv` files** you are importing, using the names that are used in your R Markdown file to import them, along with your R Markdown and HTML files and questions.
+3. If you cannot send us the raw data or the tidied data, helping you will be much more challenging, but we'd still like to try. At the least, we need an R Markdown and HTML file along with your questions.
+
 ## Announcements
 
 1. If you haven't already done so, please verify that you can access the Google Form for [Quiz 2](https://github.com/THOMASELOVE/2020-432/tree/master/quizzes/quiz2) and the shared drive containing my video recording, the four data sets, and the PDF file containing the instructions and items. 
