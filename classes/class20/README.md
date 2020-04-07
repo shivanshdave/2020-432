@@ -10,7 +10,7 @@ PDF of Slides | .Rmd of Slides | Notes during Class | Need Help?
 
 - [The Zoom recording for Class 20 will be available here]().
 - The [Google Doc of Notes During Class](https://docs.google.com/document/d/1VpnXK654mVLJKMnbxMyhvLSEaOwyZhO2itaMf1a3N4U/edit?usp=sharing) is a white board for communication with Dr. Love and the rest of us (and for Dr. Love to remind himself of things) during class, especially if you cannot connect to the Zoom Chat.
-- The [COVID-19 Resources page](https://github.com/THOMASELOVE/2020-432/blob/master/covid19resources.md) will remain available through April.
+- The [COVID-19 Resources page](https://github.com/THOMASELOVE/2020-432/blob/master/covid19resources.md) will remain available through April. I'll post new things as I can, and discuss them on Thursdays.
 
 ## Upcoming Deliverables (see the [Calendar](https://github.com/THOMASELOVE/2020-432/blob/master/calendar.md) for a complete list)
 
@@ -55,5 +55,3 @@ Sure, but can we ask you to make it as easy as possible on us. What we want to b
 
 2. The **survminer** package is where you can find the **ggsurvplot** approach we'll take today. For more customization of plots like the Kaplan-Meier curves we'll build today, visit https://rpkgs.datanovia.com/survminer/. 
     - For instance, they provide a [PDF cheat sheet](https://rpkgs.datanovia.com/survminer/survminer_cheatsheet.pdf) which is very helpful.
-
-3. There are some new things posted to [the COVID-19 Resources page](https://github.com/THOMASELOVE/2020-432/blob/master/covid19resources.md). I'm going to discuss these weekly on Thursdays.
