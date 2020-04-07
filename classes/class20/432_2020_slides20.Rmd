@@ -696,5 +696,6 @@ ggforest(mod_age_sex, data = survex)
 ## Next Time
 
 - Diagnostics for Cox Proportional Hazards Regression
+- Using `cph` from the `rms` package to fit a Cox model
 - An Example with Real Data
 
