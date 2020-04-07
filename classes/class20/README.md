@@ -54,5 +54,7 @@ Sure, but can we ask you to make it as easy as possible on us. What we want to b
     - Look at the email stream with the subject heading "432 Quiz 2 is now available to you" which I sent on 2020-04-03, and be sure to read the second email I sent at 11 AM on 2020-04-03 to provide the Google Drive direct link. I sent it again today, in the same link.
     - Please let us know at `431-help` if you have any questions or are having any problems accessing the materials. 
 
-2. The **survminer** package is where you can find the **ggsurvplot** approach we'll take today. For more customization of plots like the Kaplan-Meier curves we'll build today, visit https://rpkgs.datanovia.com/survminer/. 
-    - For instance, they provide a [PDF cheat sheet](https://rpkgs.datanovia.com/survminer/survminer_cheatsheet.pdf) which is very helpful.
+2. The **survminer** package is where you can find the **ggsurvplot** approach we'll take today. For more customization of plots like the Kaplan-Meier curves we'll build today, visit https://rpkgs.datanovia.com/survminer/ or https://github.com/kassambara/survminer/. 
+    - For instance, they provide a [PDF cheat sheet](https://rpkgs.datanovia.com/survminer/survminer_cheatsheet.pdf) which was pretty helpful to me.
+    - In today's slides, I'll make reference to [this PDF guide by David Diez on Survival Analysis in R from OpenIntro](https://www.openintro.org/book/surv_in_r/), which I also recommend, and which provides the `OISurv` package.
+    - Materials on time-to-event outcomes are found in Chapters 22 and 23 of our [Course Notes](https://thomaselove.github.io/2020-432-book/exploring-time-to-event-survival-data.html).
