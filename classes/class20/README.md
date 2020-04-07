@@ -56,4 +56,4 @@ Sure, but can we ask you to make it as easy as possible on us. What we want to b
 2. The **survminer** package is where you can find the **ggsurvplot** approach we'll take today. For more customization of plots like the Kaplan-Meier curves we'll build today, visit https://rpkgs.datanovia.com/survminer/. 
     - For instance, they provide a [PDF cheat sheet](https://rpkgs.datanovia.com/survminer/survminer_cheatsheet.pdf) which is very helpful.
 
-3. More to come.
+3. There are some new things posted to [the COVID-19 Resources page](https://github.com/THOMASELOVE/2020-432/blob/master/covid19resources.md). I'm going to discuss these weekly on Thursdays.
