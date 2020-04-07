@@ -22,6 +22,8 @@
     
 ![](https://github.com/THOMASELOVE/2020-432/blob/master/classes/class20/figures/cov_case_sm.png)
 
+- I've posted them before, but [shinyps1 has new pictures](https://twitter.com/shinyps1/status/1247340753057021953) of [the evolution of confirmed cases by US state](https://twitter.com/shinyps1/status/1247340665324748800/photo/1) and [the evolution of deaths per confirmed case by US state](https://twitter.com/shinyps1/status/1247340753057021953/photo/1) as of 2020-04-06.
+
 ## Things Posted During the Week of 2020-03-27
 
 - [IHME (University of Washington) COVID-19 Projections](https://covid19.healthdata.org/projections), and some of [these tweets from Carl T. Bergstrom](https://twitter.com/CT_Bergstrom/status/1244815009303023616?s=20) are motivating my thoughts. 
