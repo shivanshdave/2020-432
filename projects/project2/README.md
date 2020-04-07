@@ -13,6 +13,8 @@ You are permitted to work alone or with a partner for deliverables 1, 2 and 3. E
 
 [12 Things I Want To See In Your Project 2](https://github.com/THOMASELOVE/2020-432/blob/master/projects/project2/README.md#new-advice-is-there-anything-specific-you-want-to-see-in-project-2) was posted here 2020-04-01. Not an April Fool's joke.
 
+[Questions and Answers]
+
 -----------
 
 # The Project 2 Proposal Google Form
@@ -336,6 +338,32 @@ Sure. There are about a dozen things. I want to see...
 12. an extremely well-organized presentation of the portfolio, well-labeled, with good headings used throughout and making good use of the technology to create a table of contents that helps guide us to specific elements of your work quickly.
 
 -----------
+
+# Questions and Answers
+
+> What's the difference between a count outcome and a quantitative outcome?
+
+- The possible values. A quantitative outcome is any quantity - it includes ratios, percentages, fractions, decimal places, negative numbers, anything that can be expressed on a continuous scale in addition to counts. Counts are a subset of quantities - they start at 0 and increase by integers, so those are the only possible values. 
+- A Poisson distribution, for instance, would be an option to use in modeling a count. A Normal distribution is what we typically use for other types of quantitative outcomes.
+
+> Am I right in thinking that you don't want us to impute an outcome in Project 2?
+
+That's correct. I do not. If you have a key predictor that your research question is focused on (for instance, did receipt of this treatment affect the outcome, adjusting for these covariates), I am reluctant to have you impute that "treatment" either. I'm happiest when you're only imputing variables you are adjusting for as covariates in your models.
+
+> I am pondering how to move forward with missingness in my data. The codebook suggests that some subgroups (they specifically highlighted black males) tend to not respond to questions regarding high risk behaviors in similar surveys. I am looking at illicit drug use in my model, and there is missingness in the variables I am using. In the Project 2 instructions, you write: If missingness is not random, we suggest you reduce the scope of your data set to eliminate either the observations that are not missing at random, or to eliminate the variables containing those missing values. Can you provide some insight on how to move forward with the missingness here? 
+
+- "Missing at random" isn't a great name, as we discussed. It doesn't mean "missing arbitrarily" but rather it means that the missingness can be fully accounted for by variables where complete information is available. 
+- "Missing not at random" means that the missingness depends on things we DON'T have in our data set.
+- If black males are believed to be less likely to respond, then your imputation models should include both race and sex. If each of those variables in is your data, then imputation may be reasonable. If they're not, then you have a real problem, and would need to, for instance, select a different set of variables to study. That's the kind of thing you want to talk to us about at `431-help`. 
+
+> Can you help me with (some particular situation) related to my project?
+
+Sure, but can we ask you to make it as easy as possible on us. What we want to be able to do is look at R output in addition to R code. We need to be able to recreate exactly (and I mean exactly) what you're looking at. With imputation involved, this becomes very challenging. What we want to see is what the implications of various decisions you have already made are, and what the implications would be of various suggestions for going forward in order to help you make sense of your data. 
+
+1. The best solution is to settle on a version of your data set that you're happy with, then actively **save it as an Rds file within your R Markdown** so we know where in your file you created what you send to us, then send us the R Markdown, HTML result and R data set files, along with your questions. 
+2. The second best solution is to send us the **raw `.csv` files** you are importing, using the names that are used in your R Markdown file to import them, along with your R Markdown and HTML files and questions.
+3. If you cannot send us the raw data or the tidied data, helping you will be much more challenging, but we'd still like to try. At the least, we need an R Markdown and HTML file along with your questions.
+
 
 # Questions?
 
