@@ -13,7 +13,7 @@ You are permitted to work alone or with a partner for deliverables 1, 2 and 3. E
 
 [12 Things I Want To See In Your Project 2](https://github.com/THOMASELOVE/2020-432/blob/master/projects/project2/README.md#new-advice-is-there-anything-specific-you-want-to-see-in-project-2) was posted here 2020-04-01. Not an April Fool's joke.
 
-[Questions and Answers]
+[Questions and Answers](https://github.com/THOMASELOVE/2020-432/blob/master/projects/project2/README.md#questions-and-answers) is just what you'd think. Your questions, our answers.
 
 -----------
 
