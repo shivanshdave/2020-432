@@ -1,4 +1,4 @@
-# Things I Won't Get to in 432 This Semester (Spring 2020 Edition)
+# Things I Won't Get to in 432 This Semester (Spring 2020)
 
 ## Other Logistic Regression Methods
 
