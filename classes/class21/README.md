@@ -28,7 +28,8 @@ Mon | 04-20 | [Quiz 2](https://github.com/THOMASELOVE/2020-432/tree/master/quizz
 
 ## One Last Thing
 
-Richard Iannone announced on 2020-04-08 that the `gt` package is now available on CRAN. [Great Looking Tables](https://blog.rstudio.com/2020/04/08/great-looking-tables-gt-0-2/) are now much easier to create than in the past.
+Richard Iannone announced on 2020-04-08 that the `gt` package is now available on CRAN. [Great Looking Tables](https://blog.rstudio.com/2020/04/08/great-looking-tables-gt-0-2/) are now much easier to create than in the past. 
 
 >  The name `gt` is short for “grammar of tables” and the goal of `gt` is similar to that of `ggplot2`, serving to not just to make it easy to make specific tables, but to describe a set of underlying components that can be recombined in different ways to solve different problems. If you ever need to make beautiful customized display tables, I think you’ll find `gt` is up to the task. 
 
+[The `gt` website is here](https://gt.rstudio.com/) with lots of examples and a description of the philosophy, and links to other ways to solve table-making problems with other R packages.
