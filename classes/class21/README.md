@@ -12,6 +12,10 @@ PDF of Slides | .Rmd of Slides | Notes during Class | Need Help?
 - The [Google Doc of Notes During Class](https://docs.google.com/document/d/1VpnXK654mVLJKMnbxMyhvLSEaOwyZhO2itaMf1a3N4U/edit?usp=sharing) is a white board for communication with Dr. Love and the rest of us (and for Dr. Love to remind himself of things) during class, especially if you cannot connect to the Zoom Chat.
 - The [COVID-19 Resources page](https://github.com/THOMASELOVE/2020-432/blob/master/covid19resources.md) will remain available through April.
 
+## Announcements
+
+1. There is a [Minute Paper after today's class](https://bit.ly/432-2020-minute-21). Complete it by Sunday at 9 AM to make the feedback and avoid worried emails from Dr. Love.
+
 ## Upcoming Deliverables (see the [Calendar](https://github.com/THOMASELOVE/2020-432/blob/master/calendar.md) for a complete list)
 
 Day | Date  | Description and Deadline
@@ -21,10 +25,29 @@ Tue | 04-14 | Be sure you've read **ART** Chapters 12-13
 Sun | 04-19 | Minute Paper after Class 23. Submit before 9 AM Sunday to make the feedback.
 Mon | 04-20 | [Quiz 2](https://github.com/THOMASELOVE/2020-432/tree/master/quizzes/quiz2) will be due at 10 AM.
 
-## Announcements
+## Questions and Answers (also posted [to the Project 2 Instructions](https://github.com/THOMASELOVE/2020-432/blob/master/projects/project2/README.md#questions-and-answers))
 
-1. There is a [Minute Paper after today's class](https://bit.ly/432-2020-minute-21). Complete it by Sunday at 9 AM to make the feedback.
-2. More to come.
+> I'm having trouble getting the `cut` function to work properly in creating categories from a continuous variable. Any suggestions?
+
+My general approach to cutting variables by quartile is to use [the cut2 function from the Hmisc package](https://www.rdocumentation.org/packages/Hmisc/versions/4.4-0/topics/cut2) (which rms loads automatically) or to use the tidyverse's apporoach which is [cut_interval or cut_number or cut_width](https://ggplot2.tidyverse.org/reference/cut_interval.html) (all are part of ggplot2, I think) rather than [cut from the base R software](https://www.rdocumentation.org/packages/base/versions/3.6.2/topics/cut). You might want to look at one of those options.
+
+The most common thing I do when using any of these tools is to build a plot or table that shows me the old continuous data broken down by levels of the new categorical variable, to be sure I didn't introduce any missing values and that every subject falls into the category I intended them to fall into.
+
+> How might I use a Poisson or other count outcome model if I have counts, but the minimum possible value is 1, instead of 0?
+
+Try a Poisson model on (Y - 1) rather than on your original response Y.
+
+> Suppose I run my model with simple imputation and get result "A" and then run my model with multiple imputation and get result "NOT A". Which is the one I should report?
+
+This is a pretty clear indication that you need multiple imputation. I would report that as my final model. It's 100% reasonable to show this impact and then settle on the multiple imputation approach if you like.
+
+> How should I explain my data cleaning and management work?
+
+Ideally, by explaining things (why you're doing them and what you're doing) in complete sentences before you show the code. And use subheadings, please. Bite the pieces off into small chunks and present the cleaning in multiple pieces as opposed to a wall of text.
+
+> What's the most useful thing I can do to improve my project?
+
+Have someone else read it, looking for grammar and syntax issues, and for things that don't make sense. Ideally, you'd have cultivated friends in the class who can read your work. Happily, all of you have in the form of our TAs, but they're probably only available to read parts of your work - not the whole thing.
 
 ## One Last Thing
 
