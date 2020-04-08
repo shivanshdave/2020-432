@@ -15,6 +15,7 @@ PDF of Slides | .Rmd of Slides | Notes during Class | Need Help?
 ## Announcements
 
 1. There is a [Minute Paper after today's class](https://bit.ly/432-2020-minute-21). Complete it by Sunday at 9 AM to make the feedback and avoid worried emails from Dr. Love.
+2. I'm likely going to either implement a password or registration requirements for our Zoom classes after today's class. If you don't remember the course password, Dr. Love will remind you.
 
 ## Upcoming Deliverables (see the [Calendar](https://github.com/THOMASELOVE/2020-432/blob/master/calendar.md) for a complete list)
 
