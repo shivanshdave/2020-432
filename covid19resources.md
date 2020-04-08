@@ -22,7 +22,10 @@
     
 ![](https://github.com/THOMASELOVE/2020-432/blob/master/classes/class20/figures/cov_case_sm.png)
 
-- I've posted them before, but [shinyps1 has new pictures](https://twitter.com/shinyps1/status/1247340753057021953) of [the evolution of confirmed cases by US state](https://twitter.com/shinyps1/status/1247340665324748800/photo/1) and [the evolution of deaths per confirmed case by US state](https://twitter.com/shinyps1/status/1247340753057021953/photo/1) as of 2020-04-06.
+- [MetroHealth Releases COVID-19 Projections](https://news.metrohealth.org/metrohealth-releases-covid-19-projections/) (2020-04-07)
+- I've posted them before, but [shinyps1 has new pictures of the evolution by state in the US](https://twitter.com/shinyps1/status/1247743234358390790) as of 2020-04-07.
+- [Data.world COVID-19 Resources](https://data.world/resources/coronavirus/)
+- [Interminable Meetings Found Ineffective for Treatment of COVID-19](https://twitter.com/hmkyale/status/1247578342825566216)
 
 ## Things Posted During the Week of 2020-03-27
 
