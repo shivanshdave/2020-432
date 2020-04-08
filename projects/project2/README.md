@@ -341,12 +341,12 @@ Sure. There are about a dozen things. I want to see...
 
 # Questions and Answers
 
-> What's the difference between a count outcome and a quantitative outcome?
+> What's the difference between a count outcome and a quantitative outcome? (posted 2020-04-06)
 
 - The possible values. A quantitative outcome is any quantity - it includes ratios, percentages, fractions, decimal places, negative numbers, anything that can be expressed on a continuous scale in addition to counts. Counts are a subset of quantities - they start at 0 and increase by integers, so those are the only possible values. 
 - A Poisson distribution, for instance, would be an option to use in modeling a count. A Normal distribution is what we typically use for other types of quantitative outcomes.
 
-> Am I right in thinking that you don't want us to impute an outcome in Project 2?
+> Am I right in thinking that you don't want us to impute an outcome in Project 2? (posted 2020-04-06)
 
 That's correct. I do not. If you have a key predictor that your research question is focused on (for instance, did receipt of this treatment affect the outcome, adjusting for these covariates), I am reluctant to have you impute that "treatment" either. I'm happiest when you're only imputing variables you are adjusting for as covariates in your models.
 
@@ -356,13 +356,35 @@ That's correct. I do not. If you have a key predictor that your research questio
 - "Missing not at random" means that the missingness depends on things we DON'T have in our data set.
 - If black males are believed to be less likely to respond, then your imputation models should include both race and sex. If each of those variables in is your data, then imputation may be reasonable. If they're not, then you have a real problem, and would need to, for instance, select a different set of variables to study. That's the kind of thing you want to talk to us about at `431-help`. 
 
-> Can you help me with (some particular situation) related to my project?
+> Can you help me with (some particular situation) related to my project? (posted 2020-04-06)
 
 Sure, but can we ask you to make it as easy as possible on us. What we want to be able to do is look at R output in addition to R code. We need to be able to recreate exactly (and I mean exactly) what you're looking at. With imputation involved, this becomes very challenging. What we want to see is what the implications of various decisions you have already made are, and what the implications would be of various suggestions for going forward in order to help you make sense of your data. 
 
 1. The best solution is to settle on a version of your data set that you're happy with, then actively **save it as an Rds file within your R Markdown** so we know where in your file you created what you send to us, then send us the R Markdown, HTML result and R data set files, along with your questions. 
 2. The second best solution is to send us the **raw `.csv` files** you are importing, using the names that are used in your R Markdown file to import them, along with your R Markdown and HTML files and questions.
 3. If you cannot send us the raw data or the tidied data, helping you will be much more challenging, but we'd still like to try. At the least, we need an R Markdown and HTML file along with your questions.
+
+> I'm having trouble getting the `cut` function to work properly in creating categories from a continuous variable. Any suggestions? (posted 2020-04-08)
+
+My general approach to cutting variables by quartile is to use [the cut2 function from the Hmisc package](https://www.rdocumentation.org/packages/Hmisc/versions/4.4-0/topics/cut2) (which rms loads automatically) or to use the tidyverse's apporoach which is [cut_interval or cut_number or cut_width](https://ggplot2.tidyverse.org/reference/cut_interval.html) (all are part of ggplot2, I think) rather than [cut from the base R software](https://www.rdocumentation.org/packages/base/versions/3.6.2/topics/cut). You might want to look at one of those options.
+
+The most common thing I do when using any of these tools is to build a plot or table that shows me the old continuous data broken down by levels of the new categorical variable, to be sure I didn't introduce any missing values and that every subject falls into the category I intended them to fall into.
+
+> How might I use a Poisson or other count outcome model if I have counts, but the minimum possible value is 1, instead of 0? (posted 2020-04-08)
+
+Try a Poisson model on (Y - 1) rather than on your original response Y.
+
+> Suppose I run my model with simple imputation and get result "A" and then run my model with multiple imputation and get result "NOT A". Which is the one I should report? (posted 2020-04-08)
+
+This is a pretty clear indication that you need multiple imputation. I would report that as my final model. It's 100% reasonable to show this impact and then settle on the multiple imputation approach if you like.
+
+> How should I explain my data cleaning and management work? (posted 2020-04-08)
+
+Ideally, by explaining things (why you're doing them and what you're doing) in complete sentences before you show the code. And use subheadings, please. Bite the pieces off into small chunks and present the cleaning in multiple pieces as opposed to a wall of text.
+
+> What's the most useful thing I can do to improve my project? (posted 2020-04-08)
+
+Have someone else read it, looking for grammar and syntax issues, and for things that don't make sense. Ideally, you'd have cultivated friends in the class who can read your work. Happily, all of you have in the form of our TAs, but they're probably only available to read parts of your work - not the whole thing.
 
 
 # Questions?
