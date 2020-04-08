@@ -16,9 +16,9 @@ PDF of Slides | .Rmd of Slides | Notes during Class | Need Help?
 
 1. There is a [Minute Paper after today's class](https://bit.ly/432-2020-minute-21). Complete it by Sunday at 9 AM to make the feedback and avoid worried emails from Dr. Love.
 2. I'm likely going to either implement a password or registration requirements for our Zoom classes after today's class. If you don't remember the course password, Dr. Love will remind you.
-3. One of the many things I'm not going to get to this semester is the notion of **exact logistic regression**, which is an idea that is often used for building models when some combinations of an outcome and a categorical predictor do not occur in the data ("separation"), but which is extremely computationally intensive and I've only actually done it with very small problems.
-    - One good old example of doing exact logistic regression using R and the `elrm` package is [found here at UCLA](https://stats.idre.ucla.edu/r/dae/exact-logistic-regression/), but it's a limited tool.
-    - I might suggest that instead using **penalized maximum likeligood logistic regression using the Firth method** and the `logistf` package may be more suitable, especially if your data display "separation" as identified above. [Here's a YouTube Video](https://www.youtube.com/watch?v=fVbrUz6V_uk), and here's [an example using Firth logistic regression](https://www.r-bloggers.com/example-8-15-firth-logistic-regression/).
+3. A good resource for studying time-to-event data and survival analysis in R is [this chapter](https://argoshare.is.ed.ac.uk/healthyr_book/chap10-h1.html) of [HealthyR: R for Health Data Analysis](https://argoshare.is.ed.ac.uk/healthyr_book/) by Ewen Harrison and Riinu Pius.
+4. Yihui Xie has begun to write an [R Markdown Cookbook](https://bookdown.org/yihui/rmarkdown-cookbook/). The [R Graphics Cookbook](https://r-graphics.org/) by Winston Chang continues to be one of the most useful things ever.
+
 
 ## Upcoming Deliverables (see the [Calendar](https://github.com/THOMASELOVE/2020-432/blob/master/calendar.md) for a complete list)
 
