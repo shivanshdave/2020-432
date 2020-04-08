@@ -16,12 +16,12 @@ PDF of Slides | .Rmd of Slides | Notes during Class | Need Help?
 
 Day | Date  | Description and Deadline
 :--: | ----: | ----------------------------------------------------------------------------------------------
-Sun | 04-12 | Minute Paper after Class 21. Submit before 9 AM Sunday to make the feedback.
+Sun | 04-12 | [Minute Paper after Class 21 is now available](https://bit.ly/432-2020-minute-21). Submit before 9 AM Sunday to make the feedback.
 Tue | 04-14 | Be sure you've read **ART** Chapters 12-13
 Sun | 04-19 | Minute Paper after Class 23. Submit before 9 AM Sunday to make the feedback.
 Mon | 04-20 | [Quiz 2](https://github.com/THOMASELOVE/2020-432/tree/master/quizzes/quiz2) will be due at 10 AM.
 
 ## Announcements
 
-1. There will be a Minute Paper after today's class. Complete it by Sunday at 9 AM to make the feedback.
+1. There is a [Minute Paper after today's class](https://bit.ly/432-2020-minute-21). Complete it by Sunday at 9 AM to make the feedback.
 2. More to come.
