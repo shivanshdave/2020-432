@@ -51,6 +51,10 @@ This is a pretty clear indication that you need multiple imputation. I would rep
 
 Ideally, by explaining things (why you're doing them and what you're doing) in complete sentences before you show the code. And use subheadings, please. Bite the pieces off into small chunks and present the cleaning in multiple pieces as opposed to a wall of text.
 
+> I have a question about using the mice package to impute missing values. Specifically, how do we end up with a complete dataset? In the case of single imputation we can use: smart_16_imp1 <- mice::complete(smart_16_mice1) but in the case of multiple imputation, we end up with a pooled model of all 20 runs of our imputations. Is there a way to use this model to complete the data and fill in the missing values? If not, then what should the final analytic data set look like at the end of section 4? 
+
+When using multiple imputation, you will thus create not one, but multiple data sets. Your final analytic data set that you create in Section 4 (and save as a tidy R data set) should be the data set including the missing values, after you've removed any cases that you will drop because of missing outcomes, but before you do any imputation, multiple or otherwise. That should also be what you display results for in Section 5. Your actual imputation work, then, should be confined to **Section 6** of the Project portfolio.
+
 > What's the most useful thing I can do to improve my project?
 
 Have someone else read it, looking for grammar and syntax issues, and for things that don't make sense. Ideally, you'd have cultivated friends in the class who can read your work. Happily, all of you have in the form of our TAs, but they're probably only available to read parts of your work - not the whole thing.
