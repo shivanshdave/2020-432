@@ -1,7 +1,7 @@
 ---
-title: "432 Class 20 Slides"
+title: "432 Class 21 Slides"
 author: "github.com/THOMASELOVE/2020-432"
-date: "2020-04-07"
+date: "2020-04-09"
 output:
   beamer_presentation: 
     colortheme: lily
@@ -376,17 +376,6 @@ survplot(cph_AxT,
          xlab = "Study Survival Time in weeks")
 ```
 
-## `cph_AxT` nomogram (code)
-
-```{r, eval = FALSE}
-sv <- Survival(cph_AxT)
-surv4 <- function(x) sv(208, lp = x)
-
-plot(nomogram(cph_AxT,
-              fun = surv3,
-              funlabel = c("4 year survival")))
-```
-
 ## Plotting `age` effect implied by `cph_AxT` model
 
 ```{r, fig.height = 5}
@@ -397,6 +386,17 @@ ggplot(Predict(cph_AxT, age))
 
 ```{r, fig.height = 5}
 ggplot(Predict(cph_AxT, treat))
+```
+
+## `cph_AxT` nomogram (code)
+
+```{r, eval = FALSE}
+sv <- Survival(cph_AxT)
+surv4 <- function(x) sv(208, lp = x)
+
+plot(nomogram(cph_AxT,
+              fun = surv3,
+              funlabel = c("4 year survival")))
 ```
 
 ## `cph_AxT` nomogram (Results)
