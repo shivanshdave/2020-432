@@ -16,11 +16,10 @@ PDF of Slides | .Rmd of Slides | Notes during Class | Need Help?
 ## Announcements
 
 1. There is a [Minute Paper after today's class](https://bit.ly/432-2020-minute-21). Complete it by Sunday at 9 AM to make the feedback and avoid worried emails from Dr. Love.
-2. I'm likely going to either implement a password or registration requirements for our Zoom classes after today's class. If you don't remember the course password, visit Canvas, and check out the Announcements. There, Dr. Love will remind you.
+2. I'm going to implement a password for our Zoom classes after today's class. If you don't remember the course password, visit Canvas, and check out the Announcements. There, Dr. Love will remind you.
 3. I've started a page of recommendations regarding [Things I Won't Get To This Semester](https://github.com/THOMASELOVE/2020-432/blob/master/not_this_semester.md) that I think might be worth your time.
 4. A good resource for studying time-to-event data and survival analysis in R is [this chapter](https://argoshare.is.ed.ac.uk/healthyr_book/chap10-h1.html) of [HealthyR: R for Health Data Analysis](https://argoshare.is.ed.ac.uk/healthyr_book/) by Ewen Harrison and Riinu Pius.
 5. Yihui Xie has begun to write an [R Markdown Cookbook](https://bookdown.org/yihui/rmarkdown-cookbook/). The [R Graphics Cookbook](https://r-graphics.org/) by Winston Chang continues to be one of the most useful things ever.
-
 
 ## Upcoming Deliverables (see the [Calendar](https://github.com/THOMASELOVE/2020-432/blob/master/calendar.md) for a complete list)
 
