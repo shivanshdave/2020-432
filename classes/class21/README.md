@@ -8,7 +8,7 @@ PDF of Slides | .Rmd of Slides | Notes during Class | Need Help?
 ------------: | :------------------: | :---------------------------: | :------------------------:
 [Class 21 Slides](https://github.com/THOMASELOVE/2020-432/blob/master/classes/class21/432_2020_slides21.pdf) | [Class 21 RMD](https://github.com/THOMASELOVE/2020-432/blob/master/classes/class21/432_2020_slides21.Rmd) | [Google Doc](https://docs.google.com/document/d/1VpnXK654mVLJKMnbxMyhvLSEaOwyZhO2itaMf1a3N4U/edit?usp=sharing) | Email **431-help at case dot edu** or attend [TA office hours](https://github.com/THOMASELOVE/2020-432/blob/master/calendar.md#ta-office-hours)
 
-- [The Zoom recording for Class 21 will be posted here]().
+- [The Zoom recording for Class 21 is available here](https://cwru.zoom.us/rec/share/5JxvLaDZ7mNOQ6vyrxqHcK47GovrX6a8gSVPrPVfxRwYG0gIcSxK_U89XaMUmoiW?startTime=1586451605000).
 - The [Google Doc of Notes During Class](https://docs.google.com/document/d/1VpnXK654mVLJKMnbxMyhvLSEaOwyZhO2itaMf1a3N4U/edit?usp=sharing) is a white board for communication with Dr. Love and the rest of us (and for Dr. Love to remind himself of things) during class, especially if you cannot connect to the Zoom Chat.
 - The [COVID-19 Resources page](https://github.com/THOMASELOVE/2020-432/blob/master/covid19resources.md) will remain available through April.
 - **NEW!** [Things I Won't Get To This Semester](https://github.com/THOMASELOVE/2020-432/blob/master/not_this_semester.md)
