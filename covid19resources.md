@@ -26,6 +26,8 @@
 - I've posted them before, but [shinyps1 has new pictures of the evolution by state in the US](https://twitter.com/shinyps1/status/1247743234358390790) as of 2020-04-07.
 - [Data.world COVID-19 Resources](https://data.world/resources/coronavirus/)
 - [Interminable Meetings Found Ineffective for Treatment of COVID-19](https://twitter.com/hmkyale/status/1247578342825566216)
+- [Broadstreet COVID-19 Data Project](https://covid19dataproject.org/) is a volunteer driven data collection and presentation effort.
+- [Some Select COVID-19 Modeling Resources](https://rviews.rstudio.com/2020/04/07/some-select-covid-19-modeling-resources/) by Joseph Rickert at R Views (RStudio's R Community Blog)
 
 ## Things Posted During the Week of 2020-03-27
 
