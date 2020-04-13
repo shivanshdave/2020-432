@@ -17,7 +17,9 @@ PDF of Slides | .Rmd of Slides | Notes during Class | Need Help?
 
 1. Feedback on the Minute Paper after Class 21 is available at https://bit.ly/432-2020-minute-21-feedback.
 2. By now, you should have read through Chapter 13 of Speigelhalter's *The Art of Statistics*
-3. More to come.
+3. Joseph Hnath was good enough to pass along links to several of the [YouTube videos posted by 3Blue1Brown](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw) which he has enjoyed, including [this one about Bayes' Theorem](https://youtu.be/HZGCoVF3YvM), [this one about the binomial distribution and Amazon reviews](https://youtu.be/8idr1WZ1A7Q) and [this one about probability density functions and continuous vs. discrete contexts](https://youtu.be/ZA4JkHKZM50). I hope they are of interest to you.
+4. A [major new release of the rms package](https://twitter.com/f2harrell/status/1249024837621878792?s=11) is coming soon, and of particular interest to me is the ability to use Bayesian approaches to run binary and ordinal (proportional odds) logistic regression models, [as illustrated here](http://hbiostat.org/R/rms/blrm.html). Frank Harrell has [a couple of older examples for the `rms` package here](http://hbiostat.org/R/rms/examples.html), too. [Bayesian survival analysis is also available using the `rstanarm` package](https://arxiv.org/abs/2002.09633), it seems.
+5. More to come.
 
 ## Upcoming Deliverables (see the [Calendar](https://github.com/THOMASELOVE/2020-432/blob/master/calendar.md) for a complete list)
 
