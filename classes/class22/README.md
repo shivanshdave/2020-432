@@ -23,12 +23,12 @@ PDF of Slides | .Rmd of Slides | Notes during Class | Need Help?
 
 ## Today's Discussion
 
-will be centered around replicable research, statistical significance and *p* values. I will include in today's conversation a brief walk through [this editorial](https://amstat.tandfonline.com/toc/utas20/73/sup1):
+will be centered around replicable research, statistical significance and *p* values. I will include in today's conversation a brief walk through [the 2019 American Statistical Association editorial](https://github.com/THOMASELOVE/2020-432/blob/master/classes/class22/references/ASA_2019_A_World_Beyond.pdf):
 
 - Ronald L. Wasserstein, Allen L. Schirm & Nicole A. Lazar (2019) [Moving to a World Beyond "p < 0.05"](https://www.tandfonline.com/doi/full/10.1080/00031305.2019.1583913), *The American Statistician*, 73:sup1, 1-19, DOI: [10.1080/00031305.2019.1583913](https://doi.org/10.1080/00031305.2019.1583913). 
-    - Ron Wasserstein gave a [one-hour talk you can watch here](https://t.co/GbQF01h4jU) just this past week on "[Helping to move to a world beyond p < 0.05](https://t.co/GbQF01h4jU)" which I cannot recommend enough.
+    - Ron gave a [one-hour talk you can watch here](https://t.co/GbQF01h4jU) just this past week on "[Helping to move to a world beyond p < 0.05](https://t.co/GbQF01h4jU)" which I cannot recommend enough.
 
-You may also be interested in [the American Statistical Association's 2016 statement on P Values](http://amstat.tandfonline.com/doi/full/10.1080/00031305.2016.1154108) which originally got me thinking along these lines: 
+You may also be interested in [the American Statistical Association's 2016 statement on P Values](https://github.com/THOMASELOVE/2020-432/blob/master/classes/class22/references/ASA_2016_Pvalues_Context_Process_Purpose.pdf) which originally got me thinking along these lines: 
 
 - Ronald L. Wasserstein & Nicole A. Lazar (2016) [The ASA's Statement on p-Values: Context, Process, and Purpose](https://www.tandfonline.com/doi/full/10.1080/00031305.2016.1154108), *The American Statistician*, 70:2, 129-133, DOI:
 [10.1080/00031305.2016.1154108](https://doi.org/10.1080/00031305.2016.1154108).
@@ -50,9 +50,9 @@ We'll spend a bit of time talking about:
 
 Three articles I'll be talking about next time (and perhaps a bit this time) are:
 
-- Andrew Gelman and John Carlin [Beyond Power Calculations: Assessing Type S (Sign) and Type M (Magnitude) Errors](https://github.com/THOMASELOVE/2019-432/blob/master/slides/class22/Gelman%20and%20Carlin%202014%20Beyond%20Power%20Calculations.pdf)
-- Jeffrey Leek and Roger Peng [P-values are just the tip of the iceberg](https://github.com/THOMASELOVE/2019-432/blob/master/slides/class22/Leek_and_Peng_Nature2015.pdf)
-- Jeffrey D Blume, Lucy D'Agostino McGowan, William D. Dupont, Robert A Greevy [Second-generation p values: Improved rigor, reproducibility and transparency in statistical analyses](https://github.com/THOMASELOVE/2019-432/blob/master/slides/class22/Blume_Second_Gen_P_Values_2018.pdf)
+- Andrew Gelman and John Carlin [Beyond Power Calculations: Assessing Type S (Sign) and Type M (Magnitude) Errors](https://github.com/THOMASELOVE/2020-432/blob/master/classes/class22/references/Gelman_Carlin_2014_Beyond_Power_Calculations.pdf)
+- Jeffrey Leek and Roger Peng [P-values are just the tip of the iceberg](https://github.com/THOMASELOVE/2020-432/blob/master/classes/class22/references/Leek_and_Peng_2015_Pvalues_Nature.pdf)
+- Jeffrey D Blume, Lucy D'Agostino McGowan, William D. Dupont, Robert A Greevy [Second-generation p values: Improved rigor, reproducibility and transparency in statistical analyses](https://github.com/THOMASELOVE/2020-432/blob/master/classes/class22/references/Blume_etal_2018_Second_Generation_P_Values.pdf)
 
 ## Upcoming Deliverables (see the [Calendar](https://github.com/THOMASELOVE/2020-432/blob/master/calendar.md) for a complete list)
 
