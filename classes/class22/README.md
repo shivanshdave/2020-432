@@ -21,6 +21,11 @@ PDF of Slides | .Rmd of Slides | Notes during Class | Need Help?
 4. A [major new release of the rms package](https://twitter.com/f2harrell/status/1249024837621878792?s=11) is coming soon, and of particular interest to me is the ability to use Bayesian approaches to run binary and ordinal (proportional odds) logistic regression models, [as illustrated here](http://hbiostat.org/R/rms/blrm.html). Frank Harrell has [a couple of older examples for the `rms` package here](http://hbiostat.org/R/rms/examples.html), too. [Bayesian survival analysis is also available using the `rstanarm` package](https://arxiv.org/abs/2002.09633), it seems.
 5. More to come.
 
+## Supplemental Materials Related to Today's Class
+
+- Ron Wasserstein from the American Statistical Association gave a [one-hour talk you can watch here](https://t.co/GbQF01h4jU) just this past week on "[Helping to move to a world beyond p < 0.05](https://t.co/GbQF01h4jU)" which I cannot recommend enough.
+
+
 ## Upcoming Deliverables (see the [Calendar](https://github.com/THOMASELOVE/2020-432/blob/master/calendar.md) for a complete list)
 
 Day | Date  | Description and Deadline
