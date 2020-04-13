@@ -23,15 +23,15 @@ PDF of Slides | .Rmd of Slides | Notes during Class | Need Help?
 
 ## Today's Discussion
 
-will be centered around replicable research, statistical significance and *p* values. I will include in today's conversation a brief walk through this editorial:
+will be centered around replicable research, statistical significance and *p* values. I will include in today's conversation a brief walk through [this editorial](https://amstat.tandfonline.com/toc/utas20/73/sup1):
 
 - Ronald L. Wasserstein, Allen L. Schirm & Nicole A. Lazar (2019) [Moving to a World Beyond "p < 0.05"](https://www.tandfonline.com/doi/full/10.1080/00031305.2019.1583913), *The American Statistician*, 73:sup1, 1-19, DOI: [10.1080/00031305.2019.1583913](https://doi.org/10.1080/00031305.2019.1583913). 
-- Ron Wasserstein gave a [one-hour talk you can watch here](https://t.co/GbQF01h4jU) just this past week on "[Helping to move to a world beyond p < 0.05](https://t.co/GbQF01h4jU)" which I cannot recommend enough.
+    - Ron Wasserstein gave a [one-hour talk you can watch here](https://t.co/GbQF01h4jU) just this past week on "[Helping to move to a world beyond p < 0.05](https://t.co/GbQF01h4jU)" which I cannot recommend enough.
 
-You may also be interested in [the American Statistical Association's 2016 statement on P Values](https://github.com/THOMASELOVE/2019-432/blob/master/slides/class22/The%20ASA%20s%20Statement%20on%20p%20Values%20Context%20Process%20and%20Purpose.pdf) which originally got me thinking along these lines. That is properly cited as:
+You may also be interested in [the American Statistical Association's 2016 statement on P Values](http://amstat.tandfonline.com/doi/full/10.1080/00031305.2016.1154108) which originally got me thinking along these lines: 
 
 - Ronald L. Wasserstein & Nicole A. Lazar (2016) [The ASA's Statement on p-Values: Context, Process, and Purpose](https://www.tandfonline.com/doi/full/10.1080/00031305.2016.1154108), *The American Statistician*, 70:2, 129-133, DOI:
-[10.1080/00031305.2016.1154108](https://doi.org/10.1080/00031305.2016.1154108)
+[10.1080/00031305.2016.1154108](https://doi.org/10.1080/00031305.2016.1154108).
 
 Some related motivation comes from 
 
@@ -47,10 +47,12 @@ We'll spend a bit of time talking about:
     - "[Science Isn't Broken](https://fivethirtyeight.com/features/science-isnt-broken/#part1)" with graphics by Ritchie King.
 - You may also be interested in this piece at pbs.org about a NOVA program entitled "[Rethinking Science's Magic Number](https://www.pbs.org/wgbh/nova/article/rethinking-sciences-magic-number/)".
 - I have given several talks on "Rethinking Statistical Significance" in recent years. The Github repository for one of the recent ones (90 minutes at MetroHealth Medical Center and the Center for Health Care Research and Policy, with an audio recording) is at https://github.com/THOMASELOVE/rethink, if you're a glutton for punishment.
+
+Three articles I'll be talking about next time (and perhaps a bit this time) are:
+
 - Andrew Gelman and John Carlin [Beyond Power Calculations: Assessing Type S (Sign) and Type M (Magnitude) Errors](https://github.com/THOMASELOVE/2019-432/blob/master/slides/class22/Gelman%20and%20Carlin%202014%20Beyond%20Power%20Calculations.pdf)
 - Jeffrey Leek and Roger Peng [P-values are just the tip of the iceberg](https://github.com/THOMASELOVE/2019-432/blob/master/slides/class22/Leek_and_Peng_Nature2015.pdf)
 - Jeffrey D Blume, Lucy D'Agostino McGowan, William D. Dupont, Robert A Greevy [Second-generation p values: Improved rigor, reproducibility and transparency in statistical analyses](https://github.com/THOMASELOVE/2019-432/blob/master/slides/class22/Blume_Second_Gen_P_Values_2018.pdf)
-
 
 ## Upcoming Deliverables (see the [Calendar](https://github.com/THOMASELOVE/2020-432/blob/master/calendar.md) for a complete list)
 
