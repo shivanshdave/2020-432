@@ -1,5 +1,10 @@
 # Data and Resources related to COVID-19
 
+## Posted during the week of 2020-04-13
+
+- From FiveThirtyEight: [A Comic Strip Tour Of The Wild World Of Pandemic Modeling](https://fivethirtyeight.com/features/a-comic-strip-tour-of-the-wild-world-of-pandemic-modeling/) by Zach Weinersmith, Maggie Koerth, Laura Bronner and Jasmine Mithani
+
+
 ## Posted during the week of 2020-04-06
 
 - FiveThirtyEight Video Podcast: [Why Forecasting COVID-19 Is Harder Than Forecasting Elections](https://fivethirtyeight.com/videos/why-forecasting-covid-19-is-harder-than-forecasting-elections/) by Galen Druke, Laura Bronner and Maggie Koerth (from 2020-04-03). Related FiveThirtyEight pieces include:
