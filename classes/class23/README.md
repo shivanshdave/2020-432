@@ -27,7 +27,7 @@ PDF of Slides | .Rmd of Slides | Notes during Class | Need Help?
 - Also, here's a reminder about Frank Harrell's post about "[Language for communicating frequentist results about treatment effects](https://discourse.datamethods.org/t/language-for-communicating-frequentist-results-about-treatment-effects/934)"
 - And, one more thing, from Andrew Gelman: [Statistical-significance thinking is not just a bad way to publish, it’s also a bad way to think](https://statmodeling.stat.columbia.edu/2019/03/16/statistical-significance-thinking-is-not-just-a-bad-way-to-publish-its-also-a-bad-way-to-think/) - the money quote: "it’s ultimately not about what it takes, or should take, to get a result published, but rather how we as researchers can navigate through uncertainty and not get faked out by noise in our own data."
 
-![](https://github.com/THOMASELOVE/2020-432/blob/master/slides/class23/figures/shruggies.PNG) from [Kevin Reuning](https://twitter.com/KevinReuning/status/796107864704188420)
+![](https://github.com/THOMASELOVE/2020-432/blob/master/classes/class23/figures/shruggies.PNG) from [Kevin Reuning](https://twitter.com/KevinReuning/status/796107864704188420)
 
 ## Upcoming Deliverables (see the [Calendar](https://github.com/THOMASELOVE/2020-432/blob/master/calendar.md) for a complete list)
 
