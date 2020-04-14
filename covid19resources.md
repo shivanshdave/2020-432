@@ -3,9 +3,12 @@
 ## Posted during the week of 2020-04-13
 
 - From FiveThirtyEight: [A Comic Strip Tour Of The Wild World Of Pandemic Modeling](https://fivethirtyeight.com/features/a-comic-strip-tour-of-the-wild-world-of-pandemic-modeling/) by Zach Weinersmith, Maggie Koerth, Laura Bronner and Jasmine Mithani
-- David Spiegelhalter drew [the graph below](https://twitter.com/d_spiegel/status/1249986522692096003?s=11) based on the latest data from [the UK's Office for National Statistics](https://www.ons.gov.uk/peoplepopulationandcommunity/birthsdeathsandmarriages/deaths/bulletins/deathsregisteredweeklyinenglandandwalesprovisional/weekending3april2020). [David asks](https://twitter.com/d_spiegel/status/1249986522692096003): Why the massive rise in non-COVID deaths? How much is judgement of registering doctor? How much is collateral damage of lockdown?
+- David Spiegelhalter has been busy.
+    - from 2020-03-21: [How much "normal" risk does Covid represent?](https://medium.com/wintoncentre/how-much-normal-risk-does-covid-represent-4539118e1196)
+    - from 2020-04-11: [Does Covid raise everyone’s relative risk of dying by a similar amount? More evidence.](https://medium.com/wintoncentre/does-covid-raise-everyones-relative-risk-of-dying-by-a-similar-amount-more-evidence-e7d30abf6821)
+- More recently, David drew [the graph below](https://twitter.com/d_spiegel/status/1249986522692096003?s=11) based on the latest data from [the UK's Office for National Statistics](https://www.ons.gov.uk/peoplepopulationandcommunity/birthsdeathsandmarriages/deaths/bulletins/deathsregisteredweeklyinenglandandwalesprovisional/weekending3april2020). [David asks](https://twitter.com/d_spiegel/status/1249986522692096003): Why the massive rise in non-COVID deaths? How much is judgement of registering doctor? How much is collateral damage of lockdown?
 
-![]()
+![](https://github.com/THOMASELOVE/2020-432/blob/master/classes/class22/figures/speigelhalter_covid_2020-04-14.jpg)
 
 ## Posted during the week of 2020-04-06
 
