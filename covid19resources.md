@@ -3,7 +3,7 @@
 ## Posted during the week of 2020-04-13
 
 - From FiveThirtyEight: [A Comic Strip Tour Of The Wild World Of Pandemic Modeling](https://fivethirtyeight.com/features/a-comic-strip-tour-of-the-wild-world-of-pandemic-modeling/) by Zach Weinersmith, Maggie Koerth, Laura Bronner and Jasmine Mithani
-- Carl T. Bergstrom contributes [this discussion of whether we should divide by population size when plotting epidemic curves or death totals](https://twitter.com/CT_Bergstrom/status/1249930293928030209). As he points out, the issue has become politicized in part because depending on what assumptions you make and how you visualize the data, the US can look like the worst in the world, or quite good. The answer is subtle, but worth thinking about.
+- Carl T. Bergstrom contributes [this discussion of whether we should divide by population size when plotting epidemic curves or death totals](https://twitter.com/CT_Bergstrom/status/1249930293928030209). As he points out, the issue has become politicized in part because depending on what assumptions you make and how you visualize the data, the US can look like the worst in the world, or quite good. Bergstrom's "answer" is subtle, but worth thinking about.
 - David Spiegelhalter has been busy.
     - from 2020-03-21: [How much "normal" risk does Covid represent?](https://medium.com/wintoncentre/how-much-normal-risk-does-covid-represent-4539118e1196)
     - from 2020-04-11: [Does Covid raise everyone’s relative risk of dying by a similar amount? More evidence.](https://medium.com/wintoncentre/does-covid-raise-everyones-relative-risk-of-dying-by-a-similar-amount-more-evidence-e7d30abf6821)
