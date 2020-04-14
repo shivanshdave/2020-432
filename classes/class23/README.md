@@ -13,9 +13,9 @@ PDF of Slides | .Rmd of Slides | Notes during Class | Need Help?
 - The [COVID-19 Resources page](https://github.com/THOMASELOVE/2020-432/blob/master/covid19resources.md) will remain available through April.
 - **NEW!** [Things I Won't Get To This Semester](https://github.com/THOMASELOVE/2020-432/blob/master/not_this_semester.md)
 
-![](https://github.com/THOMASELOVE/2019-432/blob/master/classes/class23/figures/dude.PNG) from [@healthstatsdude](https://twitter.com/healthstatsdude/status/1102442635233382400)
+![](https://github.com/THOMASELOVE/2020-432/blob/master/classes/class23/figures/dude.PNG) from [@healthstatsdude](https://twitter.com/healthstatsdude/status/1102442635233382400)
 
-![](https://github.com/THOMASELOVE/2019-432/blob/master/classes/class23/figures/dude2.PNG) from [@healthstatsdude](https://twitter.com/healthstatsdude/status/1119390175350513664)
+![](https://github.com/THOMASELOVE/2020-432/blob/master/classes/class23/figures/dude2.PNG) from [@healthstatsdude](https://twitter.com/healthstatsdude/status/1119390175350513664)
 
 
 ## Announcements
