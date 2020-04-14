@@ -13,6 +13,11 @@ PDF of Slides | .Rmd of Slides | Notes during Class | Need Help?
 - The [COVID-19 Resources page](https://github.com/THOMASELOVE/2020-432/blob/master/covid19resources.md) will remain available through April.
 - **NEW!** [Things I Won't Get To This Semester](https://github.com/THOMASELOVE/2020-432/blob/master/not_this_semester.md)
 
+![](https://github.com/THOMASELOVE/2019-432/blob/master/classes/class23/figures/dude.PNG) from [@healthstatsdude](https://twitter.com/healthstatsdude/status/1102442635233382400)
+
+![](https://github.com/THOMASELOVE/2019-432/blob/master/classes/class23/figures/dude2.PNG) from [@healthstatsdude](https://twitter.com/healthstatsdude/status/1119390175350513664)
+
+
 ## Announcements
 
 1. There is a Minute Paper after Class 23. Please complete it by 9 AM Sunday.
@@ -23,13 +28,12 @@ PDF of Slides | .Rmd of Slides | Notes during Class | Need Help?
 
 will be centered around replicable research as well as thinking about power issues through retrospective design. The main resources are:
 
-- Ronald L. Wasserstein, Allen L. Schirm & Nicole A. Lazar (2019) [Moving to a World Beyond "p < 0.05"](https://www.tandfonline.com/doi/full/10.1080/00031305.2019.1583913), *The American Statistician*, 73:sup1, 1-19, DOI: [10.1080/00031305.2019.1583913](https://doi.org/10.1080/00031305.2019.1583913). The PDF of this article [is also available here](https://github.com/THOMASELOVE/2019-432/blob/master/slides/class22/Moving%20to%20a%20World%20Beyond%20p%200%2005.pdf).
+- Andrew Gelman and John Carlin [Beyond Power Calculations: Assessing Type S (Sign) and Type M (Magnitude) Errors](https://github.com/THOMASELOVE/2020-432/blob/master/classes/class23/references/Gelman_Carlin_2014_Beyond_Power_Calculations.pdf)
+- Ronald L. Wasserstein, Allen L. Schirm & Nicole A. Lazar (2019) [Moving to a World Beyond "p < 0.05"](https://www.tandfonline.com/doi/full/10.1080/00031305.2019.1583913), *The American Statistician*, 73:sup1, 1-19, DOI: [10.1080/00031305.2019.1583913](https://doi.org/10.1080/00031305.2019.1583913). The PDF of this article [is also available here](https://github.com/THOMASELOVE/2020-432/blob/master/classes/class23/references/ASA_2019_A_World_Beyond.pdf).
 - Ronald L. Wasserstein & Nicole A. Lazar (2016) [The ASA's Statement on p-Values: Context, Process, and Purpose](https://www.tandfonline.com/doi/full/10.1080/00031305.2016.1154108), *The American Statistician*, 70:2, 129-133, DOI:
-[10.1080/00031305.2016.1154108](https://doi.org/10.1080/00031305.2016.1154108)
-- Andrew Gelman and John Carlin [Beyond Power Calculations: Assessing Type S (Sign) and Type M (Magnitude) Errors](https://github.com/THOMASELOVE/2019-432/blob/master/slides/class23/Gelman%20and%20Carlin%202014%20Beyond%20Power%20Calculations.pdf)
+[10.1080/00031305.2016.1154108](https://doi.org/10.1080/00031305.2016.1154108). PDF [also available here](https://github.com/THOMASELOVE/2020-432/blob/master/classes/class23/references/ASA_2016_Pvalues_Context_Process_Purpose.pdf).
 
-
-## Need to have a tough talk with someone about p values?
+### Need to have a tough talk with someone about p values?
 
 - The ASA Section on Teaching of Statistics in the Health Sciences has [some interesting material](https://tshsblog.wixsite.com/main/single-post/2018/05/08/ReadyResources-Publications-for-teaching-p-values)
 - I've given these posts: [Why I've lost faith in p values, part 1](https://lucklab.ucdavis.edu/blog/2018/4/19/why-i-lost-faith-in-p-values) and [Why I've lost faith in p values, part 2](https://lucklab.ucdavis.edu/blog/2018/4/28/why-ive-lost-faith-in-p-values-part-2) to a few people. Maybe they'll help you.
