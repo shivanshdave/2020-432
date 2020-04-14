@@ -3,7 +3,9 @@
 ## Posted during the week of 2020-04-13
 
 - From FiveThirtyEight: [A Comic Strip Tour Of The Wild World Of Pandemic Modeling](https://fivethirtyeight.com/features/a-comic-strip-tour-of-the-wild-world-of-pandemic-modeling/) by Zach Weinersmith, Maggie Koerth, Laura Bronner and Jasmine Mithani
+- David Spiegelhalter drew [the graph below](https://twitter.com/d_spiegel/status/1249986522692096003?s=11) based on the latest data from [the UK's Office for National Statistics](https://www.ons.gov.uk/peoplepopulationandcommunity/birthsdeathsandmarriages/deaths/bulletins/deathsregisteredweeklyinenglandandwalesprovisional/weekending3april2020). [David asks](https://twitter.com/d_spiegel/status/1249986522692096003): Why the massive rise in non-COVID deaths? How much is judgement of registering doctor? How much is collateral damage of lockdown?
 
+![]()
 
 ## Posted during the week of 2020-04-06
 
