@@ -40,7 +40,15 @@ will be centered around replicable research as well as thinking about power issu
 
 ![](https://github.com/THOMASELOVE/2020-432/blob/master/classes/class23/figures/raincloud_example.png)
 
+4. Rebecca Barter has a great post on [tidymodels](http://www.rebeccabarter.com/blog/2020-03-25_machine_learning/) which in some ways is the successor to the `caret` package to help you do machine learning things within the tidyverse. Next year's course will use this approach, certainly. Other key references Rebecca cites include...
+    - [A Gentle Introduction to tidymodels](https://rviews.rstudio.com/2019/06/19/a-gentle-intro-to-tidymodels/) by Edgar Ruiz
+    - Alison Hill's slides on [Introduction to Machine Learning with the Tidyverse](https://education.rstudio.com/blog/2020/02/conf20-intro-ml/).
+    
+5. For those of you putting together a codebook...
 
+![](https://github.com/THOMASELOVE/2020-432/blob/master/classes/class23/figures/tweet_rows_2020-04-14.png)
+
+  
 ## Upcoming Deliverables (see the [Calendar](https://github.com/THOMASELOVE/2020-432/blob/master/calendar.md) for a complete list)
 
 Day | Date  | Description and Deadline
