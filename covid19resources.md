@@ -4,6 +4,9 @@
 
 - From FiveThirtyEight: [A Comic Strip Tour Of The Wild World Of Pandemic Modeling](https://fivethirtyeight.com/features/a-comic-strip-tour-of-the-wild-world-of-pandemic-modeling/) by Zach Weinersmith, Maggie Koerth, Laura Bronner and Jasmine Mithani
 - From The New York Times: [7 Ways to Explore the Math of the Coronavirus Using The New York Times](https://www.nytimes.com/2020/04/02/learning/7-ways-to-explore-the-math-of-the-coronavirus-using-the-new-york-times.html) by Patrick Honner (2020-04-02).
+- Maarten Lambrechts [tweeted out two versions of a plot](https://twitter.com/maartenzam/status/1250322010929946624) meant to look at how people who tested positive for COVID-19 reported their symptoms.
+    - The tools used have R packages: including one that makes [Euler diagrams](https://cran.r-project.org/web/packages/eulerr/vignettes/introduction.html) and one that makes [UpSet plots](https://gehlenborglab.shinyapps.io/upsetr).
+    - The story and data under review here [are available at Nature](https://www.nature.com/articles/d41586-020-00154-w).
 - Carl T. Bergstrom contributes [this discussion of whether we should divide by population size when plotting epidemic curves or death totals](https://twitter.com/CT_Bergstrom/status/1249930293928030209). As he points out, the issue has become politicized in part because depending on what assumptions you make and how you visualize the data, the US can look like the worst in the world, or quite good. Bergstrom's "answer" is subtle, but worth thinking about.
 - David Spiegelhalter has been busy.
     - from 2020-03-21: [How much "normal" risk does Covid represent?](https://medium.com/wintoncentre/how-much-normal-risk-does-covid-represent-4539118e1196)
