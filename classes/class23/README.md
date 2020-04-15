@@ -13,12 +13,6 @@ PDF of Slides | .Rmd of Slides | Notes during Class | Need Help?
 - The [COVID-19 Resources page](https://github.com/THOMASELOVE/2020-432/blob/master/covid19resources.md) will remain available through May, although I expect to stop adding to it May 1.
 - [Things I Won't Get To This Semester](https://github.com/THOMASELOVE/2020-432/blob/master/not_this_semester.md)
 
-## Announcements
-
-1. There is a Minute Paper after Class 23. Please complete it by 9 AM Sunday.
-2. Please remember to submit [Quiz 2](https://github.com/THOMASELOVE/2020-432/tree/master/quizzes/quiz2) before 10 AM on Monday.
-3. More to come.
-
 ## Today's Discussion
 
 will be centered around replicable research as well as thinking about power issues through retrospective design. The main resources are:
@@ -37,6 +31,14 @@ will be centered around replicable research as well as thinking about power issu
 - "[Abandoning statistical significance is both sensible and practical](https://peerj.com/preprints/27657/)" by Amrhein, Gelman, Greenland and McShane at PeerJ Preprints.
 - Frank Harrell's post about "[Language for communicating frequentist results about treatment effects](https://discourse.datamethods.org/t/language-for-communicating-frequentist-results-about-treatment-effects/934)"
 - And, one more thing, from Andrew Gelman: [Statistical-significance thinking is not just a bad way to publish, it’s also a bad way to think](https://statmodeling.stat.columbia.edu/2019/03/16/statistical-significance-thinking-is-not-just-a-bad-way-to-publish-its-also-a-bad-way-to-think/) - the money quote: "it’s ultimately not about what it takes, or should take, to get a result published, but rather how we as researchers can navigate through uncertainty and not get faked out by noise in our own data."
+
+## Announcements
+
+1. There is a Minute Paper after Class 23. Please complete it by 9 AM Sunday.
+2. Please remember to submit [Quiz 2](https://github.com/THOMASELOVE/2020-432/tree/master/quizzes/quiz2) before 10 AM on Monday.
+3. Have you heard about [raincloud plots](https://github.com/RainCloudPlots/RainCloudPlots)?
+
+![](https://github.com/THOMASELOVE/2020-432/blob/master/classes/class23/figures/raincloud_example.png)
 
 
 ## Upcoming Deliverables (see the [Calendar](https://github.com/THOMASELOVE/2020-432/blob/master/calendar.md) for a complete list)
