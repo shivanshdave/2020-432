@@ -23,11 +23,12 @@ Session | Date | Materials
 -- | 04-12 | [Minute Paper after Class 21](https://bit.ly/432-2020-minute-21). Submit before 9 AM Sunday to make the feedback.
 [Class 22](https://github.com/THOMASELOVE/2020-432/tree/master/classes/class22) | 04-14 | The problems with p values, **ART** Chapters 12-13
 [Class 23](https://github.com/THOMASELOVE/2020-432/tree/master/classes/class23) | 04-16 | Retrospective Design / Thinking about Power
--- | 04-17 | Minute Paper after Class 23. Submit before 9 AM Sunday to make the feedback.
+-- | 04-19 | [Minute Paper after Class 23](https://bit.ly/432-2020-minute-23). Submit before 9 AM Sunday to make the feedback.
 -- | 04-20 | [Quiz 2](https://github.com/THOMASELOVE/2020-432/tree/master/quizzes/quiz2) will be due at 10 AM.
 Class 24 | 04-21 | Dealing with Hierarchical Data: An Introduction
 Class 25 | 04-23 | Catchup and wrapup of **ART** Chapters 1-14
 -- | 04-24 | (*Optional*) Complete [this Google Form](http://bit.ly/432-2020-homework-regrade-requests) by 5 PM to request a regrade on Homeworks 1-4.
+-- | 04-26 | Minute Paper after Class 25. Submit before 9 AM Sunday to make the feedback.
 
 ## All five remaining deliverables are due at NOON on Monday 2020-05-04.
 
