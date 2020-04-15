@@ -37,7 +37,7 @@ will be centered around replicable research as well as thinking about power issu
 
 ## Announcements
 
-1. There is a Minute Paper after Class 23. Please complete it by 9 AM Sunday.
+1. There is a [Minute Paper after Class 23](https://bit.ly/432-2020-minute-23). Please complete it by 9 AM Sunday.
 2. Please remember to submit [Quiz 2](https://github.com/THOMASELOVE/2020-432/tree/master/quizzes/quiz2) before 10 AM on Monday.
 3. Have you heard about [raincloud plots](https://github.com/RainCloudPlots/RainCloudPlots)?
 
@@ -56,7 +56,7 @@ will be centered around replicable research as well as thinking about power issu
 
 Day | Date  | Description and Deadline
 :--: | ----: | ----------------------------------------------------------------------------------------------
-Sun | 04-19 | Minute Paper after Class 23. Submit before 9 AM Sunday to make the feedback.
+Sun | 04-19 | [Minute Paper after Class 23](https://bit.ly/432-2020-minute-23). Submit before 9 AM Sunday, please.
 Mon | 04-20 | [Quiz 2](https://github.com/THOMASELOVE/2020-432/tree/master/quizzes/quiz2) is due at 10 AM.
 Thu | 04-23 | Final Class Session
 Fri | 04-24 | (Optional) To request a regrade on HW 1-4, complete [this Google Form](http://bit.ly/432-2020-homework-regrade-requests) by 5 PM.
