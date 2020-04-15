@@ -23,4 +23,9 @@ By far the best source on the subject in my view is Rob Hyndman and George Athan
 
 ## Text Analysis and Text Mining
 
-I recommend [Text Mining with R: A Tidy Approach](https://www.tidytextmining.com/) by Julia Silge and David Robinson 
+I recommend [Text Mining with R: A Tidy Approach](https://www.tidytextmining.com/) by Julia Silge and David Robinson
+
+## Using tidymodels instead of caret
+
+Alison Hill has a great post on [tidymodels](http://www.rebeccabarter.com/blog/2020-03-25_machine_learning/) which in some ways is the successor to the `caret` package to help you do machine learning things within the tidyverse. Next year's course will use this approach, certainly.
+
