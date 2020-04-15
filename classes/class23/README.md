@@ -39,15 +39,10 @@ will be centered around replicable research as well as thinking about power issu
 
 1. There is a [Minute Paper after Class 23](https://bit.ly/432-2020-minute-23). Please complete it by 9 AM Sunday.
 2. Please remember to submit [Quiz 2](https://github.com/THOMASELOVE/2020-432/tree/master/quizzes/quiz2) before 10 AM on Monday.
-3. Have you heard about [raincloud plots](https://github.com/RainCloudPlots/RainCloudPlots)?
-
-![](https://github.com/THOMASELOVE/2020-432/blob/master/classes/class23/figures/raincloud_example.png)
-
-4. Rebecca Barter has a great post on [tidymodels](http://www.rebeccabarter.com/blog/2020-03-25_machine_learning/) which in some ways is the successor to the `caret` package to help you do machine learning things within the tidyverse. Next year's course will use this approach, certainly. Other key references Rebecca cites include...
+3. Rebecca Barter has a great post on [tidymodels](http://www.rebeccabarter.com/blog/2020-03-25_machine_learning/) which in some ways is the successor to the `caret` package to help you do machine learning things within the tidyverse. Next year's course will use this approach, certainly. Other key references Rebecca cites include...
     - [A Gentle Introduction to tidymodels](https://rviews.rstudio.com/2019/06/19/a-gentle-intro-to-tidymodels/) by Edgar Ruiz
     - Alison Hill's slides on [Introduction to Machine Learning with the Tidyverse](https://education.rstudio.com/blog/2020/02/conf20-intro-ml/).
-    
-5. For those of you putting together a codebook...
+4. For those of you putting together a codebook...
 
 ![](https://github.com/THOMASELOVE/2020-432/blob/master/classes/class23/figures/tweet_rows_2020-04-14.png)
 
@@ -62,3 +57,11 @@ Thu | 04-23 | Final Class Session
 Fri | 04-24 | (Optional) To request a regrade on HW 1-4, complete [this Google Form](http://bit.ly/432-2020-homework-regrade-requests) by 5 PM.
 Fri | 05-01 | Final TA Office Hours
 Mon | 05-04 | Due Date for All Project 2 deliverables as well as optional Homeworks 5 and 6
+
+# One Last Thing
+
+Have you heard about [raincloud plots](https://github.com/RainCloudPlots/RainCloudPlots)?
+
+![](https://github.com/THOMASELOVE/2020-432/blob/master/classes/class23/figures/raincloud_example.png)
+
+
