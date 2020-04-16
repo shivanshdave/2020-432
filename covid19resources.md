@@ -15,6 +15,10 @@
 
 ![](https://github.com/THOMASELOVE/2020-432/blob/master/classes/class22/figures/speigelhalter_covid_2020-04-14.jpg)
 
+and finally, from [XKCD](https://xkcd.com/2294/)
+
+![](https://imgs.xkcd.com/comics/coronavirus_charts.png)
+
 ## Posted during the week of 2020-04-06
 
 - FiveThirtyEight Video Podcast: [Why Forecasting COVID-19 Is Harder Than Forecasting Elections](https://fivethirtyeight.com/videos/why-forecasting-covid-19-is-harder-than-forecasting-elections/) by Galen Druke, Laura Bronner and Maggie Koerth (from 2020-04-03). Related FiveThirtyEight pieces include:
