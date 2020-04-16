@@ -352,7 +352,7 @@ set.seed(201803162)
 retrodesign(A = 0, s = 10)
 ```
 
-- Power = 0.5, Pr(Type S error) = 0.5, Exaggeration Ratio is infinite.
+- Power = 0.05, Pr(Type S error) = 0.5, Exaggeration Ratio is infinite.
 
 
 ## Power, Type S and Type M Errors: Zero Effect
