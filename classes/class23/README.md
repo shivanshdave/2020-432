@@ -13,6 +13,10 @@ PDF of Slides | .Rmd of Slides | Notes during Class | Need Help?
 - The [COVID-19 Resources page](https://github.com/THOMASELOVE/2020-432/blob/master/covid19resources.md) will remain available through May, although I expect to stop adding to it May 1.
 - [Things I Won't Get To This Semester](https://github.com/THOMASELOVE/2020-432/blob/master/not_this_semester.md)
 
+## From XKCD
+
+![](https://imgs.xkcd.com/comics/coronavirus_charts.png)
+
 ## Today's Discussion
 
 will be centered around replicable research as well as thinking about power issues through retrospective design. The main resources are:
