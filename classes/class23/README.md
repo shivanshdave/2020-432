@@ -34,8 +34,6 @@ will be centered around replicable research as well as thinking about power issu
 - Ronald L. Wasserstein & Nicole A. Lazar (2016) [The ASA's Statement on p-Values: Context, Process, and Purpose](https://www.tandfonline.com/doi/full/10.1080/00031305.2016.1154108), *The American Statistician*, 70:2, 129-133, DOI:
 [10.1080/00031305.2016.1154108](https://doi.org/10.1080/00031305.2016.1154108). PDF [also available here](https://github.com/THOMASELOVE/2020-432/blob/master/classes/class23/references/ASA_2016_Pvalues_Context_Process_Purpose.pdf).
 
-![](https://github.com/THOMASELOVE/2020-432/blob/master/classes/class23/figures/shruggies.PNG) from [Kevin Reuning](https://twitter.com/KevinReuning/status/796107864704188420)
-
 ### Need to have a tough talk with someone about p values?
 
 - The ASA Section on Teaching of Statistics in the Health Sciences has [some interesting material](https://tshsblog.wixsite.com/main/single-post/2018/05/08/ReadyResources-Publications-for-teaching-p-values)
@@ -46,6 +44,8 @@ will be centered around replicable research as well as thinking about power issu
     - "A discussion of events that transpired in the past year, where a group of surgical researchers decided to ignore much of the statistical literature and promote a highly misleading practice of calculating post-hoc power using the observed effect size."
     - Some related pieces at LessLikely include "[When Can We Say That Something Doesn't Work?](https://lesslikely.com/statistics/evidence-of-absence/)" and "[Misplaced Confidence in Observed Power](https://lesslikely.com/statistics/misplaced-power/)".
 - Andrew Gelman: [Statistical-significance thinking is not just a bad way to publish, it’s also a bad way to think](https://statmodeling.stat.columbia.edu/2019/03/16/statistical-significance-thinking-is-not-just-a-bad-way-to-publish-its-also-a-bad-way-to-think/) - the money quote: "it’s ultimately not about what it takes, or should take, to get a result published, but rather how we as researchers can navigate through uncertainty and not get faked out by noise in our own data."
+
+![](https://github.com/THOMASELOVE/2020-432/blob/master/classes/class23/figures/shruggies.PNG) from [Kevin Reuning](https://twitter.com/KevinReuning/status/796107864704188420)
 
  
 ## Upcoming Deliverables (see the [Calendar](https://github.com/THOMASELOVE/2020-432/blob/master/calendar.md) for a complete list)
