@@ -52,11 +52,13 @@ will be centered around replicable research as well as thinking about power issu
 Day | Date  | Description and Deadline
 :--: | ----: | ----------------------------------------------------------------------------------------------
 Sun | 04-19 | [Minute Paper after Class 23](https://bit.ly/432-2020-minute-23). Submit before 9 AM Sunday, please.
+Sun | 04-19 | 9 AM: If desired, last chance to request Quiz 2 alternative assignment via email. (No commitment or explanation needed.)
 Mon | 04-20 | [Quiz 2](https://github.com/THOMASELOVE/2020-432/tree/master/quizzes/quiz2) is due at 10 AM.
 Thu | 04-23 | Final Class Session
 Fri | 04-24 | (Optional) To request a regrade on HW 1-4, complete [this Google Form](http://bit.ly/432-2020-homework-regrade-requests) by 5 PM.
 Sun | 04-26 | Minute Paper after Class 25. Submit before 9 AM Sunday to make the feedback.
-Fri | 05-01 | Final TA Office Hours
+Fri | 05-01 | Final TA Office Hours. 
+Fri | 05-01 | 5 PM: If desired, last chance to request Project 2 alternative assignment via email. (No commitment/explanation required.)
 Mon | 05-04 | Due Date for All Project 2 deliverables as well as optional Homeworks 5 and 6
 
 # One Last Thing
