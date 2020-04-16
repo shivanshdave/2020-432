@@ -39,6 +39,7 @@ will be centered around replicable research as well as thinking about power issu
 
 1. There is a [Minute Paper after Class 23](https://bit.ly/432-2020-minute-23). Please complete it by 9 AM Sunday.
 2. Please remember to submit [Quiz 2](https://github.com/THOMASELOVE/2020-432/tree/master/quizzes/quiz2) before 10 AM on Monday.
+    - If you want to be able to access the Quiz 2 alternative assignment, let Dr. Love know via email by 9 AM Sunday. No commitment or reason is required.
 3. Rebecca Barter has a great post on [tidymodels](http://www.rebeccabarter.com/blog/2020-03-25_machine_learning/) which in some ways is the successor to the `caret` package to help you do machine learning things within the tidyverse. Next year's course will use this approach, certainly. Other key references Rebecca cites include...
     - [A Gentle Introduction to tidymodels](https://rviews.rstudio.com/2019/06/19/a-gentle-intro-to-tidymodels/) by Edgar Ruiz
     - Alison Hill's slides on [Introduction to Machine Learning with the Tidyverse](https://education.rstudio.com/blog/2020/02/conf20-intro-ml/).
