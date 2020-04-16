@@ -13,6 +13,18 @@ PDF of Slides | .Rmd of Slides | Notes during Class | Need Help?
 - The [COVID-19 Resources page](https://github.com/THOMASELOVE/2020-432/blob/master/covid19resources.md) will remain available through May, although I expect to stop adding to it May 1.
 - [Things I Won't Get To This Semester](https://github.com/THOMASELOVE/2020-432/blob/master/not_this_semester.md)
 
+## Announcements
+
+1. There is a [Minute Paper after Class 23](https://bit.ly/432-2020-minute-23). Please complete it by 9 AM Sunday.
+2. Please remember to submit [Quiz 2](https://github.com/THOMASELOVE/2020-432/tree/master/quizzes/quiz2) before 10 AM on Monday.
+    - If you want to be able to access the Quiz 2 alternative assignment, let Dr. Love know via email by 9 AM Sunday. No commitment or reason is required.
+3. Rebecca Barter has a great post on [tidymodels](http://www.rebeccabarter.com/blog/2020-03-25_machine_learning/) which in some ways is the successor to the `caret` package to help you do machine learning things within the tidyverse. Next year's course will use this approach, certainly. Other key references Rebecca cites include...
+    - [A Gentle Introduction to tidymodels](https://rviews.rstudio.com/2019/06/19/a-gentle-intro-to-tidymodels/) by Edgar Ruiz
+    - Alison Hill's slides on [Introduction to Machine Learning with the Tidyverse](https://education.rstudio.com/blog/2020/02/conf20-intro-ml/).
+4. For those of you putting together a codebook...
+
+![](https://github.com/THOMASELOVE/2020-432/blob/master/classes/class23/figures/tweet_rows_2020-04-14.png)
+
 ## Today's Discussion
 
 will be centered around replicable research as well as thinking about power issues through retrospective design. The main resources are:
@@ -35,19 +47,7 @@ will be centered around replicable research as well as thinking about power issu
     - Some related pieces at LessLikely include "[When Can We Say That Something Doesn't Work?](https://lesslikely.com/statistics/evidence-of-absence/)" and "[Misplaced Confidence in Observed Power](https://lesslikely.com/statistics/misplaced-power/)".
 - Andrew Gelman: [Statistical-significance thinking is not just a bad way to publish, it’s also a bad way to think](https://statmodeling.stat.columbia.edu/2019/03/16/statistical-significance-thinking-is-not-just-a-bad-way-to-publish-its-also-a-bad-way-to-think/) - the money quote: "it’s ultimately not about what it takes, or should take, to get a result published, but rather how we as researchers can navigate through uncertainty and not get faked out by noise in our own data."
 
-## Announcements
-
-1. There is a [Minute Paper after Class 23](https://bit.ly/432-2020-minute-23). Please complete it by 9 AM Sunday.
-2. Please remember to submit [Quiz 2](https://github.com/THOMASELOVE/2020-432/tree/master/quizzes/quiz2) before 10 AM on Monday.
-    - If you want to be able to access the Quiz 2 alternative assignment, let Dr. Love know via email by 9 AM Sunday. No commitment or reason is required.
-3. Rebecca Barter has a great post on [tidymodels](http://www.rebeccabarter.com/blog/2020-03-25_machine_learning/) which in some ways is the successor to the `caret` package to help you do machine learning things within the tidyverse. Next year's course will use this approach, certainly. Other key references Rebecca cites include...
-    - [A Gentle Introduction to tidymodels](https://rviews.rstudio.com/2019/06/19/a-gentle-intro-to-tidymodels/) by Edgar Ruiz
-    - Alison Hill's slides on [Introduction to Machine Learning with the Tidyverse](https://education.rstudio.com/blog/2020/02/conf20-intro-ml/).
-4. For those of you putting together a codebook...
-
-![](https://github.com/THOMASELOVE/2020-432/blob/master/classes/class23/figures/tweet_rows_2020-04-14.png)
-
-  
+ 
 ## Upcoming Deliverables (see the [Calendar](https://github.com/THOMASELOVE/2020-432/blob/master/calendar.md) for a complete list)
 
 Day | Date  | Description and Deadline
