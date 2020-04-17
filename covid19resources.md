@@ -7,6 +7,7 @@
     - Frank's course on [Introduction to Bayes for Evaluating Treatments](http://hbiostat.org/doc/bayes/course.html)
 - From FiveThirtyEight: [Why One Expert Is Still Making COVID-19 Models, Despite The Uncertainty](https://fivethirtyeight.com/features/why-one-expert-is-still-making-covid-19-models-despite-the-uncertainty/) by John M. Drake.
 - Chad Hazlett and David Wulf on [Learning the effects of COVID-19 treatments given outside of randomized trials](https://www.researchgate.net/publication/340105786_Learning_the_effects_of_COVID-19_treatments_given_outside_of_randomized_trials)
+- Hadley Wickham on [RStudio and COVID-19](https://blog.rstudio.com/2020/04/17/rstudio-and-covid-19/) from 2020-04-17.
 
 ## Posted during the week of 2020-04-13
 
