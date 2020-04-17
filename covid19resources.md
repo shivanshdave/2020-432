@@ -1,5 +1,13 @@
 # Data and Resources related to COVID-19
 
+## Posted during the week of 2020-04-20
+
+- Frank Harrell and others at Vanderbilt have posted an incredible set of [Resources for COVID-19 Randomized Clinical Trial Design](http://hbiostat.org/proj/covid19/).
+    - Also of interest is this [proposal by Dan Lane to look at Illness Severity among non-COVID patients](https://discourse.datamethods.org/t/illness-severity-among-non-covid-patients/3185?u=danlane911)
+    - Frank's course on [Introduction to Bayes for Evaluating Treatments](http://hbiostat.org/doc/bayes/course.html)
+- From FiveThirtyEight: [Why One Expert Is Still Making COVID-19 Models, Despite The Uncertainty](https://fivethirtyeight.com/features/why-one-expert-is-still-making-covid-19-models-despite-the-uncertainty/) by John M. Drake.
+- Chad Hazlett and David Wulf on [Learning the effects of COVID-19 treatments given outside of randomized trials](https://www.researchgate.net/publication/340105786_Learning_the_effects_of_COVID-19_treatments_given_outside_of_randomized_trials)
+
 ## Posted during the week of 2020-04-13
 
 - From FiveThirtyEight: [A Comic Strip Tour Of The Wild World Of Pandemic Modeling](https://fivethirtyeight.com/features/a-comic-strip-tour-of-the-wild-world-of-pandemic-modeling/) by Zach Weinersmith, Maggie Koerth, Laura Bronner and Jasmine Mithani
