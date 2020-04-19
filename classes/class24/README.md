@@ -16,7 +16,8 @@ PDF of Slides | .Rmd of Slides | Notes during Class | Need Help?
 ## Announcements
 
 1. Feedback on the Minute Paper after Class 23 is available at https://bit.ly/432-2020-minute-23-feedback.
-2. More to come.
+2. The Quiz 2 answer sketch and grades will be available by class time on Thursday.
+3. More to come.
 
 ## Upcoming Deliverables (see the [Calendar](https://github.com/THOMASELOVE/2020-432/blob/master/calendar.md) for a complete list)
 
@@ -27,7 +28,7 @@ Fri | 04-24 | (Optional) To request a regrade on HW 1-4, complete [this Google F
 Sun | 04-26 | Minute Paper after Class 25. Submit before 9 AM Sunday to make the feedback.
 Fri | 05-01 | Final TA Office Hours. 
 Fri | 05-01 | 5 PM: Last chance to request Project 2 alternative via email. (No commitment/reason needed.)
-Mon | 05-04 | Due Date for All Project 2 deliverables as well as optional Homeworks 5 and 6
+Mon | 05-04 | Due Date for all Project 2 deliverables as well as optional Homeworks 5 and 6
 
 # One Last Thing
 
