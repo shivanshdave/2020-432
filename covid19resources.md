@@ -2,7 +2,7 @@
 
 ## Posted during the week of 2020-04-20
 
-- Frank Harrell and others at Vanderbilt have incredible [Resources for COVID-19 Randomized Clinical Trial Design](http://hbiostat.org/proj/covid19/).
+- Frank Harrell and others at Vanderbilt posted incredible [Resources for COVID-19 Randomized Clinical Trial Design](http://hbiostat.org/proj/covid19/).
     - Also of interest is this [proposal by Dan Lane to look at Illness Severity among non-COVID patients](https://discourse.datamethods.org/t/illness-severity-among-non-covid-patients/3185?u=danlane911)
     - Frank's course on [Introduction to Bayes for Evaluating Treatments](http://hbiostat.org/doc/bayes/course.html)
 - From FiveThirtyEight: [Why One Expert Is Still Making COVID-19 Models, Despite The Uncertainty](https://fivethirtyeight.com/features/why-one-expert-is-still-making-covid-19-models-despite-the-uncertainty/) by John M. Drake.
