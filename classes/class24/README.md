@@ -17,7 +17,7 @@ PDF of Slides | .Rmd of Slides | Notes during Class | Need Help?
 
 1. Feedback on the Minute Paper after Class 23 is available at https://bit.ly/432-2020-minute-23-feedback.
 2. The Quiz 2 answer sketch and grades will be available by class time on Thursday.
-3. More to come.
+3. **More to come.**
 
 ## Resources Mentioned in Today's Slides
 
@@ -43,4 +43,4 @@ Mon | 05-04 | Due Date for all Project 2 deliverables as well as optional Homewo
 
 # One Last Thing
 
-To come.
+**To come.**
