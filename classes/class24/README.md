@@ -17,7 +17,7 @@ PDF of Slides | .Rmd of Slides | Notes during Class | Need Help?
 
 1. Feedback on the Minute Paper after Class 23 is available at https://bit.ly/432-2020-minute-23-feedback.
 2. The Quiz 2 answer sketch and grades will be available by class time on Thursday.
-3. **More to come.**
+3. R 4.0.0 is scheduled for release this Friday 2020-04-24. I will happily accept projects that use either 3.6.2, 3.6.3 or 4.0.0 versions of R. I don't know how much trouble this will cause you - I hope it won't break anything important, but it's a major release - you may want to finish your project first and then upgrade.
 
 ## Resources Mentioned in Today's Slides
 
