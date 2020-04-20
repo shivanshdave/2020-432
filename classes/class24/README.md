@@ -19,6 +19,17 @@ PDF of Slides | .Rmd of Slides | Notes during Class | Need Help?
 2. The Quiz 2 answer sketch and grades will be available by class time on Thursday.
 3. More to come.
 
+## Resources Mentioned in Today's Slides
+
+- [An Introduction to Hierarchical Modeling (Visual Explanation)](http://mfviz.com/hierarchical-models/) by [Michael Freeman](http://mfviz.com/)
+- [Generalized Linear Mixed Models FAQ](https://bbolker.github.io/mixedmodels-misc/glmmFAQ.html) by Ben Bolker and others. Other work by Ben Bolker includes...
+    - [Some notes on (generalized) linear mixed models](https://bbolker.github.io/morelia_2018/notes/glmm.html)
+    - [Some worked examples of these models](https://bbolker.github.io/mixedmodels-misc/ecostats_chap.html)
+- [The Introduction to Mixed Models from Environmental Computing](http://environmentalcomputing.net/mixed-models/) folks at the University of New South Wales, Australia.
+- [Workshop on Linear mixed effects models from the Quebec Centre for Biodiversity Science](https://wiki.qcbs.ca/r_workshop6) developed by Catherine Baltazar, Dalal Hanna and Jacob Ziegler
+- [A useful bibliography of mixed effect regression models](https://joelemartinez.com/2015/07/14/mixed-effect-models/) by Joel Eduardo Martinez
+- [Using `sjPlot` in R to summarize Mixed Models in HTML tables](https://strengejacke.github.io/sjPlot/articles/tab_mixed.html) and [Using `sjPlot` to Plot Model Estimates](https://strengejacke.github.io/sjPlot/articles/plot_model_estimates.html)
+
 ## Upcoming Deliverables (see the [Calendar](https://github.com/THOMASELOVE/2020-432/blob/master/calendar.md) for a complete list)
 
 Day | Date  | Description and Deadline
