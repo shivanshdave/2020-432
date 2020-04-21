@@ -42,3 +42,10 @@ Fri | 05-01 | Final TA Office Hours.
 Fri | 05-01 | 5 PM: Last chance to request Project 2 alternative via email. (No commitment/reason needed.)
 Mon | 05-04 | Due Date for all Project 2 deliverables as well as optional Homeworks 5 and 6
 
+## One More Thing
+
+Dotplots are really underused. This is an example from a 2017 story at [FiveThirtyEight](https://fivethirtyeight.com/features/the-identity-politics-of-the-trump-administration)
+
+![]()
+
+
