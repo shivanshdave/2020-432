@@ -1,4 +1,8 @@
-# 432 Quiz 2 Information
+# 432 Quiz 2 is now over
+
+Dr. Love has posted an answer sketch (including complete grading information) to our shared Google Drive, in the same folder where you found the materials for the Quiz.
+
+# Old 432 Quiz 2 Information
 
 ## Deadline
 
