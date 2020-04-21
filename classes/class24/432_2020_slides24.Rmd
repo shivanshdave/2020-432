@@ -127,7 +127,7 @@ ggplot(data=facsal, aes(x=experience,
                         y=simple_model_preds)) +
     geom_line(col = "red") + 
     geom_point(aes(x=experience, y=salary)) +
-    labs(x="Experience", y="Predicted Salary",
+    labs(x="Experience",y="Salary (in $)",
          title = "Linear Model Ignoring Department")
 ```
 
@@ -139,7 +139,7 @@ ggplot(data=facsal, aes(x=experience,
   geom_line() + 
   geom_point(aes(x=experience, y=salary, 
                  group = department, colour = department)) +
-  labs(x="Experience", y="Predicted Salary",
+  labs(x="Experience",y="Salary (in $)",
        title = "Linear Model Ignoring Department") +
   scale_color_discrete('Department') 
 ```
@@ -152,7 +152,7 @@ ggplot(data=facsal, aes(x=experience,
     geom_line() + 
     geom_point(aes(x=experience, y=salary, 
                    group = department, colour = department)) +
-    labs(x="Experience", y="Predicted Salary",
+    labs(x="Experience",y="Salary (in $)",
          title = "Linear Model Ignoring Department") +
     guides(color = FALSE) +
     scale_color_discrete('Department') +
@@ -220,7 +220,7 @@ ggplot(data=facsal, aes(x=experience,
                         group = department, 
                         col = department)) +
   geom_line() + 
-  labs(x="Experience", y="Predicted Salary",
+  labs(x="Experience",y="Salary (in $)",
        title = "Varying Intercept Salary Prediction") +
   scale_color_discrete('Department') 
 ```
@@ -235,7 +235,7 @@ ggplot(data=facsal, aes(x=experience,
   geom_line() + 
   geom_point(aes(x=experience, y=salary, 
                  group = department, colour = department)) +
-  labs(x="Experience", y="Predicted Salary",
+  labs(x="Experience",y="Salary (in $)",
        title = "Varying Intercept Salary Prediction") +
   scale_color_discrete('Department') 
 ```
@@ -251,7 +251,7 @@ ggplot(data=facsal, aes(x=experience,
   geom_line() + 
   geom_point(aes(x=experience, y=salary, 
                  group = department, colour = department)) +
-  labs(x="Experience", y="Predicted Salary",
+  labs(x="Experience",y="Salary (in $)",
        title = "Varying Intercept Salary Prediction") +
   scale_color_discrete('Department') +
     facet_wrap(~ department)
@@ -320,7 +320,7 @@ ggplot(data=facsal, aes(x=experience,
                         group = department, 
                         col = department)) +
   geom_line() + 
-  labs(x="Experience", y="Predicted Salary",
+  labs(x="Experience",y="Salary (in $)",
        title = "Varying Slope Salary Prediction") +
   scale_color_discrete('Department') 
 ```
@@ -335,7 +335,7 @@ ggplot(data=facsal, aes(x=experience,
   geom_line() + 
   geom_point(aes(x=experience, y=salary, 
                  group = department, colour = department)) +
-  labs(x="Experience", y="Predicted Salary",
+  labs(x="Experience",y="Salary (in $)",
        title = "Varying Slope Salary Prediction") +
   scale_color_discrete('Department') 
 ```
@@ -351,7 +351,7 @@ ggplot(data=facsal, aes(x=experience,
   geom_line() + 
   geom_point(aes(x=experience, y=salary, 
                  group = department, colour = department)) +
-  labs(x="Experience", y="Predicted Salary",
+  labs(x="Experience",y="Salary (in $)",
        title = "Varying Slope Salary Prediction") +
   scale_color_discrete('Department') +
     facet_wrap(~ department)
@@ -419,7 +419,7 @@ ggplot(data=facsal, aes(x=experience,
                         group = department, 
                         col = department)) +
   geom_line() + 
-  labs(x="Experience", y="Predicted Salary",
+  labs(x="Experience",y="Salary (in $)",
        title = "Model m3 Salary Prediction") +
   scale_color_discrete('Department') 
 ```
@@ -434,7 +434,7 @@ ggplot(data=facsal, aes(x=experience,
   geom_line() + 
   geom_point(aes(x=experience, y=salary, 
                  group = department, colour = department)) +
-  labs(x="Experience", y="Predicted Salary",
+  labs(x="Experience",y="Salary (in $)",
        title = "Model m3 Salary Prediction") +
   scale_color_discrete('Department') 
 ```
@@ -450,7 +450,7 @@ ggplot(data=facsal, aes(x=experience,
   geom_line() + 
   geom_point(aes(x=experience, y=salary, 
                  group = department, colour = department)) +
-  labs(x="Experience", y="Predicted Salary",
+  labs(x="Experience",y="Salary (in $)",
        title = "Model m3 Salary Prediction") +
   scale_color_discrete('Department') +
     facet_wrap(~ department)
