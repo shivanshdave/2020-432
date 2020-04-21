@@ -7,6 +7,9 @@
     - Frank's course on [Introduction to Bayes for Evaluating Treatments](http://hbiostat.org/doc/bayes/course.html)
 - From FiveThirtyEight: [Why One Expert Is Still Making COVID-19 Models, Despite The Uncertainty](https://fivethirtyeight.com/features/why-one-expert-is-still-making-covid-19-models-despite-the-uncertainty/) by John M. Drake.
 - My old friend Alan Salzberg weighs in on [How many people in the US have (or had) COVID-19?](https://salthillstatistics.com/posts/70) back on 2020-04-19.
+- [28,000 Missing Deaths: Tracking the True Toll of the Coronavirus Crisis](https://www.nytimes.com/interactive/2020/04/21/world/coronavirus-missing-deaths.html) by Jin Wu and Allison McCann (2020-04-21) in the *New York Times*.
+- Kristian Lum tweets about the proportion of each state's deaths by [day of the week, showing an important reporting artifact](https://twitter.com/KLdivergence/status/1252325910344355852).
+- COVID-19 [Projections from a team at the University of Texas](https://covid-19.tacc.utexas.edu/projections/)
 - Chad Hazlett and David Wulf on [Learning the effects of COVID-19 treatments given outside of randomized trials](https://www.researchgate.net/publication/340105786_Learning_the_effects_of_COVID-19_treatments_given_outside_of_randomized_trials)
 - Hadley Wickham on [RStudio and COVID-19](https://blog.rstudio.com/2020/04/17/rstudio-and-covid-19/) from 2020-04-17.
 - Here at CWRU, there's [Alpha-Satellite: an AI-driven system for community-level risk assessment](https://covid-19.yes-lab.org/). Read more about it in the [CWRU Daily](https://thedaily.case.edu/mapping-the-covid-19-risk/).
