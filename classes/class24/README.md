@@ -44,8 +44,11 @@ Mon | 05-04 | Due Date for all Project 2 deliverables as well as optional Homewo
 
 ## One More Thing
 
-Dotplots are really underused. This is an example from a 2017 story at [FiveThirtyEight](https://fivethirtyeight.com/features/the-identity-politics-of-the-trump-administration)
+Dotplots are really underused. This is an example from a 2017 story on [The Identity Politics Of The Trump Administration at FiveThirtyEight](https://fivethirtyeight.com/features/the-identity-politics-of-the-trump-administration) by Perry Bacon, Jr.
 
-![]()
+![](https://github.com/THOMASELOVE/2020-432/blob/master/classes/class24/bacon-civil-rights-0426.png)
 
+Of course, [the Love plot](https://cran.r-project.org/web/packages/cobalt/vignettes/cobalt_A0_basic_use.html#love.plot) is a prime example of a dot plot, so it's perhaps not a surprise that I like them.
+
+![](https://github.com/THOMASELOVE/2020-432/blob/master/classes/class24/love-plot-cobalt.png)
 
