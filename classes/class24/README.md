@@ -16,8 +16,9 @@ PDF of Slides | .Rmd of Slides | Notes during Class | Need Help?
 ## Announcements
 
 1. Feedback on the Minute Paper after Class 23 is available at https://bit.ly/432-2020-minute-23-feedback.
-2. The Quiz 2 answer sketch and grades will be available by class time on Thursday.
-3. R 4.0.0 is scheduled for release this Friday 2020-04-24. I will happily accept projects that use version 3.6.2, 3.6.3 or 4.0.0 of R. I don't know how much trouble this will cause you - I hope it won't break anything important, but it's a major release - you may want to finish your project first and then upgrade.
+2. The Quiz 2 answer sketch is now available on our shared Google Drive in the same place where you found the materials for Quiz 2.
+3. Quiz 2 grades will be available to you by class time on Thursday.
+4. R 4.0.0 is scheduled for release this Friday 2020-04-24. I will happily accept projects that use version 3.6.2, 3.6.3 or 4.0.0 of R. I don't know how much trouble this will cause you - I hope it won't break anything important, but it's a major release - you may want to finish your project first and then upgrade.
 
 ## Resources Mentioned in Today's Slides
 
@@ -41,6 +42,3 @@ Fri | 05-01 | Final TA Office Hours.
 Fri | 05-01 | 5 PM: Last chance to request Project 2 alternative via email. (No commitment/reason needed.)
 Mon | 05-04 | Due Date for all Project 2 deliverables as well as optional Homeworks 5 and 6
 
-# One Last Thing
-
-**To come.**
