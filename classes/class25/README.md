@@ -17,8 +17,8 @@ PDF of Slides | .Rmd of Slides | Notes during Class | Need Help?
 
 1. Everyone who completed Quiz 2 should (by class time) have a document from me that specifies your grade on the Quiz. 
     - Details on the grading plan for the course are at http://bit.ly/432-2020-grading-plan. They are essentially unchanged since our discussion in Class 15. The difference is that I added 3 extra points to Quiz 2 rather than to the Class Participation cap.
-    - If you have any questions about grading, let Dr. Love know via email.
-2. Remember that if you want me to regrade any homework assignment, you need to submit [this Google Form](http://bit.ly/432-2020-homework-regrade-requests) by 5 PM on Friday 2020-04-24.
+    - If you have any questions about how your course grade is determined, let Dr. Love know via email.
+2. Remember that if you want Dr. Love to regrade any homework assignment (1, 2, 3 or 4), you need to submit [this Google Form](http://bit.ly/432-2020-homework-regrade-requests) by 5 PM on Friday 2020-04-24.
 3. There is a Minute Paper after Class 25 **coming soon**. Please complete it by 9 AM Sunday 2020-04-26.
 4. TA office hours continue through May 1, and 431-help is open to help with any statistical questions (Project 2 or otherwise) through May 4 at noon, and then we will be closed for the summer.
 5. The 431 and 432 web sites will disappear in June, so grab anything you need before June 1. If you need something after that, email me and I'll get back to you when I can, although you'll find my response time slows noticeably in the summer.
