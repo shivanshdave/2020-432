@@ -15,7 +15,7 @@ PDF of Slides | .Rmd of Slides | Notes during Class | Need Help?
 
 ## Announcements
 
-1. **By class time**, you will have a document from me that specifies your grade in the course so far, including details on Quiz 2. If you have any questions about grading, you're probably best off asking me via email. 
+1. **By class time**, you will have a document from me that specifies your grade in the course so far, including details on Quiz 2. Details on the grading plan for the course are at http://bit.ly/432-2020-grading-plan. If you have any questions about grading, you're probably best off asking me via email. 
 2. Remember that if you want me to regrade any homework assignment, you need to submit [this Google Form](http://bit.ly/432-2020-homework-regrade-requests) by 5 PM on Friday 2020-04-24.
 3. There is a Minute Paper after Class 25 **coming soon**. Please complete it by 9 AM Sunday 2020-04-26.
 4. TA office hours continue through May 1, and 431-help is open to help with any statistical questions (Project 2 or otherwise) through May 4 at noon, and then we will be closed for the summer.
@@ -28,7 +28,8 @@ PDF of Slides | .Rmd of Slides | Notes during Class | Need Help?
     - The answer to virtually all questions about any analysis or communication is "it depends on your research question." 
     - If your progress towards learning about and answering your research question is helped in an important way by the (graph/analysis/approach/table/sentence) you're thinking about including, include it. If not, don't. 
     - Interesting detours are not meant to show up in this Project. This advice is even more directly relevant when thinking about the presentation. Three minutes goes by very, very quickly. 
-3. You may be wondering what feedback you'll get from me on Project 2 after they are all submitted on 2020-05-04. The answer is that if the project is acceptable, almost none - you'll get a numeric grade, and that's all. If this is a disappointment, I'm sorry. 
+3. I've changed the grading scheme for Project 2 very slightly, to allow me to award 80 points for successful completion of all elements by the 2020-05-04 deadline, and then award up to 20 for the quality of that work.
+4. You may be wondering what feedback you'll get from me on Project 2 after they are all submitted on 2020-05-04. The answer is that if the project is acceptable, almost none - you'll get a numeric grade, and that's all. If this is a disappointment, I'm sorry. 
     - I've gotten myself into a position where I'll need to grade 38 projects (plus your additional materials for Homeworks 5 and 6 and alternate Quiz 2 assignments and the 11 projects in my other class) all in about 2.5 days because of other commitments I've made, so it just won't be possible for me to provide the sort of detailed feedback I've given for other work. 
     - In the past, I have reread almost all projects a second time over the summer as part of preparing for next year, but that'll be June or July and probably won't lead me to do anything other than revise materials to address issues that I see in multiple projects.
 
