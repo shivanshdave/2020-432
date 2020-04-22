@@ -15,7 +15,8 @@ PDF of Slides | .Rmd of Slides | Notes during Class | Need Help?
 
 ## Announcements
 
-1. **By class time**, you will have a document from me that specifies your grade in the course so far, including details on Quiz 2. Details on the grading plan for the course are at http://bit.ly/432-2020-grading-plan. If you have any questions about grading, you're probably best off asking me via email. 
+1. **By class time**, you will have a document from me that specifies your grade on Quiz 2. Details on the grading plan for the course are at http://bit.ly/432-2020-grading-plan.  
+    - I have calculated your grade for the course as of now, across all elements, assuming your grade on Project 2 is 80 and that you do not do either Homework 5 or Homework 6. For most of you, that is indicative of a "worst case scenario" since 80 is the lowest project score we'll see (if everything is completed and on time) and you can do either or both of Homeworks 5 and 6 between now and 2020-05-04. If you have any questions about grading, you're probably best off asking me via email.
 2. Remember that if you want me to regrade any homework assignment, you need to submit [this Google Form](http://bit.ly/432-2020-homework-regrade-requests) by 5 PM on Friday 2020-04-24.
 3. There is a Minute Paper after Class 25 **coming soon**. Please complete it by 9 AM Sunday 2020-04-26.
 4. TA office hours continue through May 1, and 431-help is open to help with any statistical questions (Project 2 or otherwise) through May 4 at noon, and then we will be closed for the summer.
