@@ -73,7 +73,7 @@ Here are two reproductions of Charles Joseph Minard's map of Napoleon's disastro
 
 ### A Large Version of the Original
 
-![](https://github.com/THOMASELOVE/2020-432/blob/master/classes/class25/figures/Minard_large.PNG)
+![](https://github.com/THOMASELOVE/2020-432/blob/master/classes/class25/figures/Minard_large.png)
 
 ### A More "Modern" Presentation
 
