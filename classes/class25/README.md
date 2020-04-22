@@ -15,10 +15,10 @@ PDF of Slides | .Rmd of Slides | Notes during Class | Need Help?
 
 ## Announcements
 
-1. Everyone who completed Quiz 2 should (by class time) have a document from me that specifies your grade on the Quiz. 
-    - Details on the grading plan for the course are at http://bit.ly/432-2020-grading-plan. They are essentially unchanged since our discussion in Class 15. The difference is that I added 3 extra points to Quiz 2 rather than to the Class Participation cap.
+1. Everyone who completed Quiz 2 should have an email from me specifying your Quiz 2 grade. 
+    - Details on course grading are at http://bit.ly/432-2020-grading-plan. The only change since our discusssion in Class 15 is that I added 3 extra points to Quiz 2 rather than to the Class Participation cap.
     - If you have any questions about how your course grade is determined, let Dr. Love know via email.
-2. Remember that if you want Dr. Love to regrade any homework assignment (1, 2, 3 or 4), you need to submit [this Google Form](http://bit.ly/432-2020-homework-regrade-requests) by 5 PM on Friday 2020-04-24.
+2. Remember that if you want Dr. Love to regrade homework 1, 2, 3 or 4, you need to submit [this Google Form](http://bit.ly/432-2020-homework-regrade-requests) by 5 PM this Friday 2020-04-24.
 3. There is a Minute Paper after Class 25 **coming soon**. Please complete it by 9 AM Sunday 2020-04-26.
 4. TA office hours continue through May 1, and 431-help is open to help with any statistical questions (Project 2 or otherwise) through May 4 at noon, and then we will be closed for the summer.
 5. The 431 and 432 web sites will disappear in June, so grab anything you need before June 1. If you need something after that, email me and I'll get back to you when I can, although you'll find my response time slows noticeably in the summer.
@@ -35,11 +35,7 @@ PDF of Slides | .Rmd of Slides | Notes during Class | Need Help?
     - I've gotten myself into a position where I'll need to grade 38 projects (plus your additional materials for Homeworks 5 and 6 and alternate Quiz 2 assignments and the 11 projects in my other class) all in about 2.5 days because of other commitments I've made, so it just won't be possible for me to provide the sort of detailed feedback I've given for other work. 
     - In the past, I have reread almost all projects a second time over the summer as part of preparing for next year, but that'll be June or July and probably won't lead me to do anything other than revise materials to address issues that I see in multiple projects.
 
-## Resources Mentioned in Today's Slides
-
-- To come.
-
-## Upcoming Deliverables (see the [Calendar](https://github.com/THOMASELOVE/2020-432/blob/master/calendar.md) for a complete list)
+## Remaining Deliverables (see the [Calendar](https://github.com/THOMASELOVE/2020-432/blob/master/calendar.md) for a complete list)
 
 Day | Date  | Description and Deadline
 :--: | ----: | ----------------------------------------------------------------------------------------------
@@ -48,4 +44,5 @@ Sun | 04-26 | Minute Paper after Class 25. Submit before 9 AM Sunday to make the
 Fri | 05-01 | Final TA Office Hours. 
 Fri | 05-01 | 5 PM: Last chance to request Project 2 alternative via email. (No commitment/reason needed.)
 Mon | 05-04 | Due Date for all Project 2 deliverables as well as optional Homeworks 5 and 6
+
 
