@@ -15,12 +15,13 @@ PDF of Slides | .Rmd of Slides | Notes during Class | Need Help?
 
 ## Announcements
 
-1. By class time, you will have a document from me that specifies your grade in the course so far, including details on Quiz 2. If you have any questions about grading, you're probably best off asking me via email. Remember that if you want me to regrade any homework assignment, you need to submit [this Google Form](http://bit.ly/432-2020-homework-regrade-requests) by 5 PM on Friday 2020-04-24.
-2. There is a Minute Paper after Class 25 **coming soon**. Please complete it by 9 AM Sunday 2020-04-26.
-3. As part of your submission for Project 2, you need to complete [an end-of-term Google Form](https://github.com/THOMASELOVE/2020-432/tree/master/projects/project2#the-end-of-term-google-form). This will be made available to you **by class time**.
-3. TA office hours continue through May 1, and 431-help is open to help with any statistical questions (Project 2 or otherwise) through May 4 at noon, and then we will be closed for the summer.
-4. The 431 and 432 web sites will disappear in June, so grab anything you need before June 1. If you need something after that, email me and I'll get back to you when I can, although you'll find my response time slows noticeably in the summer.
-5. You may be wondering what feedback you'll get from me on Project 2 after they are all submitted on 2020-05-04. The answer is that if the project is acceptable, almost none - you'll get a numeric grade, and that's all. 
+1. **By class time**, you will have a document from me that specifies your grade in the course so far, including details on Quiz 2. If you have any questions about grading, you're probably best off asking me via email. 
+2. Remember that if you want me to regrade any homework assignment, you need to submit [this Google Form](http://bit.ly/432-2020-homework-regrade-requests) by 5 PM on Friday 2020-04-24.
+3. There is a Minute Paper after Class 25 **coming soon**. Please complete it by 9 AM Sunday 2020-04-26.
+4. As part of your submission for Project 2, you need to complete [an end-of-term Google Form](https://github.com/THOMASELOVE/2020-432/tree/master/projects/project2#the-end-of-term-google-form). This will be made available to you **by class time**.
+5. TA office hours continue through May 1, and 431-help is open to help with any statistical questions (Project 2 or otherwise) through May 4 at noon, and then we will be closed for the summer.
+6. The 431 and 432 web sites will disappear in June, so grab anything you need before June 1. If you need something after that, email me and I'll get back to you when I can, although you'll find my response time slows noticeably in the summer.
+7. You may be wondering what feedback you'll get from me on Project 2 after they are all submitted on 2020-05-04. The answer is that if the project is acceptable, almost none - you'll get a numeric grade, and that's all. 
     - I'm in a position where I'll need to grade 38 projects (plus your additional materials for Homeworks 5 and 6 and alternate Quiz 2 assignments) in about 2.5 days because of other commitments, so it just won't be possible for me to provide the sort of detailed feedback I've given for other work. I'm sorry. 
     - In the past, I have reread almost all projects a second time over the summer as part of preparing for next year, but that'll be June or July and probably won't lead me to do anything other than revise materials to address issues that I see in multiple projects.
 
