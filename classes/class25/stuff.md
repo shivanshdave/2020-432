@@ -1,5 +1,17 @@
 # Stuff that Dr. Love wanted to share today
 
+## Minard's Map: A Graphical Memorial
+
+Here are two reproductions of Charles Joseph Minard's map of Napoleon's disastrous losses suffered during the Russian campaign of 1812.
+
+### A Large Version of the Original
+
+![](https://github.com/THOMASELOVE/2020-432/blob/master/classes/class25/figures/Minard_large.png)
+
+### A More "Modern" Presentation
+
+![](https://github.com/THOMASELOVE/2020-432/blob/master/classes/class25/figures/modern-minard.png)
+
 ## On Building Maps
 
 ### The first map (static, built using [the sociome package](https://github.com/NikKrieger/sociome) developed by Nik Krieger)
@@ -45,6 +57,7 @@
 - An excerpt from Jordan Ellenberg's *How Not To Be Wrong* touches on the [Wald story](https://medium.com/@penguinpress/an-excerpt-from-how-not-to-be-wrong-by-jordan-ellenberg-664e708cfc3d)
 - Here's a nice video from David Spiegelhalter on "[What would Florence Nightingale make of big data](https://www.bbc.com/ideas/videos/what-would-florence-nightingale-make-of-big-data/p075lxkt?playlist=thinkers-from-the-past-on-the-world-today)?"
 
+
 ## Learning and Using R
 
 1. Here is a [community-sourced data science repository](https://github.com/Chris-Engelhardt/data_sci_guide). The overarching goal here is to provide anyone interested in learning data science with a wealth of open source, industry-best learning materials and learning tracks. This started out with the [links for learning more about data science provided in this Twitter stream](https://twitter.com/EngelhardtCR/status/1116743032492253185).
@@ -67,14 +80,27 @@
 7. An extremely useful idea is that of splitting continuous predictors into thirds, rather than dichotomizing, [as described here](http://www.stat.columbia.edu/~gelman/research/published/thirds5.pdf). If you must categorize, think about the gains in efficiency this approach can provide.
 8. From Darren Dahly, [here is a simulation to demonstrate how you should decide which covariates to adjust for in the context of a randomized controlled trial.](https://threadreaderapp.com/thread/1115902270888128514.html). There's an excellent follow-up series of posts, [from Frank Harrell and others at this link](https://twitter.com/f2harrell/status/1116311832652910597).
 
-## Minard's Map: A Graphical Memorial
+## [Ten Simple Rules for Effective Statistical Practice](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1004961)
 
-Here are two reproductions of Charles Joseph Minard's map of Napoleon's disastrous losses suffered during the Russian campaign of 1812.
+1. Statistical Methods Should Enable Data to Answer Scientific Questions
+2. Signals Always Come with Noise
+3. Plan Ahead, Really Ahead
+4. Worry about Data Quality
+5. Statistical Analysis Is More Than a Set of Computations
+6. Keep it Simple
+7. Provide Assessments of Variability
+8. Check Your Assumptions
+9. When Possible, Replicate!
+10. Make Your Analysis Reproducible
 
-### A Large Version of the Original
+## Why Do Replicable/Reproducible Research?
 
-![](https://github.com/THOMASELOVE/2020-432/blob/master/classes/class25/figures/Minard_large.png)
+![](https://github.com/THOMASELOVE/2020-432/blob/master/classes/class25/figures/broman1.png) 
 
-### A More "Modern" Presentation
+- That's from Karl Broman who has some [initial steps toward reproducible research](https://kbroman.org/steps2rr/)
 
-![](https://github.com/THOMASELOVE/2020-432/blob/master/classes/class25/figures/modern-minard.png)
+## Advice for Graduate Students, from David Robinson
+
+![](https://github.com/THOMASELOVE/2020-432/blob/master/classes/class25/figures/gradschool.png)
+
+
