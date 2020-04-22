@@ -67,3 +67,14 @@
 7. An extremely useful idea is that of splitting continuous predictors into thirds, rather than dichotomizing, [as described here](http://www.stat.columbia.edu/~gelman/research/published/thirds5.pdf). If you must categorize, think about the gains in efficiency this approach can provide.
 8. From Darren Dahly, [here is a simulation to demonstrate how you should decide which covariates to adjust for in the context of a randomized controlled trial.](https://threadreaderapp.com/thread/1115902270888128514.html). There's an excellent follow-up series of posts, [from Frank Harrell and others at this link](https://twitter.com/f2harrell/status/1116311832652910597).
 
+## Minard's Map: A Graphical Memorial
+
+Here are two reproductions of Charles Joseph Minard's map of Napoleon's disastrous losses suffered during the Russian campaign of 1812.
+
+### A Large Version of the Original
+
+![](https://github.com/THOMASELOVE/2020-432/blob/master/classes/class25/figures/Minard_large.PNG)
+
+### A More "Modern" Presentation
+
+![](https://github.com/THOMASELOVE/2020-432/blob/master/classes/class25/figures/modern-minard.png)
