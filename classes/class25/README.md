@@ -31,9 +31,19 @@ PDF of Slides | .Rmd of Slides | Notes during Class | Need Help?
     - If you have any questions about how your course grade is determined, let Dr. Love know via email.
 6. **If you'd like to be a TA** for 431 or 432 (or both) next year, we expect to have both paid and volunteer positions available. I'd be delighted to have you involved. Information about applying for positions will be emailed between May 15 and June 15. If you have questions, let us know.
 
-## Important Project 2 Notes
+# Important Project 2 Notes
 
-1. As part of your submission for Project 2, you need to complete [an end-of-term Google Form](https://github.com/THOMASELOVE/2020-432/tree/master/projects/project2#the-end-of-term-google-form). This will be made available to you **by class time**.
+### What is the Objective in Project 2?
+
+There are three main components of the Project, all due 2020-05-04 at noon.
+
+- The objective of the Main Document is for you to produce something that will be of as much use to you as possible two years from now when you're trying to remember what you did. It's like the Portfolio from Project 1, not the Poster. Do not show sanity checks or false starts, but present and describe every part of the data science process that you used to get to the place where you wound up.
+- The objective of the Video Presentation is to ask and answer your research question in a convincing way using your data in a very short time period.
+- The objective of the [End-of-Term Form](https://bit.ly/432-2020-project2-end-form) question about your conclusions is to get you to summarize your study in 50 or so very well-chosen words.
+
+## Some Notes
+
+1. As part of your submission for Project 2, you need to complete [an end-of-term Google Form](https://bit.ly/432-2020-project2-end-form) which is now available at https://bit.ly/432-2020-project2-end-form.
 2. The most common questions we get about Project 2 involve whether or not to include something in your project. The answer is almost inevitably that the best way to determine this (for anything not explicitly required by the Project 2 instructions) is to look at your research question. 
     - The answer to virtually all questions about any analysis or communication is "it depends on your research question." 
     - If your progress towards learning about and answering your research question is helped in an important way by the (graph/analysis/approach/table/sentence) you're thinking about including, include it. If not, don't. 
@@ -51,6 +61,7 @@ An important reminder:
 6. I've changed [the grading scheme for Project 2](https://github.com/THOMASELOVE/2020-432/blob/master/projects/project2/README.md#grading-project-2) very slightly, to allow me to award 80 points for successful completion of all elements by the 2020-05-04 deadline, and then award up to 20 for the quality of that work.
 7. You may be wondering what feedback you'll get from me on Project 2 after they are all submitted on 2020-05-04. The answer is that if the project is acceptable, **almost none** - you'll get a numeric grade, and that's all. If this is a disappointment, I'm sorry. 
 
+
 ## Remaining Deliverables (see the [Calendar](https://github.com/THOMASELOVE/2020-432/blob/master/calendar.md) for a complete list)
 
 Day | Date  | Description and Deadline
@@ -67,7 +78,7 @@ This includes the three remaining deliverables described in the [Project 2 instr
 
 - [Project 2](https://github.com/THOMASELOVE/2020-432/tree/master/projects/project2) Main Document (R markdown **and** HTML **and** R data set files)
 - [Project 2](https://github.com/THOMASELOVE/2020-432/tree/master/projects/project2) Video Presentation
-- [Project 2](https://github.com/THOMASELOVE/2020-432/tree/master/projects/project2) End-of-Term Google Form
+- [Project 2](https://github.com/THOMASELOVE/2020-432/tree/master/projects/project2) End-of-Term Google Form to be found at https://bit.ly/432-2020-project2-end-form.
 
 plus the two *optional* homeworks:
 
