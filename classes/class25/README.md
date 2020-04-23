@@ -15,7 +15,7 @@ PDF of Slides | .Rmd of Slides | Notes during Class | Need Help?
 
 ## Today's Agenda
 
-1. Annoucements and Project Reminders
+1. Announcements and Project Reminders
 2. [Slides for Class 25](https://github.com/THOMASELOVE/2020-432/blob/master/classes/class25/432_2020_slides25.pdf)
 3. [Other Stuff I want to tell you about](https://github.com/THOMASELOVE/2020-432/blob/master/classes/class25/stuff.md)
 4. [New COVID-19 resources](https://github.com/THOMASELOVE/2020-432/blob/master/covid19resources.md) (if time permits)
