@@ -24,7 +24,7 @@ PDF of Slides | .Rmd of Slides | Notes during Class | Need Help?
 
 1. Remember that if you want Dr. Love to regrade homework 1, 2, 3 or 4, you need to submit [this Google Form](http://bit.ly/432-2020-homework-regrade-requests) by 5 PM this Friday 2020-04-24.
 2. There is a [Minute Paper after Class 25](https://bit.ly/432-2020-minute-25). Please complete it by 9 AM Sunday 2020-04-26.
-3. The University has asked you to evaluate the course at https://webapps.case.edu/courseevals/. Please do this by their deadlinem which is Thursday May 7. It really, really matters, especially this semester.
+3. The University has asked you to evaluate the course at https://webapps.case.edu/courseevals/. Please do this by their deadline, which is Thursday May 7. It really, really matters, especially this semester.
 4. TA office hours continue through May 1, and 431-help is open to help with any statistical questions (Project 2 or otherwise) through May 4 at noon, and then we will be closed for the summer.
 5. The 431 and 432 web sites will disappear in June, so grab anything you need before June 1. If you need something after that, email me and I'll get back to you when I can, although you'll find my response time slows noticeably in the summer.
 6. Everyone who completed Quiz 2 should have an email from me specifying your Quiz 2 grade. 
