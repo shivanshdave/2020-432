@@ -12,6 +12,12 @@ Here are two reproductions of Charles Joseph Minard's map of Napoleon's disastro
 
 ![](https://github.com/THOMASELOVE/2020-432/blob/master/classes/class25/figures/modern-minard.png)
 
+## On Abraham Wald 
+
+![](https://github.com/THOMASELOVE/2020-432/blob/master/classes/class25/figures/wald.PNG) from [Seva Gunitsky](https://twitter.com/SevaUT/status/1097880873368801287)
+
+- An excerpt from Jordan Ellenberg's *How Not To Be Wrong* touches on the [Wald story](https://medium.com/@penguinpress/an-excerpt-from-how-not-to-be-wrong-by-jordan-ellenberg-664e708cfc3d)
+
 ## On Building Maps
 
 ### The first map (static, built using [the sociome package](https://github.com/NikKrieger/sociome) developed by Nik Krieger)
@@ -50,14 +56,6 @@ Here are two reproductions of Charles Joseph Minard's map of Napoleon's disastro
 5. [25 examples of tables built using the `gt` package in R](https://frm1789.github.io/gt_examples/).
 6. In my early days learning to visualize data in R, the most useful book for me was Winston Cheng's [R Graphics Cookbook](https://r-graphics.org/), and the second edition is [available online, for free](https://r-graphics.org/)!
 
-## On Abraham Wald 
-
-![](https://github.com/THOMASELOVE/2020-432/blob/master/classes/class25/figures/wald.PNG) from [Seva Gunitsky](https://twitter.com/SevaUT/status/1097880873368801287)
-
-- An excerpt from Jordan Ellenberg's *How Not To Be Wrong* touches on the [Wald story](https://medium.com/@penguinpress/an-excerpt-from-how-not-to-be-wrong-by-jordan-ellenberg-664e708cfc3d)
-- Here's a nice video from David Spiegelhalter on "[What would Florence Nightingale make of big data](https://www.bbc.com/ideas/videos/what-would-florence-nightingale-make-of-big-data/p075lxkt?playlist=thinkers-from-the-past-on-the-world-today)?"
-
-
 ## Learning and Using R
 
 1. Here is a [community-sourced data science repository](https://github.com/Chris-Engelhardt/data_sci_guide). The overarching goal here is to provide anyone interested in learning data science with a wealth of open source, industry-best learning materials and learning tracks. This started out with the [links for learning more about data science provided in this Twitter stream](https://twitter.com/EngelhardtCR/status/1116743032492253185).
@@ -78,9 +76,12 @@ Here are two reproductions of Charles Joseph Minard's map of Napoleon's disastro
 5. Check out this article by Bates, Machler, Bolker and Walker on [Fitting Linear Mixed-Effects Models using lme4](https://www.jstatsoft.org/article/view/v067i01/0?utm_campaign=digest&utm_medium=email&utm_source=nuzzel)
 6. You may be interested in [Maverick Lin's 10-page "cheat sheet" about data science](https://www.datasciencecentral.com/profiles/blogs/new-data-science-cheat-sheet), which is inspired by William Chen's [The Only Probability Cheatsheet You'll Ever Need](https://www.datasciencecentral.com/profiles/blogs/probability-cheat-sheet).
 7. An extremely useful idea is that of splitting continuous predictors into thirds, rather than dichotomizing, [as described here](http://www.stat.columbia.edu/~gelman/research/published/thirds5.pdf). If you must categorize, think about the gains in efficiency this approach can provide.
-8. From Darren Dahly, [here is a simulation to demonstrate how you should decide which covariates to adjust for in the context of a randomized controlled trial.](https://threadreaderapp.com/thread/1115902270888128514.html). There's an excellent follow-up series of posts, [from Frank Harrell and others at this link](https://twitter.com/f2harrell/status/1116311832652910597).
+8. Here's a nice video from David Spiegelhalter on "[What would Florence Nightingale make of big data](https://www.bbc.com/ideas/videos/what-would-florence-nightingale-make-of-big-data/p075lxkt?playlist=thinkers-from-the-past-on-the-world-today)?"
+9. From Darren Dahly, [here is a simulation to demonstrate how you should decide which covariates to adjust for in the context of a randomized controlled trial.](https://threadreaderapp.com/thread/1115902270888128514.html). There's an excellent follow-up series of posts, [from Frank Harrell and others at this link](https://twitter.com/f2harrell/status/1116311832652910597).
 
 ## [Ten Simple Rules for Effective Statistical Practice](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1004961)
+
+This insightful article from Robert E. Kass, Brian S. Caffo, Marie Davidian, Xiao-Li Meng, Bin Yu, and Nancy Reid in 2016 in [PLOS Computational Biology](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1004961) as part of their "Ten Simple Rules" series is very helpful. The Ten Rules are...
 
 1. Statistical Methods Should Enable Data to Answer Scientific Questions
 2. Signals Always Come with Noise
@@ -92,6 +93,14 @@ Here are two reproductions of Charles Joseph Minard's map of Napoleon's disastro
 8. Check Your Assumptions
 9. When Possible, Replicate!
 10. Make Your Analysis Reproducible
+
+### A few other great "Ten Simple Rules" pieces to explore...
+
+- [Ten Simple Rules for Graduate Students](http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.0030229) by Gu J Bourne PE 2007
+- [Ten Simple Rules for Better Figures](http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1003833) by Rougier NP Droettboom M Bourne PE 2014
+- [Ten Simple Rules for Creating a Good Data Management Plan](http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1004525) by Michener WK 2015
+
+I'll also remind you of the existence of [the References page](https://github.com/THOMASELOVE/2020-432/blob/master/references/README.md), which has all sorts of good things to read.
 
 ## Why Do Replicable/Reproducible Research?
 
