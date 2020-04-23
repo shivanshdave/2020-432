@@ -23,7 +23,7 @@ PDF of Slides | .Rmd of Slides | Notes during Class | Need Help?
 ## Announcements
 
 1. Remember that if you want Dr. Love to regrade homework 1, 2, 3 or 4, you need to submit [this Google Form](http://bit.ly/432-2020-homework-regrade-requests) by 5 PM this Friday 2020-04-24.
-2. There is a [Minute Paper after Class 25](https://bit.ly/432-2020-minutue-25). Please complete it by 9 AM Sunday 2020-04-26.
+2. There is a [Minute Paper after Class 25](https://bit.ly/432-2020-minute-25). Please complete it by 9 AM Sunday 2020-04-26.
 3. TA office hours continue through May 1, and 431-help is open to help with any statistical questions (Project 2 or otherwise) through May 4 at noon, and then we will be closed for the summer.
 4. The 431 and 432 web sites will disappear in June, so grab anything you need before June 1. If you need something after that, email me and I'll get back to you when I can, although you'll find my response time slows noticeably in the summer.
 5. Everyone who completed Quiz 2 should have an email from me specifying your Quiz 2 grade. 
@@ -56,7 +56,7 @@ An important reminder:
 Day | Date  | Description and Deadline
 :--: | ----: | ----------------------------------------------------------------------------------------------
 Fri | 04-24 | (Optional) To request a regrade on HW 1-4, complete [this Google Form](http://bit.ly/432-2020-homework-regrade-requests) by 5 PM.
-Sun | 04-26 | [Minute Paper after Class 25](https://bit.ly/432-2020-minutue-25). Submit before 9 AM Sunday to make the feedback.
+Sun | 04-26 | [Minute Paper after Class 25](https://bit.ly/432-2020-minute-25). Submit before 9 AM Sunday to make the feedback.
 Fri | 05-01 | Final TA Office Hours. 
 Fri | 05-01 | 5 PM: Last chance to request Project 2 alternative via email. (No commitment/reason needed.)
 Mon | 05-04 | Due Date for all Project 2 deliverables as well as optional Homeworks 5 and 6
