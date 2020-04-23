@@ -47,14 +47,6 @@ If you want to produce 2D and 3D hillshaded maps of elevation matrices, you want
 ![](https://www.rayshader.com/reference/figures/README_ggplots-1.png)
 
 
-## On Propensity Scores, Causal Inference and the Design and Analysis of Observational Studies
-
-1. from @EpiEllie: [This is why](https://twitter.com/EpiEllie/status/1095864462664495105) your data science needs causal inference!
-2. Take my 500 course next Spring.
-3. Take a look at [some of the materials from a workshop I gave in 2018](https://github.com/THOMASELOVE/ichps2018) on the subject at the International Conference on Health Policy Statistics.
-4. Lucy D'agostino McGowan's [Understanding propensity score weighting](https://livefreeordichotomize.com/2019/01/17/understanding-propensity-score-weighting/) may be very helpful to you.
-5. Here is a [reading list of key ideas in causal inference](https://docs.google.com/document/d/1a-_VYQrZDLIAWCUs_JKvnwNT2onn-rIiLh69W53fh1o/edit) designed for a general clinical / public health audience.
-
 ## Visualization
 
 1. Want to build your linear regression diagnostic plots using ggplot2? Take a look at [the `lindia` package](https://github.com/yeukyul/lindia).
@@ -138,4 +130,4 @@ I'll also remind you of the existence of [the References page](https://github.co
 
 ![](https://github.com/THOMASELOVE/2020-432/blob/master/classes/class25/figures/gradschool.PNG)
 
-
+# and remember ... statistics is too important to leave to statisticians.
