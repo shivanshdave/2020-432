@@ -30,10 +30,18 @@ PDF of Slides | .Rmd of Slides | Notes during Class | Need Help?
     - The answer to virtually all questions about any analysis or communication is "it depends on your research question." 
     - If your progress towards learning about and answering your research question is helped in an important way by the (graph/analysis/approach/table/sentence) you're thinking about including, include it. If not, don't. 
     - Interesting detours are not meant to show up in this Project. This advice is even more directly relevant when thinking about the presentation. Three minutes goes by very, very quickly. 
-3. I've changed [the grading scheme for Project 2](https://github.com/THOMASELOVE/2020-432/blob/master/projects/project2/README.md#grading-project-2) very slightly, to allow me to award 80 points for successful completion of all elements by the 2020-05-04 deadline, and then award up to 20 for the quality of that work.
-4. You may be wondering what feedback you'll get from me on Project 2 after they are all submitted on 2020-05-04. The answer is that if the project is acceptable, almost none - you'll get a numeric grade, and that's all. If this is a disappointment, I'm sorry. 
-    - I've gotten myself into a position where I'll need to grade 38 projects (plus your additional materials for Homeworks 5 and 6 and alternate Quiz 2 assignments and the 11 projects in my other class) all in about 2.5 days because of other commitments I've made, so it just won't be possible for me to provide the sort of detailed feedback I've given for other work. 
-    - In the past, I have reread almost all projects a second time over the summer as part of preparing for next year, but that'll be June or July and probably won't lead me to do anything other than revise materials to address issues that I see in multiple projects.
+3. As [Brendan Molin](https://twitter.com/bmo_molin/status/969596193692180480?s=11) suggests, don't skimp on the exploratory data analysis.
+4. The key to a mind-capturing project is **good visualization** of the data. Show us the data!
+    - You may be interested in this list of [50 `ggplot2` Visualizations (with R code)](http://r-statistics.co/Top50-Ggplot2-Visualizations-MasterList-R-Code.html) which also links to some more introductory materials. If you want to build a waffle chart, dumbbell chart, slope chart, show clusters, build maps, or many more things, this is a nice resource. Some of the tools it uses come from the `ggExtra` package.
+    - You may also like this [graphics companion from Trafford Data Lab](http://www.trafforddatalab.io/graphics_companion/index.html) which demonstrates a range of useful graphical forms via `ggplot2`.
+
+An important reminder:
+
+![](https://github.com/THOMASELOVE/2020-432/blob/master/classes/class25/figures/turner_tw.png)
+
+5. From [Andrew Gelman](http://andrewgelman.com/2018/03/02/audition-fools-explore/): Two important attributes of a good scientist are (a) an openness to being surprised and (b) a willingness to do the hard work to collect data of high enough quality to be able to surprise you.
+6. I've changed [the grading scheme for Project 2](https://github.com/THOMASELOVE/2020-432/blob/master/projects/project2/README.md#grading-project-2) very slightly, to allow me to award 80 points for successful completion of all elements by the 2020-05-04 deadline, and then award up to 20 for the quality of that work.
+7. You may be wondering what feedback you'll get from me on Project 2 after they are all submitted on 2020-05-04. The answer is that if the project is acceptable, **almost none** - you'll get a numeric grade, and that's all. If this is a disappointment, I'm sorry. 
 
 ## Remaining Deliverables (see the [Calendar](https://github.com/THOMASELOVE/2020-432/blob/master/calendar.md) for a complete list)
 
