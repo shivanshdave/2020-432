@@ -101,6 +101,6 @@ Here are two reproductions of Charles Joseph Minard's map of Napoleon's disastro
 
 ## Advice for Graduate Students, from David Robinson
 
-![](https://github.com/THOMASELOVE/2020-432/blob/master/classes/class25/figures/gradschool.png)
+![](https://github.com/THOMASELOVE/2020-432/blob/master/classes/class25/figures/gradschool.PNG)
 
 
