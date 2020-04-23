@@ -12,6 +12,8 @@ Here are two reproductions of Charles Joseph Minard's map of Napoleon's disastro
 
 ![](https://github.com/THOMASELOVE/2020-432/blob/master/classes/class25/figures/modern-minard.png)
 
+- For more on Minard and two other crucial diagrams (Florence Nightingale's Rose and WEB DuBois' charts of African-American life) I encourage you to read "[Florence Nightingale and Victorian data visualisation](https://github.com/THOMASELOVE/2020-432/blob/master/classes/class25/nightingale_significance.pdf)" by Alison Hedley in the latest issue of [Significance magazine](https://rss.onlinelibrary.wiley.com/journal/17409713).
+
 ## On Abraham Wald 
 
 ![](https://github.com/THOMASELOVE/2020-432/blob/master/classes/class25/figures/wald.PNG) from [Seva Gunitsky](https://twitter.com/SevaUT/status/1097880873368801287)
@@ -53,8 +55,9 @@ Here are two reproductions of Charles Joseph Minard's map of Napoleon's disastro
 2. [Plots within Plots with ggplot2 and ggmap](https://statisticaloddsandends.wordpress.com/2019/02/24/plots-within-plots-with-ggplot2-and-ggmap/).
 3. from Timo Grossenbacher, some [bivariate maps with ggplot2 and sf](https://timogrossenbacher.ch/2019/04/bivariate-maps-with-ggplot2-and-sf/)
 4. The [colorblindr package](https://github.com/clauswilke/colorblindr) may be of interest to some of you. It lets you make a figure in ggplot2 and then look at it in various color-vision-deficiency simulations. Still doesn't cover everyone, but it might help a bit. It also provides an alternative to viridis that some people like. [Color Oracle](https://colororacle.org/) can also help.
-5. [25 examples of tables built using the `gt` package in R](https://frm1789.github.io/gt_examples/).
-6. In my early days learning to visualize data in R, the most useful book for me was Winston Cheng's [R Graphics Cookbook](https://r-graphics.org/), and the second edition is [available online, for free](https://r-graphics.org/)!
+5. Here's a new article from Christine P. Chai in Chance on [The Importance of Data Cleaning: Three Visualization Examples](https://chance.amstat.org/2020/02/data-cleaning/).  
+6. [25 examples of tables built using the `gt` package in R](https://frm1789.github.io/gt_examples/).
+7. In my early days learning to visualize data in R, the most useful book for me was Winston Cheng's [R Graphics Cookbook](https://r-graphics.org/), and the second edition is [available online, for free](https://r-graphics.org/)!
 
 ## Learning and Using R
 
@@ -66,6 +69,12 @@ Here are two reproductions of Charles Joseph Minard's map of Napoleon's disastro
 6. Some [great resources (and demos) are gathered here by Mara Averick](https://connect.rstudioservices.com/content/282/gov1005.html)
 7. Want to create dynamic dashboards using the shinydashboard R package? [Check this out](https://leanpub.com/c/shinydashboard).
 8. Some people complain about using R, instead of some other software. If you get this complaint, take a look [at this Twitter stream](https://twitter.com/SameerDesai1/status/1095907255755526145).
+9. Part 1 of Thomas Pedersen's beginner/intermediate ggplot2 Workshop from 2020-03-24 [is on YouTube](https://www.youtube.com/watch?v=h29g21z0a68&feature=youtu.be) and may be interesting to you.
+    - Thomas also spoke about [gganimate](https://www.youtube.com/watch?v=3UY7Or0v_dI) at rstudio::conf 2019.
+10. Don't forget about [RStudio Cheatsheets](https://rstudio.com/resources/cheatsheets/)
+11. Some very [helpful data analysis examples and other R learning resources](https://stats.idre.ucla.edu/r/) from the Institute for Digital Research and Education at UCLA.
+12. [The case for tidymodels](https://rviews.rstudio.com/2020/04/21/the-case-for-tidymodels/) from Joseph Rickert (2020-04-21). I'm pretty well sold that this will be a big part of next year's 432. 
+    - The [tidymodels.org](https://www.tidymodels.org/) website is a good place to go to learn more.
 
 ## Important Issues in Statistics
 
@@ -82,7 +91,8 @@ Here are two reproductions of Charles Joseph Minard's map of Napoleon's disastro
 11. "[Calculating Observed Power is Like Believing in Fairy Tales](https://lesslikely.com/statistics/observed-power-magic/) at [LessLikely](https://lesslikely.com/)
     - "A discussion of events that transpired in 2018-19, where a group of surgical researchers decided to ignore much of the statistical literature and promote a highly misleading practice of calculating post-hoc power using the observed effect size."
     - Some related pieces at LessLikely include "[When Can We Say That Something Doesn't Work?](https://lesslikely.com/statistics/evidence-of-absence/)" and "[Misplaced Confidence in Observed Power](https://lesslikely.com/statistics/misplaced-power/)"
-
+12. Carl Howe from RStudio posted (2020-04-22) on "[Getting to the Right Question](https://blog.rstudio.com/2020/04/22/getting-to-the-right-question/)" - an always-critical part of data science work.
+13. I'd also encourage you to consider joining the [American Statistical Association](https://www.amstat.org/asa/membership/home.aspx). Student membership is very inexpensive.
 
 ## [Ten Simple Rules for Effective Statistical Practice](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1004961)
 
