@@ -61,3 +61,16 @@ Fri | 05-01 | Final TA Office Hours.
 Fri | 05-01 | 5 PM: Last chance to request Project 2 alternative via email. (No commitment/reason needed.)
 Mon | 05-04 | Due Date for all Project 2 deliverables as well as optional Homeworks 5 and 6
 
+### The five major deliverables required for the rest of the course are due at NOON on 2020-05-04 
+
+This includes the three remaining deliverables described in the [Project 2 instructions](https://github.com/THOMASELOVE/2020-432/tree/master/projects/project2).
+
+- [Project 2](https://github.com/THOMASELOVE/2020-432/tree/master/projects/project2) Main Document (R markdown **and** HTML **and** R data set files)
+- [Project 2](https://github.com/THOMASELOVE/2020-432/tree/master/projects/project2) Video Presentation
+- [Project 2](https://github.com/THOMASELOVE/2020-432/tree/master/projects/project2) End-of-Term Google Form
+
+plus the two *optional* homeworks:
+
+- (*optional*) [Homework 5](https://github.com/THOMASELOVE/2020-432/tree/master/homework/hw05) which you submit via Canvas
+- (*optional*) [Homework 6](https://github.com/THOMASELOVE/2020-432/tree/master/homework/hw06) which you submit by sending an email to Dr. Love with the subject line "432 Homework 6: My Website".
+
