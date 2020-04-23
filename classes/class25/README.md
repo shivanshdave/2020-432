@@ -13,6 +13,13 @@ PDF of Slides | .Rmd of Slides | Notes during Class | Need Help?
 - The [COVID-19 Resources page](https://github.com/THOMASELOVE/2020-432/blob/master/covid19resources.md) will remain available through May, although I don't promise to update it again after today.
 - [Things I Won't Get To This Semester](https://github.com/THOMASELOVE/2020-432/blob/master/not_this_semester.md)
 
+## Today's Agenda
+
+1. Annoucements and Project Reminders
+2. [Slides for Class 25](https://github.com/THOMASELOVE/2020-432/blob/master/classes/class25/432_2020_slides25.pdf)
+3. [Other Stuff I want to tell you about](https://github.com/THOMASELOVE/2020-432/blob/master/classes/class25/stuff.md)
+4. [New COVID-19 resources](https://github.com/THOMASELOVE/2020-432/blob/master/covid19resources.md) (if time permits)
+
 ## Announcements
 
 1. Everyone who completed Quiz 2 should have an email from me specifying your Quiz 2 grade. 
@@ -22,6 +29,7 @@ PDF of Slides | .Rmd of Slides | Notes during Class | Need Help?
 3. There is a Minute Paper after Class 25 **coming soon**. Please complete it by 9 AM Sunday 2020-04-26.
 4. TA office hours continue through May 1, and 431-help is open to help with any statistical questions (Project 2 or otherwise) through May 4 at noon, and then we will be closed for the summer.
 5. The 431 and 432 web sites will disappear in June, so grab anything you need before June 1. If you need something after that, email me and I'll get back to you when I can, although you'll find my response time slows noticeably in the summer.
+6. **If you'd like to be a TA** for 431 or 432 (or both) next year, we expect to have both paid and volunteer positions available. I'd be delighted to have you involved. Information about applying for positions will be emailed between May 15 and June 15. If you have questions, let us know.
 
 ## Important Project 2 Notes
 
@@ -52,5 +60,4 @@ Sun | 04-26 | Minute Paper after Class 25. Submit before 9 AM Sunday to make the
 Fri | 05-01 | Final TA Office Hours. 
 Fri | 05-01 | 5 PM: Last chance to request Project 2 alternative via email. (No commitment/reason needed.)
 Mon | 05-04 | Due Date for all Project 2 deliverables as well as optional Homeworks 5 and 6
-
 
