@@ -22,21 +22,30 @@ Here are two reproductions of Charles Joseph Minard's map of Napoleon's disastro
 
 ## On Building Maps
 
-### The first map (static, built using [the sociome package](https://github.com/NikKrieger/sociome) developed by Nik Krieger)
-
-![](https://github.com/THOMASELOVE/2020-432/blob/master/classes/class25/figures/cuyahoga_adi_map.png)
-
-- See the documentation for this work as a [github markdown file](https://github.com/THOMASELOVE/2020-432/blob/master/classes/class25/map_example_sociome_TEL/Ohio_sociome_by_tract.md), or in [R Markdown](https://github.com/THOMASELOVE/2020-432/blob/master/classes/class25/map_example_sociome_TEL/Ohio_sociome_by_tract.Rmd).
-- One thing I haven't yet done is use thematic maps, which [can produce some spectacular results](https://github.com/mtennekes/tmap).
-- And if you want to produce 2D and 3D hillshaded maps of elevation matrices, you want [rayshader](https://www.rayshader.com/).
-
-### The [more interactive map, from Better Health Partnership](http://betterhealthpartnership.org/data_center/report_22/maps/report22_overweight_obesity_map.asp) was built using `leaflet`. A screenshot follows...
+### An [interactive map, from Better Health Partnership](http://betterhealthpartnership.org/data_center/report_22/maps/report22_overweight_obesity_map.asp) was built using `leaflet`. A screenshot follows...
 
 ![](https://github.com/THOMASELOVE/2020-432/blob/master/classes/class25/figures/leaflet_bhp_map.png)
 
 - See the code (but not the data) in [R Markdown here](https://github.com/THOMASELOVE/2020-432/blob/master/classes/class25/map_leaflet_TEL/leaflet_map_overweightorobese_rates.Rmd)
 - If you want to learn how to build an interactive map using leaflet, I recommend [R Studio's leaflet page](https://rstudio.github.io/leaflet/), as well as learning something about using mini-charts within a leaflet visualization from [this Github repository](https://github.com/rte-antares-rpackage/leaflet.minicharts).
 - Here's [another great tutorial](https://github.com/momiji15/apptomap/tree/master/R%20Ready%20to%20Map) to help you learn how to write code to collect tweets using the `rtweet` package and to display tweets on a basic interactive map using Leaflet for R.
+
+### A static map built using [the sociome package](https://github.com/NikKrieger/sociome) developed by Nik Krieger
+
+![](https://github.com/THOMASELOVE/2020-432/blob/master/classes/class25/figures/cuyahoga_adi_map.png)
+
+- See the documentation for this work as a [github markdown file](https://github.com/THOMASELOVE/2020-432/blob/master/classes/class25/map_example_sociome_TEL/Ohio_sociome_by_tract.md), or in [R Markdown](https://github.com/THOMASELOVE/2020-432/blob/master/classes/class25/map_example_sociome_TEL/Ohio_sociome_by_tract.Rmd).
+- One thing I haven't yet done is use thematic maps, which [can produce some spectacular results](https://github.com/mtennekes/tmap).
+- Here's the [github repository for `ggmap`](https://github.com/dkahle/ggmap) which can be used to make some fantastic maps.
+
+### Amazingly cool (and dangerous thing) - RAYSHADER!
+
+If you want to produce 2D and 3D hillshaded maps of elevation matrices, you want [rayshader](https://www.rayshader.com/). In fact, rayshader can even be used to [create 3D plots out of ggplot2 objects](https://www.rayshader.com/#d-plotting-with-rayshader-and-ggplot2) with just a few lines of code.
+    
+![](https://www.rayshader.com/reference/figures/README_ggplots_3-1.png)
+
+![](https://www.rayshader.com/reference/figures/README_ggplots-1.png)
+
 
 ## On Propensity Scores, Causal Inference and the Design and Analysis of Observational Studies
 
