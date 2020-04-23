@@ -30,6 +30,8 @@ Class 25 | 04-23 | Catchup and wrapup of **ART** Chapters 1-14
 -- | 04-24 | (*Optional*) Complete [this Google Form](http://bit.ly/432-2020-homework-regrade-requests) by 5 PM to request a regrade on Homeworks 1-4.
 -- | 04-26 | [Minute Paper after Class 25](https://bit.ly/432-2020-minute-25). Submit before 9 AM Sunday to make the feedback.
 
+### Remember also to evaluate the course at https://webapps.case.edu/courseevals/ by Thursday 2020-05-07.
+
 ## All five remaining deliverables are due at NOON on Monday 2020-05-04.
 
 You are welcome, in fact encouraged to submit any or all of these earlier than the final deadline. This includes the three remaining deliverables described in the [Project 2 instructions](https://github.com/THOMASELOVE/2020-432/tree/master/projects/project2).
