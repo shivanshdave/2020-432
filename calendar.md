@@ -36,7 +36,7 @@ You are welcome, in fact encouraged to submit any or all of these earlier than t
 
 - [Project 2](https://github.com/THOMASELOVE/2020-432/tree/master/projects/project2) Main Document (R markdown and HTML and R data set files)
 - [Project 2](https://github.com/THOMASELOVE/2020-432/tree/master/projects/project2) Video Presentation
-- [Project 2](https://github.com/THOMASELOVE/2020-432/tree/master/projects/project2) End-of-Term Google Form
+- [Project 2](https://github.com/THOMASELOVE/2020-432/tree/master/projects/project2) End-of-Term Google Form found at https://bit.ly/432-2020-project2-end-form.
 
 plus the two *optional* homeworks:
 
