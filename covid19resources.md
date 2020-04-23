@@ -6,6 +6,8 @@
     - Also of interest is this [proposal by Dan Lane to look at Illness Severity among non-COVID patients](https://discourse.datamethods.org/t/illness-severity-among-non-covid-patients/3185?u=danlane911)
     - Frank's course on [Introduction to Bayes for Evaluating Treatments](http://hbiostat.org/doc/bayes/course.html)
 - From FiveThirtyEight: [Why One Expert Is Still Making COVID-19 Models, Despite The Uncertainty](https://fivethirtyeight.com/features/why-one-expert-is-still-making-covid-19-models-despite-the-uncertainty/) by John M. Drake.
+- The 2020-04-22 episode of Model Talk at FiveThirtyEight [Forecasting The Toll Of COVID-19](https://www.youtube.com/watch?v=RYxp6v8o5FU) features Chris Murray, from the University of Washington who is a big part of the IHME COVID-19 Model
+    - Dr. Murray is also the protagonist of the book *Epic Measures: One Doctor. Seven Billion Patients* by Jeremy N. Smith which tells an intriguing story that I enjoyed reading.
 - Nate Silver tweeted on 2020-04-21 about [a way to summarize COVID-19 trajectories in different states](https://twitter.com/NateSilver538/status/1252774053796106240). The results are both weird and disheartening.
 - My old friend Alan Salzberg weighs in on [How many people in the US have (or had) COVID-19?](https://salthillstatistics.com/posts/70) back on 2020-04-19.
 - [28,000 Missing Deaths: Tracking the True Toll of the Coronavirus Crisis](https://www.nytimes.com/interactive/2020/04/21/world/coronavirus-missing-deaths.html) by Jin Wu and Allison McCann (2020-04-21) in the *New York Times*.
