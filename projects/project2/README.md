@@ -5,7 +5,7 @@
 1. The [Project 2 Proposal Google Form](https://github.com/THOMASELOVE/2020-432/blob/master/projects/project2/README.md#the-project-2-proposal-google-form), due 2020-04-01.
 2. The [Main Project 2 Document](https://github.com/THOMASELOVE/2020-432/blob/master/projects/project2/README.md#the-main-project-2-document) (which includes R Markdown and HTML files, plus an tidied .Rds file), due 2020-05-04.
 3. The [Project 2 Video Presentation](https://github.com/THOMASELOVE/2020-432/blob/master/projects/project2/README.md#the-project-2-video-presentation), due 2020-05-04.
-4. The [End-of-Term Google Form](https://github.com/THOMASELOVE/2020-432/tree/master/projects/project2#the-end-of-term-google-form), also due 2020-05-04.
+4. The [End-of-Term Google Form](https://github.com/THOMASELOVE/2020-432/tree/master/projects/project2#the-end-of-term-google-form), also due 2020-05-04, which you'll find at https://bit.ly/432-2020-project2-end-form.
 
 You are permitted to work alone or with a partner for deliverables 1, 2 and 3. Everyone will complete the End-of-Term Google Form on their own.
 
@@ -288,18 +288,16 @@ At a minimum, your presentation should specify your research question, highlight
 
 # The End-of-Term Google Form
 
-You will complete an end-of-term Google Form also due 2020-05-04, where you will be asked...
+You will complete [this end-of-term Google Form](https://bit.ly/432-2020-project2-end-form) also due 2020-05-04, where you will be asked...
 
 1. to summarize the key finding of your study briefly in your own well-chosen set of 50 or fewer words, and 
 2. about the most important thing you’ve learned in 432, 
 3. about the next step you’re most eager to take in developing yourself as a data scientist, and 
 4. about the most important piece of advice you wished you’d heard when starting the 431-432 sequence. 
 
-and maybe about some other things.
-
 If you’re working as a pair, each of you must submit the end-of-term Google Form separately. 
 
-We will post the end-of-term Google Form in April.
+The end-of-term Google Form is found at https://bit.ly/432-2020-project2-end-form.
 
 -----------
 
@@ -310,7 +308,7 @@ Project 2 will be graded on a scale from 0 to 100. Students meeting the minimum 
 - 10 points for successful completion of the Project 2 Proposal Google Form, due 2020-04-01.
 - 40 points for on-time complete submission of all necessary files (.Rmd, .HTML, .Rds) associated with the Main Project 2 Document so that Dr. Love can successfully review them.
 - 20 points for on-time complete submission of the Video Presentation materials so that Dr. Love can successfully review them.
-- 10 points for on-time completion of the End-of-Term Google Form.
+- 10 points for on-time completion of [the End-of-Term Google Form](https://bit.ly/432-2020-project2-end-form).
 
 To get to the maximum score of 100, Dr. Love will award up to 20 additional points for especially thoughtful and effective work on:
 
