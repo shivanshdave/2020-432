@@ -73,6 +73,8 @@ Fri | 05-01 | Final TA Office Hours.
 Fri | 05-01 | 5 PM: Last chance to request Project 2 alternative via email. (No commitment/reason needed.)
 Mon | 05-04 | Due Date for all Project 2 deliverables as well as optional Homeworks 5 and 6
 
+### Remember also to evaluate the course at https://webapps.case.edu/courseevals/ by Thursday 2020-05-07.
+
 ### The five major deliverables required for the rest of the course are due at NOON on 2020-05-04 
 
 This includes the three remaining deliverables described in the [Project 2 instructions](https://github.com/THOMASELOVE/2020-432/tree/master/projects/project2).
