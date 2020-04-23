@@ -67,6 +67,8 @@ If you want to produce 2D and 3D hillshaded maps of elevation matrices, you want
 5. Here's a new article from Christine P. Chai in Chance on [The Importance of Data Cleaning: Three Visualization Examples](https://chance.amstat.org/2020/02/data-cleaning/).  
 6. [25 examples of tables built using the `gt` package in R](https://frm1789.github.io/gt_examples/).
 7. In my early days learning to visualize data in R, the most useful book for me was Winston Cheng's [R Graphics Cookbook](https://r-graphics.org/), and the second edition is [available online, for free](https://r-graphics.org/)!
+8. All books by Howard Wainer for popular audiences come with my strong recommendation, especially *Truth and Truthiness* and *Medical Illuminations*, as does [the work of Edward Tufte](https://www.edwardtufte.com/tufte/).
+    - If you loved *The Art of Statistics*, I strongly recommend *Truth or Truthiness* as a next step.
 
 ## Learning and Using R
 
