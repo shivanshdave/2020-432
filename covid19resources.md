@@ -4,6 +4,7 @@
 
 - [One Chart Isn’t Going To Tell You When The Pandemic Peaked
 ](https://fivethirtyeight.com/features/one-chart-isnt-going-to-tell-you-when-the-pandemic-peaked/) at FiveThirtyEight (2020-04-23) by Laura Bronner.
+- [New York coronavirus antibody study: Why I had nothing to say to the press on this one](https://statmodeling.stat.columbia.edu/2020/04/23/new-york-coronavirus-antibody-study-why-i-had-nothing-to-say-to-the-press-on-this-one/) by Andrew Gelman (2020-04-23).
 
 ## Posted during the week of 2020-04-20
 
