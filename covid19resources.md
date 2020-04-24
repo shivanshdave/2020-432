@@ -3,7 +3,7 @@
 ## Posted since our final 432 class on 2020-04-23
 
 - [One Chart Isn’t Going To Tell You When The Pandemic Peaked
-](https://fivethirtyeight.com/features/one-chart-isnt-going-to-tell-you-when-the-pandemic-peaked/) at FiveThirtyEight by Laura Bronner.
+](https://fivethirtyeight.com/features/one-chart-isnt-going-to-tell-you-when-the-pandemic-peaked/) at FiveThirtyEight (2020-04-23) by Laura Bronner.
 
 ## Posted during the week of 2020-04-20
 
