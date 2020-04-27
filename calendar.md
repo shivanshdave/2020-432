@@ -25,10 +25,10 @@ Session | Date | Materials
 [Class 23](https://github.com/THOMASELOVE/2020-432/tree/master/classes/class23) | 04-16 | Retrospective Design / Thinking about Power
 -- | 04-19 | [Minute Paper after Class 23](https://bit.ly/432-2020-minute-23). Submit before 9 AM Sunday to make the feedback.
 -- | 04-20 | [Quiz 2](https://github.com/THOMASELOVE/2020-432/tree/master/quizzes/quiz2) will be due at 10 AM.
-Class 24 | 04-21 | Dealing with Hierarchical Data: An Introduction
-Class 25 | 04-23 | Catchup and wrapup of **ART** Chapters 1-14
+[Class 24](https://github.com/THOMASELOVE/2020-432/tree/master/classes/class24) | 04-21 | Dealing with Hierarchical Data: An Introduction
+[Class 25](https://github.com/THOMASELOVE/2020-432/tree/master/classes/class25) | 04-23 | Catchup and wrapup of **ART** Chapters 1-14
 -- | 04-24 | (*Optional*) Complete [this Google Form](http://bit.ly/432-2020-homework-regrade-requests) by 5 PM to request a regrade on Homeworks 1-4.
--- | 04-26 | [Minute Paper after Class 25](https://bit.ly/432-2020-minute-25). Submit before 9 AM Sunday to make the feedback.
+-- | 04-26 | [Minute Paper after Class 25](https://bit.ly/432-2020-minute-25). Feedback [available here](https://bit.ly/432-2020-minute-25-feedback).
 
 ### Remember also to evaluate the course at https://webapps.case.edu/courseevals/ by Thursday 2020-05-07.
 
