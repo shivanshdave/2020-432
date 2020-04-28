@@ -2,6 +2,8 @@
 
 ## Posted since our final 432 class on 2020-04-23
 
+- [A New Approach to Getting Real-Time Coronavirus Stats](https://slate.com/technology/2020/04/coronavirus-nowcasting-carnegie-mellon-google-facebook.html) by Andrew Gelman, at Slate 2020-04-27
+    - [The COVIDcast Project](https://covidcast.cmu.edu/index.html) at Carnegie Mellon University, discussed in Andrew's piece.
 - [De-dichotimization of diagnostic testing for increased confidence](https://discourse.datamethods.org/t/de-dichotimization-of-diagnostic-testing-for-increased-confidence/3234) on discourse.datamethods.org
 - [One Chart Isn’t Going To Tell You When The Pandemic Peaked
 ](https://fivethirtyeight.com/features/one-chart-isnt-going-to-tell-you-when-the-pandemic-peaked/) at FiveThirtyEight (2020-04-23) by Laura Bronner.
