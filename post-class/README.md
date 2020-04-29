@@ -11,7 +11,7 @@ Everything Dr. Love wants to tell you that is posted after the final class on 20
 
 ## Homework 5
 
-Here are the people who have submitted Homework 5 to Canvas.
+Here are the people from whom I have received Homework 5.
 
 - Hussam Alqahtani
 - Logan Harper
@@ -19,7 +19,8 @@ Here are the people who have submitted Homework 5 to Canvas.
 
 ## Homework 6
 
-Here are the people who have submitted Homework 6 websites.
+Here are links to the websites I have from people for Homework 6.
 
 - [Hussam Alqahtani](https://eloquent-sammet-99bc49.netlify.app/)
 - [Anna Miller](http://annakmiller.info/)
+
