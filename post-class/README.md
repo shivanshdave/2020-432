@@ -1,6 +1,6 @@
 # 432 Spring 2020 After the Class
 
-Everything Dr. Love wants to tell you that is posted after the final class on 2020-04-23 is linked here.
+Everything Dr. Love wants to tell you that is posted after the final class on 2020-04-23 is listed here.
 
 ## Please don't forget!
 
