@@ -8,3 +8,18 @@ Everything Dr. Love wants to tell you that is posted after the final class on 20
 4. All Homework 1-4 Regrades are now complete, and I've let the relevant people know about my decisions.
 5. The 431 and 432 web sites will disappear in June, so grab anything you need before June 1. If you need something after that, email me and I'll get back to you when I can, although you'll find my response time slows noticeably in the summer.
 6. **If you'd like to be a TA** for 431 or 432 (or both) next year, we expect to have both paid and volunteer positions available. I'd be delighted to have you involved. Information about applying for positions will be emailed to you, likely between May 15 and June 15. If you have questions, let us know.
+
+## Homework 5
+
+Here are the people who have submitted Homework 5 to Canvas.
+
+- Hussam Alqahtani
+- Logan Harper
+- Anna Miller
+
+## Homework 6
+
+Here are the people who have submitted Homework 6 websites.
+
+- [Hussam Alqahtani](https://eloquent-sammet-99bc49.netlify.app/)
+- [Anna Miller](http://annakmiller.info/)
