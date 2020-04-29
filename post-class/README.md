@@ -6,26 +6,31 @@ Everything Dr. Love wants to tell you that is posted after the final class on 20
 
 1. The University has asked you to evaluate the course at https://webapps.case.edu/courseevals/. **Please do this** by their deadline, which is Thursday May 7. It really, really matters, especially this semester.
 
-## Homework 5
+## The Project 2 materials are all due at NOON on 2020-05-04 
 
-The deadline remains noon on Monday 2020-05-04. Submit via Canvas.
+See the [Project 2 instructions](https://github.com/THOMASELOVE/2020-432/tree/master/projects/project2).
 
-Here are the people from whom I have received Homework 5. 
+- [Project 2](https://github.com/THOMASELOVE/2020-432/tree/master/projects/project2) Main Document (R markdown **and** HTML **and** R data set files)
+- [Project 2](https://github.com/THOMASELOVE/2020-432/tree/master/projects/project2) Video Presentation
+- [Project 2](https://github.com/THOMASELOVE/2020-432/tree/master/projects/project2) End-of-Term Google Form to be found at https://bit.ly/432-2020-project2-end-form.
+
+### Alternative Project 2
+
+It is my impression at the moment that everyone is doing a full Project 2, and no one is doing the one-hour alternative.
+
+## Homework 5 (optional) is also due at NOON on 2020-05-04.
+
+Submit via Canvas. Here are the people from whom I have received Homework 5. 
 
 - Hussam Alqahtani
 - Logan Harper
 - Anna Miller
 
-## Homework 6
+## Homework 6 is also due at NOON on 2020-05-04.
 
-[Links to the websites I have from people for Homework 6 are found here](https://github.com/THOMASELOVE/2020-432/blob/master/homework/hw06/links.md). 
+Submit Homework 6 via email to Dr. Love with the subject line: **432 Homework 6: My Website**, please. 
 
-- Submit Homework 6 via email to Dr. Love with the subject line: **432 Homework 6: My Website**, please. 
-- The deadline remains noon on Monday 2020-05-04.
-
-## Alternative Project 2
-
-It is my impression at the moment that everyone is doing a full Project 2, and no one is doing the one-hour alternative.
+- [Links to the websites I have from people for Homework 6 are found here](https://github.com/THOMASELOVE/2020-432/blob/master/homework/hw06/links.md). 
 
 ## General Announcements
 
