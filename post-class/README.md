@@ -16,7 +16,7 @@ See the [Project 2 instructions](https://github.com/THOMASELOVE/2020-432/tree/ma
 
 ### Alternative Project 2
 
-It is my impression at the moment that everyone is doing a full Project 2, and no one is doing the one-hour alternative.
+It is my impression at the moment that all but one person is doing a full Project 2. If you feel that you need access to the one-hour alternative, you must email Dr. Love to request it by 5 PM Friday 2020-05-01.
 
 ## Homework 5 (optional) is also due at NOON on 2020-05-04.
 
