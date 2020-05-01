@@ -20,11 +20,13 @@ If you feel that you need access to the one-hour alternative, you must email Dr.
 
 ## Homework 5 (optional) is also due at NOON on 2020-05-04.
 
-Submit via Canvas. Here are the people from whom I have received Homework 5. 
+Submit via Canvas. Here are the people from whom I have received Homework 5. Grades posted to Canvas on this.
 
 - Hussam Alqahtani
 - Logan Harper
 - Anna Miller
+- Emily Tyszka
+- Gi-Ming Wang
 
 ## Homework 6 is also due at NOON on 2020-05-04.
 
