@@ -2,6 +2,7 @@
 
 ## Posted since our final 432 class on 2020-04-23
 
+- [Where The Latest COVID-19 Models Think We're Headed — And Why They Disagree](https://projects.fivethirtyeight.com/covid-forecasts/) from Ryan Best and Jay Boice at FiveThirty Eight, posted 2020-05-01.
 - [10 Tips for Making Sense of COVID-19 Models for Decision-Making](https://www.jhsph.edu/covid-19/articles/10-tips-for-making-sense-of-covid-19-models-for-decision-making.html) from Elizabeth Stuart, Daniel Polsky, Mary Kathryn Grabowski and David Peters, posted 2020-04-27.
 - [How Coronavirus Charts Can Mislead Us](https://www.youtube.com/watch?v=O-3Mlj3MQ_Q) from Vox on YouTube, posted 2020-04-28.
 - [A New Approach to Getting Real-Time Coronavirus Stats](https://slate.com/technology/2020/04/coronavirus-nowcasting-carnegie-mellon-google-facebook.html) by Andrew Gelman, at Slate 2020-04-27
