@@ -16,15 +16,17 @@ See the [Project 2 instructions](https://github.com/THOMASELOVE/2020-432/tree/ma
 
 ### Alternative Project 2
 
-If you feel that you need access to the one-hour alternative, you must email Dr. Love to request it by 5 PM Friday 2020-05-01.
+- Those of you who complete the alternate assignment for Project 2 need to get that in by noon Monday, and you also need to complete the End-of-Term Google Form to be found at https://bit.ly/432-2020-project2-end-form, but substitute Project 1 for Project 2 in the first question on that form.
+- So far, I have received alternative Project 2 assignments from Jason Huang and Matt Siuba.
 
 ## Homework 5 (optional) is also due at NOON on 2020-05-04.
 
-Submit via Canvas. Here are the people from whom I have received Homework 5. Grades posted to Canvas on this.
+Submit via Canvas. Here are the people from whom I have received Homework 5. Grades will be posted to Canvas on this.
 
 - Hussam Alqahtani
 - Logan Harper
 - Anna Miller
+- Yiheng Pan
 - Emily Tyszka
 - Gi-Ming Wang
 
