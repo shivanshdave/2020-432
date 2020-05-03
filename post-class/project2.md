@@ -15,7 +15,7 @@ Group | Investigator | Rmd | HTML | Rds | Video | Google Form
 33 | **GI-MING WANG** | YES | YES | YES | YES | YES 
 
 Group | Investigator | Alt Proj | Google Form
----: | ---: | ---: | ---:
+---: | :---: | ---: | ---:
 ALT-A | **JASON HUANG** | YES | YES
 ALT-C | **MATT SIUBA** | YES | YES		
 
