@@ -19,20 +19,20 @@ Group | Investigator | Rmd | HTML | Rds | Video | Google Form
 7b | Kara Hageman |
 8 | Shivansh Dave | 		
 9 | Joshua Froess | 
-10 | Farrah Gao	|
-11 | Emily Hannon |		
-12 | Logan Harper | - | - | - | - | **YES**
+10 | Farrah Gao	| **YES** | **YES** | **YES** | - | -
+11 | Emily Hannon | **YES** | **YES** | **YES** | - | -		
+12 | Logan Harper | **YES** | **YES** | **YES** | - | **YES**
 13 | Vanessa Ho |
 14 | Jazmine Kirkland |
-15a | Ani Kumar | - | - | - | - | **YES** 
-15b | Div Patel |
+15a | Ani Kumar | **YES** | **YES** | **YES** | - | **YES** 
+15b | Div Patel | **YES** | **YES** | **YES** | - | -		
 16a | Shiying Liu |
 16b | Yiheng Pan |
-17 | Noah Lorincz-Comi | - | - | - | - | **YES** 
+17 | Noah Lorincz-Comi | **YES** | **YES** | **YES** | - | **YES** 
 18a | Yuxuan Luo |
 18b | Siyu Wang |
-19 | Stephanie Merlino Barr | - | - | - | - | **YES**
-20 | Anna Miller | - | - | - | - | **YES**
+19 | Stephanie Merlino Barr | **YES** | **YES** | **YES** | - | **YES**
+20 | Anna Miller | **YES** | **YES** | **YES** | - | **YES**
 21a | Ryan Moore |
 21b | Khaled Shorbaji |
 22 | Troy Neptune | 
@@ -41,13 +41,13 @@ Group | Investigator | Rmd | HTML | Rds | Video | Google Form
 25 | Abigail Rippin | 
 26 | Abby Roche | 
 27 | Claire Sonnenborn | 
-28a | Alena Sorensen | - | - | - | - | **YES**
-28b | Emily Tyszka | - | - | - | - | **YES** 
-29 | Wayne Tsuang | - | - | - | - | **YES** 
+28a | Alena Sorensen | **YES** | **YES** | **YES** | - | **YES**
+28b | Emily Tyszka | **YES** | **YES** | **YES** | - | **YES** 
+29 | Wayne Tsuang | **YES** | **YES** | **YES** | - | **YES** 
 30 | Vachan Vadmal |
 31 | Rajeev Varkey | 
 32 | Anastasia Vassiliou | 
-33 | Gi-Ming Wang | - | - | - | - | **YES**
+33 | Gi-Ming Wang | **YES** | **YES** | **YES** | - | **YES**
 34 | Jakob Woerner |
 35 | Victor Zhou |
 
