@@ -8,6 +8,8 @@ Everything Dr. Love wants to tell you that is posted after the final class on 20
 
 ## The Project 2 materials are all due at NOON on 2020-05-04 
 
+[Visit this link](https://github.com/THOMASELOVE/2020-432/blob/master/post-class/project2.md) to confirm to see what Dr. Love has received for you.
+
 See the [Project 2 instructions](https://github.com/THOMASELOVE/2020-432/tree/master/projects/project2).
 
 - [Project 2](https://github.com/THOMASELOVE/2020-432/tree/master/projects/project2) Main Document (R markdown **and** HTML **and** R data set files)
