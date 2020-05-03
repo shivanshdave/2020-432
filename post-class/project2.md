@@ -4,7 +4,7 @@
 - If your name is in **BOLD CAPITAL LETTERS**, it means that I have received all five elements from you. So if your name is not yet bolded or capitalized, something is missing.
 
 Group | Investigator | Rmd | HTML | Rds | Video | Google Form
----: | ---: | :---: | :---: | :---: | :---: | :---:
+---: | :---: | :---: | :---: | :---: | :---: | :---:
 1a | Hussam Alqahtani | 
 1b | Kimberly Noriega | 
 2a | Ebtesam Alshehri | 
