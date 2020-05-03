@@ -5,6 +5,7 @@
 - [Where The Latest COVID-19 Models Think We're Headed — And Why They Disagree](https://projects.fivethirtyeight.com/covid-forecasts/) from Ryan Best and Jay Boice at FiveThirty Eight, posted 2020-05-01.
 - [The Math of Reopening: Looking into Ohio’s COVID-19 Testing and Mortality Numbers](https://www.communitysolutions.com/math-reopening-looking-ohios-covid-19-testing-mortality-numbers/) by Loren Anthes, posted 2020-05-01.
 - [What the Proponents of "Natural" Herd Immunity Don't Say](https://www.nytimes.com/2020/05/01/opinion/coronavirus-herd-immunity.html) by Carl T. Bergstrom and Natalie Dean on the opinion page of the *New York Times*, posted 2020-05-01.
+= [What Happens Next? COVID-19 Futures, Explained with Playable Simulations](https://ncase.me/covid-19/), by Marcel Salathé (epidemiologist) and Nicky Case (art/code) posted 2020-05-01.
 - [10 Tips for Making Sense of COVID-19 Models for Decision-Making](https://www.jhsph.edu/covid-19/articles/10-tips-for-making-sense-of-covid-19-models-for-decision-making.html) from Elizabeth Stuart, Daniel Polsky, Mary Kathryn Grabowski and David Peters, posted 2020-04-27.
 - [How Coronavirus Charts Can Mislead Us](https://www.youtube.com/watch?v=O-3Mlj3MQ_Q) from Vox on YouTube, posted 2020-04-28.
 - [A New Approach to Getting Real-Time Coronavirus Stats](https://slate.com/technology/2020/04/coronavirus-nowcasting-carnegie-mellon-google-facebook.html) by Andrew Gelman, at Slate 2020-04-27
