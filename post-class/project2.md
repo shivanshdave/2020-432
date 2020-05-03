@@ -55,6 +55,6 @@ Group | Investigator | Rmd | HTML | Rds | Video | Google Form
 
 Group | Investigator | Alt Proj | Google Form
 ---: | ---: | ---: | ---:
-ALT-A | Jason Huang | - | **YES**
+ALT-A | **Jason Huang** | **YES** | **YES**
 ALT-B | Yufei Li | 
-ALT-C | Matt Siuba | - | **YES**		
+ALT-C | **Matt Siuba** | **YES** | **YES**		
