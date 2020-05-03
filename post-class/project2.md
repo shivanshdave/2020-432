@@ -23,7 +23,6 @@ ALT-C | **MATT SIUBA** | YES | YES
 
 
 - A YES in the listing indicates that I have received that element from you.
-- If your name is in **BOLD CAPITAL LETTERS**, it means that I have received all five elements from you. So if your name is not yet bolded or capitalized, something is missing.
 
 Group | Investigator | Rmd | HTML | Rds | Video | Google Form
 ---: | :---: | :---: | :---: | :---: | :---: | :---:
