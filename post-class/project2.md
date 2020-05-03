@@ -1,7 +1,7 @@
 # Project 2 Information
 
 - A YES in the listing below indicates that I have received that element from you.
-- If your name is in **bold**, it means that I have received all five elements from you. So if your name is not yet bolded, something is missing.
+- If your name is in **BOLD CAPITAL LETTERS**, it means that I have received all five elements from you. So if your name is not yet bolded, something is missing.
 
 Group | Investigator | Rmd | HTML | Rds | Video | Google Form
 ---: | ---: | :---: | :---: | :---: | :---: | :---:
@@ -22,18 +22,18 @@ Group | Investigator | Rmd | HTML | Rds | Video | Google Form
 9 | Joshua Froess | 
 10 | Farrah Gao	| YES | YES | YES | YES | -
 11 | Emily Hannon | YES | YES | YES | YES | -		
-12 | **Logan Harper** | YES | YES | YES | YES | YES
+12 | **LOGAN HARPER** | YES | YES | YES | YES | YES
 13 | Vanessa Ho |
 14 | Jazmine Kirkland |
-15a | **Ani Kumar** | YES | YES | YES | YES | YES
-15b | Div Patel | **YES** | **YES** | **YES** | **YES** | -		
+15a | **ANI KUMAR** | YES | YES | YES | YES | YES
+15b | Div Patel | YES | YES | YES | YES | -		
 16a | Shiying Liu |
 16b | Yiheng Pan |
-17 | **Noah Lorincz-Comi** | YES | YES | YES | YES | YES
+17 | **NOAH LORINCZ-COMI** | YES | YES | YES | YES | YES
 18a | Yuxuan Luo |
 18b | Siyu Wang |
-19 | **Stephanie Merlino Barr** | YES | YES | YES | YES | YES
-20 | **Anna Miller** | YES | YES | YES | YES | YES
+19 | **STEPHANIE MERLINO BARR** | YES | YES | YES | YES | YES
+20 | **ANNA MILLER** | **YES | YES | YES | YES | YES**
 21a | Ryan Moore |
 21b | Khaled Shorbaji |
 22 | Troy Neptune | 
