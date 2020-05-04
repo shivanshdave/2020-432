@@ -30,6 +30,7 @@ Submit via Canvas. Here are the people from whom I have received Homework 5. Gra
 - Logan Harper
 - Noah Lorincz-Comi
 - Anna Miller
+- Ryan Moore
 - Sangeetha Raghupathy
 - Yiheng Pan
 - Emily Tyszka
