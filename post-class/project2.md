@@ -44,8 +44,8 @@ Group | Investigator | Rmd | HTML | Rds | Video | Google Form
 ---: | :---: | :---: | :---: | :---: | :---: | :---:
 2a | Ebtesam Alshehri | Yes | Yes | Yes | Yes | -
 4 | Ife Babtunde |
-5a | Rebeka Bordi | Yes | Yes | Yes | - | - 
-5b | Sangeetha Raghupathy | Yes | Yes | Yes | - | -
+5a | Rebeka Bordi | Yes | Yes | Yes | Yes | - 
+5b | Sangeetha Raghupathy | Yes | Yes | Yes | Yes | -
 6a | Sofija Conic |
 6b | Shayan Monabbati | - | - | - | - | Yes
 8 | Shivansh Dave | 		
