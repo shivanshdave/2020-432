@@ -42,15 +42,12 @@ Submit Homework 6 via email to Dr. Love with the subject line: **432 Homework 6:
 
 ## Alternative Quiz 2 is also due for those folks at NOON on 2020-05-04.
 
-I am in receipt of this from:
+I am in receipt of this from all five affected people. You should have an email from me with your grade on this alternative.
 
 - Kara Hageman
 - Logan Harper
 - Noah Lorincz-Comi
 - Shayan Monabbati
-
-I am still waiting to receive it from:
-
 - Vachan Vadmal
 
 ## General Announcements
