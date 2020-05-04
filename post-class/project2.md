@@ -1,25 +1,14 @@
 # Project 2 Information
 
-## People Whose Project 2 Materials Are NOT YET Complete
-
-- Yes in the listing indicates that I have received that element from you.
-
-Group | Investigator | Rmd | HTML | Rds | Video | [Google Form](https://bit.ly/432-2020-project2-end-form)
----: | :---: | :---: | :---: | :---: | :---: | :---:
-6a | Sofija Conic | Yes | Yes | Yes |  | Yes
-6b | Shayan Monabbati | Yes | Yes | Yes |  | Yes
-31 | Rajeev Varkey | 
-
-## People Whose Project 2 Materials Are Complete
-
 Group | Investigator | Project 2 Received
 ---: | :---: | :---:
 1a | **HUSSAM ALQAHTANI** | All elements are in.
 2a | **EBTESAM ALSHEHRI** | All elements are in.
 3a | **FATIMA ASAD**  | All elements are in.
 4 | **IFE BABATUNDE** | All elements are in.
-5a | Rebeka Bordi | All elements are in, but may need to redo video.
+5a | **Rebeka Bordi** | All elements are in.
 7a | **LAUREN CRUZ** | All elements are in.
+6a | Sofija Conic | All elements are in, but may need to redo video.
 3b | **BASMA DAHASH** | All elements are in.
 8 | **SHIVANSH DAVE** | All elements are in.
 9 | **JOSHUA FROESS** | All elements are in.
@@ -36,6 +25,7 @@ Group | Investigator | Project 2 Received
 18a | **YUXUAN LUO** | All elements are in.
 19 | **STEPHANIE MERLINO BARR** | All elements are in.
 20 | **ANNA MILLER** | All elements are in.
+6b | Shayan Monabbati | All elements are in.
 21a | **RYAN MOORE** | All elements are in.
 1b | **KIMBERLY NORIEGA** | All elements are in.
 22 | **TROY NEPTUNE** | All elements are in.
@@ -43,7 +33,7 @@ Group | Investigator | Project 2 Received
 16b | **YIHENG PAN** | All elements are in. 
 15b | **DIV PATEL** | All elements are in.		
 24 | **VINEET PUNIA** | All elements are in.
-5b | Sangeetha Raghupathy | All elements are in, but may need to redo video.
+5b | **Sangeetha Raghupathy** | All elements are in.
 25 | **ABIGAIL RIPPIN** | All elements are in.
 26 | **ABBY ROCHE** | All elements are in. 
 21b | **KHALED SHORBAJI** | All elements are in.
@@ -63,5 +53,5 @@ Group | Investigator | Alternate Project 2
 ALT-A | **JASON HUANG** | Both elements are in.
 ALT-B | **YUFEI LI** | Both elements are in.
 ALT-C | **MATT SIUBA** | Both elements are in.	
-
+ALT-D | Rajeev Varkey | Awaiting materials.
 
