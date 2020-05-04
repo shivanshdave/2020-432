@@ -1,6 +1,6 @@
 # Project 2 Information
 
-Group | Investigator | Project 2 Received
+Group | Investigator | Project 2 Status
 ---: | :---: | :---:
 1a | **HUSSAM ALQAHTANI** | All elements are in.
 2a | **EBTESAM ALSHEHRI** | All elements are in.
