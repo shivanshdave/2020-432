@@ -4,16 +4,19 @@
 
 Group | Investigator | Project 2 Received
 ---: | :---: | :---:
+1a | **HUSSAM ALQAHTANI** | All elements are in.
 3a | **FATIMA ASAD**  | All elements are in.
 7a | **LAUREN CRUZ** | All elements are in.
 3b | **BASMA DAHASH** | All elements are in.
 10 | **FARRAH GAO**	| All elements are in.
+2b | **CAROLYN GOLDSCHMIDT** | All elements are in.
 7b | **KARA HAGEMAN** | All elements are in.
 12 | **LOGAN HARPER** | All elements are in.
 15a | **ANI KUMAR** | All elements are in.
 17 | **NOAH LORINCZ-COMI** | All elements are in.
 19 | **STEPHANIE MERLINO BARR** | All elements are in.
 20 | **ANNA MILLER** | All elements are in.
+1b | **KIMBERLY NORIEGA** | All elements are in.
 22 | **TROY NEPTUNE** | All elements are in.
 23 | **JASMINE OLVANY** | All elements are in. 
 15b | **DIV PATEL** | All elements are in.		
@@ -36,10 +39,8 @@ ALT-C | **MATT SIUBA** | Both elements are in.
 
 Group | Investigator | Rmd | HTML | Rds | Video | Google Form
 ---: | :---: | :---: | :---: | :---: | :---: | :---:
-1a | Hussam Alqahtani | - | - | - | - | Yes
-1b | Kimberly Noriega | - | - | - | - | Yes
 2a | Ebtesam Alshehri | Yes | Yes | Yes | Yes | 
-2b | Carolyn Goldschmidt | Yes | Yes | Yes | Yes | 
+
 4 | Ife Babtunde |
 5a | Rebeka Bordi |
 5b | Sangeetha Raghupathy |
@@ -50,15 +51,15 @@ Group | Investigator | Rmd | HTML | Rds | Video | Google Form
 11 | Emily Hannon | Yes | Yes | Yes | Yes | 
 13 | Vanessa Ho |
 14 | Jazmine Kirkland |
-16a | Shiying Liu |
-16b | Yiheng Pan |
+16a | Shiying Liu | Yes | Yes | Yes |
+16b | Yiheng Pan | Yes | Yes | Yes | - | Yes
 18a | Yuxuan Luo |
 18b | Siyu Wang |
 21a | Ryan Moore |
 21b | Khaled Shorbaji |
 24 | Vineet Punia | 
 25 | Abigail Rippin | 
-27 | Claire Sonnenborn | 
+27 | Claire Sonnenborn | - | - | - | - | Yes
 30 | Vachan Vadmal |
 31 | Rajeev Varkey | 
 35 | Victor Zhou |
