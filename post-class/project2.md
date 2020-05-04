@@ -10,8 +10,8 @@ Group | Investigator | Rmd | HTML | Rds | Video | [Google Form](https://bit.ly/4
 6a | Sofija Conic | Yes | Yes | Yes |  | Yes
 6b | Shayan Monabbati | Yes | Yes | Yes |  | Yes
 13 | Vanessa Ho | Yes | Yes | Yes | Yes | 
-14 | Jazmine Kirkland |  |  |  |  | Yes
-24 | Vineet Punia |  |  |  |  | Yes
+14 | Jazmine Kirkland | Yes | Yes | Yes  |  | Yes
+24 | Vineet Punia | Yes | Yes | Yes |  | Yes
 30 | Vachan Vadmal | Yes | Yes | Yes |  | Yes
 31 | Rajeev Varkey | 
 35 | Victor Zhou | Yes | Yes | Yes |  | Yes
