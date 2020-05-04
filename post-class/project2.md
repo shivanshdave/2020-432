@@ -44,8 +44,8 @@ Group | Investigator | Rmd | HTML | Rds | Video | Google Form
 ---: | :---: | :---: | :---: | :---: | :---: | :---:
 2a | Ebtesam Alshehri | Yes | Yes | Yes | Yes | -
 4 | Ife Babtunde |
-5a | Rebeka Bordi |
-5b | Sangeetha Raghupathy |
+5a | Rebeka Bordi | Yes | Yes | Yes |
+5b | Sangeetha Raghupathy | Yes | Yes | Yes |
 6a | Sofija Conic |
 6b | Shayan Monabbati | - | - | - | - | Yes
 8 | Shivansh Dave | 		
@@ -53,8 +53,8 @@ Group | Investigator | Rmd | HTML | Rds | Video | Google Form
 11 | Emily Hannon | Yes | Yes | Yes | Yes | -
 13 | Vanessa Ho |
 14 | Jazmine Kirkland |
-18a | Yuxuan Luo | - | - | - | - | Yes
-18b | Siyu Wang |
+18a | Yuxuan Luo | Yes | Yes | Yes | - | Yes
+18b | Siyu Wang | Yes | Yes | Yes | 
 21a | Ryan Moore |
 21b | Khaled Shorbaji |
 24 | Vineet Punia | 
