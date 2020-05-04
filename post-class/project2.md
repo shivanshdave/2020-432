@@ -2,22 +2,23 @@
 
 ## People Whose Project 2 Materials Are Complete
 
-Group | Investigator | Rmd | HTML | Rds | Video | Google Form
----: | :---: | :---: | :---: | :---: | :---: | :---:
-12 | **LOGAN HARPER** | YES | YES | YES | YES | YES
-15a | **ANI KUMAR** | YES | YES | YES | YES | YES
-17 | **NOAH LORINCZ-COMI** | YES | YES | YES | YES | YES
-19 | **STEPHANIE MERLINO BARR** | YES | YES | YES | YES | YES
-20 | **ANNA MILLER** | YES | YES | YES | YES | YES
-28a | **ALENA SORENSEN** | YES | YES | YES | YES | YES
-29 | **WAYNE TSUANG** | YES | YES | YES | YES | YES 
-28b | **EMILY TYSZKA** | YES | YES | YES | YES | YES
-33 | **GI-MING WANG** | YES | YES | YES | YES | YES 
+Group | Investigator | Project 2 Received
+---: | :---: | :---:
+3a | **FATIMA ASAD**  | All elements are in.
+12 | **LOGAN HARPER** | All elements are in.
+15a | **ANI KUMAR** | All elements are in.
+17 | **NOAH LORINCZ-COMI** | All elements are in.
+19 | **STEPHANIE MERLINO BARR** | All elements are in.
+20 | **ANNA MILLER** | All elements are in.
+28a | **ALENA SORENSEN** | All elements are in.
+29 | **WAYNE TSUANG** | All elements are in.
+28b | **EMILY TYSZKA** | All elements are in.
+33 | **GI-MING WANG** | All elements are in.
 
-Group | Investigator | Alt Proj | Google Form
----: | :---: | ---: | ---:
-ALT-A | **JASON HUANG** | YES | YES
-ALT-C | **MATT SIUBA** | YES | YES		
+Group | Investigator | Alternate Project 2 Received?
+---: | :---: | ---: 
+ALT-A | **JASON HUANG** | Both elements are in.
+ALT-C | **MATT SIUBA** | Both elements are in.	
 
 ## People Whose Project 2 Materials Are NOT YET Complete
 
@@ -28,10 +29,9 @@ Group | Investigator | Rmd | HTML | Rds | Video | Google Form
 ---: | :---: | :---: | :---: | :---: | :---: | :---:
 1a | Hussam Alqahtani | 
 1b | Kimberly Noriega | 
-2a | Ebtesam Alshehri | Yes | Yes | Yes | 
-2b | Carolyn Goldschmidt | Yes | Yes | Yes |
-3a | Fatima Asad | Yes | Yes | Yes | - | Yes  
-3b | Basma Dahash | Yes | Yes | Yes |
+2a | Ebtesam Alshehri | Yes | Yes | Yes | Yes | 
+2b | Carolyn Goldschmidt | Yes | Yes | Yes | Yes | 
+3b | Basma Dahash | Yes | Yes | Yes | Yes | 
 4 | Ife Babtunde |
 5a | Rebeka Bordi |
 5b | Sangeetha Raghupathy |
