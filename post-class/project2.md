@@ -5,12 +5,15 @@
 Group | Investigator | Project 2 Received
 ---: | :---: | :---:
 1a | **HUSSAM ALQAHTANI** | All elements are in.
+2a | **EBTESAM ALSHEHRI** | All elements are in.
 3a | **FATIMA ASAD**  | All elements are in.
+5a | **REBEKA BORDI** | All elements are in.
 7a | **LAUREN CRUZ** | All elements are in.
 3b | **BASMA DAHASH** | All elements are in.
 10 | **FARRAH GAO**	| All elements are in.
 2b | **CAROLYN GOLDSCHMIDT** | All elements are in.
 7b | **KARA HAGEMAN** | All elements are in.
+11 | **EMILY HANNON** | All elements are in.
 12 | **LOGAN HARPER** | All elements are in.
 15a | **ANI KUMAR** | All elements are in.
 16a | **SHIYING LIU** | All elements are in.
@@ -34,6 +37,7 @@ Group | Investigator | Project 2 Received
 Group | Investigator | Alternate Project 2 Received?
 ---: | :---: | ---: 
 ALT-A | **JASON HUANG** | Both elements are in.
+ALT-B | **YUFEI LI** | Both elements are in.
 ALT-C | **MATT SIUBA** | Both elements are in.	
 
 ## People Whose Project 2 Materials Are NOT YET Complete
@@ -42,30 +46,21 @@ ALT-C | **MATT SIUBA** | Both elements are in.
 
 Group | Investigator | Rmd | HTML | Rds | Video | Google Form
 ---: | :---: | :---: | :---: | :---: | :---: | :---:
-2a | Ebtesam Alshehri | Yes | Yes | Yes | Yes | -
-4 | Ife Babtunde |
-5a | Rebeka Bordi | Yes | Yes | Yes | Yes | - 
+4 | Ife Babtunde | - | - | - | - | Yes
 5b | Sangeetha Raghupathy | Yes | Yes | Yes | Yes | -
-6a | Sofija Conic |
+6a | Sofija Conic | - | - | - | - | Yes
 6b | Shayan Monabbati | - | - | - | - | Yes
-8 | Shivansh Dave | 		
+8 | Shivansh Dave | - | - | - | - | Yes		
 9 | Joshua Froess | 
-11 | Emily Hannon | Yes | Yes | Yes | Yes | -
 13 | Vanessa Ho |
-14 | Jazmine Kirkland |
+14 | Jazmine Kirkland | - | - | - | - | Yes
 18a | Yuxuan Luo | Yes | Yes | Yes | - | Yes
 18b | Siyu Wang | Yes | Yes | Yes | - | Yes
-21a | Ryan Moore |
-21b | Khaled Shorbaji |
-24 | Vineet Punia | 
-25 | Abigail Rippin | 
-30 | Vachan Vadmal |
+21a | Ryan Moore | - | - | - | - | Yes
+21b | Khaled Shorbaji | - | - | - | - | Yes
+24 | Vineet Punia | - | - | - | - | Yes
+25 | Abigail Rippin | - | - | - | - | Yes
+30 | Vachan Vadmal | - | - | - | - | Yes
 31 | Rajeev Varkey | 
-35 | Victor Zhou |
-
-## Students doing the alternate assignment for Project 2
-
-Group | Investigator | Alt Proj | Google Form
----: | ---: | ---: | ---:
-ALT-B | Yufei Li | Yes | -
+35 | Victor Zhou | - | - | - | - | Yes
 
