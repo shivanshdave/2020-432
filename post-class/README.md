@@ -30,8 +30,10 @@ Submit via Canvas. Here are the people from whom I have received Homework 5. Gra
 - Logan Harper
 - Noah Lorincz-Comi
 - Anna Miller
+- Sangeetha Raghupathy
 - Yiheng Pan
 - Emily Tyszka
+- Vachan Vadmal
 - Gi-Ming Wang
 
 ## Homework 6 is also due at NOON on 2020-05-04.
@@ -39,6 +41,7 @@ Submit via Canvas. Here are the people from whom I have received Homework 5. Gra
 Submit Homework 6 via email to Dr. Love with the subject line: **432 Homework 6: My Website**, please. 
 
 - [Links to the websites I have from people for Homework 6 are found here](https://github.com/THOMASELOVE/2020-432/blob/master/homework/hw06/links.md). 
+- Grades on Homework 6 were sent out via email.
 
 ## Alternative Quiz 2 is also due for those folks at NOON on 2020-05-04.
 
