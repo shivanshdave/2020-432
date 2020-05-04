@@ -11,7 +11,7 @@ Group | Investigator | Rmd | HTML | Rds | Video | [Google Form](https://bit.ly/4
 6b | Shayan Monabbati | Yes | Yes | Yes | - | Yes
 9 | Joshua Froess | 
 13 | Vanessa Ho | Yes | Yes | Yes | Yes | -
-14 | Jazmine Kirkland | - | - | - | - | Yes
+14 | Jazmine Kirkland |  | - | - | - | Yes
 24 | Vineet Punia | - | - | - | - | Yes
 30 | Vachan Vadmal | Yes | Yes | Yes | - | Yes
 31 | Rajeev Varkey | 
