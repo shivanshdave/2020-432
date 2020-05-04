@@ -36,7 +36,7 @@ Group | Investigator | Rmd | HTML | Rds | Video | Google Form
 5a | Rebeka Bordi |
 5b | Sangeetha Raghupathy |
 6a | Sofija Conic |
-6b | Shayan Monabbati | - | - | - | - | YES
+6b | Shayan Monabbati | - | - | - | - | Yes
 7a | Lauren Cruz | Yes | Yes | Yes | Yes |
 7b | Kara Hageman | Yes | Yes | Yes | Yes | 
 8 | Shivansh Dave | 		
