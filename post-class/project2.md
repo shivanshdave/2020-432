@@ -18,6 +18,7 @@ Group | Investigator | Project 2 Received
 15a | **ANI KUMAR** | All elements are in.
 16a | **SHIYING LIU** | All elements are in.
 17 | **NOAH LORINCZ-COMI** | All elements are in.
+18a | **YUXUAN LUO** | All elements are in.
 19 | **STEPHANIE MERLINO BARR** | All elements are in.
 20 | **ANNA MILLER** | All elements are in.
 1b | **KIMBERLY NORIEGA** | All elements are in.
@@ -32,6 +33,7 @@ Group | Investigator | Project 2 Received
 28b | **EMILY TYSZKA** | All elements are in.
 32 | **ANASTASIA VASSILIOU** | All elements are in.
 33 | **GI-MING WANG** | All elements are in.
+18b | **SIYU WANG** | All elements are in.
 34 | **JAKOB WOERNER** | All elements are in.
 
 Group | Investigator | Alternate Project 2 Received?
@@ -46,16 +48,14 @@ ALT-C | **MATT SIUBA** | Both elements are in.
 
 Group | Investigator | Rmd | HTML | Rds | Video | Google Form
 ---: | :---: | :---: | :---: | :---: | :---: | :---:
-4 | Ife Babtunde | - | - | - | - | Yes
+4 | Ife Babatunde | - | - | - | Yes | Yes
 5b | Sangeetha Raghupathy | Yes | Yes | Yes | Yes | -
 6a | Sofija Conic | - | - | - | - | Yes
 6b | Shayan Monabbati | - | - | - | - | Yes
-8 | Shivansh Dave | - | - | - | - | Yes		
+8 | Shivansh Dave | - | - | - | Yes | Yes		
 9 | Joshua Froess | 
 13 | Vanessa Ho |
 14 | Jazmine Kirkland | - | - | - | - | Yes
-18a | Yuxuan Luo | Yes | Yes | Yes | - | Yes
-18b | Siyu Wang | Yes | Yes | Yes | - | Yes
 21a | Ryan Moore | - | - | - | - | Yes
 21b | Khaled Shorbaji | - | - | - | - | Yes
 24 | Vineet Punia | - | - | - | - | Yes
