@@ -4,7 +4,7 @@ Everything Dr. Love wants to tell you that is posted after the final class on 20
 
 ## Please don't forget!
 
-1. The University has asked you to evaluate the course at https://webapps.case.edu/courseevals/. **Please do this** by their deadline, which is Thursday May 7. It really, really matters, especially this semester.
+1. The University has asked you to evaluate the course at https://webapps.case.edu/courseevals/. **Please do this** by their deadline, which is Thursday May 7. It really, really matters, especially this semester. If you've already done this, please send me an email to tell me that, and I'll stop pestering you about it.
 
 ## The Project 2 materials are all due at NOON on 2020-05-04 
 
