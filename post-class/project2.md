@@ -5,7 +5,7 @@ Group | Investigator | Alternate Project 2
 ALT-A | **JASON HUANG** | Both elements are in.
 ALT-B | **YUFEI LI** | Both elements are in.
 ALT-C | **MATT SIUBA** | Both elements are in.	
-ALT-D | Rajeev Varkey | Needs to submit [End-of-Term Google Form](https://bit.ly/432-2020-project2-end-form)
+ALT-D | **RAJEEV VARKEY** | Both elements are in.
 
 Group | Investigator | Project 2 Status
 ---: | :---: | :---
