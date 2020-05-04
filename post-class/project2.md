@@ -41,7 +41,7 @@ Group | Investigator | Project 2 Received
 18b | **SIYU WANG** | All elements are in.
 34 | **JAKOB WOERNER** | All elements are in.
 
-Group | Investigator | Alternate Project 2 Received?
+Group | Investigator | Alternate Project 2
 ---: | :---: | ---: 
 ALT-A | **JASON HUANG** | Both elements are in.
 ALT-B | **YUFEI LI** | Both elements are in.
