@@ -54,7 +54,7 @@ Group | Investigator | Rmd | HTML | Rds | Video | Google Form
 13 | Vanessa Ho |
 14 | Jazmine Kirkland |
 18a | Yuxuan Luo | Yes | Yes | Yes | - | Yes
-18b | Siyu Wang | Yes | Yes | Yes | - | -
+18b | Siyu Wang | Yes | Yes | Yes | - | Yes
 21a | Ryan Moore |
 21b | Khaled Shorbaji |
 24 | Vineet Punia | 
