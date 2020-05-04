@@ -8,7 +8,7 @@ Group | Investigator | Rmd | HTML | Rds | Video | [Google Form](https://bit.ly/4
 ---: | :---: | :---: | :---: | :---: | :---: | :---:
 6a | Sofija Conic | Yes | Yes | Yes |  | Yes
 6b | Shayan Monabbati | Yes | Yes | Yes |  | Yes
-14 | Jazmine Kirkland | Yes | Yes | Yes  |  | Yes
+
 31 | Rajeev Varkey | 
 35 | Victor Zhou | Yes | Yes | Yes |  | Yes
 
@@ -20,7 +20,7 @@ Group | Investigator | Project 2 Received
 2a | **EBTESAM ALSHEHRI** | All elements are in.
 3a | **FATIMA ASAD**  | All elements are in.
 4 | **IFE BABATUNDE** | All elements are in.
-5a | **REBEKA BORDI** | All elements are in.
+5a | Rebeka Bordi | All elements are in, but may need to redo video.
 7a | **LAUREN CRUZ** | All elements are in.
 3b | **BASMA DAHASH** | All elements are in.
 8 | **SHIVANSH DAVE** | All elements are in.
@@ -31,6 +31,7 @@ Group | Investigator | Project 2 Received
 11 | **EMILY HANNON** | All elements are in.
 12 | **LOGAN HARPER** | All elements are in.
 13 | **VANESSA HO** | All elements are in.
+14 | Jazmine Kirkland | All elements are in, but may need to redo video.
 15a | **ANI KUMAR** | All elements are in.
 16a | **SHIYING LIU** | All elements are in.
 17 | **NOAH LORINCZ-COMI** | All elements are in.
@@ -44,7 +45,7 @@ Group | Investigator | Project 2 Received
 16b | **YIHENG PAN** | All elements are in. 
 15b | **DIV PATEL** | All elements are in.		
 24 | **VINEET PUNIA** | All elements are in.
-5b | **SANGEETHA RAGHUPATHY** | All elements are in.
+5b | Sangeetha Raghupathy | All elements are in, but may need to redo video.
 25 | **ABIGAIL RIPPIN** | All elements are in.
 26 | **ABBY ROCHE** | All elements are in. 
 21b | **KHALED SHORBAJI** | All elements are in.
