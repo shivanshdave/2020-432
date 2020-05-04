@@ -51,7 +51,7 @@ ALT-C | **MATT SIUBA** | Both elements are in.
 
 - Yes in the listing indicates that I have received that element from you.
 
-Group | Investigator | Rmd | HTML | Rds | Video | Google Form
+Group | Investigator | Rmd | HTML | Rds | Video | [Google Form](https://bit.ly/432-2020-project2-end-form)
 ---: | :---: | :---: | :---: | :---: | :---: | :---:
 5b | Sangeetha Raghupathy | Yes | Yes | Yes | Yes | -
 6a | Sofija Conic | Yes | Yes | Yes | - | Yes
