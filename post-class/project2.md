@@ -67,5 +67,5 @@ Group | Investigator | Rmd | HTML | Rds | Video | Google Form
 
 Group | Investigator | Alt Proj | Google Form
 ---: | ---: | ---: | ---:
-ALT-B | Yufei Li | 
+ALT-B | Yufei Li | Yes | -
 
