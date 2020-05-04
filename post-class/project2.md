@@ -6,16 +6,16 @@
 
 Group | Investigator | Rmd | HTML | Rds | Video | [Google Form](https://bit.ly/432-2020-project2-end-form)
 ---: | :---: | :---: | :---: | :---: | :---: | :---:
-5b | Sangeetha Raghupathy | Yes | Yes | Yes | Yes | -
-6a | Sofija Conic | Yes | Yes | Yes | - | Yes
-6b | Shayan Monabbati | Yes | Yes | Yes | - | Yes
+5b | Sangeetha Raghupathy | Yes | Yes | Yes | Yes | 
+6a | Sofija Conic | Yes | Yes | Yes |  | Yes
+6b | Shayan Monabbati | Yes | Yes | Yes |  | Yes
 9 | Joshua Froess | 
-13 | Vanessa Ho | Yes | Yes | Yes | Yes | -
-14 | Jazmine Kirkland |  | - | - | - | Yes
-24 | Vineet Punia | - | - | - | - | Yes
-30 | Vachan Vadmal | Yes | Yes | Yes | - | Yes
+13 | Vanessa Ho | Yes | Yes | Yes | Yes | 
+14 | Jazmine Kirkland |  |  |  |  | Yes
+24 | Vineet Punia |  |  |  |  | Yes
+30 | Vachan Vadmal | Yes | Yes | Yes |  | Yes
 31 | Rajeev Varkey | 
-35 | Victor Zhou | Yes | Yes | Yes | - | Yes
+35 | Victor Zhou | Yes | Yes | Yes |  | Yes
 
 ## People Whose Project 2 Materials Are Complete
 
