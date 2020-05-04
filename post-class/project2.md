@@ -18,7 +18,7 @@ Group | Investigator | Project 2 Status
 11 | **EMILY HANNON** | All elements are in.
 12 | **LOGAN HARPER** | All elements are in.
 13 | **VANESSA HO** | All elements are in.
-14 | Jazmine Kirkland | All elements are in, but may redo video.
+14 | **JAZMINE KIRKLAND** | All elements are in.
 15a | **ANI KUMAR** | All elements are in.
 16a | **SHIYING LIU** | All elements are in.
 17 | **NOAH LORINCZ-COMI** | All elements are in.
