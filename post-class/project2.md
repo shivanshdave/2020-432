@@ -9,7 +9,6 @@ Group | Investigator | Rmd | HTML | Rds | Video | [Google Form](https://bit.ly/4
 5b | Sangeetha Raghupathy | Yes | Yes | Yes | Yes | 
 6a | Sofija Conic | Yes | Yes | Yes |  | Yes
 6b | Shayan Monabbati | Yes | Yes | Yes |  | Yes
-9 | Joshua Froess | | | | Yes | Yes
 13 | Vanessa Ho | Yes | Yes | Yes | Yes | 
 14 | Jazmine Kirkland |  |  |  |  | Yes
 24 | Vineet Punia |  |  |  |  | Yes
@@ -29,6 +28,7 @@ Group | Investigator | Project 2 Received
 7a | **LAUREN CRUZ** | All elements are in.
 3b | **BASMA DAHASH** | All elements are in.
 8 | **SHIVANSH DAVE** | All elements are in.
+9 | **JOSHUA FROESS** | All elements are in.
 10 | **FARRAH GAO**	| All elements are in.
 2b | **CAROLYN GOLDSCHMIDT** | All elements are in.
 7b | **KARA HAGEMAN** | All elements are in.
