@@ -8,7 +8,7 @@ Everything Dr. Love wants to tell you that is posted after the final class on 20
 
 ## The Project 2 materials are all due at NOON on 2020-05-04 
 
-[Visit this link](https://github.com/THOMASELOVE/2020-432/blob/master/post-class/project2.md) to confirm to see what Dr. Love has received for you.
+[Visit this link](https://github.com/THOMASELOVE/2020-432/blob/master/post-class/project2.md) to confirm what Dr. Love has received for you on Project 2.
 
 See the [Project 2 instructions](https://github.com/THOMASELOVE/2020-432/tree/master/projects/project2).
 
@@ -18,8 +18,9 @@ See the [Project 2 instructions](https://github.com/THOMASELOVE/2020-432/tree/ma
 
 ### Alternative Project 2
 
+[Visit this link](https://github.com/THOMASELOVE/2020-432/blob/master/post-class/project2.md) to confirm what Dr. Love has received for you on alternative Project 2.
+
 - Those of you who complete the alternate assignment for Project 2 need to get that in by noon Monday, and you also need to complete the End-of-Term Google Form to be found at https://bit.ly/432-2020-project2-end-form, but substitute Project 1 for Project 2 in the first question on that form.
-- So far, I have received alternative Project 2 assignments from Jason Huang and Matt Siuba.
 
 ## Homework 5 (optional) is also due at NOON on 2020-05-04.
 
@@ -27,6 +28,7 @@ Submit via Canvas. Here are the people from whom I have received Homework 5. Gra
 
 - Hussam Alqahtani
 - Logan Harper
+- Noah Lorincz-Comi
 - Anna Miller
 - Yiheng Pan
 - Emily Tyszka
@@ -37,6 +39,19 @@ Submit via Canvas. Here are the people from whom I have received Homework 5. Gra
 Submit Homework 6 via email to Dr. Love with the subject line: **432 Homework 6: My Website**, please. 
 
 - [Links to the websites I have from people for Homework 6 are found here](https://github.com/THOMASELOVE/2020-432/blob/master/homework/hw06/links.md). 
+
+## Alternative Quiz 2 is also due for those folks at NOON on 2020-05-04.
+
+I am in receipt of this from:
+
+- Logan Harper
+- Noah Lorincz-Comi
+- Shayan Monabbati
+
+I am still waiting to receive it from:
+
+- Kara Hageman
+- Vachan Vadmal
 
 ## General Announcements
 
