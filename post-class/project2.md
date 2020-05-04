@@ -10,7 +10,6 @@ Group | Investigator | Rmd | HTML | Rds | Video | [Google Form](https://bit.ly/4
 6a | Sofija Conic | Yes | Yes | Yes |  | Yes
 6b | Shayan Monabbati | Yes | Yes | Yes |  | Yes
 14 | Jazmine Kirkland | Yes | Yes | Yes  |  | Yes
-24 | Vineet Punia | Yes | Yes | Yes |  | Yes
 30 | Vachan Vadmal | Yes | Yes | Yes |  | Yes
 31 | Rajeev Varkey | 
 35 | Victor Zhou | Yes | Yes | Yes |  | Yes
@@ -46,6 +45,7 @@ Group | Investigator | Project 2 Received
 23 | **JASMINE OLVANY** | All elements are in. 
 16b | **YIHENG PAN** | All elements are in. 
 15b | **DIV PATEL** | All elements are in.		
+24 | **VINEET PUNIA** | All elements are in.
 25 | **ABIGAIL RIPPIN** | All elements are in.
 26 | **ABBY ROCHE** | All elements are in. 
 21b | **KHALED SHORBAJI** | All elements are in.
