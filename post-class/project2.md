@@ -1,5 +1,12 @@
 # Project 2 Information
 
+Group | Investigator | Alternate Project 2
+---: | :---: | --- 
+ALT-A | **JASON HUANG** | Both elements are in.
+ALT-B | **YUFEI LI** | Both elements are in.
+ALT-C | **MATT SIUBA** | Both elements are in.	
+ALT-D | Rajeev Varkey | Needs to submit [End-of-Term Google Form](https://bit.ly/432-2020-project2-end-form)
+
 Group | Investigator | Project 2 Status
 ---: | :---: | :---
 1a | **HUSSAM ALQAHTANI** | All elements are in.
@@ -8,7 +15,7 @@ Group | Investigator | Project 2 Status
 4 | **IFE BABATUNDE** | All elements are in.
 5a | **REBEKA BORDI** | All elements are in.
 7a | **LAUREN CRUZ** | All elements are in.
-6a | Sofija Conic | All elements are in, but may redo video.
+6a | **SOFIJA CONIC** | All elements are in.
 3b | **BASMA DAHASH** | All elements are in.
 8 | **SHIVANSH DAVE** | All elements are in.
 9 | **JOSHUA FROESS** | All elements are in.
@@ -25,7 +32,7 @@ Group | Investigator | Project 2 Status
 18a | **YUXUAN LUO** | All elements are in.
 19 | **STEPHANIE MERLINO BARR** | All elements are in.
 20 | **ANNA MILLER** | All elements are in.
-6b | Shayan Monabbati | All elements are in, but may redo video.
+6b | **SHAYAN MONABBATI** | All elements are in
 21a | **RYAN MOORE** | All elements are in.
 1b | **KIMBERLY NORIEGA** | All elements are in.
 22 | **TROY NEPTUNE** | All elements are in.
@@ -48,10 +55,4 @@ Group | Investigator | Project 2 Status
 34 | **JAKOB WOERNER** | All elements are in.
 35 | **VICTOR ZHOU** | All elements are in.
 
-Group | Investigator | Alternate Project 2
----: | :---: | --- 
-ALT-A | **JASON HUANG** | Both elements are in.
-ALT-B | **YUFEI LI** | Both elements are in.
-ALT-C | **MATT SIUBA** | Both elements are in.	
-ALT-D | Rajeev Varkey | Awaiting materials.
 
