@@ -56,10 +56,10 @@ Group | Investigator | Rmd | HTML | Rds | Video | Google Form
 9 | Joshua Froess | 
 13 | Vanessa Ho |
 14 | Jazmine Kirkland | - | - | - | - | Yes
-21a | Ryan Moore | - | - | - | - | Yes
-21b | Khaled Shorbaji | - | - | - | - | Yes
+21a | Ryan Moore | - | - | - | Yes | Yes
+21b | Khaled Shorbaji | - | - | - | Yes | Yes
 24 | Vineet Punia | - | - | - | - | Yes
-25 | Abigail Rippin | - | - | - | - | Yes
+25 | Abigail Rippin | - | - | - | Yes | Yes
 30 | Vachan Vadmal | - | - | - | - | Yes
 31 | Rajeev Varkey | 
 35 | Victor Zhou | - | - | - | - | Yes
