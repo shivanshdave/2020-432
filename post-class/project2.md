@@ -8,7 +8,7 @@ Group | Investigator | Project 2 Status
 4 | **IFE BABATUNDE** | All elements are in.
 5a | **REBEKA BORDI** | All elements are in.
 7a | **LAUREN CRUZ** | All elements are in.
-6a | Sofija Conic | All elements are in, but may need to redo video.
+6a | Sofija Conic | All elements are in, but may redo video.
 3b | **BASMA DAHASH** | All elements are in.
 8 | **SHIVANSH DAVE** | All elements are in.
 9 | **JOSHUA FROESS** | All elements are in.
@@ -18,14 +18,14 @@ Group | Investigator | Project 2 Status
 11 | **EMILY HANNON** | All elements are in.
 12 | **LOGAN HARPER** | All elements are in.
 13 | **VANESSA HO** | All elements are in.
-14 | Jazmine Kirkland | All elements are in, but may need to redo video.
+14 | Jazmine Kirkland | All elements are in, but may redo video.
 15a | **ANI KUMAR** | All elements are in.
 16a | **SHIYING LIU** | All elements are in.
 17 | **NOAH LORINCZ-COMI** | All elements are in.
 18a | **YUXUAN LUO** | All elements are in.
 19 | **STEPHANIE MERLINO BARR** | All elements are in.
 20 | **ANNA MILLER** | All elements are in.
-6b | Shayan Monabbati | All elements are in, but may need to redo video.
+6b | Shayan Monabbati | All elements are in, but may redo video.
 21a | **RYAN MOORE** | All elements are in.
 1b | **KIMBERLY NORIEGA** | All elements are in.
 22 | **TROY NEPTUNE** | All elements are in.
