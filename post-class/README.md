@@ -6,7 +6,7 @@ Everything Dr. Love wants to tell you that is posted after the final class on 20
 
 1. The University has asked you to evaluate the course at https://webapps.case.edu/courseevals/. **Please do this** by their deadline, which is Thursday May 7. It really, really matters, especially this semester. If you've already done this, please send me an email to tell me that, and I'll stop pestering you about it.
 
-## The Project 2 materials are all due at NOON on 2020-05-04 
+## The Project 2 materials should be submitted by now.
 
 [Visit this link](https://github.com/THOMASELOVE/2020-432/blob/master/post-class/project2.md) to confirm what Dr. Love has received for you on Project 2.
 
@@ -22,9 +22,9 @@ See the [Project 2 instructions](https://github.com/THOMASELOVE/2020-432/tree/ma
 
 - Those of you who complete the alternate assignment for Project 2 need to get that in by noon Monday, and you also need to complete the End-of-Term Google Form to be found at https://bit.ly/432-2020-project2-end-form, but substitute Project 1 for Project 2 in the first question on that form.
 
-## Homework 5 (optional) is also due at NOON on 2020-05-04.
+## Homework 5 (optional) is complete.
 
-Submit via Canvas. Here are the people from whom I have received Homework 5. Grades on Homework 5 are posted to Canvas.
+Submit via Canvas. Here are the people from whom I received Homework 5. Grades on Homework 5 are posted to Canvas.
 
 - Hussam Alqahtani
 - Logan Harper
@@ -37,14 +37,14 @@ Submit via Canvas. Here are the people from whom I have received Homework 5. Gra
 - Vachan Vadmal
 - Gi-Ming Wang
 
-## Homework 6 is also due at NOON on 2020-05-04.
+## Homework 6 is complete, although if you succeed in building a web site, please do send it along.
 
 Submit Homework 6 via email to Dr. Love with the subject line: **432 Homework 6: My Website**, please. 
 
 - [Links to the websites I have from people for Homework 6 are found here](https://github.com/THOMASELOVE/2020-432/blob/master/homework/hw06/links.md). 
 - Grades on Homework 6 were sent out via email.
 
-## Alternative Quiz 2 is also due for those folks at NOON on 2020-05-04.
+## Alternative Quiz 2 is complete.
 
 I am in receipt of this from all five affected people. You should have an email from me with your grade on this alternative.
 
