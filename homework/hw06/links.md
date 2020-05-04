@@ -12,6 +12,7 @@
 - [Hussam Alqahtani](https://eloquent-sammet-99bc49.netlify.app/)
 - [Ife Babatunde](https://angry-spence-fb8dcb.netlify.app/)
 - [Anna Miller](https://annakmiller.info/)
+- [Shayan Monabbati](https://shayanmonabbati.netlify.app/)
 - [Matt Siuba](https://www.mattsiuba.com/)
 - [Wayne Tsuang](https://elated-mestorf-7c5057.netlify.app/)
 - [Anastasia Vassiliou](https://anastasiavassiliou.netlify.app/)
