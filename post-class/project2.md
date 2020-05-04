@@ -9,7 +9,6 @@ Group | Investigator | Rmd | HTML | Rds | Video | [Google Form](https://bit.ly/4
 5b | Sangeetha Raghupathy | Yes | Yes | Yes | Yes | 
 6a | Sofija Conic | Yes | Yes | Yes |  | Yes
 6b | Shayan Monabbati | Yes | Yes | Yes |  | Yes
-13 | Vanessa Ho | Yes | Yes | Yes | Yes | 
 14 | Jazmine Kirkland | Yes | Yes | Yes  |  | Yes
 24 | Vineet Punia | Yes | Yes | Yes |  | Yes
 30 | Vachan Vadmal | Yes | Yes | Yes |  | Yes
@@ -34,6 +33,7 @@ Group | Investigator | Project 2 Received
 7b | **KARA HAGEMAN** | All elements are in.
 11 | **EMILY HANNON** | All elements are in.
 12 | **LOGAN HARPER** | All elements are in.
+13 | **VANESSA HO** | All elements are in.
 15a | **ANI KUMAR** | All elements are in.
 16a | **SHIYING LIU** | All elements are in.
 17 | **NOAH LORINCZ-COMI** | All elements are in.
