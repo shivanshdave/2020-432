@@ -1,7 +1,7 @@
 # Project 2 Information
 
 Group | Investigator | Project 2 Status
----: | :---: | :---:
+---: | :---: | :---
 1a | **HUSSAM ALQAHTANI** | All elements are in.
 2a | **EBTESAM ALSHEHRI** | All elements are in.
 3a | **FATIMA ASAD**  | All elements are in.
@@ -49,7 +49,7 @@ Group | Investigator | Project 2 Status
 35 | **VICTOR ZHOU** | All elements are in.
 
 Group | Investigator | Alternate Project 2
----: | :---: | ---: 
+---: | :---: | --- 
 ALT-A | **JASON HUANG** | Both elements are in.
 ALT-B | **YUFEI LI** | Both elements are in.
 ALT-C | **MATT SIUBA** | Both elements are in.	
