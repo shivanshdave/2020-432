@@ -13,6 +13,7 @@ Group | Investigator | Project 2 Received
 7b | **KARA HAGEMAN** | All elements are in.
 12 | **LOGAN HARPER** | All elements are in.
 15a | **ANI KUMAR** | All elements are in.
+16a | **SHIYING LIU** | All elements are in.
 17 | **NOAH LORINCZ-COMI** | All elements are in.
 19 | **STEPHANIE MERLINO BARR** | All elements are in.
 20 | **ANNA MILLER** | All elements are in.
@@ -49,11 +50,10 @@ Group | Investigator | Rmd | HTML | Rds | Video | Google Form
 6b | Shayan Monabbati | - | - | - | - | Yes
 8 | Shivansh Dave | 		
 9 | Joshua Froess | 
-11 | Emily Hannon | Yes | Yes | Yes | Yes | 
+11 | Emily Hannon | Yes | Yes | Yes | Yes | -
 13 | Vanessa Ho |
 14 | Jazmine Kirkland |
-16a | Shiying Liu | Yes | Yes | Yes | Yes | -
-18a | Yuxuan Luo |
+18a | Yuxuan Luo | - | - | - | - | Yes
 18b | Siyu Wang |
 21a | Ryan Moore |
 21b | Khaled Shorbaji |
