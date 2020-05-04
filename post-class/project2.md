@@ -9,7 +9,6 @@ Group | Investigator | Rmd | HTML | Rds | Video | [Google Form](https://bit.ly/4
 6a | Sofija Conic | Yes | Yes | Yes |  | Yes
 6b | Shayan Monabbati | Yes | Yes | Yes |  | Yes
 31 | Rajeev Varkey | 
-35 | Victor Zhou | Yes | Yes | Yes |  | Yes
 
 ## People Whose Project 2 Materials Are Complete
 
@@ -57,6 +56,7 @@ Group | Investigator | Project 2 Received
 33 | **GI-MING WANG** | All elements are in.
 18b | **SIYU WANG** | All elements are in.
 34 | **JAKOB WOERNER** | All elements are in.
+35 | **VICTOR ZHOU** | All elements are in.
 
 Group | Investigator | Alternate Project 2
 ---: | :---: | ---: 
