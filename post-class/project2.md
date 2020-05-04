@@ -37,8 +37,8 @@ Group | Investigator | Rmd | HTML | Rds | Video | Google Form
 5b | Sangeetha Raghupathy |
 6a | Sofija Conic |
 6b | Shayan Monabbati | - | - | - | - | YES
-7a | Lauren Cruz | Yes | Yes | Yes | 
-7b | Kara Hageman | Yes | Yes | Yes | 
+7a | Lauren Cruz | Yes | Yes | Yes | Yes |
+7b | Kara Hageman | Yes | Yes | Yes | Yes | 
 8 | Shivansh Dave | 		
 9 | Joshua Froess | 
 10 | Farrah Gao	| YES | YES | YES | YES | -
@@ -52,16 +52,16 @@ Group | Investigator | Rmd | HTML | Rds | Video | Google Form
 18b | Siyu Wang |
 21a | Ryan Moore |
 21b | Khaled Shorbaji |
-22 | Troy Neptune | Yes | Yes | Yes | 
-23 | Jasmine Olvany | Yes | Yes | Yes | 
+22 | Troy Neptune | Yes | Yes | Yes | Yes | 
+23 | Jasmine Olvany | Yes | Yes | Yes | Yes | 
 24 | Vineet Punia | 
 25 | Abigail Rippin | 
-26 | Abby Roche | Yes | Yes | Yes | 
+26 | Abby Roche | Yes | Yes | Yes | Yes | 
 27 | Claire Sonnenborn | 
 30 | Vachan Vadmal |
 31 | Rajeev Varkey | 
-32 | Anastasia Vassiliou | Yes | Yes | Yes | 
-34 | Jakob Woerner | Yes | Yes | Yes | 
+32 | Anastasia Vassiliou | Yes | Yes | Yes | Yes | 
+34 | Jakob Woerner | Yes | Yes | Yes | Yes | 
 35 | Victor Zhou |
 
 ## Students doing the alternate assignment for Project 2
