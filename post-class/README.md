@@ -25,7 +25,7 @@ Everything Dr. Love wants to tell you that is posted after the final class on 20
     - Group 2 consists of the "Guaranteed an A" and "Have done evaluation" group. Dr. Love will grade these after Group 1.
     - Group 3 consists of the "Not Guaranteed an A" and "Have Not done evaluation" group. These will be graded after Group 2.
     - Group 4 consists of the "Guaranteed an A" and "Have Not done evaluation" group. These will be graded last.
-        - So if you want your grade sooner, do the course evaluation and then let Dr. Love know via email that you have done it, please.
+        - If you want your grade sooner, do the course evaluation and then let Dr. Love know via email that you have.
 - People who did the alternate assignment for Project 2 or for Quiz 2 have an email from me indicating their grade on that work.
 - People who did Homework 5 have an email from me indicating their grade.
 - People who did Homework 6 have an email from me indicating their grade, and are in this set of [Links to the websites here](https://github.com/THOMASELOVE/2020-432/blob/master/homework/hw06/links.md).
