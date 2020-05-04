@@ -25,7 +25,7 @@ Group | Investigator | Project 2 Status
 18a | **YUXUAN LUO** | All elements are in.
 19 | **STEPHANIE MERLINO BARR** | All elements are in.
 20 | **ANNA MILLER** | All elements are in.
-6b | Shayan Monabbati | All elements are in.
+6b | Shayan Monabbati | All elements are in, but may need to redo video.
 21a | **RYAN MOORE** | All elements are in.
 1b | **KIMBERLY NORIEGA** | All elements are in.
 22 | **TROY NEPTUNE** | All elements are in.
