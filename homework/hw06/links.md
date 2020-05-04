@@ -14,6 +14,7 @@
 - [Anna Miller](https://annakmiller.info/)
 - [Matt Siuba](https://www.mattsiuba.com/)
 - [Wayne Tsuang](https://elated-mestorf-7c5057.netlify.app/)
+- [Anastasia Vassiliou](https://anastasiavassiliou.netlify.app/)
 
 I am extremely impressed with all of you.
 
