@@ -24,7 +24,7 @@ See the [Project 2 instructions](https://github.com/THOMASELOVE/2020-432/tree/ma
 
 ## Homework 5 (optional) is also due at NOON on 2020-05-04.
 
-Submit via Canvas. Here are the people from whom I have received Homework 5. Grades will be posted to Canvas on this.
+Submit via Canvas. Here are the people from whom I have received Homework 5. Grades on Homework 5 are posted to Canvas.
 
 - Hussam Alqahtani
 - Logan Harper
