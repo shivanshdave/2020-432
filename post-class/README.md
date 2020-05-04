@@ -22,7 +22,7 @@ Everything Dr. Love wants to tell you that is posted after the final class on 20
         - Will a project 2 grade of 80 yield an A grade already (so that if you've successfully completed the project, your grade is going to be an A)?
         - Have you emailed Dr. Love to tell him you've completed the CWRU course evaluation at https://webapps.case.edu/courseevals/?
     - Group 1 consists of the "Not Guaranteed an A" and "Have done evaluation" group. Their work will be graded first.
-    - Group 2 consists of the "Guaranteed an A" and "Have done evaluation" group. Dr. Love will grade these after Group 1 is finished.
+    - Group 2 consists of the "Guaranteed an A" and "Have done evaluation" group. Dr. Love will grade these after Group 1.
     - Group 3 consists of the "Not Guaranteed an A" and "Have Not done evaluation" group. These will be graded after Group 2.
     - Group 4 consists of the "Guaranteed an A" and "Have Not done evaluation" group. These will be graded last.
         - So if you want your grade sooner, do the course evaluation and then let Dr. Love know via email that you have done it, please.
