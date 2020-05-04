@@ -7,9 +7,11 @@ Group | Investigator | Project 2 Received
 1a | **HUSSAM ALQAHTANI** | All elements are in.
 2a | **EBTESAM ALSHEHRI** | All elements are in.
 3a | **FATIMA ASAD**  | All elements are in.
+4 | **IFE BABATUNDE** | All elements are in.
 5a | **REBEKA BORDI** | All elements are in.
 7a | **LAUREN CRUZ** | All elements are in.
 3b | **BASMA DAHASH** | All elements are in.
+8 | **SHIVANSH DAVE** | All elements are in.
 10 | **FARRAH GAO**	| All elements are in.
 2b | **CAROLYN GOLDSCHMIDT** | All elements are in.
 7b | **KARA HAGEMAN** | All elements are in.
@@ -21,12 +23,15 @@ Group | Investigator | Project 2 Received
 18a | **YUXUAN LUO** | All elements are in.
 19 | **STEPHANIE MERLINO BARR** | All elements are in.
 20 | **ANNA MILLER** | All elements are in.
+21a | **RYAN MOORE** | All elements are in.
 1b | **KIMBERLY NORIEGA** | All elements are in.
 22 | **TROY NEPTUNE** | All elements are in.
 23 | **JASMINE OLVANY** | All elements are in. 
 16b | **YIHENG PAN** | All elements are in. 
 15b | **DIV PATEL** | All elements are in.		
+25 | **ABIGAIL RIPPIN** | All elements are in.
 26 | **ABBY ROCHE** | All elements are in. 
+21b | **KHALED SHORBAJI** | All elements are in.
 27 | **CLAIRE SONNEBORN** | All elements are in. 
 28a | **ALENA SORENSEN** | All elements are in.
 29 | **WAYNE TSUANG** | All elements are in.
@@ -48,19 +53,14 @@ ALT-C | **MATT SIUBA** | Both elements are in.
 
 Group | Investigator | Rmd | HTML | Rds | Video | Google Form
 ---: | :---: | :---: | :---: | :---: | :---: | :---:
-4 | Ife Babatunde | - | - | - | Yes | Yes
 5b | Sangeetha Raghupathy | Yes | Yes | Yes | Yes | -
-6a | Sofija Conic | - | - | - | - | Yes
-6b | Shayan Monabbati | - | - | - | - | Yes
-8 | Shivansh Dave | - | - | - | Yes | Yes		
+6a | Sofija Conic | Yes | Yes | Yes | - | Yes
+6b | Shayan Monabbati | Yes | Yes | Yes | - | Yes
 9 | Joshua Froess | 
-13 | Vanessa Ho |
+13 | Vanessa Ho | Yes | Yes | Yes | Yes | -
 14 | Jazmine Kirkland | - | - | - | - | Yes
-21a | Ryan Moore | - | - | - | Yes | Yes
-21b | Khaled Shorbaji | - | - | - | Yes | Yes
 24 | Vineet Punia | - | - | - | - | Yes
-25 | Abigail Rippin | - | - | - | Yes | Yes
-30 | Vachan Vadmal | - | - | - | - | Yes
+30 | Vachan Vadmal | Yes | Yes | Yes | - | Yes
 31 | Rajeev Varkey | 
-35 | Victor Zhou | - | - | - | - | Yes
+35 | Victor Zhou | Yes | Yes | Yes | - | Yes
 
