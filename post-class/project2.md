@@ -9,7 +9,6 @@ Group | Investigator | Rmd | HTML | Rds | Video | [Google Form](https://bit.ly/4
 6a | Sofija Conic | Yes | Yes | Yes |  | Yes
 6b | Shayan Monabbati | Yes | Yes | Yes |  | Yes
 14 | Jazmine Kirkland | Yes | Yes | Yes  |  | Yes
-30 | Vachan Vadmal | Yes | Yes | Yes |  | Yes
 31 | Rajeev Varkey | 
 35 | Victor Zhou | Yes | Yes | Yes |  | Yes
 
@@ -53,6 +52,7 @@ Group | Investigator | Project 2 Received
 28a | **ALENA SORENSEN** | All elements are in.
 29 | **WAYNE TSUANG** | All elements are in.
 28b | **EMILY TYSZKA** | All elements are in.
+30 | **VACHAN VADMAL** | All elements are in.
 32 | **ANASTASIA VASSILIOU** | All elements are in.
 33 | **GI-MING WANG** | All elements are in.
 18b | **SIYU WANG** | All elements are in.
