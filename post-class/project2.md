@@ -19,8 +19,10 @@ Group | Investigator | Project 2 Received
 1b | **KIMBERLY NORIEGA** | All elements are in.
 22 | **TROY NEPTUNE** | All elements are in.
 23 | **JASMINE OLVANY** | All elements are in. 
+16b | **YIHENG PAN** | All elements are in. 
 15b | **DIV PATEL** | All elements are in.		
 26 | **ABBY ROCHE** | All elements are in. 
+27 | **CLAIRE SONNEBORN** | All elements are in. 
 28a | **ALENA SORENSEN** | All elements are in.
 29 | **WAYNE TSUANG** | All elements are in.
 28b | **EMILY TYSZKA** | All elements are in.
@@ -39,8 +41,7 @@ ALT-C | **MATT SIUBA** | Both elements are in.
 
 Group | Investigator | Rmd | HTML | Rds | Video | Google Form
 ---: | :---: | :---: | :---: | :---: | :---: | :---:
-2a | Ebtesam Alshehri | Yes | Yes | Yes | Yes | 
-
+2a | Ebtesam Alshehri | Yes | Yes | Yes | Yes | -
 4 | Ife Babtunde |
 5a | Rebeka Bordi |
 5b | Sangeetha Raghupathy |
@@ -51,15 +52,13 @@ Group | Investigator | Rmd | HTML | Rds | Video | Google Form
 11 | Emily Hannon | Yes | Yes | Yes | Yes | 
 13 | Vanessa Ho |
 14 | Jazmine Kirkland |
-16a | Shiying Liu | Yes | Yes | Yes |
-16b | Yiheng Pan | Yes | Yes | Yes | - | Yes
+16a | Shiying Liu | Yes | Yes | Yes | Yes | -
 18a | Yuxuan Luo |
 18b | Siyu Wang |
 21a | Ryan Moore |
 21b | Khaled Shorbaji |
 24 | Vineet Punia | 
 25 | Abigail Rippin | 
-27 | Claire Sonnenborn | - | - | - | - | Yes
 30 | Vachan Vadmal |
 31 | Rajeev Varkey | 
 35 | Victor Zhou |
