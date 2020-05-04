@@ -44,13 +44,13 @@ Submit Homework 6 via email to Dr. Love with the subject line: **432 Homework 6:
 
 I am in receipt of this from:
 
+- Kara Hageman
 - Logan Harper
 - Noah Lorincz-Comi
 - Shayan Monabbati
 
 I am still waiting to receive it from:
 
-- Kara Hageman
 - Vachan Vadmal
 
 ## General Announcements
