@@ -18,14 +18,8 @@ Everything Dr. Love wants to tell you that is posted after the final class on 20
 ## End of Semester Materials
 
 - [Visit this link](https://github.com/THOMASELOVE/2020-432/blob/master/post-class/project2.md) to confirm what Dr. Love has received for you on Project 2, or the Project 2 alternate assignment.
-    - Dr. Love is grading the projects in order according to four groups, defined by:
-        - Will a project 2 grade of 80 yield an A grade already (so that if you've successfully completed the project, your grade is going to be an A)?
-        - Have you emailed Dr. Love to tell him you've completed the CWRU course evaluation at https://webapps.case.edu/courseevals/?
-    - Group 1 consists of the "Not Guaranteed an A" and "Have done evaluation" group. Their work will be graded first.
-    - Group 2 consists of the "Guaranteed an A" and "Have done evaluation" group. Dr. Love will grade these after Group 1.
-    - Group 3 consists of the "Not Guaranteed an A" and "Have Not done evaluation" group. These follow Group 2.
-    - Group 4 consists of the "Guaranteed an A" and "Have Not done evaluation" group. These will be graded last.
-        - If you want your grade sooner, do the course evaluation and then let Dr. Love know via email that you have.
+    - Dr. Love has graded projects for 12 of the 45 students in the class who completed the full Project 2.
+    - He is hoping to complete grading on Tuesday, in which case you would have your grade on Wednesday. We'll see if that happens.
 - People who did the alternate assignment for Project 2 or for Quiz 2 have an email from me indicating their grade on that work.
 - People who did Homework 5 have an email from me indicating their grade.
 - People who did Homework 6 have an email from me indicating their grade, and are in this set of [Links to the websites here](https://github.com/THOMASELOVE/2020-432/blob/master/homework/hw06/links.md).
