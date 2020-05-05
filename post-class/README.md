@@ -18,8 +18,8 @@ Everything Dr. Love wants to tell you that is posted after the final class on 20
 ## End of Semester Materials
 
 - [Visit this link](https://github.com/THOMASELOVE/2020-432/blob/master/post-class/project2.md) to confirm what Dr. Love has received for you on Project 2, or the Project 2 alternate assignment.
-    - Dr. Love has graded projects for 12 of the 45 students in the class who completed the full Project 2.
-    - He is hoping to complete grading on Tuesday, in which case you would have your grade on Wednesday. We'll see if that happens.
+    - As of 11:30 Monday night, Dr. Love has graded projects from 12 of the 45 students who completed the full Project 2.
+    - He is hoping to complete grading Tuesday, in which case you would have your grade by 5 PM Wednesday. No promises yet.
 - People who did the alternate assignment for Project 2 or for Quiz 2 have an email from me indicating their grade on that work.
 - People who did Homework 5 have an email from me indicating their grade.
 - People who did Homework 6 have an email from me indicating their grade, and are in this set of [Links to the websites here](https://github.com/THOMASELOVE/2020-432/blob/master/homework/hw06/links.md).
