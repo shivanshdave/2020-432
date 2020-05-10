@@ -15,6 +15,7 @@
 - [Shayan Monabbati](https://shayanmonabbati.netlify.app/)
 - [Matt Siuba](https://www.mattsiuba.com/)
 - [Wayne Tsuang](https://elated-mestorf-7c5057.netlify.app/)
+- [Vachan Vadmal](https://robotgoat.github.io/)
 - [Anastasia Vassiliou](https://anastasiavassiliou.netlify.app/)
 
 I am extremely impressed with all of you.
